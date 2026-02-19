@@ -6,26 +6,56 @@ Dataset pubblico di esercizi fisici in formato `JSON`, con 800+ esercizi e un fr
 
 ### Traduzione in italiano
 
-I campi `name` e `instructions` di tutti gli 873 file JSON nella cartella `exercises/` sono stati tradotti in italiano tramite lo script `translate.js`, che utilizza l'API OpenAI con il modello `gpt-4o-mini`.
+Tutti gli 873 file JSON nella cartella `exercises/` sono stati tradotti in italiano. La traduzione è stata aggiunta come campi separati, mantenendo i campi originali in inglese intatti per compatibilità.
 
-Gli altri campi (`id`, `force`, `level`, `mechanic`, `equipment`, `primaryMuscles`, `secondaryMuscles`, `category`, `images`) sono rimasti invariati in inglese per mantenere la compatibilità con i sistemi esistenti.
+Formato di ogni file JSON:
 
-#### Come funziona lo script di traduzione
+```json
+{
+  "name": "Ab Crunch Machine",
+  "instructions": ["Select a light resistance..."],
+  "instructions_fr": ["Choisissez une résistance légère..."],
+  "name_it": "Macchina per Crunch Addominali",
+  "instructions_it": ["Seleziona una resistenza leggera..."]
+}
+```
 
-Lo script `translate.js` non richiede dipendenze esterne (usa solo moduli Node.js nativi) e:
+I campi `id`, `force`, `level`, `mechanic`, `equipment`, `primaryMuscles`, `secondaryMuscles`, `category`, `images` sono sempre in inglese e non vengono mai modificati.
 
-- Legge tutti i file `.json` dalla cartella `exercises/`
-- Traduce `name` e `instructions` tramite l'API OpenAI (`gpt-4o-mini`)
-- Salva il progresso in `.translate_progress.json` dopo ogni batch
-- Riprende automaticamente da dove si è fermato in caso di interruzione
-- Gestisce il rate limiting con retry esponenziale automatico
-- Processa 5 file in parallelo per ottimizzare i tempi
+### Script di traduzione
 
-Per eseguirlo:
+Lo script `translate.js` permette di aggiungere traduzioni in qualsiasi lingua. Non richiede dipendenze esterne (usa solo moduli Node.js nativi).
+
+#### Uso
 
 ```sh
-node translate.js
+OPENAI_API_KEY=sk-... node translate.js --lang it
+OPENAI_API_KEY=sk-... node translate.js --lang de
+OPENAI_API_KEY=sk-... node translate.js --lang es
 ```
+
+Per le lingue che non prevedono la traduzione del nome (come il francese nel dataset originale):
+
+```sh
+OPENAI_API_KEY=sk-... node translate.js --lang fr --no-name
+```
+
+#### Opzioni
+
+| Opzione | Descrizione | Default |
+|---|---|---|
+| `--lang` | Codice lingua ISO 639-1 (it, de, es, fr, pt...) | `it` |
+| `--no-name` | Non tradurre il campo `name`, solo `instructions_<lang>` | disabilitato |
+
+#### Comportamento
+
+- Aggiunge `name_<lang>` e `instructions_<lang>` come campi separati
+- Non sovrascrive mai `name` e `instructions` originali in inglese
+- Salta i file già tradotti nella lingua richiesta (riprende da dove si è fermato)
+- Salva il progresso in `.translate_progress_<lang>.json` dopo ogni batch
+- Gestisce il rate limiting con retry esponenziale automatico
+- Processa 5 file in parallelo per ottimizzare i tempi
+- Modello usato: `gpt-4o-mini` (~$0.15 per 873 esercizi)
 
 ---
 
@@ -40,27 +70,31 @@ Ogni esercizio è salvato come documento `JSON` separato e rispetta il [JSON Sch
 ```json
 {
   "id": "Alternate_Incline_Dumbbell_Curl",
-  "name": "Curl con Manubri su Panca Inclinata Alternato",
+  "name": "Alternate Incline Dumbbell Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
   "instructions": [
-    "Siediti su una panca inclinata con un manubrio in ciascuna mano tenuto a braccia distese. Suggerimento: mantieni i gomiti vicini al busto. Questa sarà la tua posizione di partenza."
+    "Sit down on an incline bench with a dumbbell in each hand being held at arms length."
   ],
   "category": "strength",
   "images": [
     "Alternate_Incline_Dumbbell_Curl/0.jpg",
     "Alternate_Incline_Dumbbell_Curl/1.jpg"
+  ],
+  "instructions_fr": [
+    "Asseyez-vous sur un banc incliné avec un haltère dans chaque main..."
+  ],
+  "name_it": "Curl con Manubri su Panca Inclinata Alternato",
+  "instructions_it": [
+    "Siediti su una panca inclinata con un manubrio in ciascuna mano tenuto a braccia distese."
   ]
 }
 ```
+
 Vedi [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
 
 Per esplorare i dati puoi usare [lite.datasette.io](https://lite.datasette.io/?json=https://github.com/Conte49/free-exercise-db-italian/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment)
@@ -155,15 +189,24 @@ npm run lint
 
 ### Guida alla traduzione
 
-Questo database può essere tradotto usando lo script `translate.js` (Node.js, nessuna dipendenza esterna) oppure lo script Python `llm_translator.py`.
+Questo database supporta traduzioni in qualsiasi lingua tramite lo script `translate.js` (Node.js, nessuna dipendenza esterna) oppure lo script Python `llm_translator.py`.
 
 #### Traduzione con Node.js e OpenAI (consigliato)
 
-Lo script `translate.js` usa l'API OpenAI con il modello `gpt-4o-mini` per tradurre `name` e `instructions` di tutti gli esercizi. Gestisce il rate limiting, salva il progresso e riprende automaticamente in caso di interruzione.
+Lo script `translate.js` usa l'API OpenAI con il modello `gpt-4o-mini`. Aggiunge i campi tradotti senza toccare i campi originali in inglese, seguendo il formato `name_<lang>` e `instructions_<lang>`.
 
 ```sh
-node translate.js
+# Italiano (con traduzione del nome)
+OPENAI_API_KEY=sk-... node translate.js --lang it
+
+# Tedesco
+OPENAI_API_KEY=sk-... node translate.js --lang de
+
+# Spagnolo senza tradurre il nome
+OPENAI_API_KEY=sk-... node translate.js --lang es --no-name
 ```
+
+Se lo script viene interrotto, basta rilanciarlo: riprende automaticamente dai file non ancora tradotti.
 
 #### Traduzione con Ollama (locale, Python)
 
