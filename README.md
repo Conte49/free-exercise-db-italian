@@ -1,20 +1,46 @@
-## Free Exercise DB 💪  &nbsp; [![Test, Lint & Deploy Site to Github Pages](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml/badge.svg)](https://github.com/yuhonas/free-exercise-db/actions/workflows/ci.yaml) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+## Free Exercise DB Italian 💪  &nbsp; [![Test, Lint & Deploy Site to Github Pages](https://github.com/Conte49/free-exercise-db-italian/actions/workflows/ci.yaml/badge.svg)](https://github.com/Conte49/free-exercise-db-italian/actions/workflows/ci.yaml) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-Open Public Domain Exercise Dataset in `JSON` format, 800+ exercises with a browsable public searchable frontend
+Dataset pubblico di esercizi fisici in formato `JSON`, con 800+ esercizi e un frontend navigabile e ricercabile.
 
-### Why?
+> Questo repository è un fork di [yuhonas/free-exercise-db](https://github.com/yuhonas/free-exercise-db) con la traduzione completa in italiano dei campi `name` e `instructions` di tutti gli esercizi.
 
-I started building another fitness related app and was looking for free/open source exercise lists and imagery I stumbled upon
-[exercises.json](https://github.com/wrkout/exercises.json) which was amazing though the data wasn't structured the way I wanted it and I also wanted a browsable/searchable frontend to the data inspired by [this issue](https://github.com/wrkout/exercises.json/issues/5) so I restructured the data and built a simple frontend to it :)
+### Traduzione in italiano
 
-### What do they look like?
+I campi `name` e `instructions` di tutti gli 873 file JSON nella cartella `exercises/` sono stati tradotti in italiano tramite lo script `translate.js`, che utilizza l'API OpenAI con il modello `gpt-4o-mini`.
 
-All exercises are stored as seperate `JSON` documents and conform to the following [JSON Schema](./schema.json) eg.
+Gli altri campi (`id`, `force`, `level`, `mechanic`, `equipment`, `primaryMuscles`, `secondaryMuscles`, `category`, `images`) sono rimasti invariati in inglese per mantenere la compatibilità con i sistemi esistenti.
+
+#### Come funziona lo script di traduzione
+
+Lo script `translate.js` non richiede dipendenze esterne (usa solo moduli Node.js nativi) e:
+
+- Legge tutti i file `.json` dalla cartella `exercises/`
+- Traduce `name` e `instructions` tramite l'API OpenAI (`gpt-4o-mini`)
+- Salva il progresso in `.translate_progress.json` dopo ogni batch
+- Riprende automaticamente da dove si è fermato in caso di interruzione
+- Gestisce il rate limiting con retry esponenziale automatico
+- Processa 5 file in parallelo per ottimizzare i tempi
+
+Per eseguirlo:
+
+```sh
+node translate.js
+```
+
+---
+
+### Perché questo progetto?
+
+Ho iniziato a costruire un'app fitness e cercavo una lista di esercizi libera e open source con immagini. Ho trovato [exercises.json](https://github.com/wrkout/exercises.json) che era ottimo, ma i dati non erano strutturati come volevo e mancava un frontend navigabile/ricercabile. Ho quindi ristrutturato i dati e costruito un semplice frontend, ispirato da [questa issue](https://github.com/wrkout/exercises.json/issues/5).
+
+### Come sono strutturati i dati?
+
+Ogni esercizio è salvato come documento `JSON` separato e rispetta il [JSON Schema](./schema.json) definito nel progetto. Esempio:
 
 ```json
 {
   "id": "Alternate_Incline_Dumbbell_Curl",
-  "name": "Alternate Incline Dumbbell Curl",
+  "name": "Curl con Manubri su Panca Inclinata Alternato",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -26,7 +52,7 @@ All exercises are stored as seperate `JSON` documents and conform to the followi
     "forearms"
   ],
   "instructions": [
-    "Sit down on an incline bench with a dumbbell in each hand being held at arms length. Tip: Keep the elbows close to the torso.This will be your starting position.",
+    "Siediti su una panca inclinata con un manubrio in ciascuna mano tenuto a braccia distese. Suggerimento: mantieni i gomiti vicini al busto. Questa sarà la tua posizione di partenza."
   ],
   "category": "strength",
   "images": [
@@ -35,52 +61,52 @@ All exercises are stored as seperate `JSON` documents and conform to the followi
   ]
 }
 ```
-See [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
+Vedi [Alternate_Incline_Dumbbell_Curl.json](./exercises/Alternate_Incline_Dumbbell_Curl.json)
 
-To further explore the data, you can use [lite.datasette.io](https://lite.datasette.io/?json=https://github.com/yuhonas/free-exercise-db/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment)
+Per esplorare i dati puoi usare [lite.datasette.io](https://lite.datasette.io/?json=https://github.com/Conte49/free-exercise-db-italian/blob/main/dist/exercises.json#/data/exercises?_facet_array=primaryMuscles&_facet=force&_facet=level&_facet=equipment)
 
-### How do I use them?
+### Come si usano?
 
-You can check the repo out and use the `JSON` files and images locally
+Puoi clonare il repo e usare i file `JSON` e le immagini in locale.
 
-#### Alternatively
+#### In alternativa
 
-You can leverage github's hosting and access the single or combined [exercises.json](https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/dist/exercises.json) and prefix any of image path's contained in the `JSON` with `https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/dist/exercises/` to get a hosted version of the image eg. [Air_Bike/0.jpg](https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg) or leverage something like [imagekit.io](https://imagekit.io/) for dynamic image resizing which is utlized on the frontend [ example site ](https://github.com/yuhonas/free-exercise-db/blob/main/site/src/components/PhotoGallery.vue#L44-L54)
+Puoi sfruttare l'hosting di GitHub e accedere al file singolo o combinato [exercises.json](https://raw.githubusercontent.com/Conte49/free-exercise-db-italian/main/dist/exercises.json) e aggiungere il prefisso `https://raw.githubusercontent.com/Conte49/free-exercise-db-italian/main/dist/exercises/` ai percorsi delle immagini contenuti nel `JSON` per ottenere una versione hosted, es. [Air_Bike/0.jpg](https://raw.githubusercontent.com/Conte49/free-exercise-db-italian/main/exercises/Air_Bike/0.jpg), oppure usare qualcosa come [imagekit.io](https://imagekit.io/) per il ridimensionamento dinamico delle immagini, come viene fatto nel [sito frontend](https://github.com/Conte49/free-exercise-db-italian/blob/main/site/src/components/PhotoGallery.vue#L44-L54).
 
-### Build tasks
-There are a number of helpful [Makefile](./Makefile) tasks that you can utilize
+### Task di build
+
+Ci sono diversi task utili nel [Makefile](./Makefile).
 
 #### Linting
-To lint all the `JSON` files against the [schema.json](./schema.json) use
+Per validare tutti i file `JSON` contro lo [schema.json](./schema.json):
 
 ```
 make lint
 ```
 
-#### Combining into a single JSON file
-If you make changes to any of the exercises or add new ones, to recombine all single `JSON` files into a single `JSON` containing an array of objects using the following make task
+#### Combinare in un singolo file JSON
+Se apporti modifiche agli esercizi o ne aggiungi di nuovi, per ricombinare tutti i singoli file `JSON` in un unico file contenente un array di oggetti:
 
 ```sh
 make dist/exercises.json
 ```
-_Note: requires [jq](https://stedolan.github.io/jq/)_
+_Nota: richiede [jq](https://stedolan.github.io/jq/)_
 
-#### Importing into PostgreSQL
-To combine all `JSON` files into [Newline Delimeted JSON](http://ndjson.org/) suitable for import into PostgreSQL use the following make task
+#### Importare in PostgreSQL
+Per combinare tutti i file `JSON` in [Newline Delimited JSON](http://ndjson.org/) adatto all'importazione in PostgreSQL:
 
 ```sh
 make dist/exercises.nd.json
 ```
-_Note: requires [jq](https://stedolan.github.io/jq/)_
+_Nota: richiede [jq](https://stedolan.github.io/jq/)_
 
-See also [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
+Vedi anche [Importing JSON into PostgreSQL using COPY](https://konbert.com/blog/import-json-into-postgres-using-copy)
 
-### Browsable frontend
+### Frontend navigabile
 
-<img src="./site/public/screenshot.png" alt="Screenshot of browsable frontend" width="500">
+<img src="./site/public/screenshot.png" alt="Screenshot del frontend navigabile" width="500">
 
-There is a simple searchable/browsable frontend to the data written in [Vue.js](https://vuejs.org/)  available at [yuhonas.github.io/free-exercise-db](https://yuhonas.github.io/free-exercise-db/) all related code is in the [site](./site) directory
-
+C'è un semplice frontend ricercabile/navigabile scritto in [Vue.js](https://vuejs.org/) disponibile su [Conte49.github.io/free-exercise-db-italian](https://Conte49.github.io/free-exercise-db-italian/). Tutto il codice relativo è nella cartella [site](./site).
 
 #### Setup
 
@@ -88,122 +114,120 @@ There is a simple searchable/browsable frontend to the data written in [Vue.js](
 npm install
 ```
 
-#### Compile and Hot-Reload for Development
+#### Compilazione e Hot-Reload per lo sviluppo
 
 ```sh
 npm run dev
 ```
 
-#### Compile and Minify for Production
+#### Compilazione e minificazione per la produzione
 
 ```sh
 npm run build
 ```
 
-#### Run Unit Tests with [Vitest](https://vitest.dev/)
+#### Eseguire i test unitari con [Vitest](https://vitest.dev/)
 
 ```sh
 npm run test:unit
 ```
 
-#### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
+#### Eseguire i test end-to-end con [Cypress](https://www.cypress.io/)
 
 ```sh
 npm run test:e2e:dev
 ```
 
-This runs the end-to-end tests against the Vite development server.
-It is much faster than the production build.
+Questo esegue i test e2e contro il server di sviluppo Vite, molto più veloce della build di produzione.
 
-But it's still recommended to test the production build with `test:e2e` before deploying (e.g. in CI environments):
+È comunque consigliato testare la build di produzione con `test:e2e` prima del deploy (es. in ambienti CI):
 
 ```sh
 npm run build
 npm run test:e2e
 ```
 
-#### Lint with [ESLint](https://eslint.org/)
+#### Lint con [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
 ```
 
-### Translation guide
+### Guida alla traduzione
 
-This database can be translated using the `llm_translator.py` script. To get started, follow these steps:
+Questo database può essere tradotto usando lo script `translate.js` (Node.js, nessuna dipendenza esterna) oppure lo script Python `llm_translator.py`.
 
-#### Install ollama and choose your model
+#### Traduzione con Node.js e OpenAI (consigliato)
 
-Visit the ollama website (https://ollama.com/) and install it. Download the desired model. Currently, the `aya 35b` model is provide high-quality translations in french.
+Lo script `translate.js` usa l'API OpenAI con il modello `gpt-4o-mini` per tradurre `name` e `instructions` di tutti gli esercizi. Gestisce il rate limiting, salva il progresso e riprende automaticamente in caso di interruzione.
 
-Adjust the model size or quantization degree according to your system configuration. For reference, it took around 30 hours to complete on a system with an Nvidia 3070, 40GB RAM, and an i7-11700 processor, utilizing 66% of the CPU and 34% of the GPU, as reported by `ollama ps`.
+```sh
+node translate.js
+```
 
-#### Configure the Script and run it
+#### Traduzione con Ollama (locale, Python)
 
-In the `llm_translator.py` script, update the configuration section to match your desired translation language.
-
-Once you've completed these steps, you're ready to translate the database to your favorite language using following command :
+In alternativa puoi usare `llm_translator.py` con un modello locale tramite [ollama](https://ollama.com/). Il modello `aya 35b` offre buone traduzioni. Configura la lingua desiderata nella sezione di configurazione dello script.
 
 ```sh
 python3 llm_translator.py
 ```
 
-### WEBP and GIF builder
+### Builder WEBP e GIF
 
-Adapt the configuration part of the script `animated_img_builder.py` to use your favorite timing.
+Adatta la sezione di configurazione dello script `animated_img_builder.py` con i tempi desiderati. Lo script combina le immagini jpg in un'unica immagine animata.
 
-The script will combine jpg images into one animated one.
 ```sh
 python3 animated_img_builder.py
 ```
 
-### SQL insert generator for wger app
+### Generatore di INSERT SQL per l'app wger
 
 #### Wger Exercise Database Builder
-The script `wger_insert_builder.py`, was created to generate SQL insertions for the Wger project, a comprehensive exercise management system.
+Lo script `wger_insert_builder.py` è stato creato per generare inserimenti SQL per il progetto Wger, un sistema completo di gestione degli esercizi.
 
-#### Configuration
-Before running the script, please update the configuration at the top of the file to match your specific use case.
+#### Configurazione
+Prima di eseguire lo script, aggiorna la configurazione in cima al file per adattarla al tuo caso d'uso.
 
-#### Multilingual Support
-If you plan to insert exercises in multiple languages, note that the current script will keep the same main name in English and only change the instructions. However, you could easily adapt `llm_translator.py` and `wger_insert_builder.py` to translate both the exercise names and instructions.
+#### Supporto multilingua
+Se prevedi di inserire esercizi in più lingue, nota che lo script attuale mantiene il nome principale in inglese e cambia solo le istruzioni. Puoi però adattare facilmente `llm_translator.py` e `wger_insert_builder.py` per tradurre sia i nomi che le istruzioni.
 
-#### Database Preparation
-To use this script, you'll need to provide the current maximum IDs for the relevant tables. To do this, run a `SELECT MAX(id) from my_table` query on each table. However, be aware that history table PK is history_key.
+#### Preparazione del database
+Per usare questo script dovrai fornire gli ID massimi attuali per le tabelle rilevanti. Esegui una query `SELECT MAX(id) from my_table` su ciascuna tabella. Nota che la PK della tabella history è `history_key`.
 
-Before running the script, you could clear the database by running the `clear_exercises.sql` script to remove any existing data, ensuring a clean state for the import.
+Prima di eseguire lo script puoi pulire il database eseguendo `clear_exercises.sql` per rimuovere i dati esistenti e garantire uno stato pulito per l'importazione.
 
+### Aiuto speciale per i dev Java
+Scherzo, sono uno di loro :)
 
-### Special help for Java devs
-Just kidding, I'm one of them :)
 ```sh
 python3 wger_insert_builder.py
 ```
 
-#### Image Management
-During script execution, dynamic WebP images will be dispatched in the /media/exercise_images/ directory. Make sure to move the entire folder to the location used by your application. If you're using Wger's Docker Compose setup, this refers to the volume referenced as media.
+#### Gestione delle immagini
+Durante l'esecuzione dello script, le immagini WebP dinamiche vengono salvate nella directory `/media/exercise_images/`. Assicurati di spostare l'intera cartella nella posizione usata dalla tua applicazione. Se usi il Docker Compose di Wger, si tratta del volume referenziato come `media`.
 
-#### Acknowledgments
-Huge thanks to the Wger project and the Free Exercise DB project, along with their amazing contributors, for creating such powerful tools for exercise management and providing a comprehensive database of exercises ! 
+#### Ringraziamenti
+Un enorme grazie al progetto Wger e al progetto Free Exercise DB, insieme ai loro straordinari contributori, per aver creato strumenti così potenti per la gestione degli esercizi e per aver fornito un database completo!
 &hearts;
 &hearts;
 &hearts;
 
-I hope my utility scripts can be helpful to others as well! :)
+Spero che i miei script di utilità possano essere utili anche ad altri! :)
 
 ### TODO
 
-#### Incomplete fields
+#### Campi incompleti
 
-The following fields are incomplete in _some_ `JSON` files and in such have had to allow `null` in [schema.json](./schema.json)
+I seguenti campi sono incompleti in _alcuni_ file `JSON` e per questo è stato necessario consentire `null` in [schema.json](./schema.json):
 
 * force
 * mechanic
 * equipment
 
-#### Images
+#### Immagini
 
-There are also a small number of duplicate images eg.
+C'è anche un piccolo numero di immagini duplicate, es.:
 
 ```sh
 jdupes --summarize --recurse .
@@ -212,16 +236,16 @@ Scanning: 2620 files, 874 items (in 1 specified)
 25 duplicate files (in 22 sets), occupying 809 KB
 ```
 
-### Contributors
+### Contributori
 
-<a href="https://github.com/yuhonas/free-exercise-db/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yuhonas/free-exercise-db" />
+<a href="https://github.com/Conte49/free-exercise-db-italian/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Conte49/free-exercise-db-italian" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-Contributions are always welcome! Please read the contribution guidelines first.
+I contributi sono sempre benvenuti! Leggi prima le linee guida per i contributi.
 
-### Special Thanks 🙇
-* [Ollie Jennings](https://github.com/OllieJennings) for the original dataset at [exercises.json](https://github.com/wrkout/exercises.json)
-* flaticon for the favicon see [Sports-and-competition icons created by Dragon Icons - Flaticon](https://www.flaticon.com/free-icons/sports-and-competition)
+### Ringraziamenti speciali 🙇
+* [Ollie Jennings](https://github.com/OllieJennings) per il dataset originale su [exercises.json](https://github.com/wrkout/exercises.json)
+* flaticon per la favicon: [Sports-and-competition icons created by Dragon Icons - Flaticon](https://www.flaticon.com/free-icons/sports-and-competition)
