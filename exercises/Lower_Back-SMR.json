@@ -1,5 +1,5 @@
 {
-  "name": "Rilascio miofasciale della parte bassa della schiena",
+  "name": "Lower Back-SMR",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "In posizione seduta, posiziona un rullo di schiuma sotto la parte bassa della schiena. Incrocia le braccia davanti a te e proietta le spalle in avanti. Questa sarà la tua posizione di partenza.",
-    "Solleva i fianchi da terra e inclina indietro, mantenendo il peso sulla parte bassa della schiena. Ora sposta leggermente il peso su un lato, mantenendo il peso lontano dalla colonna vertebrale e sui muscoli ai lati. Rotola sulla parte bassa della schiena, mantenendo i punti di tensione per 10-30 secondi. Ripeti dall'altro lato."
+    "In a seated position, place a foam roll under your lower back. Cross your arms in front of you and protract your shoulders. This will be your starting position.",
+    "Raise your hips off of the floor and lean back, keeping your weight on your lower back. Now shift your weight slightly to one side, keeping your weight off of the spine and on the muscles to the side of it. Roll over your lower back, holding points of tension for 10-30 seconds. Repeat on the other side."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Dans une position assise, placez un rouleau en mousse sous votre bas du dos. Croisez vos bras devant vous et protractionnez vos épaules. Cette position sera votre point de départ.",
     "Soulevez vos hanches du sol et penchez-vous en arrière, en gardant votre poids sur votre bas du dos. Puis déplacez légèrement votre poids d'un côté, en veillant à ne pas exercer de pression sur votre colonne vertébrale mais sur les muscles situés à ses côtés. Effectuez un roulis sur votre bas du dos, en maintenant des points de tension pendant 10 à 30 secondes. Répétez l'opération de l'autre côté."
+  ],
+  "name_it": "Rilascio miofasciale della parte bassa della schiena",
+  "instructions_it": [
+    "In posizione seduta, posiziona un rullo di schiuma sotto la parte bassa della schiena. Incrocia le braccia davanti a te e proietta le spalle in avanti. Questa sarà la tua posizione di partenza.",
+    "Solleva i fianchi da terra e inclina indietro, mantenendo il peso sulla parte bassa della schiena. Ora sposta leggermente il peso su un lato, mantenendo il peso lontano dalla colonna vertebrale e sui muscoli ai lati. Rotola sulla parte bassa della schiena, mantenendo i punti di tensione per 10-30 secondi. Ripeti dall'altro lato."
   ]
 }

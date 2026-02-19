@@ -1,5 +1,5 @@
 {
-  "name": "Bicicletta Orizzontale",
+  "name": "Recumbent Bike",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -13,9 +13,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per iniziare, siediti sulla bicicletta e regola il sedile all'altezza desiderata.",
-    "Seleziona l'opzione desiderata dal menu. Potrebbe essere necessario iniziare a pedalare per accenderla. Puoi utilizzare l'impostazione manuale o selezionare un programma da utilizzare. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. Il livello di resistenza può essere cambiato durante l'allenamento. Le maniglie possono essere utilizzate per monitorare la tua frequenza cardiaca per aiutarti a mantenere un'intensità appropriata.",
-    "Le biciclette orizzontali offrono comodità, benefici cardiovascolari e hanno un impatto minore rispetto ad altre attività. Una persona di 68 kg brucerà circa 230 calorie pedalando a un ritmo moderato per 30 minuti, rispetto a 450 calorie o più correndo."
+    "To begin, seat yourself on the bike and adjust the seat to your height.",
+    "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
+    "Recumbent bikes offer convenience, cardiovascular benefits, and have less impact than other activities. A 150 lb person will burn about 230 calories cycling at a moderate rate for 30 minutes, compared to 450 calories or more running."
   ],
   "category": "cardio",
   "images": [
@@ -27,5 +27,11 @@
     "Pour commencer, asseyez-vous sur le vélo et ajustez la selle à votre taille.",
     "Sélectionnez l'option souhaitée dans le menu. Vous devrez peut-être commencer à pédaler pour l'allumer. Vous pouvez utiliser la réglage manuel, ou vous pouvez sélectionner un programme à utiliser. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. Le niveau de résistance peut être changé tout au long de l'entraînement. Les poignées peuvent être utilisées pour surveiller votre fréquence cardiaque pour vous aider à rester à une intensité appropriée.",
     "Les vélos couchés offrent la commodité, des avantages cardiovasculaires et ont un impact moins important que d'autres activités. Une personne de 150 lb brûlera environ 230 calories en pédalant à un rythme modéré pendant 30 minutes, par rapport à 450 calories ou plus en courant."
+  ],
+  "name_it": "Bicicletta Orizzontale",
+  "instructions_it": [
+    "Per iniziare, siediti sulla bicicletta e regola il sedile all'altezza desiderata.",
+    "Seleziona l'opzione desiderata dal menu. Potrebbe essere necessario iniziare a pedalare per accenderla. Puoi utilizzare l'impostazione manuale o selezionare un programma da utilizzare. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. Il livello di resistenza può essere cambiato durante l'allenamento. Le maniglie possono essere utilizzate per monitorare la tua frequenza cardiaca per aiutarti a mantenere un'intensità appropriata.",
+    "Le biciclette orizzontali offrono comodità, benefici cardiovascolari e hanno un impatto minore rispetto ad altre attività. Una persona di 68 kg brucerà circa 230 calorie pedalando a un ritmo moderato per 30 minuti, rispetto a 450 calorie o più correndo."
   ]
 }

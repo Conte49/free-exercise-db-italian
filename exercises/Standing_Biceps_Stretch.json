@@ -1,5 +1,5 @@
 {
-  "name": "Allungamento dei Bicipiti in Piedi",
+  "name": "Standing Biceps Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,8 +12,8 @@
     "shoulders"
   ],
   "instructions": [
-    "Unisci le mani dietro la schiena con i palmi insieme, distendi le braccia e poi ruotale in modo che i palmi siano rivolti verso il basso.",
-    "Alza le braccia e mantieni la posizione finché non senti un allungamento nei bicipiti."
+    "Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward.",
+    "Raise your arms up and hold until you feel a stretch in your biceps."
   ],
   "category": "stretching",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Joignez vos mains derrière votre dos, paumes contre paumes, redressez les bras puis faites-les pivoter afin que vos paumes soient tournées vers le bas.",
     "Levez les bras vers le haut et maintenez jusqu'à ce que vous sentiez une étirement dans vos biceps."
+  ],
+  "name_it": "Allungamento dei Bicipiti in Piedi",
+  "instructions_it": [
+    "Unisci le mani dietro la schiena con i palmi insieme, distendi le braccia e poi ruotale in modo che i palmi siano rivolti verso il basso.",
+    "Alza le braccia e mantieni la posizione finché non senti un allungamento nei bicipiti."
   ]
 }

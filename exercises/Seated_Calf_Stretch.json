@@ -1,5 +1,5 @@
 {
-  "name": "Stretching del polpaccio da seduti",
+  "name": "Seated Calf Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,10 +12,10 @@
     "lower back"
   ],
   "instructions": [
-    "Siediti dritto su un tappetino da esercizio.",
-    "Piega un ginocchio e appoggia quel piede sul pavimento per stabilizzare il torso.",
-    "Stendi l'altra gamba e fletti la caviglia.",
-    "Utilizzando una banda, un asciugamano o la tua mano se riesci a raggiungerla, tira le dita verso di te. Mantieni la posizione per 10-20 secondi, poi cambia lato."
+    "Sit up straight on an exercise mat.",
+    "Bend one knee and put that foot on the floor to stabilize the torso.",
+    "Straighten your other leg and flex your ankle.",
+    "Using a band, towel, or your hand if you can reach, pull the toes toward you. Hold for 10 to 20 seconds, then switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -28,5 +28,12 @@
     "Pliez un genou et posez ce pied sur le sol pour stabiliser le torse.",
     "Écarinez votre autre jambe et pliez votre cheville.",
     "En utilisant une bande, une serviette ou votre main si vous pouvez l'atteindre, tirez les orteils vers vous. Maintenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ],
+  "name_it": "Stretching del polpaccio da seduti",
+  "instructions_it": [
+    "Siediti dritto su un tappetino da esercizio.",
+    "Piega un ginocchio e appoggia quel piede sul pavimento per stabilizzare il torso.",
+    "Stendi l'altra gamba e fletti la caviglia.",
+    "Utilizzando una banda, un asciugamano o la tua mano se riesci a raggiungerla, tira le dita verso di te. Mantieni la posizione per 10-20 secondi, poi cambia lato."
   ]
 }

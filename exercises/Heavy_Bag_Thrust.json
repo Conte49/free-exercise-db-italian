@@ -1,5 +1,5 @@
 {
-  "name": "Spinta con Sacco Pesante",
+  "name": "Heavy Bag Thrust",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "triceps"
   ],
   "instructions": [
-    "Utilizza un sacco pesante per questo esercizio. Assumi una posizione eretta accanto al sacco, con i piedi leggermente divaricati e in posizione sfalsata. Posiziona la mano sul sacco all'altezza del petto. Questa sarà la tua posizione di partenza.",
-    "Inizia ruotando il busto, spingendo il sacco in avanti il più forte possibile. Esegui questo movimento rapidamente, allontanando il sacco dal tuo corpo.",
-    "Ricevi il sacco mentre torna indietro invertendo questi passaggi."
+    "Utilize a heavy bag for this exercise. Assume an upright stance next to the bag, with your feet staggered, fairly wide apart. Place your hand on the bag at about chest height. This will be your starting position.",
+    "Begin by twisting at the waist, pushing the bag forward as hard as possible. Perform this move quickly, pushing the bag away from your body.",
+    "Receive the bag as it swings back by reversing these steps."
   ],
   "category": "plyometrics",
   "images": [
@@ -27,5 +27,11 @@
     "Utilisez un sac lourd pour cet exercice. Prenez une posture droite à côté du sac, les pieds écarés, plutôt larges. Placez votre main sur le sac à environ la hauteur de la poitrine. \tCeci sera votre position de départ.",
     "Commencez par tourner à la taille, en poussant le sac vers l'avant aussi fort que possible. Exécutez rapidement ce mouvement en repoussant le sac loin de votre corps.",
     "Recevez le sac lors de son retour en inversant ces étapes."
+  ],
+  "name_it": "Spinta con Sacco Pesante",
+  "instructions_it": [
+    "Utilizza un sacco pesante per questo esercizio. Assumi una posizione eretta accanto al sacco, con i piedi leggermente divaricati e in posizione sfalsata. Posiziona la mano sul sacco all'altezza del petto. Questa sarà la tua posizione di partenza.",
+    "Inizia ruotando il busto, spingendo il sacco in avanti il più forte possibile. Esegui questo movimento rapidamente, allontanando il sacco dal tuo corpo.",
+    "Ricevi il sacco mentre torna indietro invertendo questi passaggi."
   ]
 }

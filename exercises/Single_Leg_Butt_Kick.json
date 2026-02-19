@@ -1,5 +1,5 @@
 {
-  "name": "Calcio dei Glutei su Una Gamba",
+  "name": "Single Leg Butt Kick",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Inizia in piedi su una gamba, con il ginocchio piegato sollevato. Questa sarà la tua posizione di partenza.",
-    "Utilizzando un salto di contro-movimento, decolla verso l'alto estendendo l'anca, il ginocchio e la caviglia della gamba a terra.",
-    "Flette immediatamente il ginocchio e cerca di toccare il tuo gluteo con il tallone della gamba che salta.",
-    "Riporta la gamba in una posizione parzialmente piegata sotto i fianchi e atterra. L'altra gamba dovrebbe rimanere relativamente nella stessa posizione durante l'esercizio."
+    "Begin by standing on one leg, with the bent knee raised. This will be your start position.",
+    "Using a countermovement jump, take off upward by extending the hip, knee, and ankle of the grounded leg.",
+    "Immediately flex the knee and attempt to touch your butt with the heel of your jumping leg.",
+    "Return the leg to a partially bent position underneath the hips and land. Your opposite leg should stay in relatively the same position throughout the drill."
   ],
   "category": "plyometrics",
   "images": [
@@ -28,5 +28,12 @@
     "En utilisant un mouvement de contre-mouvement, partez vers le haut en étendant la hanche, le genou et la cheville de la jambe à terre.",
     "Flexez immédiatement le genou et essayez de toucher votre fessier avec le talon de votre jambe de saut.",
     "Ramenez la jambe dans une position légèrement fléchie sous les hanches et atterrissez. L'autre jambe doit rester dans la même position tout au long de l'exercice."
+  ],
+  "name_it": "Calcio dei Glutei su Una Gamba",
+  "instructions_it": [
+    "Inizia in piedi su una gamba, con il ginocchio piegato sollevato. Questa sarà la tua posizione di partenza.",
+    "Utilizzando un salto di contro-movimento, decolla verso l'alto estendendo l'anca, il ginocchio e la caviglia della gamba a terra.",
+    "Flette immediatamente il ginocchio e cerca di toccare il tuo gluteo con il tallone della gamba che salta.",
+    "Riporta la gamba in una posizione parzialmente piegata sotto i fianchi e atterra. L'altra gamba dovrebbe rimanere relativamente nella stessa posizione durante l'esercizio."
   ]
 }

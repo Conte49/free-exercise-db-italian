@@ -1,5 +1,5 @@
 {
-  "name": "Spinta su una gamba",
+  "name": "Single Leg Push-off",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Stai in piedi con un piede appoggiato sulla scatola, il tallone vicino al bordo.",
-    "Spingi con il piede sopra la scatola, cercando di guadagnare il massimo dell'altezza possibile estendendo l'anca e il ginocchio.",
-    "Atterra con lo stesso piede sopra la scatola, riportando l'altro piede nella posizione di partenza."
+    "Stand on the ground with one foot resting on the box, heel close to the edge.",
+    "Push off with your foot on top of the box, trying to gain as much height as possible by extending through the hip and knee.",
+    "Land with the same foot on top of the box, returning your other foot back to the start position."
   ],
   "category": "plyometrics",
   "images": [
@@ -26,5 +26,11 @@
     "Debout sur le sol, posez un pied sur la boîte, le talon près de l'avant.",
     "Poussez avec le pied posé sur la boîte en essayant de gagner en hauteur en étendant les hanches et le genou.",
     "Atterrissez avec le même pied sur la boîte, en ramenant l'autre pied en position de départ."
+  ],
+  "name_it": "Spinta su una gamba",
+  "instructions_it": [
+    "Stai in piedi con un piede appoggiato sulla scatola, il tallone vicino al bordo.",
+    "Spingi con il piede sopra la scatola, cercando di guadagnare il massimo dell'altezza possibile estendendo l'anca e il ginocchio.",
+    "Atterra con lo stesso piede sopra la scatola, riportando l'altro piede nella posizione di partenza."
   ]
 }

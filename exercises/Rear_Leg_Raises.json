@@ -1,5 +1,5 @@
 {
-  "name": "Alzate della gamba posteriore",
+  "name": "Rear Leg Raises",
   "force": "push",
   "level": "beginner",
   "mechanic": null,
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Posizionati a quattro zampe su un tappetino da esercizio. La tua testa dovrebbe essere rivolta in avanti e la flessione delle ginocchia dovrebbe creare un angolo di 90 gradi tra i muscoli posteriori della coscia e i polpacci. Questa sarà la tua posizione di partenza.",
-    "Estendi una gamba verso l'alto e dietro di te. Il ginocchio e l'anca dovrebbero estendersi entrambi. Ripeti per 5-10 ripetizioni, poi cambia lato."
+    "Place yourself on your hands knees on an exercise mat. Your head should be looking forward and the bend of the knees should create a 90-degree angle between the hamstrings and the calves. This will be your starting position.",
+    "Extend one leg up and behind you. The knee and hip should both extend. Repeat for 5-10 repetitions, and then switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Placez-vous à quatre pattes sur un tapis d'exercice. Votre tête doit être tournée vers l'avant et le pli des genoux doit créer un angle de 90 degrés entre les ischio-jambiers et les mollets. Cette position sera votre point de départ.",
     "Étirez une jambe vers le haut et vers l'arrière. Le genou et la hanche doivent être tendus. Répétez l'exercice 5 à 10 fois, puis changez de côté."
+  ],
+  "name_it": "Alzate della gamba posteriore",
+  "instructions_it": [
+    "Posizionati a quattro zampe su un tappetino da esercizio. La tua testa dovrebbe essere rivolta in avanti e la flessione delle ginocchia dovrebbe creare un angolo di 90 gradi tra i muscoli posteriori della coscia e i polpacci. Questa sarà la tua posizione di partenza.",
+    "Estendi una gamba verso l'alto e dietro di te. Il ginocchio e l'anca dovrebbero estendersi entrambi. Ripeti per 5-10 ripetizioni, poi cambia lato."
   ]
 }

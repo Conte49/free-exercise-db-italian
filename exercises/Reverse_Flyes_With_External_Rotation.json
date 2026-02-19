@@ -1,5 +1,5 @@
 {
-  "name": "Aperture inverse con rotazione esterna",
+  "name": "Reverse Flyes With External Rotation",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,13 +9,13 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Per iniziare, sdraiati su una panca inclinata impostata a un angolo di 30 gradi con il petto e lo stomaco appoggiati sull'inclinazione.",
-    "Tieni i manubri in ciascuna mano con i palmi rivolti verso il basso. Le braccia dovrebbero essere davanti a te in modo che siano perpendicolari all'angolo della panca. Suggerimento: i gomiti dovrebbero avere una leggera flessione. Le gambe devono rimanere ferme mentre applica pressione con la punta dei piedi (i talloni non devono toccare il pavimento). Questa è la posizione di partenza.",
-    "Mantenendo la leggera flessione dei gomiti, muovi i pesi verso l'esterno e lontano l'uno dall'altro in un movimento ad arco mentre espiri.",
-    "Mentre sollevi il peso, il polso dovrebbe ruotare esternamente di 90 gradi in modo da passare da una presa con i palmi rivolti verso il basso (pronata) a una presa con i palmi rivolti l'uno verso l'altro (neutra). Suggerimento: prova a stringere le scapole insieme per ottenere i migliori risultati da questo esercizio.",
-    "Le braccia dovrebbero essere elevate fino a essere allineate con la testa.",
-    "Senti la contrazione e abbassa lentamente i pesi tornando alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "To begin, lie down on an incline bench set at a 30-degree angle with the chest and stomach pressing against the incline.",
+    "Have the dumbbells in each hand with the palms facing down to the floor. Your arms should be in front of you so that they are perpendicular to the angle of the bench. Tip: Your elbows should have a slight bend. The legs should be stationary while applying pressure with the ball of your toes (your heels should not be touching the floor). This is the starting position.",
+    "Maintaining the slight bend of the elbows, move the weights out and away from each other in an arc motion while exhaling.",
+    "As you lift the weight, your wrist should externally rotate by 90-degrees so that you go from a palms down (pronated) grip to a palms facing each other (neutral) grip. Tip: Try to squeeze your shoulder blades together to get the best results from this exercise.",
+    "The arms should be elevated until they are level with the head.",
+    "Feel the contraction and slowly lower the weights back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,15 @@
     "Les bras doivent être relevés jusqu'au niveau de la tête.",
     "Sentez la contraction et ramenez lentement les poids à la position de départ tout en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Aperture inverse con rotazione esterna",
+  "instructions_it": [
+    "Per iniziare, sdraiati su una panca inclinata impostata a un angolo di 30 gradi con il petto e lo stomaco appoggiati sull'inclinazione.",
+    "Tieni i manubri in ciascuna mano con i palmi rivolti verso il basso. Le braccia dovrebbero essere davanti a te in modo che siano perpendicolari all'angolo della panca. Suggerimento: i gomiti dovrebbero avere una leggera flessione. Le gambe devono rimanere ferme mentre applica pressione con la punta dei piedi (i talloni non devono toccare il pavimento). Questa è la posizione di partenza.",
+    "Mantenendo la leggera flessione dei gomiti, muovi i pesi verso l'esterno e lontano l'uno dall'altro in un movimento ad arco mentre espiri.",
+    "Mentre sollevi il peso, il polso dovrebbe ruotare esternamente di 90 gradi in modo da passare da una presa con i palmi rivolti verso il basso (pronata) a una presa con i palmi rivolti l'uno verso l'altro (neutra). Suggerimento: prova a stringere le scapole insieme per ottenere i migliori risultati da questo esercizio.",
+    "Le braccia dovrebbero essere elevate fino a essere allineate con la testa.",
+    "Senti la contrazione e abbassa lentamente i pesi tornando alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

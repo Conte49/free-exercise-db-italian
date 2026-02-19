@@ -1,5 +1,5 @@
 {
-  "name": "Salto di Profondità",
+  "name": "Depth Jump Leap",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per questo esercizio avrai bisogno di due scatole o panche, una alta da 30 a 40 cm e l'altra da 55 a 65 cm.",
-    "Stai in piedi su una delle due scatole con le braccia ai lati; i piedi dovrebbero essere uniti e leggermente oltre il bordo come nel salto di profondità. Posiziona l'altra scatola a circa due o tre piedi di distanza di fronte all'esecutore.",
-    "Inizia scendendo dalla scatola iniziale, atterrando e contemporaneamente decollando con entrambi i piedi.",
-    "Rimbalza spingendo verso l'alto e verso l'esterno con la massima intensità possibile, utilizzando le braccia e l'estensione completa del corpo per saltare sulla scatola più alta. Ancora una volta, lascia che le gambe assorbano l'impatto."
+    "For this drill you will need two boxes or benches, one 12 to 16 inches high and the other 22 to 26 inches high.",
+    "Stand on one of the two boxes with arms at the sides; feet should be together and slightly off the edge as in the depth jump. Place the other box approximately two or three feet in front of and facing the performer.",
+    "Begin by dropping off the initial box, landing and simultaneously taking off with both feet.",
+    "Rebound by driving upward and outward as intensely as possible, using the arms and full extension of the body to jump onto the higher box. Again, allow the legs to absorb the impact."
   ],
   "category": "plyometrics",
   "images": [
@@ -31,5 +31,12 @@
     "Debout sur l'une des deux boîtes, les bras le long du corps ; les pieds doivent être rapprochés et légèrement décalés par rapport au bord, comme pour un saut en profondeur. Placez l'autre boîte à environ deux ou trois pieds devant et face à l'exécutant.",
     "Commencez par descendre de la première boîte, en atterrissant et en vous propulsez simultanément avec les deux pieds.",
     "Rebondissez en poussant vers le haut et vers l'extérieur aussi intensément que possible, en utilisant les bras et en étendant pleinement le corps pour sauter sur la boîte la plus haute. Encore une fois, laissez vos jambes absorber l'impact."
+  ],
+  "name_it": "Salto di Profondità",
+  "instructions_it": [
+    "Per questo esercizio avrai bisogno di due scatole o panche, una alta da 30 a 40 cm e l'altra da 55 a 65 cm.",
+    "Stai in piedi su una delle due scatole con le braccia ai lati; i piedi dovrebbero essere uniti e leggermente oltre il bordo come nel salto di profondità. Posiziona l'altra scatola a circa due o tre piedi di distanza di fronte all'esecutore.",
+    "Inizia scendendo dalla scatola iniziale, atterrando e contemporaneamente decollando con entrambi i piedi.",
+    "Rimbalza spingendo verso l'alto e verso l'esterno con la massima intensità possibile, utilizzando le braccia e l'estensione completa del corpo per saltare sulla scatola più alta. Ancora una volta, lascia che le gambe assorbano l'impatto."
   ]
 }

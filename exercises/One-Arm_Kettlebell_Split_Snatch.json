@@ -1,5 +1,5 @@
 {
-  "name": "Strappo con Kettlebell a un Braccio",
+  "name": "One-Arm Kettlebell Split Snatch",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "quadriceps"
   ],
   "instructions": [
-    "Tieni un kettlebell in una mano per il manico.",
-    "Accovacciati verso il pavimento, quindi inverti il movimento estendendo i fianchi, le ginocchia e infine le caviglie per sollevare il kettlebell sopra la testa.",
-    "Dopo aver esteso completamente il corpo, scendi in posizione di affondo per ricevere il peso sopra la testa, con una gamba in avanti e una gamba indietro. Assicurati di spingere con i fianchi e di bloccare il kettlebell sopra la testa in un movimento continuo.",
-    "Torna in posizione eretta, tenendo il peso sopra la testa, e riunisci i piedi. Abbassa il peso per tornare alla posizione di partenza."
+    "Hold a kettlebell in one hand by the handle.",
+    "Squat towards the floor, and then reverse the motion, extending the hips, knees, and finally the ankles, to raise the kettlebell overhead.",
+    "After fully extending the body, descend into a lunge position to receive the weights overhead, one leg forward and one leg back. Ensure you drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion.",
+    "Return to a standing position, holding the weight overhead, and bring the feet together. Lower the weight to return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Faites un squat en direction du sol, puis inversez le mouvement, en étirant les hanches, les genoux et enfin les chevilles pour soulever la kettlebell au-dessus de votre tête.",
     "Après avoir complètement étendu le corps, descendez en position de flexion pour recevoir les poids au-dessus, une jambe en avant et une en arrière. Assurez-vous d'utiliser vos hanches pour gagner en puissance et de bloquer les kettlebells au-dessus de votre tête dans un mouvement fluide et ininterrompu.",
     "Revenez à la position debout en tenant le poids au-dessus de votre tête, puis rapprochez les pieds. Descendez le poids pour revenir à la position de départ."
+  ],
+  "name_it": "Strappo con Kettlebell a un Braccio",
+  "instructions_it": [
+    "Tieni un kettlebell in una mano per il manico.",
+    "Accovacciati verso il pavimento, quindi inverti il movimento estendendo i fianchi, le ginocchia e infine le caviglie per sollevare il kettlebell sopra la testa.",
+    "Dopo aver esteso completamente il corpo, scendi in posizione di affondo per ricevere il peso sopra la testa, con una gamba in avanti e una gamba indietro. Assicurati di spingere con i fianchi e di bloccare il kettlebell sopra la testa in un movimento continuo.",
+    "Torna in posizione eretta, tenendo il peso sopra la testa, e riunisci i piedi. Abbassa il peso per tornare alla posizione di partenza."
   ]
 }

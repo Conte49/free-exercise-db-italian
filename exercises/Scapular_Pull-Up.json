@@ -1,5 +1,5 @@
 {
-  "name": "Pull-Up Scapolare",
+  "name": "Scapular Pull-Up",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,9 +12,9 @@
     "middle back"
   ],
   "instructions": [
-    "Afferrati a una barra per trazioni con una presa prona.",
-    "Partendo da una posizione appesa, sollevati di qualche centimetro senza usare le braccia. Fai questo deprimendo la cintura scapolare in un movimento di spalle inverse.",
-    "Fermati al termine del movimento, quindi torna lentamente alla posizione di partenza prima di eseguire altre ripetizioni."
+    "Take a pronated grip on a pull-up bar.",
+    "From a hanging position, raise yourself a few inches without using your arms. Do this by depressing your shoulder girdle in a reverse shrugging motion.",
+    "Pause at the completion of the movement, and then slowly return to the starting position before performing more repetitions."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "Prenez une poignée prononnée sur une barre de traction.",
     "Depuis une position suspendue, soulevez-vous de quelques centimètres sans utiliser vos bras. Faites-le en abaissant votre ceintură d'épaules dans un mouvement de rétractation inverse.",
     "Arrêtez-vous à la fin du mouvement, puis retournez lentement à la position de départ avant d'effectuer plus de répétitions."
+  ],
+  "name_it": "Pull-Up Scapolare",
+  "instructions_it": [
+    "Afferrati a una barra per trazioni con una presa prona.",
+    "Partendo da una posizione appesa, sollevati di qualche centimetro senza usare le braccia. Fai questo deprimendo la cintura scapolare in un movimento di spalle inverse.",
+    "Fermati al termine del movimento, quindi torna lentamente alla posizione di partenza prima di eseguire altre ripetizioni."
   ]
 }

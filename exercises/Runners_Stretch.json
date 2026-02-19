@@ -1,5 +1,5 @@
 {
-  "name": "Stretching del Corridore",
+  "name": "Runner's Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,9 +11,9 @@
     "calves"
   ],
   "instructions": [
-    "È più facile entrare in questo allungamento se inizi in piedi, metti una gamba dietro di te e abbassa lentamente il torso verso il pavimento.",
-    "Tieni il tallone anteriore a terra (se si solleva, sposta l'altra gamba più indietro).",
-    "Posiziona le mani su entrambi i lati della gamba anteriore. Per ottenere di più da questo allungamento, spingi il tuo sedere verso il soffitto e poi abbassalo gradualmente verso il pavimento. Allungherai il flessore dell'anca della gamba posteriore e il muscolo della coscia e i glutei della gamba anteriore."
+    "It's easiest to get into this stretch if you start standing up, put one leg behind you, and slowly lower your torso down to the floor.",
+    "Keep the front heel on the floor (if it lifts up, scoot your other leg further back).",
+    "Place your hands on either side of your front leg. To get more out of this stretch, push your butt up toward the ceiling, and then gradually lower it back toward the floor. You'll Stretch the hip flexor of the back leg and the hamstring and buttocks of the front."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Il est plus facile d'effectuer cet étirement en partant debout, en plaçant un pied derrière vous et en descendant lentement le torse vers le sol.",
     "Gardez le talon avant à plat (s'il se soulève, éloignez l'autre jambe en arrière).",
     "Placez vos mains de chaque côté de votre jambe d'appui. Pour tirer davantage parti de cet étirement, poussez vos fesses vers le plafond, puis abaissez-les progressivement vers le sol. Vous étirerez ainsi le psoas de la jambe arrière et les ischio-jambiers et les fessiers de la jambe avant."
+  ],
+  "name_it": "Stretching del Corridore",
+  "instructions_it": [
+    "È più facile entrare in questo allungamento se inizi in piedi, metti una gamba dietro di te e abbassa lentamente il torso verso il pavimento.",
+    "Tieni il tallone anteriore a terra (se si solleva, sposta l'altra gamba più indietro).",
+    "Posiziona le mani su entrambi i lati della gamba anteriore. Per ottenere di più da questo allungamento, spingi il tuo sedere verso il soffitto e poi abbassalo gradualmente verso il pavimento. Allungherai il flessore dell'anca della gamba posteriore e il muscolo della coscia e i glutei della gamba anteriore."
   ]
 }

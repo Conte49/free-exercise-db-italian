@@ -1,5 +1,5 @@
 {
-  "name": "Pulizia Alternata con Due Kettlebell",
+  "name": "Double Kettlebell Alternating Hang Clean",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,9 +17,9 @@
     "traps"
   ],
   "instructions": [
-    "Posiziona due kettlebell tra i tuoi piedi. Per entrare nella posizione di partenza, spingi indietro il sedere e guarda dritto davanti a te.",
-    "Pulisci un kettlebell fino alla spalla e tieni l'altro kettlebell.",
-    "Con un movimento fluido, abbassa il kettlebell superiore mentre sollevi il kettlebell inferiore."
+    "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
+    "Clean one kettlebell to your shoulder and hold on to the other kettlebell.",
+    "With a fluid motion, lower the top kettlebell while driving the bottom kettlebell up."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,11 @@
     "Placez deux kettlebells entre vos pieds. Pour prendre la position de départ, poussez vos fesses en arrière et regardez droit devant vous.",
     "Épaulez une kettlebell jusqu'à votre épaule et tenez l'autre kettlebell.",
     "Avec un mouvement fluide, abaissez la kettlebell supérieure tout en poussant vers le haut la kettlebell inférieure."
+  ],
+  "name_it": "Pulizia Alternata con Due Kettlebell",
+  "instructions_it": [
+    "Posiziona due kettlebell tra i tuoi piedi. Per entrare nella posizione di partenza, spingi indietro il sedere e guarda dritto davanti a te.",
+    "Pulisci un kettlebell fino alla spalla e tieni l'altro kettlebell.",
+    "Con un movimento fluido, abbassa il kettlebell superiore mentre sollevi il kettlebell inferiore."
   ]
 }

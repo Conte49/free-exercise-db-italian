@@ -1,5 +1,5 @@
 {
-  "name": "Alzata delle spalle",
+  "name": "Shoulder Raise",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -11,7 +11,7 @@
     "lats"
   ],
   "instructions": [
-    "Rilassa le braccia ai lati e solleva le spalle verso le orecchie, poi riportale giù."
+    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,9 @@
   "id": "Shoulder_Raise",
   "instructions_fr": [
     "Laissez vos bras détendus le long de votre corps et élevez vos épaules vers vos oreilles, puis redescendez-les."
+  ],
+  "name_it": "Alzata delle spalle",
+  "instructions_it": [
+    "Rilassa le braccia ai lati e solleva le spalle verso le orecchie, poi riportale giù."
   ]
 }

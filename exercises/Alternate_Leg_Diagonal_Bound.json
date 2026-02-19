@@ -1,5 +1,5 @@
 {
-  "name": "Salto Diagonale Alternato con le Gambe",
+  "name": "Alternate Leg Diagonal Bound",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Assumi una posizione comoda con un piede leggermente davanti all'altro.",
-    "Inizia spingendo con la gamba anteriore, portando il ginocchio opposto in avanti e il più in alto possibile prima di atterrare. Cerca di coprire la maggiore distanza possibile da un lato all'altro con ogni salto.",
-    "Può essere utile utilizzare una linea a terra per misurare la distanza da un lato all'altro.",
-    "Ripeti la sequenza con l'altra gamba."
+    "Assume a comfortable stance with one foot slightly in front of the other.",
+    "Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.",
+    "It may help to use a line on the ground to guage distance from side to side.",
+    "Repeat the sequence with the other leg."
   ],
   "category": "plyometrics",
   "images": [
@@ -31,5 +31,12 @@
     "Commencez par pousser avec la jambe d'avant, en projetant le genou opposé vers l'avant et aussi haut que possible avant l'atterrissage. Essayez de couvrir la plus grande distance possible à chaque bond.",
     "Il peut être utile d'utiliser une ligne sur le sol pour mesurer la distance d'un côté à l'autre.",
     "Répétez la séquence avec l'autre jambe."
+  ],
+  "name_it": "Salto Diagonale Alternato con le Gambe",
+  "instructions_it": [
+    "Assumi una posizione comoda con un piede leggermente davanti all'altro.",
+    "Inizia spingendo con la gamba anteriore, portando il ginocchio opposto in avanti e il più in alto possibile prima di atterrare. Cerca di coprire la maggiore distanza possibile da un lato all'altro con ogni salto.",
+    "Può essere utile utilizzare una linea a terra per misurare la distanza da un lato all'altro.",
+    "Ripeti la sequenza con l'altra gamba."
   ]
 }

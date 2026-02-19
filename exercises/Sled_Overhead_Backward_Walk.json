@@ -1,5 +1,5 @@
 {
-  "name": "Camminata all'indietro con slitta sopra la testa",
+  "name": "Sled Overhead Backward Walk",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Attacca due maniglie a una slitta collegata da una corda o una catena. Carica la slitta con un peso leggero.",
-    "Fai fronte alla slitta, retrocedendo finché non c'è tensione nella corda. Tieni le mani direttamente sopra la testa con i gomiti estesi. Questa sarà la tua posizione di partenza.",
-    "Cammina all'indietro, mantenendo le braccia sollevate sopra la testa. Evita movimenti bruschi."
+    "Attach dual handles to a sled connected by a rope or chain. Load the sled to a light weight.",
+    "Face the sled, backing up until there is some tension in the line. Hold your hands directly above your head with your elbows extended. This will be your starting position.",
+    "Walk backwards, keeping your arms raised above your head. Avoid jerky movements."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,11 @@
     "Attachez deux poignées à un traîneau connecté par une corde ou une chaîne. Chargez le traîneau avec un poids léger.",
     "Facez le traîneau, en reculant jusqu'à ce qu'il y ait une certaine tension dans la ligne. Tenez vos mains directement au-dessus de votre tête, les coudes tendus. Cette position sera votre position de départ.",
     "Marchez en arrière tout en gardant les bras levés au-dessus de votre tête. Évitez les mouvements brusques."
+  ],
+  "name_it": "Camminata all'indietro con slitta sopra la testa",
+  "instructions_it": [
+    "Attacca due maniglie a una slitta collegata da una corda o una catena. Carica la slitta con un peso leggero.",
+    "Fai fronte alla slitta, retrocedendo finché non c'è tensione nella corda. Tieni le mani direttamente sopra la testa con i gomiti estesi. Questa sarà la tua posizione di partenza.",
+    "Cammina all'indietro, mantenendo le braccia sollevate sopra la testa. Evita movimenti bruschi."
   ]
 }

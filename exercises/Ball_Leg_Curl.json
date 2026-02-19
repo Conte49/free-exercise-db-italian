@@ -1,5 +1,5 @@
 {
-  "name": "Curl delle gambe con la palla",
+  "name": "Ball Leg Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,11 +12,11 @@
     "glutes"
   ],
   "instructions": [
-    "Inizia sdraiato sul pavimento sulla schiena con i piedi sopra la palla.",
-    "Posiziona la palla in modo che, quando le gambe sono estese, le caviglie siano sopra la palla. Questa sarà la tua posizione di partenza.",
-    "Solleva i fianchi da terra, mantenendo il peso sulle scapole e sui piedi.",
-    "Fletti le ginocchia, tirando la palla il più vicino possibile a te, contraendo i muscoli posteriori della coscia.",
-    "Dopo una breve pausa, torna alla posizione di partenza."
+    "Begin on the floor laying on your back with your feet on top of the ball.",
+    "Position the ball so that when your legs are extended your ankles are on top of the ball. This will be your starting position.",
+    "Raise your hips off of the ground, keeping your weight on the shoulder blades and your feet.",
+    "Flex the knees, pulling the ball as close to you as you can, contracting the hamstrings.",
+    "After a brief pause, return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,13 @@
     "Soulevez vos hanches du sol, en gardant votre poids sur les omoplates et vos pieds.",
     "Pliez les genoux et ramenez la balle aussi près de vous que possible, en contractant les ischio-jambiers.",
     "Après une brève pause, revenez à la position de départ."
+  ],
+  "name_it": "Curl delle gambe con la palla",
+  "instructions_it": [
+    "Inizia sdraiato sul pavimento sulla schiena con i piedi sopra la palla.",
+    "Posiziona la palla in modo che, quando le gambe sono estese, le caviglie siano sopra la palla. Questa sarà la tua posizione di partenza.",
+    "Solleva i fianchi da terra, mantenendo il peso sulle scapole e sui piedi.",
+    "Fletti le ginocchia, tirando la palla il più vicino possibile a te, contraendo i muscoli posteriori della coscia.",
+    "Dopo una breve pausa, torna alla posizione di partenza."
   ]
 }

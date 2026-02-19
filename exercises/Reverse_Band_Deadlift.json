@@ -1,5 +1,5 @@
 {
-  "name": "Stacco con Fasce al Contrario",
+  "name": "Reverse Band Deadlift",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -16,11 +16,11 @@
     "quadriceps"
   ],
   "instructions": [
-    "Posiziona il bilanciere in un power rack. Attacca le fasce alla parte superiore del rack, utilizzando sia i perni per le fasce che il telaio stesso. Attacca l'altra estremità delle fasce al bilanciere.",
-    "Avvicinati al bilanciere in modo che sia centrato sopra i tuoi piedi. I tuoi piedi dovrebbero essere circa alla larghezza delle anche. Piegati all'anca per afferrare il bilanciere a larghezza delle spalle, permettendo alle scapole di proiettarsi in avanti. Di solito, utilizzeresti una presa sopra o una presa alternata per serie più pesanti.",
-    "Con i piedi e la presa impostati, fai un grande respiro e poi abbassa i fianchi e piega le ginocchia fino a quando le tue tibie toccano il bilanciere. Guarda in avanti con la testa, tieni il petto in alto e la schiena arcuata, e inizia a spingere attraverso i talloni per sollevare il peso.",
-    "Dopo che il bilanciere supera le ginocchia, tira aggressivamente il bilanciere indietro, unendo le scapole mentre spingi i fianchi in avanti verso il bilanciere.",
-    "Abbassa il bilanciere piegando i fianchi e guidandolo verso il pavimento."
+    "Set the bar up in a power rack. Attach bands to the top of the rack, using either bands pegs or the frame itself. Attach the other end of the bands to the bar.",
+    "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets.",
+    "With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward.",
+    "After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+    "Lower the bar by bending at the hips and guiding it to the floor."
   ],
   "category": "powerlifting",
   "images": [
@@ -34,5 +34,13 @@
     "Avec les pieds et la poignée en place, prenez une grande inspiration puis baissez les hanches et fléchissez les genoux jusqu'à ce que vos mollets touchent la barre. Regardez droit devant vous avec votre tête, maintenez votre poitrine haute et votre dos bombé, et commencez à pousser avec vos talons pour déplacer le poids vers le haut.",
     "Après que la barre ait passé les genoux, tirez agressivement la barre vers vous, en rapprochant vos omoplates tout en poussant vos hanches vers l'avant sur la barre.",
     "Abaissez la barre en fléchissant les hanches et en la guidant vers le sol."
+  ],
+  "name_it": "Stacco con Fasce al Contrario",
+  "instructions_it": [
+    "Posiziona il bilanciere in un power rack. Attacca le fasce alla parte superiore del rack, utilizzando sia i perni per le fasce che il telaio stesso. Attacca l'altra estremità delle fasce al bilanciere.",
+    "Avvicinati al bilanciere in modo che sia centrato sopra i tuoi piedi. I tuoi piedi dovrebbero essere circa alla larghezza delle anche. Piegati all'anca per afferrare il bilanciere a larghezza delle spalle, permettendo alle scapole di proiettarsi in avanti. Di solito, utilizzeresti una presa sopra o una presa alternata per serie più pesanti.",
+    "Con i piedi e la presa impostati, fai un grande respiro e poi abbassa i fianchi e piega le ginocchia fino a quando le tue tibie toccano il bilanciere. Guarda in avanti con la testa, tieni il petto in alto e la schiena arcuata, e inizia a spingere attraverso i talloni per sollevare il peso.",
+    "Dopo che il bilanciere supera le ginocchia, tira aggressivamente il bilanciere indietro, unendo le scapole mentre spingi i fianchi in avanti verso il bilanciere.",
+    "Abbassa il bilanciere piegando i fianchi e guidandolo verso il pavimento."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Allungamento dei polpacci con i gomiti contro il muro",
+  "name": "Calf Stretch Elbows Against Wall",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi di fronte a un muro a un paio di piedi di distanza.",
-    "Appoggiati al muro, posizionando il peso sugli avambracci.",
-    "Cerca di mantenere i talloni a terra. Tieni la posizione per 10-20 secondi. Puoi avvicinarti o allontanarti dal muro, rendendo l'esercizio più o meno difficile, rispettivamente."
+    "Stand facing a wall from a couple feet away.",
+    "Lean against the wall, placing your weight on your forearms.",
+    "Attempt to keep your heels on the ground. Hold for 10-20 seconds. You may move further or closer the wall, making it more or less difficult, respectively."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,11 @@
     "Debout face à un mur à quelques pieds de distance.",
     "Appuyez-vous contre le mur en plaçant votre poids sur vos avant-bras.",
     "Essayez de garder vos talons au sol. Maintenez la position pendant 10 à 20 secondes. Vous pouvez vous éloigner ou vous rapprocher du mur pour augmenter ou diminuer la difficulté, respectivement."
+  ],
+  "name_it": "Allungamento dei polpacci con i gomiti contro il muro",
+  "instructions_it": [
+    "Stai in piedi di fronte a un muro a un paio di piedi di distanza.",
+    "Appoggiati al muro, posizionando il peso sugli avambracci.",
+    "Cerca di mantenere i talloni a terra. Tieni la posizione per 10-20 secondi. Puoi avvicinarti o allontanarti dal muro, rendendo l'esercizio più o meno difficile, rispettivamente."
   ]
 }

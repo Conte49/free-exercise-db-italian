@@ -1,5 +1,5 @@
 {
-  "name": "Deadlift con Veicolo",
+  "name": "Car Deadlift",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "traps"
   ],
   "instructions": [
-    "Questo attrezzo per l'evento ha tipicamente maniglie a presa neutra, tuttavia alcuni hanno una barra dritta che puoi afferrare come un normale deadlift. L'attrezzo può essere caricato con un veicolo o altri oggetti pesanti come pneumatici da trattore o barili.",
-    "Posizionati al centro tra le maniglie se sei un forte squat, oppure indietro di un paio di pollici se sei un forte deadlifter. I tuoi piedi dovrebbero essere circa alla larghezza delle anche. Piegati all'anca per afferrare le maniglie. Con i piedi e la presa impostati, fai un grande respiro e poi abbassa i fianchi e piega le ginocchia.",
-    "Guarda in avanti con la testa, mantieni il petto in alto e la schiena arcuata, e inizia a spingere attraverso i talloni per sollevare il peso. Man mano che il peso sale, avvicina le scapole mentre spingi i fianchi in avanti.",
-    "Abbassa il peso piegando i fianchi e guidandolo verso il pavimento."
+    "This event apparatus typically has neutral grip handles, however some have a straight bar that you can approach like a normal deadlift. The apparatus can be loaded with a vehicle or other heavy objects such as tractor tires or kegs.",
+    "Center yourself between the handles if you are a strong squatter, or back a couple inches if you are a strong deadlifter. You feet should be about hip width apart. Bend at the hip to grip the handles. With your feet and your grip set, take a big breath and then lower your hips and flex the knees.",
+    "Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. As the weight comes up, pull your shoulder blades together as you drive your hips forward.",
+    "Lower the weight by bending at the hips and guiding it to the floor."
   ],
   "category": "strongman",
   "images": [
@@ -31,5 +31,12 @@
     "Vous-même entre les poignées si vous êtes un squat fort, ou retour de quelques pouces si vous êtes un démineur fort. Vos pieds devraient être à la largeur des hanches. Pliez au niveau des hanches pour saisir les poignées. Une fois vos pieds et votre prise réglés, respirez profondément et abaissez ensuite vos hanches et fléchissez les genoux.",
     "Regardez droit devant vous avec la tête, gardez la poitrine levée et le dos arqué, et commencez à appuyer sur les talons pour déplacer le poids vers le haut. Alors que le poids monte, rapprochez les omoplates en poussant les hanches vers l'avant.",
     "Abaissez le poids en vous inclinant au niveau des hanches et en guidant le poids vers le sol."
+  ],
+  "name_it": "Deadlift con Veicolo",
+  "instructions_it": [
+    "Questo attrezzo per l'evento ha tipicamente maniglie a presa neutra, tuttavia alcuni hanno una barra dritta che puoi afferrare come un normale deadlift. L'attrezzo può essere caricato con un veicolo o altri oggetti pesanti come pneumatici da trattore o barili.",
+    "Posizionati al centro tra le maniglie se sei un forte squat, oppure indietro di un paio di pollici se sei un forte deadlifter. I tuoi piedi dovrebbero essere circa alla larghezza delle anche. Piegati all'anca per afferrare le maniglie. Con i piedi e la presa impostati, fai un grande respiro e poi abbassa i fianchi e piega le ginocchia.",
+    "Guarda in avanti con la testa, mantieni il petto in alto e la schiena arcuata, e inizia a spingere attraverso i talloni per sollevare il peso. Man mano che il peso sale, avvicina le scapole mentre spingi i fianchi in avanti.",
+    "Abbassa il peso piegando i fianchi e guidandolo verso il pavimento."
   ]
 }

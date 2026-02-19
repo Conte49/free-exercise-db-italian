@@ -1,5 +1,5 @@
 {
-  "name": "Abbraccia le Ginocchia al Petto",
+  "name": "Hug Knees To Chest",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,9 +11,9 @@
     "glutes"
   ],
   "instructions": [
-    "Sdraiati sulla schiena e porta entrambe le ginocchia verso il petto.",
-    "Tieni le braccia sotto le ginocchia, non sopra (altrimenti eserciteresti troppa pressione sulle articolazioni delle ginocchia).",
-    "Tira lentamente le ginocchia verso le spalle. Questo allunga anche i muscoli dei glutei."
+    "Lie down on your back and pull both knees up to your chest.",
+    "Hold your arms under the knees, not over (that would put to much pressure on your knee joints).",
+    "Slowly pull the knees toward your shoulders. This also stretches your buttocks muscles."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Allongez-vous sur le dos et ramenez les deux genoux vers votre poitrine.",
     "Tenez vos bras sous les genoux, pas au-dessus (cela exercerait trop de pression sur vos articulations de genou).",
     "Approchez lentement les genoux de vos épaules. Cela étire également les muscles de vos fesses."
+  ],
+  "name_it": "Abbraccia le Ginocchia al Petto",
+  "instructions_it": [
+    "Sdraiati sulla schiena e porta entrambe le ginocchia verso il petto.",
+    "Tieni le braccia sotto le ginocchia, non sopra (altrimenti eserciteresti troppa pressione sulle articolazioni delle ginocchia).",
+    "Tira lentamente le ginocchia verso le spalle. Questo allunga anche i muscoli dei glutei."
   ]
 }

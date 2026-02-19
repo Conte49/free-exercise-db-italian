@@ -1,5 +1,5 @@
 {
-  "name": "Crossover con Cavi Bassi",
+  "name": "Low Cable Crossover",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Per passare alla posizione di partenza, posiziona le pulegge in basso, seleziona la resistenza da utilizzare e afferra un manico in ciascuna mano.",
-    "Fai un passo in avanti, guadagnando tensione nelle pulegge. I tuoi palmi dovrebbero essere rivolti in avanti, le mani sotto la vita e le braccia dritte. Questa sarà la tua posizione di partenza.",
-    "Con un leggero piegamento delle braccia, porta le mani verso l'alto e verso la linea mediana del tuo corpo. Le tue mani dovrebbero unirsi davanti al petto, con i palmi rivolti verso l'alto.",
-    "Riporta le braccia alla posizione di partenza dopo una breve pausa."
+    "To move into the starting position, place the pulleys at the low position, select the resistance to be used and grasp a handle in each hand.",
+    "Step forward, gaining tension in the pulleys. Your palms should be facing forward, hands below the waist, and your arms straight. This will be your starting position.",
+    "With a slight bend in your arms, draw your hands upward and toward the midline of your body. Your hands should come together in front of your chest, palms facing up.",
+    "Return your arms back to the starting position after a brief pause."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Avancez en prenant de la tension dans les poulies. Vos paumes doivent être tournées vers l'avant, les mains sous la taille, et vos bras droits. Cette position sera votre position de départ.",
     "En gardant un léger angle dans vos bras, ramenez vos mains vers le haut et vers la ligne médiane de votre corps. Vos mains doivent se rejoindre devant votre poitrine, les paumes vers le haut.",
     "Ramenez vos bras à la position de départ après une courte pause."
+  ],
+  "name_it": "Crossover con Cavi Bassi",
+  "instructions_it": [
+    "Per passare alla posizione di partenza, posiziona le pulegge in basso, seleziona la resistenza da utilizzare e afferra un manico in ciascuna mano.",
+    "Fai un passo in avanti, guadagnando tensione nelle pulegge. I tuoi palmi dovrebbero essere rivolti in avanti, le mani sotto la vita e le braccia dritte. Questa sarà la tua posizione di partenza.",
+    "Con un leggero piegamento delle braccia, porta le mani verso l'alto e verso la linea mediana del tuo corpo. Le tue mani dovrebbero unirsi davanti al petto, con i palmi rivolti verso l'alto.",
+    "Riporta le braccia alla posizione di partenza dopo una breve pausa."
   ]
 }

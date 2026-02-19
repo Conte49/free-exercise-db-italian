@@ -1,5 +1,5 @@
 {
-  "name": "Stretching dei Flessori della Coscia con Gamba Sollevata",
+  "name": "Leg-Up Hamstring Stretch",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati sulla schiena, piega un ginocchio e appoggia il piede a terra per stabilizzare la colonna vertebrale.",
-    "Estendi l'altra gamba in aria. Se sei rigido, potresti non riuscire a raddrizzarla completamente. Va bene così. Estendi il ginocchio in modo che la pianta del piede sollevato sia rivolta verso il soffitto (o quanto più vicino possibile).",
-    "Raddrizza lentamente le gambe il più possibile e poi tira la gamba verso il naso. Cambia lato."
+    "Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.",
+    "Extend the other leg in the air. If you're tight, you wont be able to straighten it. That's okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).",
+    "Slowly straighten the legs as much as possible and then pull the leg toward your nose. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,11 @@
     "Allongez-vous à plat sur le dos, pliez un genou et posez ce pied à plat sur le sol pour stabiliser votre colonne vertébrale.",
     "Étirez l'autre jambe dans les airs. Si vous êtes tendu, vous ne pourrez pas la tendre complètement. C'est bon. Écartez le genou de sorte que la plante du pied levé fasse face au plafond (ou aussi près que possible).",
     "Droits lentement les jambes autant que possible, puis tirez la jambe vers votre nez. Alternez les côtés."
+  ],
+  "name_it": "Stretching dei Flessori della Coscia con Gamba Sollevata",
+  "instructions_it": [
+    "Sdraiati sulla schiena, piega un ginocchio e appoggia il piede a terra per stabilizzare la colonna vertebrale.",
+    "Estendi l'altra gamba in aria. Se sei rigido, potresti non riuscire a raddrizzarla completamente. Va bene così. Estendi il ginocchio in modo che la pianta del piede sollevato sia rivolta verso il soffitto (o quanto più vicino possibile).",
+    "Raddrizza lentamente le gambe il più possibile e poi tira la gamba verso il naso. Cambia lato."
   ]
 }

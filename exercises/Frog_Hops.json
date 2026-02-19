@@ -1,5 +1,5 @@
 {
-  "name": "Salti della Rana",
+  "name": "Frog Hops",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,8 +13,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Stai in piedi con le mani dietro la testa e accovacciati mantenendo il torso eretto e la testa alta. Questa sarà la tua posizione di partenza.",
-    "Salta in avanti per diversi piedi, evitando di saltare inutilmente in alto. Quando i tuoi piedi toccano il suolo, assorbi l'impatto attraverso le gambe e salta di nuovo. Ripeti questa azione 5-10 volte."
+    "Stand with your hands behind your head, and squat down keeping your torso upright and your head up. This will be your starting position.",
+    "Jump forward several feet, avoiding jumping unnecessarily high. As your feet contact the ground, absorb the impact through your legs, and jump again. Repeat this action 5-10 times."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Debout, les mains derrière la tête, faites un squat en gardant le torse droit et la tête levée. Cette position sera votre point de départ.",
     "Sauter en avant de plusieurs pieds, en évitant de sauter inutilement haut. Au moment où vos pieds touchent le sol, absorbez l'impact à travers vos jambes, puis sautez à nouveau. Répétez cette action 5 à 10 fois."
+  ],
+  "name_it": "Salti della Rana",
+  "instructions_it": [
+    "Stai in piedi con le mani dietro la testa e accovacciati mantenendo il torso eretto e la testa alta. Questa sarà la tua posizione di partenza.",
+    "Salta in avanti per diversi piedi, evitando di saltare inutilmente in alto. Quando i tuoi piedi toccano il suolo, assorbi l'impatto attraverso le gambe e salta di nuovo. Ripeti questa azione 5-10 volte."
   ]
 }

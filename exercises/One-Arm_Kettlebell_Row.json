@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con Kettlebell a Un Braccio",
+  "name": "One-Arm Kettlebell Row",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,9 +12,7 @@
     "lats"
   ],
   "instructions": [
-    "Posiziona un kettlebell davanti ai tuoi piedi. Piegati leggermente sulle ginocchia e poi spingi il sedere all'indietro il più possibile mentre ti pieghi in avanti per assumere la posizione di partenza.",
-    "Afferrati il kettlebell e tiralo verso il tuo stomaco, ritraendo la scapola e flettendo il gomito.",
-    "Mantieni la schiena dritta. Abbassa e ripeti."
+    "Place a kettlebell in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position. Grab the kettlebell and pull it to your stomach, retracting your shoulder blade and flexing the elbow. Keep your back straight. Lower and repeat."
   ],
   "category": "strength",
   "images": [
@@ -24,5 +22,11 @@
   "id": "One-Arm_Kettlebell_Row",
   "instructions_fr": [
     "Placez une kettlebell devant vos pieds. Fléchissez légèrement les genoux puis poussez votre fessier le plus possible en vous inclinant pour prendre la position de départ. Attrapez la kettlebell et tirez-la vers votre ventre, en rentrant votre omoplate et en fléchissant votre coude. Maintenez votre dos droit. Abaissez et répétez."
+  ],
+  "name_it": "Rematore con Kettlebell a Un Braccio",
+  "instructions_it": [
+    "Posiziona un kettlebell davanti ai tuoi piedi. Piegati leggermente sulle ginocchia e poi spingi il sedere all'indietro il più possibile mentre ti pieghi in avanti per assumere la posizione di partenza.",
+    "Afferrati il kettlebell e tiralo verso il tuo stomaco, ritraendo la scapola e flettendo il gomito.",
+    "Mantieni la schiena dritta. Abbassa e ripeti."
   ]
 }

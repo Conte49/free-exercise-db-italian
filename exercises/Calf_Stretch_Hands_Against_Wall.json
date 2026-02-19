@@ -1,5 +1,5 @@
 {
-  "name": "Stretching dei polpacci con le mani contro il muro",
+  "name": "Calf Stretch Hands Against Wall",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi di fronte a un muro a qualche piede di distanza. Posiziona i piedi in modo sfalsato, mettendo un piede avanti.",
-    "Inclina il corpo in avanti e appoggia le mani sul muro, mantenendo il tallone, l'anca e la testa in una linea retta.",
-    "Cerca di mantenere il tallone a terra. Tieni la posizione per 10-20 secondi e poi cambia lato."
+    "Stand facing a wall from several feet away. Stagger your stance, placing one foot forward.",
+    "Lean forward and rest your hands on the wall, keeping your heel, hip and head in a straight line.",
+    "Attempt to keep your heel on the ground. Hold for 10-20 seconds and then switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,11 @@
     "Debout face à un mur à plusieurs pieds de distance. Écartez votre position, en plaçant un pied en avant.",
     "Inclinez-vous en avant et reposez vos mains sur le mur, en gardant votre talon, votre hanche et votre tête alignés.",
     "Essayez de garder vos talons au sol. Maintenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ],
+  "name_it": "Stretching dei polpacci con le mani contro il muro",
+  "instructions_it": [
+    "Stai in piedi di fronte a un muro a qualche piede di distanza. Posiziona i piedi in modo sfalsato, mettendo un piede avanti.",
+    "Inclina il corpo in avanti e appoggia le mani sul muro, mantenendo il tallone, l'anca e la testa in una linea retta.",
+    "Cerca di mantenere il tallone a terra. Tieni la posizione per 10-20 secondi e poi cambia lato."
   ]
 }

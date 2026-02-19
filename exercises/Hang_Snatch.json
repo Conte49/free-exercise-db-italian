@@ -18,10 +18,10 @@
     "traps"
   ],
   "instructions": [
-    "Inizia con una presa larga sulla barra, con una presa sopra o a uncino. I piedi dovrebbero essere direttamente sotto i fianchi con le punte rivolte verso l'esterno. Le ginocchia dovrebbero essere leggermente piegate e il torso inclinato in avanti. La colonna vertebrale dovrebbe essere completamente estesa e la testa rivolta in avanti. La barra dovrebbe trovarsi all'altezza dei fianchi. Questa sarà la tua posizione di partenza.",
-    "Estendi aggressivamente le gambe e i fianchi. Al picco dell'estensione, solleva le spalle e consenti ai gomiti di piegarsi di lato.",
-    "Mentre muovi i piedi nella posizione di ricezione, tira energicamente te stesso sotto la barra mentre sollevi la barra sopra la testa. Ricevi la barra con il corpo il più in basso possibile e le braccia completamente estese sopra la testa.",
-    "Torna in posizione eretta con il peso sopra la testa. Segui riportando il peso a terra in modo controllato."
+    "Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be at the hips. This will be your starting position.",
+    "Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+    "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. Receive the bar with your body as low as possible and the arms fully extended overhead.",
+    "Return to a standing position with the weight overhead. Follow by returning the weight to the ground under control."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -34,5 +34,12 @@
     "Étirez agressivement les jambes et les hanches. En position d'étirement maximal, soulevez les épaules et pliez les coudés vers le côté.",
     "Alors que vous déplacez vos pieds dans la position de réception, tirez-vous vigoureusement sous la barre lorsque vous élevez la barre au-dessus de votre tête. Rejoignez la barre avec votre corps aussi bas que possible et les bras complètement étendus au-dessus.",
     "Retournez à la position debout en tenant le poids au-dessus de votre tête. Puis, ramenez le poids vers le sol tout en contrôlant vos mouvements."
+  ],
+  "name_it": "Hang Snatch",
+  "instructions_it": [
+    "Inizia con una presa larga sulla barra, con una presa sopra o a uncino. I piedi dovrebbero essere direttamente sotto i fianchi con le punte rivolte verso l'esterno. Le ginocchia dovrebbero essere leggermente piegate e il torso inclinato in avanti. La colonna vertebrale dovrebbe essere completamente estesa e la testa rivolta in avanti. La barra dovrebbe trovarsi all'altezza dei fianchi. Questa sarà la tua posizione di partenza.",
+    "Estendi aggressivamente le gambe e i fianchi. Al picco dell'estensione, solleva le spalle e consenti ai gomiti di piegarsi di lato.",
+    "Mentre muovi i piedi nella posizione di ricezione, tira energicamente te stesso sotto la barra mentre sollevi la barra sopra la testa. Ricevi la barra con il corpo il più in basso possibile e le braccia completamente estese sopra la testa.",
+    "Torna in posizione eretta con il peso sopra la testa. Segui riportando il peso a terra in modo controllato."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Spinta al petto (risposta multipla)",
+  "name": "Chest Push (multiple response)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "triceps"
   ],
   "instructions": [
-    "Inizia in posizione inginocchiata di fronte a un muro o utilizza un partner. Tieni la palla con entrambe le mani stretta al petto.",
-    "Esegui il passaggio esplodendo in avanti e verso l'esterno con i fianchi mentre spingi la palla il più forte possibile.",
-    "Segui il movimento cadendo in avanti, sostenendoti con le mani.",
-    "Torna immediatamente in posizione eretta. Ripeti per il numero desiderato di ripetizioni."
+    "Begin in a kneeling position facing a wall or utilize a partner. Hold the ball with both hands tight into the chest.",
+    "Execute the pass by exploding forward and outward with the hips while pushing the ball as hard as possible.",
+    "Follow through by falling forward, catching yourself with your hands.",
+    "Immediately return to an upright position. Repeat for the desired number of repetitions."
   ],
   "category": "plyometrics",
   "images": [
@@ -29,5 +29,12 @@
     "Exécutez la passe en exploseant vers l'avant et vers l'extérieur avec les hanches tout en poussant le ballon aussi fort que possible.",
     "Suivez le mouvement en tombant vers l'avant, en vous rattrapant avec vos mains.",
     "Revenez immédiatement à la position debout. Répétez le mouvement le nombre de fois désiré."
+  ],
+  "name_it": "Spinta al petto (risposta multipla)",
+  "instructions_it": [
+    "Inizia in posizione inginocchiata di fronte a un muro o utilizza un partner. Tieni la palla con entrambe le mani stretta al petto.",
+    "Esegui il passaggio esplodendo in avanti e verso l'esterno con i fianchi mentre spingi la palla il più forte possibile.",
+    "Segui il movimento cadendo in avanti, sostenendoti con le mani.",
+    "Torna immediatamente in posizione eretta. Ripeti per il numero desiderato di ripetizioni."
   ]
 }

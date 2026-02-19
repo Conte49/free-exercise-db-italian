@@ -1,5 +1,5 @@
 {
-  "name": "Ribaltamento del Pneumatico",
+  "name": "Tire Flip",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +19,9 @@
     "triceps"
   ],
   "instructions": [
-    "Inizia afferrando la parte inferiore del pneumatico sul battistrada e posiziona i piedi un po' indietro. Il tuo petto dovrebbe spingere contro il pneumatico.",
-    "Per sollevare il pneumatico, estendi i fianchi, le ginocchia e le caviglie, spingendo contro il pneumatico e verso l'alto.",
-    "Quando il pneumatico raggiunge un angolo di 45 gradi, fai un passo in avanti e spingi un ginocchio contro il pneumatico. Mentre lo fai, regola la tua presa sulla parte superiore del pneumatico e spingilo in avanti il più forte possibile per completare il giro. Ripeti se necessario."
+    "Begin by gripping the bottom of the tire on the tread, and position your feet back a bit. Your chest should be driving into the tire.",
+    "To lift the tire, extend through the hips, knees, and ankles, driving into the tire and up.",
+    "As the tire reaches a 45 degree angle, step forward and drive a knee into the tire. As you do so adjust your grip to the upper portion of the tire and push it forward as hard as possible to complete the turn. Repeat as necessary."
   ],
   "category": "strongman",
   "images": [
@@ -33,5 +33,11 @@
     "Commencez en saisissant le bas du pneu sur la bande de roulement, et placez vos pieds un peu à l'arrière. Votre poitrine devrait être dirigée vers le pneu.",
     "Pour soulever le pneu, étendez-vous par les hanches, les genoux et les chevilles, en poussant dans le pneu et vers le haut.",
     "Lorsque le pneu atteint un angle de 45 degrés, avancez et frappez-le avec un genou tout en ajustant votre prise sur sa partie supérieure, puis poussez-le vers l'avant aussi fort que possible pour terminer la rotation. Répétez l'opération si nécessaire."
+  ],
+  "name_it": "Ribaltamento del Pneumatico",
+  "instructions_it": [
+    "Inizia afferrando la parte inferiore del pneumatico sul battistrada e posiziona i piedi un po' indietro. Il tuo petto dovrebbe spingere contro il pneumatico.",
+    "Per sollevare il pneumatico, estendi i fianchi, le ginocchia e le caviglie, spingendo contro il pneumatico e verso l'alto.",
+    "Quando il pneumatico raggiunge un angolo di 45 gradi, fai un passo in avanti e spingi un ginocchio contro il pneumatico. Mentre lo fai, regola la tua presa sulla parte superiore del pneumatico e spingilo in avanti il più forte possibile per completare il giro. Ripeti se necessario."
   ]
 }

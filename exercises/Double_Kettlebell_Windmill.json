@@ -1,5 +1,5 @@
 {
-  "name": "Mulinello con Due Kettlebell",
+  "name": "Double Kettlebell Windmill",
   "force": "pull",
   "level": "intermediate",
   "mechanic": null,
@@ -14,11 +14,10 @@
     "triceps"
   ],
   "instructions": [
-    "Posiziona un kettlebell di fronte al tuo piede anteriore e solleva un kettlebell sopra la testa con l'altra arm.",
-    "Pulisci il kettlebell fino alla spalla estendendo le gambe e i fianchi mentre tiri il kettlebell verso le spalle. Ruota il polso in modo che il palmo sia rivolto in avanti.",
-    "Mantenendo il kettlebell bloccato sopra la testa, spingi il tuo sedere nella direzione del kettlebell bloccato. Ruota i piedi a un angolo di quarantacinque gradi rispetto al braccio con il kettlebell bloccato.",
-    "Flettendo l'anca da un lato, spingendo il sedere indietro, inclina lentamente fino a poter afferrare il kettlebell da terra. Tieni sempre gli occhi sul kettlebell che hai sopra la testa.",
-    "Fermati per un secondo dopo aver afferrato il kettlebell da terra e inverti il movimento tornando alla posizione di partenza."
+    "Place a kettlebell in front of your front foot and clean and press a kettlebell overhead with your opposite arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so, so that the palm faces forward.",
+    "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Turn your feet out at a forty-five degree angle from the arm with the locked out kettlebell.",
+    "Bending at the hip to one side, sticking your butt out, slowly lean until you can retrieve the kettlebell from the floor. Keep your eyes on the kettlebell that you hold over your head at all times.",
+    "Pause for a second after retrieving the kettlebell from the ground and reverse the motion back to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +30,13 @@
     "En gardant la kettlebell tendue en tout temps, poussez vos fesses dans la direction de la kettlebell verrouillée. Tournez vos pieds à un angle de quarante-cinq degrés par rapport au bras qui tient la kettlebell verrouillée.",
     "En vous penchant sur le côté au niveau des hanches, en sortant les fesses, penchez-vous lentement jusqu'à ce que vous puissiez récupérer la kettlebell du sol. Gardez toujours les yeux sur la kettlebell que vous tenez au-dessus de votre tête.",
     "Faites une pause pendant une seconde après avoir récupéré la kettlebell du sol, puis inversez le mouvement pour revenir à la position de départ."
+  ],
+  "name_it": "Mulinello con Due Kettlebell",
+  "instructions_it": [
+    "Posiziona un kettlebell di fronte al tuo piede anteriore e solleva un kettlebell sopra la testa con l'altra arm.",
+    "Pulisci il kettlebell fino alla spalla estendendo le gambe e i fianchi mentre tiri il kettlebell verso le spalle. Ruota il polso in modo che il palmo sia rivolto in avanti.",
+    "Mantenendo il kettlebell bloccato sopra la testa, spingi il tuo sedere nella direzione del kettlebell bloccato. Ruota i piedi a un angolo di quarantacinque gradi rispetto al braccio con il kettlebell bloccato.",
+    "Flettendo l'anca da un lato, spingendo il sedere indietro, inclina lentamente fino a poter afferrare il kettlebell da terra. Tieni sempre gli occhi sul kettlebell che hai sopra la testa.",
+    "Fermati per un secondo dopo aver afferrato il kettlebell da terra e inverti il movimento tornando alla posizione di partenza."
   ]
 }

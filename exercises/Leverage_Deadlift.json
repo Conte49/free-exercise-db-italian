@@ -1,5 +1,5 @@
 {
-  "name": "Deadlift con Leva",
+  "name": "Leverage Deadlift",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,8 +12,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Carica i perni con un peso appropriato. Posizionati direttamente tra le maniglie. Afferra le maniglie inferiori con una presa comoda, quindi abbassa i fianchi mentre prendi un respiro. Guarda in avanti con la testa e tieni il petto in alto. Questa sarà la tua posizione di partenza.",
-    "Riporta il peso alla posizione di partenza."
+    "Load the pins to an appropriate weight. Position yourself directly between the handles. Grasp the bottom handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up. This will be your starting position.",
+    "Return the weight to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Chargez les épingles avec un poids approprié. Placez-vous directement entre les poignées. Attrapez les poignées inférieures avec une prise confortable, puis abaissez les hanches en inspirant. Regardez devant vous la tête et maintenez la poitrine en haut. Telle sera votre position de départ.",
     "Ramenez le poids à la position de départ."
+  ],
+  "name_it": "Deadlift con Leva",
+  "instructions_it": [
+    "Carica i perni con un peso appropriato. Posizionati direttamente tra le maniglie. Afferra le maniglie inferiori con una presa comoda, quindi abbassa i fianchi mentre prendi un respiro. Guarda in avanti con la testa e tieni il petto in alto. Questa sarà la tua posizione di partenza.",
+    "Riporta il peso alla posizione di partenza."
   ]
 }

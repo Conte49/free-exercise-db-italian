@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dei Tricipiti con Bilanciere Inclinato",
+  "name": "Incline Barbell Triceps Extension",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -11,12 +11,12 @@
     "forearms"
   ],
   "instructions": [
-    "Tieni un bilanciere con una presa prona (palmi rivolti verso il basso) leggermente più stretta della larghezza delle spalle.",
-    "Sdraiati su una panca inclinata impostata a un angolo compreso tra 45 e 75 gradi.",
-    "Porta il bilanciere sopra la testa con le braccia estese e i gomiti vicini al corpo. Le braccia devono essere allineate con il torso sopra la testa. Questa sarà la tua posizione di partenza.",
-    "Ora abbassa il bilanciere in un movimento semicircolare dietro la testa fino a quando gli avambracci toccano i bicipiti. Inspira mentre esegui questo movimento. Suggerimento: mantieni i tuoi avambracci fermi e vicini alla testa in ogni momento. Solo gli avambracci devono muoversi.",
-    "Torna alla posizione di partenza mentre espiri e contrai i tricipiti. Mantieni la contrazione per un secondo.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Hold a barbell with an overhand grip (palms down) that is a little closer together than shoulder width.",
+    "Lie back on an incline bench set at any angle between 45-75-degrees.",
+    "Bring the bar overhead with your arms extended and elbows in. The arms should be in line with the torso above the head. This will be your starting position.",
+    "Now lower the bar in a semicircular motion behind your head until your forearms touch your biceps. Inhale as you perform this movement. Tip: Keep your upper arms stationary and close to your head at all times. Only the forearms should move.",
+    "Return to the starting position as you breathe out and you contract the triceps. Hold the contraction for a second.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,14 @@
     "Maintenant, baissez la barre dans un mouvement semi-circulaire derrière votre tête jusqu'à ce que vos avant-bras touchent vos biceps. Inspirez pendant que vous exécutez ce mouvement. Conseil : gardez vos bras supérieurs fixes et près de votre tête en tout temps. Seules les avant-bras devraient bouger.",
     "Revenez à la position de départ en expirant et en contractant les triceps. Maintenez la contraction pendant une seconde.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Estensione dei Tricipiti con Bilanciere Inclinato",
+  "instructions_it": [
+    "Tieni un bilanciere con una presa prona (palmi rivolti verso il basso) leggermente più stretta della larghezza delle spalle.",
+    "Sdraiati su una panca inclinata impostata a un angolo compreso tra 45 e 75 gradi.",
+    "Porta il bilanciere sopra la testa con le braccia estese e i gomiti vicini al corpo. Le braccia devono essere allineate con il torso sopra la testa. Questa sarà la tua posizione di partenza.",
+    "Ora abbassa il bilanciere in un movimento semicircolare dietro la testa fino a quando gli avambracci toccano i bicipiti. Inspira mentre esegui questo movimento. Suggerimento: mantieni i tuoi avambracci fermi e vicini alla testa in ogni momento. Solo gli avambracci devono muoversi.",
+    "Torna alla posizione di partenza mentre espiri e contrai i tricipiti. Mantieni la contrazione per un secondo.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

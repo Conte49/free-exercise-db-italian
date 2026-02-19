@@ -1,5 +1,5 @@
 {
-  "name": "Campana da Circo",
+  "name": "Circus Bell",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -16,10 +16,10 @@
     "triceps"
   ],
   "instructions": [
-    "La campana da circo è un manubrio sovradimensionato con un manico spesso. Inizia con il manubrio tra i piedi e afferra il manico con entrambe le mani.",
-    "Pulisci il manubrio estendendo i fianchi e le ginocchia per portare l'attrezzo alla spalla desiderata, lasciando andare con la mano extra.",
-    "Assicurati di portare una delle teste del manubrio dietro la spalla per non perdere l'equilibrio. Per sollevarlo sopra la testa, piega le ginocchia e spingi verso l'alto mentre estendi il manubrio sopra la testa, inclinando leggermente il corpo lontano da esso mentre lo fai.",
-    "Guida con attenzione la campana di nuovo a terra, mantenendola sotto controllo il più possibile. È meglio eseguire questo esercizio su un tappetino di gomma spesso per prevenire danni al pavimento."
+    "The circus bell is an oversized dumbbell with a thick handle. Begin with the dumbbell between your feet, and grip the handle with both hands.",
+    "Clean the dumbbell by extending through your hips and knees to deliver the implement to the desired shoulder, letting go with the extra hand.",
+    "Ensure that you get one of the dumbbell heads behind the shoulder to keep from being thrown off balance. To raise it overhead, dip by flexing the knees, and the drive upwards as you extend the dumbbell overhead, leaning slightly away from it as you do so.",
+    "Carefully guide the bell back to the floor, keeping it under control as much as possible. It is best to perform this event on a thick rubber mat to prevent damage to the floor."
   ],
   "category": "strongman",
   "images": [
@@ -32,5 +32,12 @@
     "Épaulez l'haltère en vous étirant par les hanches et les genoux pour amener l'outil à l'épaule désirée, en lâchant avec la main supplémentaire.",
     "Assurez-vous de placer la tête de l'haltère derrière l'épaule pour éviter tout déséquilibre. Pour l'élever au-dessus de votre tête, penchez-vous en fléchissant les genoux, puis poussez l'haltère vers le haut en vous relevant, en penchant légèrement votre corps à l'opposé lorsque vous effectuez ce mouvement.",
     "Guidez soigneusement la cloche vers le sol en la gardant sous contrôle autant que possible. Il est préférable d'exécuter cet événement sur un tapis de caoutchouc épais pour éviter d'endommager le sol."
+  ],
+  "name_it": "Campana da Circo",
+  "instructions_it": [
+    "La campana da circo è un manubrio sovradimensionato con un manico spesso. Inizia con il manubrio tra i piedi e afferra il manico con entrambe le mani.",
+    "Pulisci il manubrio estendendo i fianchi e le ginocchia per portare l'attrezzo alla spalla desiderata, lasciando andare con la mano extra.",
+    "Assicurati di portare una delle teste del manubrio dietro la spalla per non perdere l'equilibrio. Per sollevarlo sopra la testa, piega le ginocchia e spingi verso l'alto mentre estendi il manubrio sopra la testa, inclinando leggermente il corpo lontano da esso mentre lo fai.",
+    "Guida con attenzione la campana di nuovo a terra, mantenendola sotto controllo il più possibile. È meglio eseguire questo esercizio su un tappetino di gomma spesso per prevenire danni al pavimento."
   ]
 }

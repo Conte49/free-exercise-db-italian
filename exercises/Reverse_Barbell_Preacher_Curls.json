@@ -1,5 +1,5 @@
 {
-  "name": "Curl con Bilanciere Inverso su Panca Scott",
+  "name": "Reverse Barbell Preacher Curls",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -11,11 +11,11 @@
     "forearms"
   ],
   "instructions": [
-    "Afferrate un EZ-bar con una presa a larghezza spalle e palmi rivolti verso il basso (pronata).",
-    "Posizionate la parte superiore di entrambe le braccia sopra la panca Scott e tenete le braccia estese. Questa sarà la vostra posizione di partenza.",
-    "Mentre espirate, utilizzate i bicipiti per sollevare il peso fino a quando i bicipiti sono completamente contratti e il bilanciere è all'altezza delle spalle. Stringete i bicipiti con forza per un secondo nella posizione contratta.",
-    "Mentre inspirate, abbassate lentamente il bilanciere fino a quando le braccia superiori sono estese e i bicipiti sono completamente allungati.",
-    "Ripetete per il numero raccomandato di ripetizioni."
+    "Grab an EZ-bar using a shoulder width and palms down (pronated) grip.",
+    "Now place the upper part of both arms on top of the preacher bench and have your arms extended. This will be your starting position.",
+    "As you exhale, use the biceps to curl the weight up until your biceps are fully contracted and the barbell is at shoulder height. Squeeze the biceps hard for a second at the contracted position.",
+    "As you breathe in, slowly lower the barbell until your upper arms are extended and the biceps is fully stretched.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,13 @@
     "En expirant, utilisez les biceps pour soulever le poids jusqu'à ce que vos biceps soient complètement contractés et que l'haltère soit à la hauteur de l'épaule. Contractez fortement les biceps pendant une seconde en position contractée.",
     "En inspirant, baissez lentement la barre jusqu'à ce que vos bras soient étendus et que vos biceps soient complètement tendus.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con Bilanciere Inverso su Panca Scott",
+  "instructions_it": [
+    "Afferrate un EZ-bar con una presa a larghezza spalle e palmi rivolti verso il basso (pronata).",
+    "Posizionate la parte superiore di entrambe le braccia sopra la panca Scott e tenete le braccia estese. Questa sarà la vostra posizione di partenza.",
+    "Mentre espirate, utilizzate i bicipiti per sollevare il peso fino a quando i bicipiti sono completamente contratti e il bilanciere è all'altezza delle spalle. Stringete i bicipiti con forza per un secondo nella posizione contratta.",
+    "Mentre inspirate, abbassate lentamente il bilanciere fino a quando le braccia superiori sono estese e i bicipiti sono completamente allungati.",
+    "Ripetete per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Compression Isometrica del Torace",
+  "name": "Isometric Chest Squeezes",
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "triceps"
   ],
   "instructions": [
-    "Seduto o in piedi, piega le braccia a un angolo di 90 gradi e unisci i palmi delle mani davanti al tuo petto. Suggerimento: le mani devono essere aperte con i palmi uniti e le dita rivolte in avanti (perpendicolari al torso).",
-    "Spingi entrambe le mani l'una contro l'altra mentre contrai il petto. Inizia con una tensione lenta e aumenta gradualmente. Continua a respirare normalmente mentre esegui questa contrazione.",
-    "Mantieni la posizione per il numero raccomandato di secondi.",
-    "Ora rilascia lentamente la tensione.",
-    "Riposa per il tempo raccomandato e ripeti."
+    "While either seating or standing, bend your arms at a 90-degree angle and place the palms of your hands together in front of your chest. Tip: Your hands should be open with the palms together and fingers facing forward (perpendicular to your torso).",
+    "Push both hands against each other as you contract your chest. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",
+    "Hold for the recommended number of seconds.",
+    "Now release the tension slowly.",
+    "Rest for the recommended amount of time and repeat."
   ],
   "category": "plyometrics",
   "images": [
@@ -30,5 +30,13 @@
     "Maintenez la position pendant le nombre de secondes recommandé.",
     "Libérez maintenant lentement la tension.",
     "Reposez-vous pendant le temps recommandé et répétez l'opération."
+  ],
+  "name_it": "Compression Isometrica del Torace",
+  "instructions_it": [
+    "Seduto o in piedi, piega le braccia a un angolo di 90 gradi e unisci i palmi delle mani davanti al tuo petto. Suggerimento: le mani devono essere aperte con i palmi uniti e le dita rivolte in avanti (perpendicolari al torso).",
+    "Spingi entrambe le mani l'una contro l'altra mentre contrai il petto. Inizia con una tensione lenta e aumenta gradualmente. Continua a respirare normalmente mentre esegui questa contrazione.",
+    "Mantieni la posizione per il numero raccomandato di secondi.",
+    "Ora rilascia lentamente la tensione.",
+    "Riposa per il tempo raccomandato e ripeti."
   ]
 }

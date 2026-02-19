@@ -1,5 +1,5 @@
 {
-  "name": "Posizione del Bambino",
+  "name": "Child's Pose",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,9 +12,9 @@
     "middle back"
   ],
   "instructions": [
-    "Mettiti a quattro zampe, allunga le mani davanti a te.",
-    "Abbassa i glutei per sederti sui talloni. Lascia che le braccia scivolino lungo il pavimento mentre ti siedi indietro per allungare tutta la colonna vertebrale.",
-    "Una volta che ti sei sistemato sui talloni, porta le mani accanto ai piedi e rilassati. \"Respira\" nella schiena. Appoggia la fronte sul pavimento. Evita questa posizione se hai problemi alle ginocchia."
+    "Get on your hands and knees, walk your hands in front of you.",
+    "Lower your buttocks down to sit on your heels. Let your arms drag along the floor as you sit back to stretch your entire spine.",
+    "Once you settle onto your heels, bring your hands next to your feet and relax. \"breathe\" into your back. Rest your forehead on the floor. Avoid this position if you have knee problems."
   ],
   "category": "stretching",
   "images": [
@@ -26,5 +26,11 @@
     "Mettez-vous à quatre pattes, puis déplacez vos mains devant vous.",
     "Baissez vos fesses pour vous asseoir sur vos talons. Laissez vos bras se balader le long du sol lorsque vous vous asseyez pour étirer votre colonne vertébrale.",
     "Une fois que vous êtes bien installé sur vos talons, amenez vos mains près de vos pieds et détendez-vous. \"Respirez\" dans votre dos. Posez votre front contre le sol. Évitez cette position si vous avez des problèmes de genou."
+  ],
+  "name_it": "Posizione del Bambino",
+  "instructions_it": [
+    "Mettiti a quattro zampe, allunga le mani davanti a te.",
+    "Abbassa i glutei per sederti sui talloni. Lascia che le braccia scivolino lungo il pavimento mentre ti siedi indietro per allungare tutta la colonna vertebrale.",
+    "Una volta che ti sei sistemato sui talloni, porta le mani accanto ai piedi e rilassati. \"Respira\" nella schiena. Appoggia la fronte sul pavimento. Evita questa posizione se hai problemi alle ginocchia."
   ]
 }

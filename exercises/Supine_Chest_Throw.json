@@ -1,5 +1,5 @@
 {
-  "name": "Lancio del petto supino",
+  "name": "Supine Chest Throw",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Questo esercizio è ottimo per i passaggi al petto quando non hai un partner o una parete sufficientemente resistente. Sdraiati a terra sulla schiena con le ginocchia piegate.",
-    "Inizia con la palla sul petto, tenuta con entrambe le mani sotto.",
-    "Esplodi verso l'alto, estendendo il gomito per lanciare la palla direttamente sopra di te il più in alto possibile.",
-    "Prendi la palla con entrambe le mani mentre scende."
+    "This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.",
+    "Begin with the ball on your chest, held with both hands on the bottom.",
+    "Explode up, extending through the elbow to throw the ball directly above you as high as possible.",
+    "Catch the ball with both hands as it comes down."
   ],
   "category": "plyometrics",
   "images": [
@@ -28,5 +28,12 @@
     "Commencez avec la balle sur votre poitrine, maintenue avec les deux mains en bas.",
     "Explosez vers le haut, en étendant jusqu'au coude pour lancer la balle directement au-dessus de vous aussi haut que possible.",
     "Attrapez la balle avec les deux mains lorsqu'elle descend."
+  ],
+  "name_it": "Lancio del petto supino",
+  "instructions_it": [
+    "Questo esercizio è ottimo per i passaggi al petto quando non hai un partner o una parete sufficientemente resistente. Sdraiati a terra sulla schiena con le ginocchia piegate.",
+    "Inizia con la palla sul petto, tenuta con entrambe le mani sotto.",
+    "Esplodi verso l'alto, estendendo il gomito per lanciare la palla direttamente sopra di te il più in alto possibile.",
+    "Prendi la palla con entrambe le mani mentre scende."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Romboidi-SMR",
+  "name": "Rhomboids-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,8 +11,8 @@
     "traps"
   ],
   "instructions": [
-    "Sdraiati con la schiena a terra. Posiziona un rullo di schiuma sotto la parte superiore della schiena e incrocia le braccia davanti a te, protraendo le spalle. Questa sarà la tua posizione di partenza.",
-    "Solleva i fianchi da terra, posizionando il peso sul rullo di schiuma. Sposta il peso su un lato alla volta, rotolando sulla parte centrale e superiore della schiena. Fai una pausa nei punti di tensione per 10-30 secondi."
+    "Lay down with your back on the floor. Place a foam roll underneath your upper back, and cross your arms in front of you, protracting your shoulders. This will be your starting position.",
+    "Raise your hips off of the ground, placing your weight onto the foam roll. Shift your weight to one side at a time, rolling over your middle and upper back. Pause at points of tension for 10-30 seconds."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,10 @@
   "instructions_fr": [
     "Allongez-vous sur le dos, le dos contre le sol. Placez un rouleau en mousse sous votre dos supérieur et croisez les bras devant vous, en protractant les épaules. Cette position sera votre position de départ.",
     "Soulevez vos hanches du sol, en posant votre poids sur le rouleau en mousse. Déplacez votre poids d'un côté à l'autre, en roulant sur votre dos moyen et supérieur. Marquez un arrêt aux points de tension pendant 10 à 30 secondes."
+  ],
+  "name_it": "Romboidi-SMR",
+  "instructions_it": [
+    "Sdraiati con la schiena a terra. Posiziona un rullo di schiuma sotto la parte superiore della schiena e incrocia le braccia davanti a te, protraendo le spalle. Questa sarà la tua posizione di partenza.",
+    "Solleva i fianchi da terra, posizionando il peso sul rullo di schiuma. Sposta il peso su un lato alla volta, rotolando sulla parte centrale e superiore della schiena. Fai una pausa nei punti di tensione per 10-30 secondi."
   ]
 }

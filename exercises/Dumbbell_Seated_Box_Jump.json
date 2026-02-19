@@ -1,5 +1,5 @@
 {
-  "name": "Salto su Scatola con Manubri da Seduto",
+  "name": "Dumbbell Seated Box Jump",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Posiziona una scatola a un paio di piedi di distanza da una panca. Tieni un manubrio al petto con entrambe le mani e siediti sulla panca di fronte alla scatola. Questa sarà la tua posizione di partenza.",
-    "Piantati saldamente con i piedi a terra mentre ti inclini in avanti, estendendo i fianchi e le ginocchia per saltare in alto e in avanti.",
-    "Atterra sulla scatola con entrambi i piedi, assorbendo l'impatto permettendo ai fianchi e alle ginocchia di piegarsi.",
-    "Scendi e torna alla posizione di partenza."
+    "Position a box a couple feet to the side of a bench. Hold a dumbbell to your chest with both hands and seat yourself on the bench facing the box. This will be your starting position.",
+    "Plant your feet firmly on the ground as you lean forward, extending through the hips and knees to jump up and forward.",
+    "Land on the box with both feet, absorbing the impact by allowing the hips and knees to bend.",
+    "Step down and return to the starting position."
   ],
   "category": "plyometrics",
   "images": [
@@ -29,5 +29,12 @@
     "Plantez vos pieds fermement sur le sol en vous penchant vers l'avant, en étendant les hanches et les genoux pour sauter et avancer.",
     "Posez sur la boîte avec les deux pieds, en absorbant l'impact en laissant les hanches et les genoux fléchis.",
     "Descendez en position de départ."
+  ],
+  "name_it": "Salto su Scatola con Manubri da Seduto",
+  "instructions_it": [
+    "Posiziona una scatola a un paio di piedi di distanza da una panca. Tieni un manubrio al petto con entrambe le mani e siediti sulla panca di fronte alla scatola. Questa sarà la tua posizione di partenza.",
+    "Piantati saldamente con i piedi a terra mentre ti inclini in avanti, estendendo i fianchi e le ginocchia per saltare in alto e in avanti.",
+    "Atterra sulla scatola con entrambi i piedi, assorbendo l'impatto permettendo ai fianchi e alle ginocchia di piegarsi.",
+    "Scendi e torna alla posizione di partenza."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Afferramento della parte superiore della schiena e delle gambe",
+  "name": "Upper Back-Leg Grab",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,8 +12,8 @@
     "middle back"
   ],
   "instructions": [
-    "Seduto, inclina in avanti per abbracciare le cosce da sotto con entrambe le braccia.",
-    "Tieni le ginocchia unite e le gambe distese mentre porti il petto verso le ginocchia. Puoi anche allungare la parte centrale della schiena tirando la schiena lontano dalle ginocchia mentre le abbracci."
+    "While seated, bend forward to hug your thighs from underneath with both arms.",
+    "Keep your knees together and your legs extended out as you bring your chest down to your knees. You can also stretch your middle back by pulling your back away from your knees as your hugging them."
   ],
   "category": "stretching",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "En position assise, penchez-vous en avant pour enlacer vos cuisses par-dessous avec les deux bras.",
     "Gardez les genoux ensemble et les jambes étendues en ramenant la poitrine vers les genoux. Vous pouvez également étirer le milieu du dos en éloignant le dos des genoux lorsque vous les serrez contre vous."
+  ],
+  "name_it": "Afferramento della parte superiore della schiena e delle gambe",
+  "instructions_it": [
+    "Seduto, inclina in avanti per abbracciare le cosce da sotto con entrambe le braccia.",
+    "Tieni le ginocchia unite e le gambe distese mentre porti il petto verso le ginocchia. Puoi anche allungare la parte centrale della schiena tirando la schiena lontano dalle ginocchia mentre le abbracci."
   ]
 }

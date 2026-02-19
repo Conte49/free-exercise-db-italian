@@ -1,5 +1,5 @@
 {
-  "name": "Curl Concentrato in Piedi",
+  "name": "Standing Concentration Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "forearms"
   ],
   "instructions": [
-    "Prendi un manubrio con la mano di lavoro e inclina il corpo in avanti. Lascia che il braccio di lavoro penda perpendicolare al suolo con il gomito rivolto verso l'esterno. Questa sarà la tua posizione di partenza.",
-    "Fletti il gomito per sollevare il peso, mantenendo il braccio superiore fermo. Nella parte superiore della ripetizione, contrai il bicipite e fai una pausa.",
-    "Abbassa il manubrio tornando alla posizione di partenza.",
-    "Ripeti il movimento per il numero di ripetizioni prescritto."
+    "Taking a dumbbell in your working hand, lean forward. Allow your working arm to hang perpendicular to the ground with the elbow pointing out. This will be your starting position.",
+    "Flex the elbow to curl the weight, keeping the upper arm stationary. At the top of the repetition, flex the biceps and pause.",
+    "Lower the dumbbell back to the starting position.",
+    "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Fléchissez le coude pour soulever le poids, en gardant le bras supérieur immobile. En haut de la répétition, contractez les biceps et faites une pause.",
     "Abaissez l'haltère jusqu'à la position de départ.",
     "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ],
+  "name_it": "Curl Concentrato in Piedi",
+  "instructions_it": [
+    "Prendi un manubrio con la mano di lavoro e inclina il corpo in avanti. Lascia che il braccio di lavoro penda perpendicolare al suolo con il gomito rivolto verso l'esterno. Questa sarà la tua posizione di partenza.",
+    "Fletti il gomito per sollevare il peso, mantenendo il braccio superiore fermo. Nella parte superiore della ripetizione, contrai il bicipite e fai una pausa.",
+    "Abbassa il manubrio tornando alla posizione di partenza.",
+    "Ripeti il movimento per il numero di ripetizioni prescritto."
   ]
 }

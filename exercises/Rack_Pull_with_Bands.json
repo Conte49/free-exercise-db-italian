@@ -1,5 +1,5 @@
 {
-  "name": "Rack Pull con Bande",
+  "name": "Rack Pull with Bands",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,9 +15,9 @@
     "traps"
   ],
   "instructions": [
-    "Imposta un power rack con la barra sui supporti. I supporti devono essere posizionati al punto desiderato; appena sotto le ginocchia, appena sopra, o nella posizione a metà coscia. Attacca le bande alla base del rack, o fissale con dei manubri. Attacca l'altra estremità alla barra. Potrebbe essere necessario stringere le bande per fornire tensione.",
-    "Posizionati contro la barra nella corretta posizione per il deadlift. I tuoi piedi dovrebbero essere sotto i tuoi fianchi, la presa alla larghezza delle spalle, la schiena arcuata e i fianchi indietro per attivare i muscoli posteriori della coscia. Poiché il peso è tipicamente pesante, puoi utilizzare una presa mista, una presa a uncino, o usare delle cinghie per aiutarti a tenere il peso.",
-    "Con la testa rivolta in avanti, estendi i fianchi e le ginocchia, sollevando il peso verso l'alto e indietro fino al blocco. Assicurati di tirare indietro le spalle mentre completi il movimento. Riporta il peso sui supporti e ripeti."
+    "Set up in a power rack with the bar on the pins. The pins should be set to the desired point; just below the knees, just above, or in the mid thigh position. Attach bands to the base of the rack, or secure them with dumbbells. Attach the other end to the bar. You may need to choke the bands to provide tension.",
+    "Position yourself against the bar in proper deadlifting position. Your feet should be under your hips, your grip shoulder width, back arched, and hips back to engage the hamstrings. Since the weight is typically heavy, you may use a mixed grip, a hook grip, or use straps to aid in holding the weight.",
+    "With your head looking forward, extend through the hips and knees, pulling the weight up and back until lockout. Be sure to pull your shoulders back as you complete the movement. Return the weight to the pins and repeat."
   ],
   "category": "powerlifting",
   "images": [
@@ -29,5 +29,11 @@
     "Installez-vous dans un power rack avec la barre sur les épingles. Les épingles doivent être réglées au point souhaité ; juste en dessous des genoux, juste au-dessus ou au niveau de la cuisse. Attachez des bandes à la base du rack ou fixez-les avec des haltères. Attachez l'autre extrémité à la barre. Vous devrez peut-être serrer les bandes pour fournir de la tension.",
     "Positionnez-vous face à la barre dans une posture de soulevé de terre correcte. Vos pieds doivent être sous vos hanches, votre prise à la largeur des épaules, votre dos arqué et vos hanches en arrière pour activer les ischio-jambiers. Étant donné que le poids est généralement important, vous pouvez utiliser une prise mixte, une prise en crochet ou des sangles pour faciliter la tenue du poids.",
     "En gardant la tête tournée vers l'avant, étendez les hanches et les genoux, tirez le poids vers le haut et vers l'arrière jusqu'à la position de verrouillage. Assurez-vous de ramener les épaules en arrière lors de l'exécution du mouvement. Remettez le poids sur les épingles et répétez l'opération."
+  ],
+  "name_it": "Rack Pull con Bande",
+  "instructions_it": [
+    "Imposta un power rack con la barra sui supporti. I supporti devono essere posizionati al punto desiderato; appena sotto le ginocchia, appena sopra, o nella posizione a metà coscia. Attacca le bande alla base del rack, o fissale con dei manubri. Attacca l'altra estremità alla barra. Potrebbe essere necessario stringere le bande per fornire tensione.",
+    "Posizionati contro la barra nella corretta posizione per il deadlift. I tuoi piedi dovrebbero essere sotto i tuoi fianchi, la presa alla larghezza delle spalle, la schiena arcuata e i fianchi indietro per attivare i muscoli posteriori della coscia. Poiché il peso è tipicamente pesante, puoi utilizzare una presa mista, una presa a uncino, o usare delle cinghie per aiutarti a tenere il peso.",
+    "Con la testa rivolta in avanti, estendi i fianchi e le ginocchia, sollevando il peso verso l'alto e indietro fino al blocco. Assicurati di tirare indietro le spalle mentre completi il movimento. Riporta il peso sui supporti e ripeti."
   ]
 }

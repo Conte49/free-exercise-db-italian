@@ -1,5 +1,5 @@
 {
-  "name": "Il Divaricamento",
+  "name": "The Straddle",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,9 +12,8 @@
     "calves"
   ],
   "instructions": [
-    "Inizia in posizione seduta e dritta.",
-    "Inizia estendendo le gambe davanti a te a forma di V.",
-    "Con le mani a terra, inclina il corpo in avanti il più possibile. Mantieni la posizione per 10-20 secondi."
+    "Begin in a seated, upright position. Start by extending your legs in front of you in a V.",
+    "With your hands on the floor, lean forward as far as possible. Hold for 10 to 20 seconds."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +24,11 @@
   "instructions_fr": [
     "Commencez en position assise et droite. Commencez par étendre vos jambes devant vous en forme de V.",
     "Avec les mains à plat sur le sol, penchez-vous en avant aussi loin que possible. Maintenez la position pendant 10 à 20 secondes."
+  ],
+  "name_it": "Il Divaricamento",
+  "instructions_it": [
+    "Inizia in posizione seduta e dritta.",
+    "Inizia estendendo le gambe davanti a te a forma di V.",
+    "Con le mani a terra, inclina il corpo in avanti il più possibile. Mantieni la posizione per 10-20 secondi."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Push-Up Incline Depth Jump",
+  "name": "Incline Push-Up Depth Jump",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "triceps"
   ],
   "instructions": [
-    "Per questo esercizio avrai bisogno di una scatola alta circa 30 centimetri e di due materassini spessi o gradini da aerobica.",
-    "Posiziona i gradini appena al di fuori delle spalle e metti i piedi sopra la scatola in modo da essere in posizione di push-up inclinato, con le mani appena all'interno dei gradini. Questa sarà la tua posizione di partenza.",
-    "Inizia piegando i gomiti per abbassare il corpo, invertendo rapidamente la posizione per spingere il corpo da terra. Mentre lasci il suolo, sposta le mani sui gradini, piegando i gomiti per assorbire l'impatto.",
-    "Ripeti il movimento per tornare alla posizione di partenza."
+    "For this drill you will need a box about 12 inches high, and two thick mats or aerobics steps.",
+    "Place the steps just outside of your shoulders, and place your feet on top of the box so that you are in an incline pushup position, your hands just inside the steps. This will be your starting position.",
+    "Begin by bending at the elbows to lower your body, quickly reversing position to push your body off of the ground. As you leave the ground, move your hands onto the steps, bending your elbows to absorb the impact.",
+    "Repeat the motion to return to the starting position."
   ],
   "category": "plyometrics",
   "images": [
@@ -28,5 +28,12 @@
     "Placez les marches juste à l'extérieur de vos épaules et posez vos pieds sur la boîte de sorte que vous soyez en position de pompes inclinées, les mains juste à l'intérieur des marches. Cette position sera votre position de départ.",
     "Commencez par vous pencher au niveau des coudes pour abaisser votre corps, puis inversez rapidement la position pour vous propulser du sol. Au moment de quitter le sol, déplacez vos mains vers les marches en pliant les coudes pour amortir l'impact.",
     "Répétez le mouvement pour revenir à la position de départ."
+  ],
+  "name_it": "Push-Up Incline Depth Jump",
+  "instructions_it": [
+    "Per questo esercizio avrai bisogno di una scatola alta circa 30 centimetri e di due materassini spessi o gradini da aerobica.",
+    "Posiziona i gradini appena al di fuori delle spalle e metti i piedi sopra la scatola in modo da essere in posizione di push-up inclinato, con le mani appena all'interno dei gradini. Questa sarà la tua posizione di partenza.",
+    "Inizia piegando i gomiti per abbassare il corpo, invertendo rapidamente la posizione per spingere il corpo da terra. Mentre lasci il suolo, sposta le mani sui gradini, piegando i gomiti per assorbire l'impatto.",
+    "Ripeti il movimento per tornare alla posizione di partenza."
   ]
 }

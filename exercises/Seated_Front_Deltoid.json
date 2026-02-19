@@ -1,5 +1,5 @@
 {
-  "name": "Deltoidi Anteriori da Seduti",
+  "name": "Seated Front Deltoid",
   "force": "static",
   "level": "expert",
   "mechanic": null,
@@ -11,9 +11,9 @@
     "chest"
   ],
   "instructions": [
-    "Siediti dritto sul pavimento con le gambe piegate, il tuo partner in piedi dietro di te. Estendi le braccia dritte ai lati, con i palmi rivolti verso il basso. Cerca di muoverle il più indietro possibile, mentre il tuo assistente tiene i tuoi polsi. Questa sarà la tua posizione di partenza.",
-    "Mantenendo i gomiti dritti, cerca di muovere le braccia in avanti, mentre il tuo partner ti trattiene delicatamente per evitare qualsiasi movimento reale per 10-20 secondi.",
-    "Ora, rilassa i muscoli e consenti al tuo partner di aumentare delicatamente lo stiramento sulle spalle e sul petto. Mantieni la posizione per 10-20 secondi."
+    "Sit upright on the floor with your legs bent, your partner standing behind you. Stick your arms straight out to your sides, with your palms facing the ground. Attempt to move them as far behind you as possible, as your assistant holds your wrists. This will be your starting position.",
+    "Keeping your elbows straight, attempt to move your arms to the front, with your partner gently restraining you to prevent any actual movement for 10-20 seconds.",
+    "Now, relax your muscles and allow your partner to gently increase the stretch on the shoulders and chest. Hold for 10 to 20 seconds."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Asseyez-vous droit sur le sol avec les jambes pliées, votre partenaire debout derrière vous. Étirez les bras vers l'extérieur, à angle droit, les paumes face au sol. Essayez de les déplacer aussi loin que possible vers l'arrière, tandis que votre assistant tient vos poignets. Telle sera votre position de départ.",
     "En gardant vos coudes droits, essayez de déplacer vos bras vers l'avant, tandis que votre partenaire vous retient doucement pour empêcher tout mouvement réel pendant 10 à 20 secondes.",
     "Maintenant, détendez vos muscles et laissez votre partenaire augmenter doucement l'étirement sur les épaules et la poitrine. Maintenez la position pendant 10 à 20 secondes."
+  ],
+  "name_it": "Deltoidi Anteriori da Seduti",
+  "instructions_it": [
+    "Siediti dritto sul pavimento con le gambe piegate, il tuo partner in piedi dietro di te. Estendi le braccia dritte ai lati, con i palmi rivolti verso il basso. Cerca di muoverle il più indietro possibile, mentre il tuo assistente tiene i tuoi polsi. Questa sarà la tua posizione di partenza.",
+    "Mantenendo i gomiti dritti, cerca di muovere le braccia in avanti, mentre il tuo partner ti trattiene delicatamente per evitare qualsiasi movimento reale per 10-20 secondi.",
+    "Ora, rilassa i muscoli e consenti al tuo partner di aumentare delicatamente lo stiramento sulle spalle e sul petto. Mantieni la posizione per 10-20 secondi."
   ]
 }

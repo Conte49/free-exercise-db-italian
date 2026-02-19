@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dell'anca con bande",
+  "name": "Hip Extension with Bands",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,10 +11,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Fissa un'estremità della banda alla parte bassa di un palo e attacca l'altra a una caviglia.",
-    "Di fronte al punto di attacco della banda, afferra la colonna per stabilizzarti.",
-    "Tenendo la testa e il petto alti, sposta la gamba resistente indietro il più possibile mantenendo il ginocchio dritto.",
-    "Riporta la gamba alla posizione di partenza."
+    "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
+    "Facing the attachment point of the band, hold on to the column to stabilize yourself.",
+    "Keeping your head and your chest up, move the resisted leg back as far as you can while keeping the knee straight.",
+    "Return the leg to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Face au point d'attache de l'élastique, tenez-vous à la colonne pour vous stabiliser.",
     "En gardant la tête et la poitrine relevées, déplacez la jambe résistante le plus loin possible tout en gardant le genou tendu.",
     "Ramenez la jambe à la position de départ."
+  ],
+  "name_it": "Estensione dell'anca con bande",
+  "instructions_it": [
+    "Fissa un'estremità della banda alla parte bassa di un palo e attacca l'altra a una caviglia.",
+    "Di fronte al punto di attacco della banda, afferra la colonna per stabilizzarti.",
+    "Tenendo la testa e il petto alti, sposta la gamba resistente indietro il più possibile mantenendo il ginocchio dritto.",
+    "Riporta la gamba alla posizione di partenza."
   ]
 }

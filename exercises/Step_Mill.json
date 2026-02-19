@@ -13,8 +13,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per iniziare, sali sullo stepmill e seleziona l'opzione desiderata dal menu. Puoi scegliere un'impostazione manuale o selezionare un programma da eseguire. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. Fai attenzione a non inciampare mentre sali le scale. Si consiglia di mantenere la presa sulle maniglie per non cadere.",
-    "Gli stepmill offrono comodità, benefici cardiovascolari e di solito hanno un impatto minore rispetto alla corsa all'aperto, pur offrendo un tasso simile di calorie bruciate. Sono tipicamente molto più impegnativi rispetto ad altre attrezzature cardio. Una persona di 150 lb brucerà generalmente oltre 300 calorie in 30 minuti, rispetto a circa 175 calorie camminando."
+    "To begin, step onto the stepmill and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Use caution so that you don't trip as you climb the stairs. It is recommended that you maintain your grip on the handles so that you don't fall.",
+    "Stepmills offer convenience, cardiovascular benefits, and usually have less impact than running outside while offering a similar rate of calories burned. They are typically much harder than other cardio equipment. A 150 lb person will typically burn over 300 calories in 30 minutes, compared to about 175 calories walking."
   ],
   "category": "cardio",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Pour commencer, montez sur le stepmill et sélectionnez l'option souhaitée dans le menu. Vous pouvez choisir un réglage manuel ou sélectionner un programme à exécuter. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. Faites attention de ne pas trébucher en montant les escaliers. Il est recommandé de maintenir fermement les poignées pour éviter toute chute.",
     "Les steppers offrent une commodité, des avantages cardiovasculaires et ont généralement moins d'impact que la course à pied tout en proposant un taux de calories brûlées similaire. Ils sont généralement beaucoup plus difficiles que d'autres équipements de cardio. Une personne de 150 lb brûlera typiquement plus de 300 calories en 30 minutes, contre environ 175 calories en marchant."
+  ],
+  "name_it": "Step Mill",
+  "instructions_it": [
+    "Per iniziare, sali sullo stepmill e seleziona l'opzione desiderata dal menu. Puoi scegliere un'impostazione manuale o selezionare un programma da eseguire. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. Fai attenzione a non inciampare mentre sali le scale. Si consiglia di mantenere la presa sulle maniglie per non cadere.",
+    "Gli stepmill offrono comodità, benefici cardiovascolari e di solito hanno un impatto minore rispetto alla corsa all'aperto, pur offrendo un tasso simile di calorie bruciate. Sono tipicamente molto più impegnativi rispetto ad altre attrezzature cardio. Una persona di 150 lb brucerà generalmente oltre 300 calorie in 30 minuti, rispetto a circa 175 calorie camminando."
   ]
 }

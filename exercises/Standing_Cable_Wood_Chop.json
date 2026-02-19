@@ -1,5 +1,5 @@
 {
-  "name": "Chop con Cavo in Piedi",
+  "name": "Standing Cable Wood Chop",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,14 +11,14 @@
     "shoulders"
   ],
   "instructions": [
-    "Collega un manico standard a una torre e sposta il cavo nella posizione più alta della puleggia.",
-    "Con il lato rivolto verso il cavo, afferra il manico con una mano e allontanati dalla torre. Dovresti essere a una distanza approssimativa della lunghezza di un braccio dalla puleggia, con la tensione del peso sul cavo. Il tuo braccio disteso dovrebbe essere allineato con il cavo.",
-    "Con i piedi posizionati alla larghezza delle spalle, allunga verso l'alto con l'altra mano e afferra il manico con entrambe le mani. Le tue braccia dovrebbero essere ancora completamente estese.",
-    "In un unico movimento, tira il manico verso il basso e attraverso il tuo corpo fino al ginocchio anteriore ruotando il torso.",
-    "Mantieni la schiena e le braccia dritte e il core attivo mentre ruoti il piede posteriore e pieghi le ginocchia per ottenere un'ampia gamma di movimento.",
-    "Mantieni la tua posizione e le braccia dritte. Torna alla posizione neutra in modo lento e controllato.",
-    "Ripeti fino al cedimento.",
-    "Poi, riposizionati e ripeti la stessa serie di movimenti sul lato opposto."
+    "Connect a standard handle to a tower, and move the cable to the highest pulley position.",
+    "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
+    "With your feet positioned shoulder width apart, reach upward with your other hand and grab the handle with both hands. Your arms should still be fully extended.",
+    "In one motion, pull the handle down and across your body to your front knee while rotating your torso.",
+    "Keep your back and arms straight and core tight while you pivot your back foot and bend your knees to get a full range of motion.",
+    "Maintain your stance and straight arms. Return to the neutral position in a slow and controlled manner.",
+    "Repeat to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
   "images": [
@@ -35,5 +35,16 @@
     "Maintenez votre posture et vos bras droits. Revenez à la position neutre d'une manière lente et contrôlée.",
     "Répétez jusqu'à l'échec.",
     "Ensuite, repositionnez-vous et répétez la même série de mouvements de l'autre côté."
+  ],
+  "name_it": "Chop con Cavo in Piedi",
+  "instructions_it": [
+    "Collega un manico standard a una torre e sposta il cavo nella posizione più alta della puleggia.",
+    "Con il lato rivolto verso il cavo, afferra il manico con una mano e allontanati dalla torre. Dovresti essere a una distanza approssimativa della lunghezza di un braccio dalla puleggia, con la tensione del peso sul cavo. Il tuo braccio disteso dovrebbe essere allineato con il cavo.",
+    "Con i piedi posizionati alla larghezza delle spalle, allunga verso l'alto con l'altra mano e afferra il manico con entrambe le mani. Le tue braccia dovrebbero essere ancora completamente estese.",
+    "In un unico movimento, tira il manico verso il basso e attraverso il tuo corpo fino al ginocchio anteriore ruotando il torso.",
+    "Mantieni la schiena e le braccia dritte e il core attivo mentre ruoti il piede posteriore e pieghi le ginocchia per ottenere un'ampia gamma di movimento.",
+    "Mantieni la tua posizione e le braccia dritte. Torna alla posizione neutra in modo lento e controllato.",
+    "Ripeti fino al cedimento.",
+    "Poi, riposizionati e ripeti la stessa serie di movimenti sul lato opposto."
   ]
 }

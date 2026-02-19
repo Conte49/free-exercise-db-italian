@@ -1,5 +1,5 @@
 {
-  "name": "Press con Kettlebell Alternato",
+  "name": "Alternating Kettlebell Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,9 +11,9 @@
     "triceps"
   ],
   "instructions": [
-    "Porta due kettlebell alle spalle. Solleva le kettlebell alle spalle estendendo le gambe e i fianchi mentre tiri le kettlebell verso le spalle.",
-    "Spingi una kettlebell direttamente sopra la testa estendendo il gomito, ruotandola in modo che il palmo sia rivolto in avanti mentre tieni l'altra kettlebell ferma.",
-    "Abbassa la kettlebell spinta alla posizione di partenza e immediatamente spingi con l'altro braccio."
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
+    "Press one directly overhead by extending through the elbow, turning it so the palm faces forward while holding the other kettlebell stationary .",
+    "Lower the pressed kettlebell to the starting position and immediately press with your other arm."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,11 @@
     "Épaulez deux kettlebells jusqu'à vos épaules. Épaulez les kettlebells jusqu'à vos épaules en étendant les jambes et les hanches tout en tirant les kettlebells vers vos épaules. Faites tourner vos poignets pendant que vous le faites.",
     "Pressez un bras directement au-dessus en étendant le coude, en tournant la paume vers l'avant tout en maintenant l'autre kettlebell immobile.",
     "Abaissez la kettlebell pressée jusqu'à la position de départ et appuyez immédiatement avec votre autre bras."
+  ],
+  "name_it": "Press con Kettlebell Alternato",
+  "instructions_it": [
+    "Porta due kettlebell alle spalle. Solleva le kettlebell alle spalle estendendo le gambe e i fianchi mentre tiri le kettlebell verso le spalle.",
+    "Spingi una kettlebell direttamente sopra la testa estendendo il gomito, ruotandola in modo che il palmo sia rivolto in avanti mentre tieni l'altra kettlebell ferma.",
+    "Abbassa la kettlebell spinta alla posizione di partenza e immediatamente spingi con l'altro braccio."
   ]
 }

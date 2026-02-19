@@ -1,5 +1,5 @@
 {
-  "name": "Push Press con Doppio Kettlebell",
+  "name": "Double Kettlebell Push Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "triceps"
   ],
   "instructions": [
-    "Porta due kettlebell alle spalle.",
-    "Accovacciati di qualche centimetro e inverti rapidamente il movimento. Usa il slancio delle gambe per spingere i kettlebell sopra la testa.",
-    "Una volta che i kettlebell sono bloccati, abbassali alle spalle e ripeti."
+    "Clean two kettlebells to your shoulders.",
+    "Squat down a few inches and reverse the motion rapidly. Use the momentum from the legs to drive the kettlebells overhead.",
+    "Once the kettlebells are locked out, lower the kettlebells to your shoulders and repeat."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,11 @@
     "Épaulez deux kettlebells jusqu'à vos épaules.",
     "Pliez-vous légèrement et inversez le mouvement rapidement. Utilisez la force d'élan des jambes pour projeter les kettlebells au-dessus de votre tête.",
     "Une fois les kettlebells verrouillées, abaissez-les jusqu'à vos épaules et répétez l'exercice."
+  ],
+  "name_it": "Push Press con Doppio Kettlebell",
+  "instructions_it": [
+    "Porta due kettlebell alle spalle.",
+    "Accovacciati di qualche centimetro e inverti rapidamente il movimento. Usa il slancio delle gambe per spingere i kettlebell sopra la testa.",
+    "Una volta che i kettlebell sono bloccati, abbassali alle spalle e ripeti."
   ]
 }

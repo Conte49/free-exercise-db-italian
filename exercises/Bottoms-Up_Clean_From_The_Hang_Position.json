@@ -1,5 +1,5 @@
 {
-  "name": "Pulizia dal basso in posizione di sospensione",
+  "name": "Bottoms-Up Clean From The Hang Position",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,8 +12,8 @@
     "shoulders"
   ],
   "instructions": [
-    "Inizia l'esercizio in posizione eretta con un kettlebell in una mano.",
-    "Fai oscillare il kettlebell all'indietro con forza e poi inverti il movimento con forza. Schiaccia il manico del kettlebell il più forte possibile e solleva il kettlebell fino alla spalla."
+    "Initiate the exercise by standing upright with a kettlebell in one hand.",
+    "Swing the kettlebell back forcefully and then reverse the motion forcefully. Crush the kettlebell handle as hard as possible and raise the kettlebell to your shoulder."
   ],
   "category": "strength",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Commencez l'exercice en vous tenant debout, une kettlebell à la main.",
     "Faites balancer la kettlebell en arrière de manière énergique, puis inversez le mouvement avec force. Serrez fermement la poignée de la kettlebell et soulevez-la jusqu'à votre épaule."
+  ],
+  "name_it": "Pulizia dal basso in posizione di sospensione",
+  "instructions_it": [
+    "Inizia l'esercizio in posizione eretta con un kettlebell in una mano.",
+    "Fai oscillare il kettlebell all'indietro con forza e poi inverti il movimento con forza. Schiaccia il manico del kettlebell il più forte possibile e solleva il kettlebell fino alla spalla."
   ]
 }

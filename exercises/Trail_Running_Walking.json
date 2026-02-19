@@ -1,5 +1,5 @@
 {
-  "name": "Corsa/Walking su Sentieri",
+  "name": "Trail Running/Walking",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -13,8 +13,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Correre o camminare su sentieri farà pompare il sangue e battere il cuore quasi immediatamente. Assicurati di avere buone scarpe. Mentre usi i muscoli dei polpacci e dei glutei per tirarti su per una collina, le ginocchia, le articolazioni e le caviglie assorbono la maggior parte dell'impatto durante la discesa. Fai passi più piccoli mentre scendi, mantieni le ginocchia piegate per ridurre l'impatto e rallenta per evitare di cadere.",
-    "Una persona di 68 kg può bruciare oltre 200 calorie in 30 minuti camminando in salita, rispetto a 175 su una superficie piana. Se corri sul sentiero, una persona di 68 kg può bruciare ben oltre 500 calorie in 30 minuti."
+    "Running or hiking on trails will get the blood pumping and heart beating almost immediately. Make sure you have good shoes. While you use the muscles in your calves and buttocks to pull yourself up a hill, the knees, joints and ankles absorb the bulk of the pounding coming back down. Take smaller steps as you walk downhill, keep your knees bent to reduce the impact and slow down to avoid falling.",
+    "A 150 lb person can burn over 200 calories for 30 minutes walking uphill, compared to 175 on a flat surface. If running the trail, a 150 lb person can burn well over 500 calories in 30 minutes."
   ],
   "category": "cardio",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "La course à pied ou la randonnée en montagne fait monter immédiatement le flux sanguin et les battements cardiaques. Assurez-vous d'avoir de bonnes chaussures. Alors que vous utilisez les muscles de vos mollets et de vos fessiers pour tirer sur une colline, les genoux, les articulations et les chevilles absorbent la plus grande partie des chocs lors de la descente. Prenez des pas plus petits lorsque vous marchez en descente, gardez les genoux pliés pour réduire l'impact et ralentissez pour éviter de tomber.",
     "Une personne de 150 livres peut brûler plus de 200 calories en marchant sur une pente pendant 30 minutes, par rapport à 175 sur une surface plane. Si vous courez sur le sentier, une personne de 150 livres peut brûler plus de 500 calories en 30 minutes."
+  ],
+  "name_it": "Corsa/Walking su Sentieri",
+  "instructions_it": [
+    "Correre o camminare su sentieri farà pompare il sangue e battere il cuore quasi immediatamente. Assicurati di avere buone scarpe. Mentre usi i muscoli dei polpacci e dei glutei per tirarti su per una collina, le ginocchia, le articolazioni e le caviglie assorbono la maggior parte dell'impatto durante la discesa. Fai passi più piccoli mentre scendi, mantieni le ginocchia piegate per ridurre l'impatto e rallenta per evitare di cadere.",
+    "Una persona di 68 kg può bruciare oltre 200 calorie in 30 minuti camminando in salita, rispetto a 175 su una superficie piana. Se corri sul sentiero, una persona di 68 kg può bruciare ben oltre 500 calorie in 30 minuti."
   ]
 }

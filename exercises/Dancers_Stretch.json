@@ -1,5 +1,5 @@
 {
-  "name": "Stretching del ballerino",
+  "name": "Dancer's Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,10 +12,10 @@
     "glutes"
   ],
   "instructions": [
-    "Siediti sul pavimento.",
-    "Incrocia la gamba destra sopra la sinistra, mantenendo il ginocchio piegato. La gamba sinistra è dritta e appoggiata a terra.",
-    "Posiziona il braccio sinistro sulla gamba destra e la mano destra sul pavimento.",
-    "Ruota la parte superiore del corpo verso destra e mantieni la posizione per 10-20 secondi. Cambia lato."
+    "Sit up on the floor.",
+    "Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.",
+    "Place your left arm on your right leg and your right hand on the floor.",
+    "Rotate your upper body to the right, and hold for 10-20 seconds. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -28,5 +28,12 @@
     "Croisez votre jambe droite sur votre gauche en gardant le genou plié. Votre jambe gauche est tendue et à plat sur le sol.",
     "Posez votre bras gauche sur votre jambe droite et votre main droite sur le sol.",
     "Faites pivoter votre corps vers la droite et maintenez cette position pendant 10 à 20 secondes. Alternez les côtés."
+  ],
+  "name_it": "Stretching del ballerino",
+  "instructions_it": [
+    "Siediti sul pavimento.",
+    "Incrocia la gamba destra sopra la sinistra, mantenendo il ginocchio piegato. La gamba sinistra è dritta e appoggiata a terra.",
+    "Posiziona il braccio sinistro sulla gamba destra e la mano destra sul pavimento.",
+    "Ruota la parte superiore del corpo verso destra e mantieni la posizione per 10-20 secondi. Cambia lato."
   ]
 }

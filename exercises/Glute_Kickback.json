@@ -1,5 +1,5 @@
 {
-  "name": "Calcio all'indietro",
+  "name": "Glute Kickback",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,10 +11,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Mettiti in ginocchio sul pavimento o su un tappetino da esercizio e piegati in vita con le braccia distese davanti a te (perpendicolari al torso) per assumere una posizione di flessione in ginocchio, ma con le braccia distanziate alla larghezza delle spalle. La testa deve essere rivolta in avanti e la flessione delle ginocchia deve creare un angolo di 90 gradi tra i muscoli posteriori della coscia e i polpacci. Questa sarà la tua posizione di partenza.",
-    "Mentre espiri, solleva la gamba destra fino a quando i muscoli posteriori della coscia sono allineati con la schiena, mantenendo l'angolo di 90 gradi. Contrai i glutei durante questo movimento e mantieni la contrazione in cima per un secondo. Suggerimento: alla fine del movimento, la coscia superiore dovrebbe essere parallela al pavimento mentre il polpaccio dovrebbe essere perpendicolare ad esso.",
-    "Torna alla posizione iniziale mentre inspiri e ora ripeti con la gamba sinistra.",
-    "Continua ad alternare le gambe fino a quando tutte le ripetizioni consigliate sono state eseguite."
+    "Kneel on the floor or an exercise mat and bend at the waist with your arms extended in front of you (perpendicular to the torso) in order to get into a kneeling push-up position but with the arms spaced at shoulder width. Your head should be looking forward and the bend of the knees should create a 90-degree angle between the hamstrings and the calves. This will be your starting position.",
+    "As you exhale, lift up your right leg until the hamstrings are in line with the back while maintaining the 90-degree angle bend. Contract the glutes throughout this movement and hold the contraction at the top for a second. Tip: At the end of the movement the upper leg should be parallel to the floor while the calf should be perpendicular to it.",
+    "Go back to the initial position as you inhale and now repeat with the left leg.",
+    "Continue to alternate legs until all of the recommended repetitions have been performed."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "En expirant, soulevez votre jambe droite jusqu'à ce que les ischio-jambiers soient dans le même alignement que le dos tout en maintenant l'angle de 90 degrés. Contractez les fessiers pendant tout le mouvement et maintenez la contraction pendant une seconde au sommet. Astuce : À la fin du mouvement, la jambe supérieure doit être parallèle au sol tandis que le mollet doit lui être perpendiculaire.",
     "Revenez à la position initiale en inspirant et répétez maintenant avec la jambe gauche.",
     "Continuez à alterner les jambes jusqu'à ce que toutes les répétitions recommandées aient été effectuées."
+  ],
+  "name_it": "Calcio all'indietro",
+  "instructions_it": [
+    "Mettiti in ginocchio sul pavimento o su un tappetino da esercizio e piegati in vita con le braccia distese davanti a te (perpendicolari al torso) per assumere una posizione di flessione in ginocchio, ma con le braccia distanziate alla larghezza delle spalle. La testa deve essere rivolta in avanti e la flessione delle ginocchia deve creare un angolo di 90 gradi tra i muscoli posteriori della coscia e i polpacci. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, solleva la gamba destra fino a quando i muscoli posteriori della coscia sono allineati con la schiena, mantenendo l'angolo di 90 gradi. Contrai i glutei durante questo movimento e mantieni la contrazione in cima per un secondo. Suggerimento: alla fine del movimento, la coscia superiore dovrebbe essere parallela al pavimento mentre il polpaccio dovrebbe essere perpendicolare ad esso.",
+    "Torna alla posizione iniziale mentre inspiri e ora ripeti con la gamba sinistra.",
+    "Continua ad alternare le gambe fino a quando tutte le ripetizioni consigliate sono state eseguite."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Trazione Laterale del Polso",
+  "name": "Side Wrist Pull",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,8 +12,8 @@
     "lats"
   ],
   "instructions": [
-    "Questo allungamento funziona meglio in piedi. Incrocia il braccio sinistro oltre la linea mediana del tuo corpo e afferra il polso sinistro con la mano destra all'altezza dei fianchi. Inizia l'allungamento con il braccio sinistro piegato.",
-    "Raddrizza lentamente il braccio, tira e sollevalo all'altezza della spalla, come mostrato nell'immagine. Senti questo allungamento partire dalla schiena, non dalle spalle, e non tirare troppo sull'articolazione della spalla. Cambia lato."
+    "This stretch works best standing. Cross your left arm over the midline of your body and hold the left wrist in your right hand down at the level of your hips. Start the stretch with a bent left arm.",
+    "Slowly straighten, pull, and lift it up to shoulder height, as pictured. Feel this stretch originate in your back, not your shoulders, and don't pull too hard on the shoulders joint. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Cet étirement fonctionne mieux debout. Croisez votre bras gauche sur la ligne médiane de votre corps et tenez le poignet gauche avec votre main droite au niveau des hanches. Commencez l'étirement avec un coude gauche fléchi.",
     "Redressez-le lentement, tirez et soulevez-le jusqu'à la hauteur de l'épaule, comme illustré. Ressentez cette étirement qui provient du dos, non des épaules, et n'exercez pas une pression trop forte sur l'articulation des épaules. Alternez les côtés."
+  ],
+  "name_it": "Trazione Laterale del Polso",
+  "instructions_it": [
+    "Questo allungamento funziona meglio in piedi. Incrocia il braccio sinistro oltre la linea mediana del tuo corpo e afferra il polso sinistro con la mano destra all'altezza dei fianchi. Inizia l'allungamento con il braccio sinistro piegato.",
+    "Raddrizza lentamente il braccio, tira e sollevalo all'altezza della spalla, come mostrato nell'immagine. Senti questo allungamento partire dalla schiena, non dalle spalle, e non tirare troppo sull'articolazione della spalla. Cambia lato."
   ]
 }

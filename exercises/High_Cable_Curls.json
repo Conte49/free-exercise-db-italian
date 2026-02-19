@@ -1,5 +1,5 @@
 {
-  "name": "Curl con Cavi Alti",
+  "name": "High Cable Curls",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi tra un paio di pulegge alte e afferra un manico in ciascun braccio. Posiziona i tuoi avambracci in modo che siano paralleli al pavimento con i palmi delle mani rivolti verso di te. Questa sarà la tua posizione di partenza.",
-    "Curl i manici verso di te fino a portarli vicino alle orecchie. Assicurati che mentre lo fai fletti i bicipiti ed espiri. I bracci superiori devono rimanere fermi e solo gli avambracci devono muoversi. Tieni la posizione contratta per un secondo mentre contrai i bicipiti.",
-    "Riporta lentamente le braccia alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Stand between a couple of high pulleys and grab a handle in each arm. Position your upper arms in a way that they are parallel to the floor with the palms of your hands facing you. This will be your starting position.",
+    "Curl the handles towards you until they are next to your ears. Make sure that as you do so you flex your biceps and exhale. The upper arms should remain stationary and only the forearms should move. Hold for a second in the contracted position as you squeeze the biceps.",
+    "Slowly bring back the arms to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Enroulez les poignées vers vous jusqu'à ce qu'elles soient à côté de vos oreilles. Assurez-vous que, alors que vous le faites, vous contractez vos biceps et que vous exhalez. Les bras supérieurs doivent rester fixes et seuls les avant-bras doivent bouger. Maintenez la position contractée pendant une seconde en contractant les biceps.",
     "Ramenez lentement les bras à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con Cavi Alti",
+  "instructions_it": [
+    "Stai in piedi tra un paio di pulegge alte e afferra un manico in ciascun braccio. Posiziona i tuoi avambracci in modo che siano paralleli al pavimento con i palmi delle mani rivolti verso di te. Questa sarà la tua posizione di partenza.",
+    "Curl i manici verso di te fino a portarli vicino alle orecchie. Assicurati che mentre lo fai fletti i bicipiti ed espiri. I bracci superiori devono rimanere fermi e solo gli avambracci devono muoversi. Tieni la posizione contratta per un secondo mentre contrai i bicipiti.",
+    "Riporta lentamente le braccia alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

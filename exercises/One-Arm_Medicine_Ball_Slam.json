@@ -1,5 +1,5 @@
 {
-  "name": "Slam con Palla Medica a Un Braccio",
+  "name": "One-Arm Medicine Ball Slam",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Inizia in posizione eretta con una postura atletica e le gambe divaricate. Tieni una palla medica in una mano, dallo stesso lato della gamba posteriore. Questa sarà la tua posizione di partenza.",
-    "Inizia ruotando il braccio, sollevando la palla medica sopra la testa. Mentre lo fai, estendi anche i fianchi, le ginocchia e le caviglie per prepararti al slam.",
-    "Al massimo dell'estensione, flette le spalle, la colonna vertebrale e i fianchi per lanciare la palla con forza a terra direttamente di fronte a te.",
-    "Prendi la palla al rimbalzo e continua per il numero desiderato di ripetizioni."
+    "Start in a standing position with a staggered, athletic stance. Hold a medicine ball in one hand, on the same side as your back leg. This will be your starting position.",
+    "Begin by winding the arm, raising the medicine ball above your head. As you do so, extend through the hips, knees, and ankles to load up for the slam.",
+    "At peak extension, flex the shoulders, spine, and hips to throw the ball hard into the ground directly in front of you.",
+    "Catch the ball on the bounce and continue for the desired number of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Commencez par enrouler le bras, en levant la medicine ball au-dessus de votre tête. Pendant que vous faites cela, étendez-vous à travers les hanches, les genoux et les chevilles pour vous préparer pour le slam.",
     "À l'extension maximale, fléchissez les épaules, la colonne vertébrale et les hanches pour lancer la balle fort sur le sol directement devant vous.",
     "Attrapez la balle au rebond et continuez pour le nombre de répétitions souhaité."
+  ],
+  "name_it": "Slam con Palla Medica a Un Braccio",
+  "instructions_it": [
+    "Inizia in posizione eretta con una postura atletica e le gambe divaricate. Tieni una palla medica in una mano, dallo stesso lato della gamba posteriore. Questa sarà la tua posizione di partenza.",
+    "Inizia ruotando il braccio, sollevando la palla medica sopra la testa. Mentre lo fai, estendi anche i fianchi, le ginocchia e le caviglie per prepararti al slam.",
+    "Al massimo dell'estensione, flette le spalle, la colonna vertebrale e i fianchi per lanciare la palla con forza a terra direttamente di fronte a te.",
+    "Prendi la palla al rimbalzo e continua per il numero desiderato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Allungamento della spalla",
+  "name": "Shoulder Stretch",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -9,7 +9,7 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Estendi il braccio sinistro attraverso il tuo corpo e mantienilo dritto."
+    "Reach your left arm across your body and hold it straight."
   ],
   "category": "stretching",
   "images": [
@@ -19,5 +19,9 @@
   "id": "Shoulder_Stretch",
   "instructions_fr": [
     "Étendez votre bras gauche à travers votre corps et maintenez-le droit."
+  ],
+  "name_it": "Allungamento della spalla",
+  "instructions_it": [
+    "Estendi il braccio sinistro attraverso il tuo corpo e mantienilo dritto."
   ]
 }

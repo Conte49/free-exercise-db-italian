@@ -1,5 +1,5 @@
 {
-  "name": "Passaggio della Kettlebell tra le Gambe",
+  "name": "Kettlebell Pass Between The Legs",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,8 +13,8 @@
     "shoulders"
   ],
   "instructions": [
-    "Posiziona una kettlebell tra le tue gambe e assumi una posizione comoda. Inclina il busto in avanti spingendo il sedere indietro e mantenendo la schiena dritta.",
-    "Prendi una kettlebell e passala all'altra mano tra le gambe, seguendo il movimento a \"W\". Ripeti il movimento per diverse ripetizioni."
+    "Place one kettlebell between your legs and take a comfortable stance. Bend over by pushing your butt out and keeping your back flat.",
+    "Pick up a kettlebell and pass it to your other hand between your legs, in the fashion of a \"W\". Go back and forth for several repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Placez une kettlebell entre vos jambes et adoptez une posture confortable. Penchez-vous en poussant vos fesses vers l'avant tout en gardant le dos plat.",
     "Prenez une kettlebell et passez-la dans l'autre main entre vos jambes, à la manière d'un \"W\". Alternez de côté pendant plusieurs répétitions."
+  ],
+  "name_it": "Passaggio della Kettlebell tra le Gambe",
+  "instructions_it": [
+    "Posiziona una kettlebell tra le tue gambe e assumi una posizione comoda. Inclina il busto in avanti spingendo il sedere indietro e mantenendo la schiena dritta.",
+    "Prendi una kettlebell e passala all'altra mano tra le gambe, seguendo il movimento a \"W\". Ripeti il movimento per diverse ripetizioni."
   ]
 }

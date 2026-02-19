@@ -1,5 +1,5 @@
 {
-  "name": "Pull-Up Assistito con Banda",
+  "name": "Band Assisted Pull-Up",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "middle back"
   ],
   "instructions": [
-    "Fissa la banda al centro della barra per trazioni. Puoi utilizzare bande di diverse resistenze per fornire livelli di assistenza variabili.",
-    "Tira l'estremità della banda verso il basso e inserisci un ginocchio piegato nel cerchio, assicurandoti che non scivoli fuori. Prendi una presa media o larga sulla barra. Questa sarà la tua posizione di partenza.",
-    "Sollevati contraendo i dorsali mentre fletti il gomito. Il gomito dovrebbe essere portato al tuo fianco. Tira verso l'avanti, cercando di portare il mento sopra la barra. Evita movimenti oscillatori o bruschi.",
-    "Dopo una breve pausa, torna alla posizione di partenza."
+    "Choke the band around the center of the pullup bar. You can use different bands to provide varying levels of assistance.",
+    "Pull the end of the band down, and place one bent knee into the loop, ensuring it won't slip out. Take a medium to wide grip on the bar. This will be your starting position.",
+    "Pull yourself upward by contracting the lats as you flex the elbow. The elbow should be driven to your side. Pull to the front, attempting to get your chin over the bar. Avoid swinging or jerking movements.",
+    "After a brief pause, return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Tirez sur la poignée, puis placez un genou plié dans l'anneau, en veillant à ce qu'il ne glisse pas. Prenez une poignée moyenne à large sur la barre. Ce sera votre position de départ.",
     "Tirez-vous vers le haut en contractant les latissimus en même temps que vous pliez le coude. Le coude doit être dirigé vers votre côté. Tirez vers l'avant, en essayant d'amener votre menton au-dessus de la barre. Évitez les mouvements de balançoire ou de secousse.",
     "Après une courte pause, revenez à la position de départ."
+  ],
+  "name_it": "Pull-Up Assistito con Banda",
+  "instructions_it": [
+    "Fissa la banda al centro della barra per trazioni. Puoi utilizzare bande di diverse resistenze per fornire livelli di assistenza variabili.",
+    "Tira l'estremità della banda verso il basso e inserisci un ginocchio piegato nel cerchio, assicurandoti che non scivoli fuori. Prendi una presa media o larga sulla barra. Questa sarà la tua posizione di partenza.",
+    "Sollevati contraendo i dorsali mentre fletti il gomito. Il gomito dovrebbe essere portato al tuo fianco. Tira verso l'avanti, cercando di portare il mento sopra la barra. Evita movimenti oscillatori o bruschi.",
+    "Dopo una breve pausa, torna alla posizione di partenza."
   ]
 }

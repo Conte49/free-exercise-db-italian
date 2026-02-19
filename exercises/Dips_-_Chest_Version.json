@@ -1,5 +1,5 @@
 {
-  "name": "Dips - Versione Petto",
+  "name": "Dips - Chest Version",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "triceps"
   ],
   "instructions": [
-    "Per questo esercizio avrai bisogno di accedere a delle barre parallele. Per metterti nella posizione di partenza, tieni il corpo disteso a braccia tese (braccia bloccate) sopra le barre.",
-    "Mentre inspiri, abbassati lentamente con il torso inclinato in avanti di circa 30 gradi e i gomiti leggermente aperti fino a sentire un leggero allungamento nel petto.",
-    "Una volta che senti l'allungamento, usa il petto per riportare il corpo nella posizione di partenza mentre espiri. Suggerimento: Ricorda di contrarre il petto nella parte alta del movimento per un secondo.",
-    "Ripeti il movimento per il numero di ripetizioni prescritto."
+    "For this exercise you will need access to parallel bars. To get yourself into the starting position, hold your body at arms length (arms locked) above the bars.",
+    "While breathing in, lower yourself slowly with your torso leaning forward around 30 degrees or so and your elbows flared out slightly until you feel a slight stretch in the chest.",
+    "Once you feel the stretch, use your chest to bring your body back to the starting position as you breathe out. Tip: Remember to squeeze the chest at the top of the movement for a second.",
+    "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "En respirant, abaissez-vous lentement en penchant votre torse vers l'avant d'environ 30 degrés et en écartant légèrement les coudes jusqu'à ce que vous ressentiez une légère étirement dans la poitrine.",
     "Une fois que vous ressentez l'étirement, utilisez votre poitrine pour ramener votre corps en position de départ en expirant. Astuce : N'oubliez pas de contracter la poitrine pendant une seconde au sommet du mouvement.",
     "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ],
+  "name_it": "Dips - Versione Petto",
+  "instructions_it": [
+    "Per questo esercizio avrai bisogno di accedere a delle barre parallele. Per metterti nella posizione di partenza, tieni il corpo disteso a braccia tese (braccia bloccate) sopra le barre.",
+    "Mentre inspiri, abbassati lentamente con il torso inclinato in avanti di circa 30 gradi e i gomiti leggermente aperti fino a sentire un leggero allungamento nel petto.",
+    "Una volta che senti l'allungamento, usa il petto per riportare il corpo nella posizione di partenza mentre espiri. Suggerimento: Ricorda di contrarre il petto nella parte alta del movimento per un secondo.",
+    "Ripeti il movimento per il numero di ripetizioni prescritto."
   ]
 }

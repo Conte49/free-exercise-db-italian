@@ -1,5 +1,5 @@
 {
-  "name": "Sit-Up a forbice",
+  "name": "Jackknife Sit-Up",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati flatto sul pavimento (o sul tappetino da esercizio) sulla schiena con le braccia estese dritte dietro la testa e le gambe estese anch'esse. Questa sarà la tua posizione di partenza.",
-    "Mentre espiri, piega il busto mentre sollevi simultaneamente le gambe e le braccia per incontrarsi in una posizione a forbice. Suggerimento: le gambe dovrebbero essere estese e sollevate a un angolo di circa 35-45 gradi rispetto al pavimento e le braccia dovrebbero essere estese e parallele alle gambe. Il busto superiore dovrebbe essere sollevato da terra.",
-    "Mentre inspiri, abbassa le braccia e le gambe di nuovo nella posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Lie flat on the floor (or exercise mat) on your back with your arms extended straight back behind your head and your legs extended also. This will be your starting position.",
+    "As you exhale, bend at the waist while simultaneously raising your legs and arms to meet in a jackknife position. Tip: The legs should be extended and lifted at approximately a 35-45 degree angle from the floor and the arms should be extended and parallel to your legs. The upper torso should be off the floor.",
+    "While inhaling, lower your arms and legs back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "En expirant, fléchissez-vous à la taille tout en levant simultanément les jambes et les bras pour former une position de ciseaux. Astuce : Les jambes doivent être tendues et levées à un angle d'environ 35 à 45 degrés du sol, et les bras doivent être tendus et parallèles aux jambes. La partie supérieure du torse doit être hors du sol.",
     "Pendant que vous inspirez, abaissez vos bras et vos jambes jusqu'à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Sit-Up a forbice",
+  "instructions_it": [
+    "Sdraiati flatto sul pavimento (o sul tappetino da esercizio) sulla schiena con le braccia estese dritte dietro la testa e le gambe estese anch'esse. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, piega il busto mentre sollevi simultaneamente le gambe e le braccia per incontrarsi in una posizione a forbice. Suggerimento: le gambe dovrebbero essere estese e sollevate a un angolo di circa 35-45 gradi rispetto al pavimento e le braccia dovrebbero essere estese e parallele alle gambe. Il busto superiore dovrebbe essere sollevato da terra.",
+    "Mentre inspiri, abbassa le braccia e le gambe di nuovo nella posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

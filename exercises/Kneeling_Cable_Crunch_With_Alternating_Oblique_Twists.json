@@ -1,5 +1,5 @@
 {
-  "name": "Crunch con Cavo in Ginocchio e Rotazioni Oblique Alternanti",
+  "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,15 +9,15 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Collega un attacco a corda a un cavo con puleggia alta e posiziona un tappetino sul pavimento di fronte ad esso.",
-    "Afferrate la corda con entrambe le mani e inginocchiatevi circa due piedi indietro dalla torre.",
-    "Posiziona la corda dietro la testa con le mani vicino alle orecchie.",
-    "Mantieni le mani nello stesso posto, contrai gli addominali e tira verso il basso la corda in un movimento di crunch fino a quando i gomiti non raggiungono le ginocchia.",
-    "Fermati brevemente in basso e risali in modo lento e controllato fino a tornare alla posizione di partenza.",
-    "Ripeti lo stesso movimento verso il basso fino a metà, momento in cui inizierai a ruotare uno dei gomiti verso il ginocchio opposto.",
-    "Ancora una volta, fermati brevemente in basso e risali in modo lento e controllato fino a tornare alla posizione di partenza.",
-    "Ripeti lo stesso movimento di prima, ma alterna l'altro gomito verso il ginocchio opposto.",
-    "Continua questa serie di movimenti fino all'esaurimento."
+    "Connect a rope attachment to a high pulley cable and position a mat on the floor in front of it.",
+    "Grab the rope with both hands and kneel approximately two feet back from the tower.",
+    "Position the rope behind your head with your hands by your ears.",
+    "Keep your hands in the same place, contract your abs and pull downward on the rope in a crunching movement until your elbows reach your knees.",
+    "Pause briefly at the bottom and rise up in a slow and controlled manner until you reach the starting position.",
+    "Repeat the same downward movement until you're halfway down, at which time you'll begin rotating one of your elbows to the opposite knee.",
+    "Again, pause briefly at the bottom and rise up in a slow and controlled manner until you reach the starting position.",
+    "Repeat the same movement as before, but alternate the other elbow to the opposite knee.",
+    "Continue this series of movements to failure."
   ],
   "category": "strength",
   "images": [
@@ -35,5 +35,17 @@
     "Encore une fois, faites une courte pause en bas et montez lentement et de manière contrôlée jusqu'à la position de départ.",
     "Répétez le même mouvement que précédemment, mais alternez l'autre coude vers le genou opposé.",
     "Poursuivez cette série de mouvements jusqu'à l'épuisement."
+  ],
+  "name_it": "Crunch con Cavo in Ginocchio e Rotazioni Oblique Alternanti",
+  "instructions_it": [
+    "Collega un attacco a corda a un cavo con puleggia alta e posiziona un tappetino sul pavimento di fronte ad esso.",
+    "Afferrate la corda con entrambe le mani e inginocchiatevi circa due piedi indietro dalla torre.",
+    "Posiziona la corda dietro la testa con le mani vicino alle orecchie.",
+    "Mantieni le mani nello stesso posto, contrai gli addominali e tira verso il basso la corda in un movimento di crunch fino a quando i gomiti non raggiungono le ginocchia.",
+    "Fermati brevemente in basso e risali in modo lento e controllato fino a tornare alla posizione di partenza.",
+    "Ripeti lo stesso movimento verso il basso fino a metà, momento in cui inizierai a ruotare uno dei gomiti verso il ginocchio opposto.",
+    "Ancora una volta, fermati brevemente in basso e risali in modo lento e controllato fino a tornare alla posizione di partenza.",
+    "Ripeti lo stesso movimento di prima, ma alterna l'altro gomito verso il ginocchio opposto.",
+    "Continua questa serie di movimenti fino all'esaurimento."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Pressa a Terra con Kettlebell a Un Braccio",
+  "name": "One-Arm Kettlebell Floor Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,9 +11,9 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati sul pavimento tenendo un kettlebell con una mano, con il braccio superiore supportato dal pavimento. Il palmo deve essere rivolto verso l'interno.",
-    "Spingi il kettlebell verso l'alto verso il soffitto, ruotando il polso.",
-    "Abbassa il kettlebell di nuovo nella posizione di partenza e ripeti."
+    "Lie on the floor holding a kettlebell with one hand, with your upper arm supported by the floor. The palm should be facing in.",
+    "Press the kettlebell straight up toward the ceiling, rotating your wrist.",
+    "Lower the kettlebell back to the starting position and repeat."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,11 @@
     "Allongez-vous sur le sol en tenant une kettlebell d'une seule main, votre bras supérieur étant soutenu par le sol. La paume de la main doit être tournée vers l'intérieur.",
     "Presse la kettlebell directement vers le plafond en faisant pivoter votre poignet.",
     "Abaissez la kettlebell en position de départ et répétez l'exercice."
+  ],
+  "name_it": "Pressa a Terra con Kettlebell a Un Braccio",
+  "instructions_it": [
+    "Sdraiati sul pavimento tenendo un kettlebell con una mano, con il braccio superiore supportato dal pavimento. Il palmo deve essere rivolto verso l'interno.",
+    "Spingi il kettlebell verso l'alto verso il soffitto, ruotando il polso.",
+    "Abbassa il kettlebell di nuovo nella posizione di partenza e ripeti."
   ]
 }

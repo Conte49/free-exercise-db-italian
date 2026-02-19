@@ -1,5 +1,5 @@
 {
-  "name": "Estensione Tricipiti Sopra la Testa",
+  "name": "Overhead Triceps",
   "force": "static",
   "level": "expert",
   "mechanic": null,
@@ -11,9 +11,9 @@
     "lats"
   ],
   "instructions": [
-    "Siediti dritto sul pavimento con il tuo partner dietro di te. Alza un braccio dritto verso l'alto e piega il gomito, cercando di toccare la mano con la schiena. Il tuo partner dovrebbe tenere il tuo gomito e il polso. Questa sarà la tua posizione di partenza.",
-    "Cerca di estendere il braccio dritto verso l'alto mentre il tuo partner ti impedisce di farlo realmente.",
-    "Dopo 10-20 secondi, rilassa il braccio e consenti al tuo partner di allungare ulteriormente il tricipite applicando una leggera pressione sul polso. Mantieni per 10-20 secondi, quindi cambia lato."
+    "Sit upright on the floor with your partner behind you. Raise one arm straight up, and flex the elbow, attempting to touch your hand to your back. Your parner should hold your elbow and wrist. This will be your starting position.",
+    "Attempt to extend the arm straight into the air as your partner prevents you from doing actually doing so.",
+    "After 10-20 seconds, relax the arm and allow your partner to further stretch the tricep by applying gentle pressure to the wrist. Hold for 10-20 seconds, and then switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Asseyez-vous droit sur le sol avec votre partenaire derrière vous. Levez un bras en l'air, et pliez le coude, en essayant de toucher votre main à votre dos. Votre partenaire doit tenir votre coude et votre poignet. Cette position sera votre position de départ.",
     "Essayez d'étendre le bras droit vers le ciel alors que votre partenaire vous empêche de le faire réellement.",
     "Après 10 à 20 secondes, détendez le bras et permettez à votre partenaire d'étirer davantage le triceps en appliquant une pression douce sur le poignet. Maintenir pendant 10 à 20 secondes, puis changer de côté."
+  ],
+  "name_it": "Estensione Tricipiti Sopra la Testa",
+  "instructions_it": [
+    "Siediti dritto sul pavimento con il tuo partner dietro di te. Alza un braccio dritto verso l'alto e piega il gomito, cercando di toccare la mano con la schiena. Il tuo partner dovrebbe tenere il tuo gomito e il polso. Questa sarà la tua posizione di partenza.",
+    "Cerca di estendere il braccio dritto verso l'alto mentre il tuo partner ti impedisce di farlo realmente.",
+    "Dopo 10-20 secondi, rilassa il braccio e consenti al tuo partner di allungare ulteriormente il tricipite applicando una leggera pressione sul polso. Mantieni per 10-20 secondi, quindi cambia lato."
   ]
 }

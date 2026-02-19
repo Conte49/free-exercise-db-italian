@@ -1,5 +1,5 @@
 {
-  "name": "Strappo",
+  "name": "Snatch",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,13 +17,13 @@
     "triceps"
   ],
   "instructions": [
-    "Posiziona i piedi alla larghezza delle spalle con il bilanciere appoggiato proprio sopra il punto di connessione tra le dita dei piedi e il resto del piede.",
-    "Con una presa con i palmi rivolti verso il basso, piega le ginocchia mantenendo la schiena dritta e afferra il bilanciere con una presa più ampia della larghezza delle spalle. Porta i fianchi verso il basso e assicurati che il tuo corpo scenda come se stessi per sederti su una sedia. Questa sarà la tua posizione di partenza.",
-    "Inizia a spingere il pavimento come se fosse una piattaforma mobile con i piedi e contemporaneamente inizia a sollevare il bilanciere mantenendolo vicino alle gambe.",
-    "Quando il bilanciere raggiunge la parte centrale delle cosce, spingi il pavimento con le gambe e solleva il corpo fino a una completa estensione in un movimento esplosivo.",
-    "Solleva le spalle all'indietro in un movimento di scrollata mentre porti il bilanciere verso l'alto, sollevando i gomiti di lato e mantenendoli sopra il bilanciere il più a lungo possibile.",
-    "Ora, in un movimento molto rapido ma potente, devi portare il corpo sotto il bilanciere quando ha raggiunto un punto sufficientemente alto dove può essere controllato e cadere mentre blocchi le braccia e tieni il bilanciere sopra la testa assumendo una posizione di squat.",
-    "Finalizza il movimento rialzandoti dalla posizione di squat per completare il sollevamento. Alla fine del sollevamento, entrambi i piedi dovrebbero essere allineati e le braccia completamente estese mentre tengono il bilanciere sopra la testa."
+    "Place your feet at a shoulder width stance with the barbell resting right above the connection between the toes and the rest of the foot.",
+    "With a palms facing down grip, bend at the knees and keeping the back flat grab the bar using a wider than shoulder width grip. Bring the hips down and make sure that your body drops as if you were going to sit on a chair. This will be your starting position.",
+    "Start pushing the floor as if it were a moving platform with your feet and simultaneously start lifting the barbell keeping it close to your legs.",
+    "As the bar reaches the middle of your thighs, push the floor with your legs and lift your body to a complete extension in an explosive motion.",
+    "Lift your shoulders back in a shrugging movement as you bring the bar up while lifting your elbows out to the side and keeping them above the bar for as long as possible.",
+    "Now in a very quick but powerful motion, you have to get your body under the barbell when it has reached a high enough point where it can be controlled and drop while locking your arms and holding the barbell overhead as you assume a squat position.",
+    "Finalize the movement by rising up out of the squat position to finish the lift. At the end of the lift both feet should be on line and the arms fully extended holding the barbell overhead."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -39,5 +39,15 @@
     "Soulevez vos épaules en arrière dans un mouvement de haussement d'épaules lorsque vous ramenez la barre vers le haut tout en écartant les coudes sur les côtés et en veillant à ce qu'ils restent au-dessus de la barre le plus longtemps possible.",
     "Maintenant, dans un mouvement très rapide mais puissant, vous devez placer votre corps sous la barre lorsque celle-ci a atteint une hauteur suffisante pour être contrôlée et relâchée tout en verrouillant vos bras et en tenant la barre au-dessus de vous pendant que vous prenez une position accroupie.",
     "Finalisez le mouvement en vous levant de la position accroupie pour terminer le levage. À la fin du levage, les deux pieds doivent être sur la même ligne et les bras complètement étendus en tenant la barre au-dessus de votre tête."
+  ],
+  "name_it": "Strappo",
+  "instructions_it": [
+    "Posiziona i piedi alla larghezza delle spalle con il bilanciere appoggiato proprio sopra il punto di connessione tra le dita dei piedi e il resto del piede.",
+    "Con una presa con i palmi rivolti verso il basso, piega le ginocchia mantenendo la schiena dritta e afferra il bilanciere con una presa più ampia della larghezza delle spalle. Porta i fianchi verso il basso e assicurati che il tuo corpo scenda come se stessi per sederti su una sedia. Questa sarà la tua posizione di partenza.",
+    "Inizia a spingere il pavimento come se fosse una piattaforma mobile con i piedi e contemporaneamente inizia a sollevare il bilanciere mantenendolo vicino alle gambe.",
+    "Quando il bilanciere raggiunge la parte centrale delle cosce, spingi il pavimento con le gambe e solleva il corpo fino a una completa estensione in un movimento esplosivo.",
+    "Solleva le spalle all'indietro in un movimento di scrollata mentre porti il bilanciere verso l'alto, sollevando i gomiti di lato e mantenendoli sopra il bilanciere il più a lungo possibile.",
+    "Ora, in un movimento molto rapido ma potente, devi portare il corpo sotto il bilanciere quando ha raggiunto un punto sufficientemente alto dove può essere controllato e cadere mentre blocchi le braccia e tieni il bilanciere sopra la testa assumendo una posizione di squat.",
+    "Finalizza il movimento rialzandoti dalla posizione di squat per completare il sollevamento. Alla fine del sollevamento, entrambi i piedi dovrebbero essere allineati e le braccia completamente estese mentre tengono il bilanciere sopra la testa."
   ]
 }

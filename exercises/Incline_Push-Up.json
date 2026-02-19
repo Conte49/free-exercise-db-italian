@@ -1,5 +1,5 @@
 {
-  "name": "Flessioni Inclinate",
+  "name": "Incline Push-Up",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "triceps"
   ],
   "instructions": [
-    "Stai in piedi di fronte a una panca o a una piattaforma elevata robusta. Posiziona le mani sul bordo della panca o della piattaforma, leggermente più larghe della larghezza delle spalle.",
-    "Posiziona la parte anteriore dei piedi indietro rispetto alla panca o alla piattaforma con le braccia e il corpo dritti. Le braccia devono essere perpendicolari al corpo. Mantenendo il corpo dritto, abbassa il petto fino al bordo della panca o della piattaforma piegando le braccia.",
-    "Spingi il corpo verso l'alto fino a quando le braccia sono estese. Ripeti."
+    "Stand facing bench or sturdy elevated platform. Place hands on edge of bench or platform, slightly wider than shoulder width.",
+    "Position forefoot back from bench or platform with arms and body straight. Arms should be perpendicular to body. Keeping body straight, lower chest to edge of box or platform by bending arms.",
+    "Push body up until arms are extended. Repeat."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "Debout face à un banc ou une plateforme surélevée solide. Placez les mains sur le bord du banc ou de la plateforme, légèrement plus larges que la largeur des épaules.",
     "Placez le pied antérieur en retrait par rapport au banc ou à la plateforme, les bras et le corps bien droits. Les bras doivent être perpendiculaires au corps. En gardant le corps droit, descendez la poitrine jusqu'à l'edge de la boîte ou de la plateforme en pliant les bras.",
     "Poussez votre corps jusqu'à ce que vos bras soient tendus. Répétez l'exercice."
+  ],
+  "name_it": "Flessioni Inclinate",
+  "instructions_it": [
+    "Stai in piedi di fronte a una panca o a una piattaforma elevata robusta. Posiziona le mani sul bordo della panca o della piattaforma, leggermente più larghe della larghezza delle spalle.",
+    "Posiziona la parte anteriore dei piedi indietro rispetto alla panca o alla piattaforma con le braccia e il corpo dritti. Le braccia devono essere perpendicolari al corpo. Mantenendo il corpo dritto, abbassa il petto fino al bordo della panca o della piattaforma piegando le braccia.",
+    "Spingi il corpo verso l'alto fino a quando le braccia sono estese. Ripeti."
   ]
 }

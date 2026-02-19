@@ -11,8 +11,8 @@
     "forearms"
   ],
   "instructions": [
-    "Nel crucifix, tieni staticamente i pesi ai lati per un certo periodo di tempo. Anche se l'esercizio può essere praticato con i manubri, è meglio esercitarsi con uno dei vari attrezzi utilizzati, come asce e martelli, poiché la sensazione è diversa.",
-    "Inizia in posizione eretta e solleva le braccia ai lati tenendo gli attrezzi. Le tue braccia dovrebbero essere parallele al suolo. In competizione, vengono utilizzati giudici o sensori per farti sapere quando superi la posizione parallela. Tieni la posizione il più a lungo possibile. Di solito, i pesi dovrebbero essere abbastanza pesanti da farti fallire in 30-60 secondi."
+    "In the crucifix, you statically hold weights out to the side for time. While the event can be practiced using dumbbells, it is best to practice with one of the various implements used, such as axes and hammers, as it feels different.",
+    "Begin standing, and raise your arms out to the side holding the implements. Your arms should be parallel to the ground. In competition, judges or sensors are used to let you know when you break parallel. Hold for as long as you can. Typically, the weights should be heavy enough that you fail in 30-60 seconds."
   ],
   "category": "strongman",
   "images": [
@@ -23,5 +23,10 @@
   "instructions_fr": [
     "Dans le crucifiement, vous maintenez des poids de manière statique sur les côtés pendant un certain temps. Bien que cet exercice puisse être pratiqué avec des haltères, il est préférable d'utiliser l'un des divers outils prévus à cet effet, tels que les haches et les marteaux, car la sensation est différente.",
     "Commencez debout, et soulevez vos bras sur les côtés en tenant les outils. Vos bras devraient être parallèles au sol. En compétition, les juges ou les capteurs sont utilisés pour vous indiquer lorsque vous rompez le parallèle. Tenez aussi longtemps que vous le pouvez. Généralement, les poids devraient être suffisamment lourds pour que vous échouiez en 30 à 60 secondes."
+  ],
+  "name_it": "Crucifix",
+  "instructions_it": [
+    "Nel crucifix, tieni staticamente i pesi ai lati per un certo periodo di tempo. Anche se l'esercizio può essere praticato con i manubri, è meglio esercitarsi con uno dei vari attrezzi utilizzati, come asce e martelli, poiché la sensazione è diversa.",
+    "Inizia in posizione eretta e solleva le braccia ai lati tenendo gli attrezzi. Le tue braccia dovrebbero essere parallele al suolo. In competizione, vengono utilizzati giudici o sensori per farti sapere quando superi la posizione parallela. Tieni la posizione il più a lungo possibile. Di solito, i pesi dovrebbero essere abbastanza pesanti da farti fallire in 30-60 secondi."
   ]
 }

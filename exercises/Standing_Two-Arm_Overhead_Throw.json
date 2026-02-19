@@ -1,5 +1,5 @@
 {
-  "name": "Lancio sopra la testa con due braccia in piedi",
+  "name": "Standing Two-Arm Overhead Throw",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "lats"
   ],
   "instructions": [
-    "Stai in piedi con i piedi alla larghezza delle spalle tenendo una palla medica con entrambe le mani. Per iniziare, porta la palla medica dietro la testa piegando leggermente le ginocchia e inclinando indietro il corpo.",
-    "Lancia violentemente la palla in avanti, flettendo anche i fianchi e utilizzando tutto il corpo per completare il movimento.",
-    "La palla medica può essere lanciata a un compagno o contro un muro, ricevendola mentre rimbalza indietro."
+    "Stand with your feet shoulder width apart holding a medicine ball in both hands. To begin, reach the medicine ball deep behind your head as you bend the knees slightly and lean back.",
+    "Violently throw the ball forward, flexing at the hip and using your whole body to complete the movement.",
+    "The medicine ball can be thrown to a partner or to a wall, receiving it as it bounces back."
   ],
   "category": "plyometrics",
   "images": [
@@ -26,5 +26,11 @@
     "Debout, les pieds à la largeur des épaules, tenez une medicinball dans les deux mains. Pour commencer, portez la medicinball derrière votre tête en fléchissant légèrement les genoux et en penchant le dos en arrière.",
     "Jetez violemment la balle en avant, en fléchissant à la hanche et en utilisant tout votre corps pour exécuter le mouvement.",
     "La médecine peut être lancée à un partenaire ou contre un mur et reçue au rebond."
+  ],
+  "name_it": "Lancio sopra la testa con due braccia in piedi",
+  "instructions_it": [
+    "Stai in piedi con i piedi alla larghezza delle spalle tenendo una palla medica con entrambe le mani. Per iniziare, porta la palla medica dietro la testa piegando leggermente le ginocchia e inclinando indietro il corpo.",
+    "Lancia violentemente la palla in avanti, flettendo anche i fianchi e utilizzando tutto il corpo per completare il movimento.",
+    "La palla medica può essere lanciata a un compagno o contro un muro, ricevendola mentre rimbalza indietro."
   ]
 }

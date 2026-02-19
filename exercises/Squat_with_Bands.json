@@ -1,5 +1,5 @@
 {
-  "name": "Squat con Bande",
+  "name": "Squat with Bands",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "lower back"
   ],
   "instructions": [
-    "Posiziona le bande sulle maniche, fissate a dei supporti per bande, al rack o ai manubri in modo che ci sia la giusta tensione.",
-    "Inizia posizionandoti sotto il bilanciere e appoggiandolo sulla parte posteriore delle spalle. Stringi le scapole insieme e ruota i gomiti in avanti, cercando di piegare il bilanciere sulle spalle. Rimuovi il bilanciere dal rack, creando un arco stretto nella parte bassa della schiena, e fai un passo indietro nella posizione corretta. Posiziona i piedi larghi per enfatizzare di più la schiena, i glutei, gli adduttori e i muscoli posteriori della coscia. Tieni la testa rivolta in avanti.",
-    "Con la schiena, le spalle e il core contratti, spingi le ginocchia e il sedere all'esterno mentre inizi la discesa. Siediti indietro con i fianchi il più possibile. Idealmente, le tue tibie dovrebbero essere perpendicolari al suolo. Una posizione del bilanciere più bassa richiede un'inclinazione maggiore del torso per mantenere il bilanciere sopra i talloni. Continua fino a superare la linea orizzontale, definita come la piega dell'anca in linea con la parte superiore del ginocchio.",
-    "Mantenendo il peso sui talloni e spingendo i piedi e le ginocchia verso l'esterno, spingi verso l'alto mentre guidi il movimento con la testa. Continua verso l'alto, mantenendo la tensione dalla testa ai piedi, fino a tornare alla posizione di partenza."
+    "Set up the bands on the sleeves, secured to either band pegs, the rack, or dumbbells so that there is appropriate tension.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wide for more emphasis on the back, glutes, adductors, and hamstrings. Keep your head facing forward.",
+    "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips as much as possible. Ideally, your shins should be perpendicular to the ground. Lower bar position necessitates a greater torso lean to keep the bar over the heels. Continue until you break parallel, which is defined as the crease of the hip being in line with the top of the knee.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward as you lead the movement with your head. Continue upward, maintaining tightness head to toe, until you have returned to the starting position."
   ],
   "category": "powerlifting",
   "images": [
@@ -31,5 +31,12 @@
     "Commencez par vous placer sous la barre et posez-la sur vos épaules. Serrez vos omoplates et faites pivoter vos coudes vers l'avant en essayant de plier la barre sur vos épaules. Retirez la barre du support, en créant une arcure dans votre bas du dos, puis reculez en gardant la position. Écarrez vos pieds pour mettre davantage l'accent sur le dos, les fessiers, les adducteurs et les ischio-jambiers. Gardez la tête tournée vers l'avant.",
     "En gardant le dos, les épaules et le tronc bien tendus, poussez vos genoux et vos fesses vers l'extérieur et commencez votre descente. Asseyez-vous avec les hanches autant que possible. Idéalement, vos mollets devraient être perpendiculaires au sol. Une position de barre plus basse nécessite une plus grande inclinaison du torse pour garder la barre au-dessus des talons. Continuez jusqu'à ce que vous ayez atteint le niveau de parallélisme, ce qui est défini comme la pliure de la hanche étant dans l'alignement avec le haut du genou.",
     "En gardant le poids sur vos talons et en poussant avec vos pieds et vos genoux, montez en guidant le mouvement avec votre tête. Continuez à monter, en gardant la tension de la tête aux pieds, jusqu'à ce que vous soyez revenu à la position de départ."
+  ],
+  "name_it": "Squat con Bande",
+  "instructions_it": [
+    "Posiziona le bande sulle maniche, fissate a dei supporti per bande, al rack o ai manubri in modo che ci sia la giusta tensione.",
+    "Inizia posizionandoti sotto il bilanciere e appoggiandolo sulla parte posteriore delle spalle. Stringi le scapole insieme e ruota i gomiti in avanti, cercando di piegare il bilanciere sulle spalle. Rimuovi il bilanciere dal rack, creando un arco stretto nella parte bassa della schiena, e fai un passo indietro nella posizione corretta. Posiziona i piedi larghi per enfatizzare di più la schiena, i glutei, gli adduttori e i muscoli posteriori della coscia. Tieni la testa rivolta in avanti.",
+    "Con la schiena, le spalle e il core contratti, spingi le ginocchia e il sedere all'esterno mentre inizi la discesa. Siediti indietro con i fianchi il più possibile. Idealmente, le tue tibie dovrebbero essere perpendicolari al suolo. Una posizione del bilanciere più bassa richiede un'inclinazione maggiore del torso per mantenere il bilanciere sopra i talloni. Continua fino a superare la linea orizzontale, definita come la piega dell'anca in linea con la parte superiore del ginocchio.",
+    "Mantenendo il peso sui talloni e spingendo i piedi e le ginocchia verso l'esterno, spingi verso l'alto mentre guidi il movimento con la testa. Continua verso l'alto, mantenendo la tensione dalla testa ai piedi, fino a tornare alla posizione di partenza."
   ]
 }

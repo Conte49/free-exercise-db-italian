@@ -1,5 +1,5 @@
 {
-  "name": "Alzata Frontale con Bilanciere sopra la Testa",
+  "name": "Standing Front Barbell Raise Over Head",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Per iniziare, stai dritto con un bilanciere tra le mani. Dovresti afferrare il bilanciere con i palmi rivolti verso il basso e una presa più stretta della larghezza delle spalle.",
-    "I tuoi piedi dovrebbero essere alla larghezza delle spalle. I gomiti dovrebbero essere leggermente piegati. Questa è la posizione di partenza.",
-    "Alza il bilanciere fino a portarlo direttamente sopra la testa mentre espiri. Assicurati di mantenere i gomiti leggermente piegati durante ogni ripetizione.",
-    "Una volta che senti la contrazione, inizia a abbassare il bilanciere di nuovo alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
+    "Your feet should be shoulder width apart from each other. Your elbows should be slightly bent. This is the starting position.",
+    "Lift the barbell up until it is directly over your head while exhaling. Make sure to keep your elbows slightly bent when performing each repetition.",
+    "Once you feel the contraction, begin to lower the barbell back down to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "Soulevez la barre jusqu'à ce qu'elle soit directement au-dessus de votre tête en expirant. Assurez-vous de garder vos coudes légèrement fléchis lors de chaque répétition.",
     "Une fois que vous ressentez la contraction, commencez à redescendre le barreau vers la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Alzata Frontale con Bilanciere sopra la Testa",
+  "instructions_it": [
+    "Per iniziare, stai dritto con un bilanciere tra le mani. Dovresti afferrare il bilanciere con i palmi rivolti verso il basso e una presa più stretta della larghezza delle spalle.",
+    "I tuoi piedi dovrebbero essere alla larghezza delle spalle. I gomiti dovrebbero essere leggermente piegati. Questa è la posizione di partenza.",
+    "Alza il bilanciere fino a portarlo direttamente sopra la testa mentre espiri. Assicurati di mantenere i gomiti leggermente piegati durante ogni ripetizione.",
+    "Una volta che senti la contrazione, inizia a abbassare il bilanciere di nuovo alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

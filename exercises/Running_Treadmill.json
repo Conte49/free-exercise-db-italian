@@ -1,5 +1,5 @@
 {
-  "name": "Corsa, Tapis Roulant",
+  "name": "Running, Treadmill",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -13,8 +13,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per iniziare, sali sul tapis roulant e seleziona l'opzione desiderata dal menu. La maggior parte dei tapis roulant ha un'impostazione manuale, oppure puoi selezionare un programma di corsa. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. L'inclinazione può essere regolata per cambiare l'intensità dell'allenamento.",
-    "I tapis roulant offrono comodità, benefici cardiovascolari e di solito hanno un impatto minore rispetto alla corsa all'aperto. Una persona di 68 kg brucerà oltre 450 calorie correndo a 13 km/h per 30 minuti. Mantieni una postura corretta mentre corri e afferra le maniglie solo quando necessario, ad esempio quando scendi o controlli la tua frequenza cardiaca."
+    "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
+    "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than running outside. A 150 lb person will burn over 450 calories running 8 miles per hour for 30 minutes. Maintain proper posture as you run, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
   ],
   "category": "cardio",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Pour commencer, montez sur le tapis roulant et sélectionnez l'option désirée dans le menu. La plupart des tapis roulants ont un réglage manuel, ou vous pouvez sélectionner un programme à exécuter. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. L'élévation peut être ajustée pour modifier l'intensité de l'entraînement.",
     "Les tapis roulants offrent de la commodité, des avantages cardiovasculaires et ont généralement un impact moins important que la course en plein air. Une personne de 150 livres brûlera plus de 450 calories en courant à 8 miles par heure pendant 30 minutes. Maintenez une posture correcte pendant que vous courez, et tenez-vous uniquement aux poignées lorsque c'est nécessaire, comme lors du démontage ou du contrôle de votre fréquence cardiaque."
+  ],
+  "name_it": "Corsa, Tapis Roulant",
+  "instructions_it": [
+    "Per iniziare, sali sul tapis roulant e seleziona l'opzione desiderata dal menu. La maggior parte dei tapis roulant ha un'impostazione manuale, oppure puoi selezionare un programma di corsa. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. L'inclinazione può essere regolata per cambiare l'intensità dell'allenamento.",
+    "I tapis roulant offrono comodità, benefici cardiovascolari e di solito hanno un impatto minore rispetto alla corsa all'aperto. Una persona di 68 kg brucerà oltre 450 calorie correndo a 13 km/h per 30 minuti. Mantieni una postura corretta mentre corri e afferra le maniglie solo quando necessario, ad esempio quando scendi o controlli la tua frequenza cardiaca."
   ]
 }

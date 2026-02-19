@@ -1,5 +1,5 @@
 {
-  "name": "Stretching della gamba estesa in sedia",
+  "name": "Chair Leg Extended Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "adductors"
   ],
   "instructions": [
-    "Siediti dritto su una sedia e afferra il sedile ai lati.",
-    "Alza una gamba, estendendo il ginocchio e flettendo la caviglia mentre lo fai.",
-    "Muovi lentamente quella gamba verso l'esterno il più lontano possibile, poi torna al centro e abbassala.",
-    "Ripeti con l'altra gamba."
+    "Sit upright in a chair and grip the seat on the sides.",
+    "Raise one leg, extending the knee, flexing the ankle as you do so.",
+    "Slowly move that leg outward as far as you can, and then back to the center and down.",
+    "Repeat for your other leg."
   ],
   "category": "stretching",
   "images": [
@@ -27,5 +27,12 @@
     "Lever une jambe, en étendant le genou et en fléchissant la cheville au fur et à mesure.",
     "Déplacez lentement cette jambe vers l'extérieur aussi loin que vous le pouvez, puis ramenez-la au centre et descendre.",
     "Répétez pour votre autre jambe."
+  ],
+  "name_it": "Stretching della gamba estesa in sedia",
+  "instructions_it": [
+    "Siediti dritto su una sedia e afferra il sedile ai lati.",
+    "Alza una gamba, estendendo il ginocchio e flettendo la caviglia mentre lo fai.",
+    "Muovi lentamente quella gamba verso l'esterno il più lontano possibile, poi torna al centro e abbassala.",
+    "Ripeti con l'altra gamba."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Squat Frontale (Grip Pulito)",
+  "name": "Front Squat (Clean Grip)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per iniziare, posiziona prima il bilanciere in un supporto leggermente sotto il livello delle spalle. Appoggia il bilanciere sopra i deltoidi, spingendo verso le clavicole e toccando leggermente la gola. Le tue mani dovrebbero essere in grip pulito, toccando il bilanciere solo con le dita per aiutare a mantenerlo in posizione.",
-    "Solleva il bilanciere dal supporto spingendo prima con le gambe e contemporaneamente raddrizzando il torso. Allontanati dal supporto e posiziona le gambe in una posizione media con larghezza spalle, con le punte dei piedi leggermente rivolte verso l'esterno. Tieni sempre la testa e i gomiti alti. Questa sarà la tua posizione di partenza.",
-    "Fletti le ginocchia, sedendoti tra le gambe. Continua a scendere fino a quando i tuoi muscoli posteriori della coscia non toccano i polpacci. Mantieni le ginocchia allineate con i piedi utilizzando consapevolmente i tuoi abduttori per spingere le ginocchia verso l'esterno mentre esegui lo squat.",
-    "Inizia a sollevare il bilanciere mentre espiri, spingendo principalmente con il tallone o la parte centrale del piede mentre raddrizzi di nuovo le gambe e ritorni alla posizione di partenza."
+    "To begin, first set the bar in a rack slightly below shoulder level. Rest the bar on top of the deltoids, pushing into the clavicles, and lightly touching the throat. Your hands should be in a clean grip, touching the bar only with your fingers to help keep it in position.",
+    "Lift the bar off the rack by first pushing with your legs and at the same time straightening your torso. Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head and elbows up at all times. This will be your starting position.",
+    "Bend at the knees, sitting down between your legs. Continue down until your hamstrings are on your calves. Keep your knees aligned with your feet by consciously using your abductors to push your knees out as you squat.",
+    "Begin to raise the bar as you exhale by pushing the floor mainly with the heel or middle of your foot as you straighten the legs again and return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Soulevez la barre du support en poussant d'abord avec vos jambes tout en redressant votre torse. Éloignez-vous du support et placez vos jambes en adoptant une posture moyenne avec des pieds légèrement tournés vers l'extérieur. Gardez toujours la tête et les coudes levés. Cette position sera votre point de départ.",
     "Pliez les genoux, asseyez-vous entre vos jambes. Continuez à vous pencher jusqu'à ce que vos ischio-jambiers soient posés sur vos mollets. Gardez vos genoux alignés avec vos pieds en utilisant consciemment vos abducteurs pour éloigner vos genoux pendant que vous faites un squat.",
     "Commencez à soulever la barre en expirant en poussant principalement le sol avec le talon ou le milieu de votre pied lorsque vous redressez à nouveau les jambes et revenez à la position de départ."
+  ],
+  "name_it": "Squat Frontale (Grip Pulito)",
+  "instructions_it": [
+    "Per iniziare, posiziona prima il bilanciere in un supporto leggermente sotto il livello delle spalle. Appoggia il bilanciere sopra i deltoidi, spingendo verso le clavicole e toccando leggermente la gola. Le tue mani dovrebbero essere in grip pulito, toccando il bilanciere solo con le dita per aiutare a mantenerlo in posizione.",
+    "Solleva il bilanciere dal supporto spingendo prima con le gambe e contemporaneamente raddrizzando il torso. Allontanati dal supporto e posiziona le gambe in una posizione media con larghezza spalle, con le punte dei piedi leggermente rivolte verso l'esterno. Tieni sempre la testa e i gomiti alti. Questa sarà la tua posizione di partenza.",
+    "Fletti le ginocchia, sedendoti tra le gambe. Continua a scendere fino a quando i tuoi muscoli posteriori della coscia non toccano i polpacci. Mantieni le ginocchia allineate con i piedi utilizzando consapevolmente i tuoi abduttori per spingere le ginocchia verso l'esterno mentre esegui lo squat.",
+    "Inizia a sollevare il bilanciere mentre espiri, spingendo principalmente con il tallone o la parte centrale del piede mentre raddrizzi di nuovo le gambe e ritorni alla posizione di partenza."
   ]
 }

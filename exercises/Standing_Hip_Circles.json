@@ -1,5 +1,5 @@
 {
-  "name": "Cerchi dell'anca in piedi",
+  "name": "Standing Hip Circles",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "adductors"
   ],
   "instructions": [
-    "Inizia in piedi su una gamba, tenendoti a un supporto verticale.",
-    "Alza il ginocchio non sostenuto a 90 gradi. Questa sarà la tua posizione di partenza.",
-    "Apri l'anca il più possibile, cercando di fare un grande cerchio con il ginocchio.",
-    "Esegui questo movimento lentamente per un certo numero di ripetizioni e ripeti dall'altro lato."
+    "Begin standing on one leg, holding to a vertical support.",
+    "Raise the unsupported knee to 90 degrees. This will be your starting position.",
+    "Open the hip as far as possible, attempting to make a big circle with your knee.",
+    "Perform this movement slowly for a number of repetitions, and repeat on the other side."
   ],
   "category": "stretching",
   "images": [
@@ -27,5 +27,12 @@
     "Levez le genou non soutenu à 90 degrés. Cette position sera votre position de départ.",
     "Ouvrez l'hip le plus possible, en essayant de faire un grand cercle avec votre genou.",
     "Exécutez ce mouvement lentement pendant un certain nombre de répétitions, puis répétez de l'autre côté."
+  ],
+  "name_it": "Cerchi dell'anca in piedi",
+  "instructions_it": [
+    "Inizia in piedi su una gamba, tenendoti a un supporto verticale.",
+    "Alza il ginocchio non sostenuto a 90 gradi. Questa sarà la tua posizione di partenza.",
+    "Apri l'anca il più possibile, cercando di fare un grande cerchio con il ginocchio.",
+    "Esegui questo movimento lentamente per un certo numero di ripetizioni e ripeti dall'altro lato."
   ]
 }

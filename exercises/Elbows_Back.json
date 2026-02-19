@@ -1,5 +1,5 @@
 {
-  "name": "Gomiti Indietro",
+  "name": "Elbows Back",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,9 +11,9 @@
     "shoulders"
   ],
   "instructions": [
-    "Stai in piedi dritto.",
-    "Posiziona entrambe le mani sulla parte bassa della schiena, le dita rivolte verso il basso e i gomiti all'esterno.",
-    "Poi tira delicatamente i gomiti all'indietro cercando di farli toccare."
+    "Stand up straight.",
+    "Place both hands on your lower back, fingers pointing downward and elbows out.",
+    "Then gently pull your elbows back aiming to touch them together."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Tenez-vous droit.",
     "Placez les deux mains sur votre dos inférieur, les doigts pointant vers le bas et les coudes vers l'extérieur.",
     "Ensuite, ramenez doucement les coudes vers l'arrière en essayant de les toucher."
+  ],
+  "name_it": "Gomiti Indietro",
+  "instructions_it": [
+    "Stai in piedi dritto.",
+    "Posiziona entrambe le mani sulla parte bassa della schiena, le dita rivolte verso il basso e i gomiti all'esterno.",
+    "Poi tira delicatamente i gomiti all'indietro cercando di farli toccare."
   ]
 }

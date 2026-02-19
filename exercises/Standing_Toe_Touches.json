@@ -1,5 +1,5 @@
 {
-  "name": "Piegamenti in Piedi con Tocco delle Dita",
+  "name": "Standing Toe Touches",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,8 +11,8 @@
     "calves"
   ],
   "instructions": [
-    "Stai in piedi con un po' di spazio davanti e dietro di te.",
-    "Flettiti in vita, mantenendo le gambe dritte, finché non riesci a rilassarti e lasciare che la parte superiore del corpo penda davanti a te. Lascia che le braccia e le mani pendano naturalmente. Mantieni la posizione per 10-20 secondi."
+    "Stand with some space in front and behind you.",
+    "Bend at the waist, keeping your legs straight, until you can relax and let your upper body hang down in front of you. Let your arms and hands hang down naturally. Hold for 10 to 20 seconds."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,10 @@
   "instructions_fr": [
     "Tenez-vous debout en laissant un peu d'espace devant et derrière vous.",
     "Pliez-vous en deux à la taille, en gardant les jambes tendues, jusqu'à ce que vous puissiez vous détendre et laisser votre corps supérieur pendre devant vous. Laissez vos bras et vos mains pendre naturellement. Tenez pendant 10 à 20 secondes."
+  ],
+  "name_it": "Piegamenti in Piedi con Tocco delle Dita",
+  "instructions_it": [
+    "Stai in piedi con un po' di spazio davanti e dietro di te.",
+    "Flettiti in vita, mantenendo le gambe dritte, finché non riesci a rilassarti e lasciare che la parte superiore del corpo penda davanti a te. Lascia che le braccia e le mani pendano naturalmente. Mantieni la posizione per 10-20 secondi."
   ]
 }

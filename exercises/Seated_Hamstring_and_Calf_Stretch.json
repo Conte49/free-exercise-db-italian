@@ -1,5 +1,5 @@
 {
-  "name": "Stretching dei Muscoli Posteriori della Coscia e del Polpaccio da Seduti",
+  "name": "Seated Hamstring and Calf Stretch",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,8 +11,8 @@
     "calves"
   ],
   "instructions": [
-    "Fai passare una cintura, una corda o una banda attorno a un piede. Siediti con entrambe le gambe distese. Questa sarà la tua posizione di partenza.",
-    "Inclinandoti leggermente in avanti, tira sulla cintura per riportare le dita del tuo piede verso di te. Mantieni questa posizione per 10-20 secondi e poi ripeti con l'altra gamba."
+    "Loop a belt, rope, or band around one foot. Sit down with both legs extended . This will be your starting position.",
+    "Leaning forward slightly, pull on the belt to draw the toes of your foot back. Hold this position for 10-20 seconds and then repeat with the other leg."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,10 @@
   "instructions_fr": [
     "Enroulez une sangle, une corde ou une bande autour d'un pied. Asseyez-vous les jambes tendues devant vous. Cette position sera votre position de départ.",
     "Inclinés légèrement en avant, tirez sur la ceinture pour ramener les orteils de votre pied en arrière. Maintenez cette position pendant 10 à 20 secondes, puis répétez avec l'autre jambe."
+  ],
+  "name_it": "Stretching dei Muscoli Posteriori della Coscia e del Polpaccio da Seduti",
+  "instructions_it": [
+    "Fai passare una cintura, una corda o una banda attorno a un piede. Siediti con entrambe le gambe distese. Questa sarà la tua posizione di partenza.",
+    "Inclinandoti leggermente in avanti, tira sulla cintura per riportare le dita del tuo piede verso di te. Mantieni questa posizione per 10-20 secondi e poi ripeti con l'altra gamba."
   ]
 }

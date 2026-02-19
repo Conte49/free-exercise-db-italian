@@ -1,5 +1,5 @@
 {
-  "name": "Curl Bicipiti Interno in Piedi",
+  "name": "Standing Inner-Biceps Curl",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,13 +9,13 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi con un manubrio in ciascuna mano tenuto a braccia distese. I gomiti dovrebbero essere vicini al torso. Le gambe dovrebbero essere alla larghezza delle spalle.",
-    "Ruota i palmi delle mani in modo che siano rivolti verso l'interno in una posizione neutra. Questa sarà la tua posizione di partenza.",
-    "Mantenendo fissi i bicipiti superiori, arriccia i pesi verso l'esterno contrarre i bicipiti mentre espiri. I polsi dovrebbero ruotare in modo che, quando i pesi sono completamente sollevati, tu abbia una presa supinata (palmi rivolti verso l'alto).",
-    "Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i tuoi bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Suggerimento: mantieni gli avambracci allineati con i tuoi deltoidi esterni.",
-    "Mantieni la posizione contratta per un secondo mentre contrai i bicipiti.",
-    "Inizia lentamente a riportare i manubri alla posizione di partenza mentre inspiri. Ricorda di ruotare i polsi mentre abbassi il peso per tornare a una presa neutra.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Stand up with a dumbbell in each hand being held at arms length. The elbows should be close to the torso. Your legs should be at about shoulder's width apart from each other.",
+    "Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights out while contracting the biceps as you breathe out. Your wrist should turn so that when the weights are fully elevated you have supinated grip (palms facing up).",
+    "Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: Keep the forearms aligned with your outer deltoids.",
+    "Hold the contracted position for a second as you squeeze the biceps.",
+    "Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate the wrists as you lower the weight in order to switch back to a neutral grip.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,15 @@
     "Maintenez la position contractée pendant une seconde en contractant les biceps.",
     "Ramenez lentement les haltères à la position de départ pendant que vous respirez. N'oubliez pas de tourner les poignets pendant que vous abaissez la charge pour revenir à une prise neutre.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl Bicipiti Interno in Piedi",
+  "instructions_it": [
+    "Stai in piedi con un manubrio in ciascuna mano tenuto a braccia distese. I gomiti dovrebbero essere vicini al torso. Le gambe dovrebbero essere alla larghezza delle spalle.",
+    "Ruota i palmi delle mani in modo che siano rivolti verso l'interno in una posizione neutra. Questa sarà la tua posizione di partenza.",
+    "Mantenendo fissi i bicipiti superiori, arriccia i pesi verso l'esterno contrarre i bicipiti mentre espiri. I polsi dovrebbero ruotare in modo che, quando i pesi sono completamente sollevati, tu abbia una presa supinata (palmi rivolti verso l'alto).",
+    "Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i tuoi bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Suggerimento: mantieni gli avambracci allineati con i tuoi deltoidi esterni.",
+    "Mantieni la posizione contratta per un secondo mentre contrai i bicipiti.",
+    "Inizia lentamente a riportare i manubri alla posizione di partenza mentre inspiri. Ricorda di ruotare i polsi mentre abbassi il peso per tornare a una presa neutra.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

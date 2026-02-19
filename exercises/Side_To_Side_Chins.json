@@ -1,5 +1,5 @@
 {
-  "name": "Chin-Up Laterale",
+  "name": "Side To Side Chins",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,13 +14,13 @@
     "shoulders"
   ],
   "instructions": [
-    "Afferrate la barra per trazioni con i palmi rivolti in avanti utilizzando una presa ampia.",
-    "Con entrambe le braccia estese davanti a voi tenendo la barra con una presa ampia, inclinate il torso all'indietro di circa 30 gradi creando una curvatura nella parte bassa della schiena e spingendo il petto in fuori. Questa è la vostra posizione di partenza.",
-    "Sollevate il torso inclinando verso sinistra fino a quando la barra non tocca quasi la parte superiore del petto, tirando le spalle e le braccia superiori verso il basso e indietro. Espirate mentre eseguite questa parte del movimento. Suggerimento: concentratevi sul contrarre i muscoli della schiena una volta raggiunta la posizione completamente contratta. Il torso superiore deve rimanere fermo mentre si muove nello spazio (niente oscillazioni) e solo le braccia devono muoversi. Gli avambracci non devono svolgere alcun altro lavoro se non tenere la barra.",
-    "Dopo un secondo di contrazione, inspirate mentre tornate alla posizione di partenza.",
-    "Ora, sollevate il torso inclinando verso destra fino a quando la barra non tocca quasi la parte superiore del petto, tirando le spalle e le braccia superiori verso il basso e indietro. Espirate mentre eseguite questa parte del movimento. Suggerimento: concentratevi sul contrarre i muscoli della schiena una volta raggiunta la posizione completamente contratta. Il torso superiore deve rimanere fermo mentre si muove nello spazio e solo le braccia devono muoversi. Gli avambracci non devono svolgere alcun altro lavoro se non tenere la barra.",
-    "Dopo un secondo di contrazione, inspirate mentre tornate alla posizione di partenza.",
-    "Ripetete i passaggi 3-6 fino a quando non avrete eseguito il numero prescritto di ripetizioni per ciascun lato."
+    "Grab the pull-up bar with the palms facing forward using a wide grip.",
+    "As you have both arms extended in front of you holding the bar at a wide grip, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+    "Pull your torso up while leaning to the left hand side until the bar almost touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space (no swinging) and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second of contraction, inhale as you go back to the starting position.",
+    "Now, pull your torso up while leaning to the right hand side until the bar almost touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second of contraction, inhale as you go back to the starting position.",
+    "Repeat steps 3-6 until you have performed the prescribed amount of repetitions for each side."
   ],
   "category": "strength",
   "images": [
@@ -36,5 +36,15 @@
     "Maintenant, ramenez votre torse vers le haut en penchant le côté droit jusqu'à ce que la barre touche presque la poitrine supérieure en tirant les épaules et les bras vers le bas et vers l'arrière. Exhalez pendant que vous exécutez cette partie du mouvement. Conseils : Concentrez-vous sur la contraction des muscles du dos une fois que vous avez atteint la position contractée maximale. La partie supérieure du torse doit rester stationnaire alors qu'elle se déplace dans l'espace et seuls les bras doivent bouger. Les avant-bras ne devraient faire aucun autre travail que de tenir la barre.",
     "Après une seconde de contraction, inspirez en revenant à la position de départ.",
     "Répétez les étapes 3 à 6 jusqu'à ce que vous ayez effectué le nombre prescrit de répétitions pour chaque côté."
+  ],
+  "name_it": "Chin-Up Laterale",
+  "instructions_it": [
+    "Afferrate la barra per trazioni con i palmi rivolti in avanti utilizzando una presa ampia.",
+    "Con entrambe le braccia estese davanti a voi tenendo la barra con una presa ampia, inclinate il torso all'indietro di circa 30 gradi creando una curvatura nella parte bassa della schiena e spingendo il petto in fuori. Questa è la vostra posizione di partenza.",
+    "Sollevate il torso inclinando verso sinistra fino a quando la barra non tocca quasi la parte superiore del petto, tirando le spalle e le braccia superiori verso il basso e indietro. Espirate mentre eseguite questa parte del movimento. Suggerimento: concentratevi sul contrarre i muscoli della schiena una volta raggiunta la posizione completamente contratta. Il torso superiore deve rimanere fermo mentre si muove nello spazio (niente oscillazioni) e solo le braccia devono muoversi. Gli avambracci non devono svolgere alcun altro lavoro se non tenere la barra.",
+    "Dopo un secondo di contrazione, inspirate mentre tornate alla posizione di partenza.",
+    "Ora, sollevate il torso inclinando verso destra fino a quando la barra non tocca quasi la parte superiore del petto, tirando le spalle e le braccia superiori verso il basso e indietro. Espirate mentre eseguite questa parte del movimento. Suggerimento: concentratevi sul contrarre i muscoli della schiena una volta raggiunta la posizione completamente contratta. Il torso superiore deve rimanere fermo mentre si muove nello spazio e solo le braccia devono muoversi. Gli avambracci non devono svolgere alcun altro lavoro se non tenere la barra.",
+    "Dopo un secondo di contrazione, inspirate mentre tornate alla posizione di partenza.",
+    "Ripetete i passaggi 3-6 fino a quando non avrete eseguito il numero prescritto di ripetizioni per ciascun lato."
   ]
 }

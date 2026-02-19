@@ -1,5 +1,5 @@
 {
-  "name": "Squat con Kettlebell a Un Braccio Sopra la Testa",
+  "name": "One-Arm Overhead Kettlebell Squats",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -14,9 +14,9 @@
     "shoulders"
   ],
   "instructions": [
-    "Pulisci e spingi un kettlebell con un braccio. Porta il kettlebell alla spalla estendendo le gambe e i fianchi mentre tiri il kettlebell verso la spalla. Ruota il polso mentre lo fai.",
-    "Guardando dritto davanti a te e mantenendo un kettlebell bloccato sopra di te, flette le ginocchia e i fianchi e abbassa il torso tra le gambe, mantenendo la testa e il petto alti.",
-    "Fermati nella posizione bassa per un secondo prima di risalire, spingendo attraverso i talloni dei piedi."
+    "Clean and press a kettlebell with one arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so. Press the weight overhead by extending through the elbow.This will be your starting position.",
+    "Looking straight ahead and keeping a kettlebell locked out above you, flex the knees and hips and lower your torso between your legs, keeping your head and chest up.",
+    "Pause at the bottom position for a second before rising back to the top, driving through the heels of your feet."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,11 @@
     "Épaulez et presser une kettlebell d'une seule main. Épauler la kettlebell jusqu'à l'épaule en étendant les jambes et les hanches pendant que vous tirez la kettlebell vers votre épaule. Faites pivoter votre poignet pendant ce temps. Pressez le poids au-dessus de votre tête en étendant votre coude. Ce sera votre position de départ.",
     "En regardant droit devant vous et en gardant la kettlebell tendue au-dessus de vous, fléchissez les genoux et les hanches et abaissez votre torse entre vos jambes tout en gardant la tête et la poitrine relevées.",
     "Arrêtez-vous brièvement à la position basse avant de remonter en poussant sur les talons."
+  ],
+  "name_it": "Squat con Kettlebell a Un Braccio Sopra la Testa",
+  "instructions_it": [
+    "Pulisci e spingi un kettlebell con un braccio. Porta il kettlebell alla spalla estendendo le gambe e i fianchi mentre tiri il kettlebell verso la spalla. Ruota il polso mentre lo fai.",
+    "Guardando dritto davanti a te e mantenendo un kettlebell bloccato sopra di te, flette le ginocchia e i fianchi e abbassa il torso tra le gambe, mantenendo la testa e il petto alti.",
+    "Fermati nella posizione bassa per un secondo prima di risalire, spingendo attraverso i talloni dei piedi."
   ]
 }

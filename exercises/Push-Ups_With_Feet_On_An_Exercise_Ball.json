@@ -1,5 +1,5 @@
 {
-  "name": "Flessioni con i piedi su una palla da esercizio",
+  "name": "Push-Ups With Feet On An Exercise Ball",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati sul pavimento a faccia in giù e posiziona le mani a circa 90 centimetri di distanza l'una dall'altra, sollevando il torso con le braccia distese.",
-    "Posiziona le punte dei piedi sopra una palla da esercizio. Questo permetterà al tuo corpo di essere elevato.",
-    "Abbassati fino a quando il petto quasi tocca il pavimento mentre inspiri.",
-    "Utilizzando i muscoli pettorali, spingi il tuo corpo superiore indietro nella posizione di partenza e contrai il petto. Espira mentre esegui questo passaggio.",
-    "Dopo una pausa di un secondo nella posizione contratta, ripeti il movimento per il numero di ripetizioni prescritto."
+    "Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.",
+    "Place your toes on top of an exercise ball. This will allow your body to be elevated.",
+    "Lower yourself until your chest almost touches the floor as you inhale.",
+    "Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+    "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,13 @@
     "Descendez-vous jusqu'à ce que votre poitrine touche presque le sol en inspirant.",
     "En utilisant vos muscles pectoraux, poussez votre corps supérieur vers l'arrière jusqu'à la position de départ et contractez votre poitrine. Respirez pendant que vous exécutez cette étape.",
     "Après une seconde pause à la position contractée, répétez le mouvement pour le nombre de répétitions prescrit."
+  ],
+  "name_it": "Flessioni con i piedi su una palla da esercizio",
+  "instructions_it": [
+    "Sdraiati sul pavimento a faccia in giù e posiziona le mani a circa 90 centimetri di distanza l'una dall'altra, sollevando il torso con le braccia distese.",
+    "Posiziona le punte dei piedi sopra una palla da esercizio. Questo permetterà al tuo corpo di essere elevato.",
+    "Abbassati fino a quando il petto quasi tocca il pavimento mentre inspiri.",
+    "Utilizzando i muscoli pettorali, spingi il tuo corpo superiore indietro nella posizione di partenza e contrai il petto. Espira mentre esegui questo passaggio.",
+    "Dopo una pausa di un secondo nella posizione contratta, ripeti il movimento per il numero di ripetizioni prescritto."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Stretching Intermedio dei Flessori dell'Anca e Quadricipiti",
+  "name": "Intermediate Hip Flexor and Quad Stretch",
   "force": "static",
   "level": "intermediate",
   "mechanic": "compound",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati a faccia in giù sul pavimento, con una corda, una cintura o una banda attorno a un piede.",
-    "Fletti il ginocchio ed estendi l'anca della gamba da allungare, usando entrambe le mani per tirare sulla cintura. Il tuo ginocchio e la tua anca dovrebbero sollevarsi da terra, creando tensione nei flessori dell'anca e nei quadricipiti. Mantieni la posizione per 10-20 secondi e ripeti con l'altra gamba."
+    "Lie face down on the floor, with a rope, belt, or band looped around one foot.",
+    "Flex the knee and extend the hip of the leg to be stretched, using both hands to pull on the belt. Your knee and your hip should come off of the floor, creating tension in the hip flexors and quadriceps. Hold the stretch for 10-20 seconds, and repeat on the other leg."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Allongez-vous sur le ventre à même le sol, avec une corde, une ceinture ou une bande enroulée autour d'un pied.",
     "Pliez le genou et étendez la hanche de la jambe à étirer, en utilisant les deux mains pour tirer sur la ceinture. Votre genou et votre hanche doivent quitter le sol, créant une tension dans les flexeurs de hanche et les quadriceps. Maintenez l'étirement pendant 10 à 20 secondes, puis répétez avec l'autre jambe."
+  ],
+  "name_it": "Stretching Intermedio dei Flessori dell'Anca e Quadricipiti",
+  "instructions_it": [
+    "Sdraiati a faccia in giù sul pavimento, con una corda, una cintura o una banda attorno a un piede.",
+    "Fletti il ginocchio ed estendi l'anca della gamba da allungare, usando entrambe le mani per tirare sulla cintura. Il tuo ginocchio e la tua anca dovrebbero sollevarsi da terra, creando tensione nei flessori dell'anca e nei quadricipiti. Mantieni la posizione per 10-20 secondi e ripeti con l'altra gamba."
   ]
 }

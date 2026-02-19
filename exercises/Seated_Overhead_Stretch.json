@@ -1,5 +1,5 @@
 {
-  "name": "Stretching sopra la testa da seduti",
+  "name": "Seated Overhead Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Siediti dritto su un tappetino da esercizio.",
-    "Unisci le piante dei piedi a circa sei-otto pollici davanti ai fianchi.",
-    "Posiziona una mano sul pavimento accanto a te e l'altra mano dietro la testa.",
-    "Alza il gomito verso il soffitto mentre inclini il torso dall'altra parte. Mantieni la posizione per 10-20 secondi, poi cambia lato."
+    "Sit up straight on an exercise mat.",
+    "Touch the soles of your feet together with your feet six to eight inches in front of your hips.",
+    "Place one hand on the floor beside you and your other hand behind your head.",
+    "Lift your elbow to the ceiling as you incline your torso to the other side. Hold for 10 to 20 seconds, then switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,12 @@
     "Touchez les semelles de vos pieds ensemble, en plaçant vos pieds à environ 6 à 8 pouces devant vos hanches.",
     "Placez une main à plat sur le sol à côté de vous et votre autre main derrière la tête.",
     "Montez votre coude vers le plafond tout en inclinant votre torse du côté opposé. Maintenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ],
+  "name_it": "Stretching sopra la testa da seduti",
+  "instructions_it": [
+    "Siediti dritto su un tappetino da esercizio.",
+    "Unisci le piante dei piedi a circa sei-otto pollici davanti ai fianchi.",
+    "Posiziona una mano sul pavimento accanto a te e l'altra mano dietro la testa.",
+    "Alza il gomito verso il soffitto mentre inclini il torso dall'altra parte. Mantieni la posizione per 10-20 secondi, poi cambia lato."
   ]
 }

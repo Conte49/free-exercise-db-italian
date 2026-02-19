@@ -1,5 +1,5 @@
 {
-  "name": "Estensione con maniglie a catena",
+  "name": "Chain Handle Extension",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Avrai bisogno di due attacchi per maniglie a cavo e di una panca piana, oltre a catene, per questo esercizio. Attacca il centro delle catene alle maniglie e posizionati sulla panca piana. I tuoi gomiti dovrebbero puntare verso l'alto.",
-    "Inizia estendendo il gomito, mantenendo il braccio superiore fermo, con i polsi in pronazione.",
-    "Fermati in posizione di blocco e inverti il movimento per tornare alla posizione di partenza."
+    "You will need two cable handle attachments and a flat bench, as well as chains, for this exercise. Clip the middle of the chains to the handles, and position yourself on the flat bench. Your elbows should be pointing straight up.",
+    "Begin by extending through the elbow, keeping your upper arm still, with your wrists pronated.",
+    "Pause at the lockout, and reverse the motion to return to the starting position."
   ],
   "category": "powerlifting",
   "images": [
@@ -23,5 +23,11 @@
     "Vous aurez besoin de deux poignées de câble et d'un banc plat, ainsi que de chaînes, pour cet exercice. Attachez le milieu des chaînes aux poignées, puis positionnez-vous sur le banc plat. Vos coudes devraient pointer vers le haut.",
     "Commencez par une extension au niveau du coude, en gardant votre bras supérieur immobile, avec vos poignets en pronation.",
     "Arrêtez-vous en position verrouillée et inversez le mouvement pour revenir à la position de départ."
+  ],
+  "name_it": "Estensione con maniglie a catena",
+  "instructions_it": [
+    "Avrai bisogno di due attacchi per maniglie a cavo e di una panca piana, oltre a catene, per questo esercizio. Attacca il centro delle catene alle maniglie e posizionati sulla panca piana. I tuoi gomiti dovrebbero puntare verso l'alto.",
+    "Inizia estendendo il gomito, mantenendo il braccio superiore fermo, con i polsi in pronazione.",
+    "Fermati in posizione di blocco e inverti il movimento per tornare alla posizione di partenza."
   ]
 }

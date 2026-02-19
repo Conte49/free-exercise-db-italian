@@ -1,5 +1,5 @@
 {
-  "name": "Curl con manubri supino sdraiato",
+  "name": "Lying Supine Dumbbell Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati su una panca piana con la schiena rivolta verso l'alto, tenendo un manubrio in ciascuna mano appoggiato sulle cosce.",
-    "Porta i manubri ai lati con le braccia estese e i palmi delle mani rivolti verso le cosce (presa neutra).",
-    "Mantenendo le braccia vicine al torso e i gomiti fermi, abbassa lentamente le braccia (tenendole estese con un leggero piegamento ai gomiti) il più possibile verso il pavimento. Una volta che non puoi scendere ulteriormente, blocca le braccia superiori in quella posizione e quella sarà la tua posizione di partenza.",
-    "Espirando, inizia lentamente a sollevare i pesi mentre ruoti simultaneamente i polsi in modo che i palmi delle mani siano rivolti verso l'alto. Continua a sollevare il peso fino a quando i tuoi bicipiti sono completamente contratti e stringi forte nella posizione alta per un secondo. Suggerimento: solo gli avambracci dovrebbero muoversi. Le braccia superiori devono rimanere ferme e i gomiti devono rimanere in posizione durante tutto il movimento.",
-    "Torna lentamente alla posizione di partenza."
+    "Lie down on a flat bench face up while holding a dumbbell in each arm on top of your thighs.",
+    "Bring the dumbbells to the sides with the arms extended and the palms of the hands facing your thighs (neutral grip).",
+    "While keeping the arms close to your torso and elbows in, slowly lower your arms (as you keep them extended with a slight bend at the elbows) as far down towards the floor as you can go. Once you cannot go down any further, lock your upper arms in that position and that will be your starting position.",
+    "As you breathe out, slowly begin to curl the weights up as you simultaneously rotate your wrists so that the palms of the hands face up. Continue curling the weight until your biceps are fully contracted and squeeze hard at the top position for a second. Tip: Only the forearms should move. Upper arms should remain stationary and elbows should stay in throughout the movement.",
+    "Return back to the starting position very slowly."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "En gardant les bras près du torse et les coudes rentrés, abaissez lentement les bras (en les gardant étendus avec un léger coude) aussi bas que possible vers le sol. Une fois que vous ne pouvez plus descendre, verrouillez les bras supérieurs dans cette position, ce sera votre position de départ.",
     "En expirant, commencez lentement à soulever les poids en tournant simultanément vos poignets de sorte que les paumes de vos mains se retrouvent face vers le haut. Continuez à soulever les poids jusqu'à ce que vos biceps soient complètement contractés, puis maintenez fermement pendant une seconde au sommet du mouvement. Astuce : Seuls les avant-bras doivent bouger. Les bras supérieurs doivent rester immobiles et les coudes doivent rester verrouillés tout au long du mouvement.",
     "Revenez très lentement à la position de départ."
+  ],
+  "name_it": "Curl con manubri supino sdraiato",
+  "instructions_it": [
+    "Sdraiati su una panca piana con la schiena rivolta verso l'alto, tenendo un manubrio in ciascuna mano appoggiato sulle cosce.",
+    "Porta i manubri ai lati con le braccia estese e i palmi delle mani rivolti verso le cosce (presa neutra).",
+    "Mantenendo le braccia vicine al torso e i gomiti fermi, abbassa lentamente le braccia (tenendole estese con un leggero piegamento ai gomiti) il più possibile verso il pavimento. Una volta che non puoi scendere ulteriormente, blocca le braccia superiori in quella posizione e quella sarà la tua posizione di partenza.",
+    "Espirando, inizia lentamente a sollevare i pesi mentre ruoti simultaneamente i polsi in modo che i palmi delle mani siano rivolti verso l'alto. Continua a sollevare il peso fino a quando i tuoi bicipiti sono completamente contratti e stringi forte nella posizione alta per un secondo. Suggerimento: solo gli avambracci dovrebbero muoversi. Le braccia superiori devono rimanere ferme e i gomiti devono rimanere in posizione durante tutto il movimento.",
+    "Torna lentamente alla posizione di partenza."
   ]
 }

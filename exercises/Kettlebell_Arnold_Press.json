@@ -1,5 +1,5 @@
 {
-  "name": "Arnold Press con Kettlebell",
+  "name": "Kettlebell Arnold Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,9 +11,9 @@
     "triceps"
   ],
   "instructions": [
-    "Porta un kettlebell alla spalla. Solleva il kettlebell verso la spalla estendendo le gambe e i fianchi mentre lo sollevi.",
-    "Guardando dritto davanti a te, spingi il kettlebell verso l'esterno e sopra la testa, ruotando il polso in modo che il palmo sia rivolto in avanti nella parte superiore del movimento.",
-    "Riporta il kettlebell nella posizione di partenza, con il palmo rivolto verso l'interno."
+    "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulder by extending through the legs and hips as you raise the kettlebell towards your shoulder. The palm should be facing inward.",
+    "Looking straight ahead, press the kettlebell out and overhead, rotating your wrist so that your palm faces forward at the top of the motion.",
+    "Return the kettlebell to the starting position, with the palm facing in."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,11 @@
     "Épaulez une kettlebell jusqu'à votre épaule. Épaulez la kettlebell jusqu'à votre épaule en vous étendant par les jambes et les hanches tout en soulevant la kettlebell vers votre épaule. La paume devrait être tournée vers l'intérieur.",
     "En regardant droit devant vous, pressez la kettlebell vers l'extérieur et au-dessus de votre tête, en faisant tourner votre poignet de sorte que votre paume face vers l'avant au sommet du mouvement.",
     "Ramenez la kettlebell à la position de départ, la paume vers l'intérieur."
+  ],
+  "name_it": "Arnold Press con Kettlebell",
+  "instructions_it": [
+    "Porta un kettlebell alla spalla. Solleva il kettlebell verso la spalla estendendo le gambe e i fianchi mentre lo sollevi.",
+    "Guardando dritto davanti a te, spingi il kettlebell verso l'esterno e sopra la testa, ruotando il polso in modo che il palmo sia rivolto in avanti nella parte superiore del movimento.",
+    "Riporta il kettlebell nella posizione di partenza, con il palmo rivolto verso l'interno."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con Due Manubri Inclinato con Palmi Inversi",
+  "name": "Bent Over Two-Dumbbell Row With Palms In",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "lats"
   ],
   "instructions": [
-    "Con un manubrio in ciascuna mano (palmi rivolti l'uno verso l'altro), piega leggermente le ginocchia e porta il busto in avanti, piegando alla vita, mantenendo la schiena dritta fino a che non è quasi parallela al pavimento. Suggerimento: Assicurati di tenere la testa alta. I pesi dovrebbero pendere direttamente davanti a te mentre le braccia pendono perpendicolari al pavimento e al tuo busto. Questa è la tua posizione di partenza.",
-    "Mantenendo il busto fermo, solleva i manubri ai lati mentre espiri, stringendo le scapole insieme. Nella posizione contratta in alto, stringi i muscoli della schiena e trattieni per un secondo.",
-    "Abbassa lentamente il peso di nuovo alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "With a dumbbell in each hand (palms facing each other), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
+    "While keeping the torso stationary, lift the dumbbells to your side as you breathe out, squeezing your shoulder blades together. On the top contracted position, squeeze the back muscles and hold for a second.",
+    "Slowly lower the weight again to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "En gardant le torse immobile, soulevez les haltères sur votre côté tout en respirant, en contractant vos omoplates. Dans la position supérieure contractée, contractez les muscles du dos et maintenez la position pendant une seconde.",
     "Abaissez lentement la charge dans la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Rematore con Due Manubri Inclinato con Palmi Inversi",
+  "instructions_it": [
+    "Con un manubrio in ciascuna mano (palmi rivolti l'uno verso l'altro), piega leggermente le ginocchia e porta il busto in avanti, piegando alla vita, mantenendo la schiena dritta fino a che non è quasi parallela al pavimento. Suggerimento: Assicurati di tenere la testa alta. I pesi dovrebbero pendere direttamente davanti a te mentre le braccia pendono perpendicolari al pavimento e al tuo busto. Questa è la tua posizione di partenza.",
+    "Mantenendo il busto fermo, solleva i manubri ai lati mentre espiri, stringendo le scapole insieme. Nella posizione contratta in alto, stringi i muscoli della schiena e trattieni per un secondo.",
+    "Abbassa lentamente il peso di nuovo alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

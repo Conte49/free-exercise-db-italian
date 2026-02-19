@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dei Tricipiti con Manubrio a Un Braccio in Presa Pronata",
+  "name": "One Arm Pronated Dumbbell Triceps Extension",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati su una panca tenendo un manubrio a braccio teso. Il tuo braccio dovrebbe essere perpendicolare al tuo corpo. Il palmo della mano deve essere rivolto verso i piedi poiché è necessaria una presa pronata per eseguire questo esercizio.",
-    "Posiziona la mano non utilizzata sul tuo bicipite per supporto.",
-    "Inizia lentamente a abbassare il manubrio mentre inspiri.",
-    "Poi, inizia a sollevare il manubrio verso l'alto mentre contrai i tricipiti. Ricorda di espirare durante la fase concentrica (parte di sollevamento dell'esercizio).",
-    "Ripeti fino a completare le ripetizioni previste.",
-    "Cambia braccio e ripeti il movimento."
+    "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your feet as a pronated grip is required to perform this exercise.",
+    "Place your non lifting hand on your bicep for support.",
+    "Slowly begin to lower the dumbbell down as you breathe in.",
+    "Then, begin lifting the dumbbell upward as you contract the triceps. Remember to breathe out during the concentric (lifting part of the exercise).",
+    "Repeat until you have performed your set repetitions.",
+    "Switch arms and repeat the movement."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "Ensuite, commencez à soulever l'haltère vers le haut en contractant les triceps. N'oubliez pas de respirer pendant la phase concentrique (la partie de l'exercice lors du levage).",
     "Répétez jusqu'à ce que vous ayez effectué vos répétitions.",
     "Changez de bras et répétez le mouvement."
+  ],
+  "name_it": "Estensione dei Tricipiti con Manubrio a Un Braccio in Presa Pronata",
+  "instructions_it": [
+    "Sdraiati su una panca tenendo un manubrio a braccio teso. Il tuo braccio dovrebbe essere perpendicolare al tuo corpo. Il palmo della mano deve essere rivolto verso i piedi poiché è necessaria una presa pronata per eseguire questo esercizio.",
+    "Posiziona la mano non utilizzata sul tuo bicipite per supporto.",
+    "Inizia lentamente a abbassare il manubrio mentre inspiri.",
+    "Poi, inizia a sollevare il manubrio verso l'alto mentre contrai i tricipiti. Ricorda di espirare durante la fase concentrica (parte di sollevamento dell'esercizio).",
+    "Ripeti fino a completare le ripetizioni previste.",
+    "Cambia braccio e ripeti il movimento."
   ]
 }

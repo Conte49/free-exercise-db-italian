@@ -1,5 +1,5 @@
 {
-  "name": "Resistenza al collo con piastra in posizione prona",
+  "name": "Lying Face Down Plate Neck Resistance",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati a faccia in giù con il corpo dritto su una panca piatta tenendo una piastra dietro la testa. Suggerimento: dovrai posizionarti in modo che le spalle siano leggermente sopra il bordo della panca piatta affinché il petto superiore, il collo e il viso siano al di fuori della panca. Questa sarà la tua posizione di partenza.",
-    "Mantenendo la piastra ferma sulla parte posteriore della testa, abbassa lentamente la testa (come per dire \"sì\") mentre inspiri.",
-    "Solleva di nuovo la testa fino alla posizione di partenza con un movimento semi-circolare mentre espiri. Tieni la contrazione per un secondo.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Lie face down with your whole body straight on a flat bench while holding a weight plate behind your head. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the upper chest, neck and face to be off the bench. This will be your starting position.",
+    "While keeping the plate secure on the back of your head slowly lower your head (as in saying \"yes\") as you breathe in.",
+    "Raise your head back up to the starting position in a semi-circular motion as you breathe out. Hold the contraction for a second.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Tout en gardant la plaque bien fixée sur l'arrière de votre tête, baissez lentement la tête (comme pour dire « oui ») en inspirant.",
     "Levez la tête en revenant à la position de départ selon un mouvement semi-circulaire pendant que vous expirez. Maintenez la contraction pendant une seconde.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Resistenza al collo con piastra in posizione prona",
+  "instructions_it": [
+    "Sdraiati a faccia in giù con il corpo dritto su una panca piatta tenendo una piastra dietro la testa. Suggerimento: dovrai posizionarti in modo che le spalle siano leggermente sopra il bordo della panca piatta affinché il petto superiore, il collo e il viso siano al di fuori della panca. Questa sarà la tua posizione di partenza.",
+    "Mantenendo la piastra ferma sulla parte posteriore della testa, abbassa lentamente la testa (come per dire \"sì\") mentre inspiri.",
+    "Solleva di nuovo la testa fino alla posizione di partenza con un movimento semi-circolare mentre espiri. Tieni la contrazione per un secondo.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Crunch - Gambe su Palla da Esercizio",
+  "name": "Crunch - Legs On Exercise Ball",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,13 +9,13 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati sulla schiena con i piedi appoggiati su una palla da esercizio e le ginocchia piegate a un angolo di 90 gradi.",
-    "Posiziona i piedi a tre o quattro pollici di distanza l'uno dall'altro e punta le dita dei piedi verso l'interno in modo che si tocchino.",
-    "Posiziona le mani leggermente ai lati della testa mantenendo i gomiti all'interno. Suggerimento: Non incrociare le dita dietro la testa.",
-    "Spingi la parte bassa della schiena verso il pavimento per isolare meglio i muscoli addominali. Questa sarà la tua posizione di partenza.",
-    "Inizia a sollevare le spalle da terra e continua a spingere verso il basso con la parte bassa della schiena il più forte possibile. Le spalle dovrebbero sollevarsi solo di circa quattro pollici, mentre la parte bassa della schiena deve rimanere a terra. Espira mentre esegui questa parte del movimento. Contrai gli addominali con forza nella parte superiore della contrazione e trattieni per un secondo. Suggerimento: Concentrati su un movimento lento e controllato. Evita di usare slancio in qualsiasi momento.",
-    "Scendi lentamente nella posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",
+    "Place your feet three to four inches apart and point your toes inward so they touch.",
+    "Place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.",
+    "Push the small of your back down in the floor in order to better isolate your abdominal muscles. This will be your starting position.",
+    "Begin to roll your shoulders off the floor and continue to push down as hard as you can with your lower back. Your shoulders should come up off the floor only about four inches, and your lower back should remain on the floor. Breathe out as you execute this portion of the movement. Squeeze your abdominals hard at the top of the contraction and hold for a second. Tip: Focus on a slow, controlled movement. Refrain from using momentum at any time.",
+    "Slowly go back down to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,15 @@
     "Commencez à rouler vos épaules hors du sol et continuez à pousser aussi fort que vous le pouvez avec votre bas du dos. Vos épaules ne devraient sortir du sol qu'à environ quatre pouces, et votre bas du dos devrait rester au contact du sol. Expirez pendant que vous exécutez cette partie du mouvement. Contractez vos abdominaux le plus fort possible au sommet de la contraction et maintenez-la pendant une seconde. Conseils : concentrez-vous sur un mouvement lent et contrôlé. Évitez d'utiliser de l'élan à tout moment.",
     "Revenez lentement à la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Crunch - Gambe su Palla da Esercizio",
+  "instructions_it": [
+    "Sdraiati sulla schiena con i piedi appoggiati su una palla da esercizio e le ginocchia piegate a un angolo di 90 gradi.",
+    "Posiziona i piedi a tre o quattro pollici di distanza l'uno dall'altro e punta le dita dei piedi verso l'interno in modo che si tocchino.",
+    "Posiziona le mani leggermente ai lati della testa mantenendo i gomiti all'interno. Suggerimento: Non incrociare le dita dietro la testa.",
+    "Spingi la parte bassa della schiena verso il pavimento per isolare meglio i muscoli addominali. Questa sarà la tua posizione di partenza.",
+    "Inizia a sollevare le spalle da terra e continua a spingere verso il basso con la parte bassa della schiena il più forte possibile. Le spalle dovrebbero sollevarsi solo di circa quattro pollici, mentre la parte bassa della schiena deve rimanere a terra. Espira mentre esegui questa parte del movimento. Contrai gli addominali con forza nella parte superiore della contrazione e trattieni per un secondo. Suggerimento: Concentrati su un movimento lento e controllato. Evita di usare slancio in qualsiasi momento.",
+    "Scendi lentamente nella posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

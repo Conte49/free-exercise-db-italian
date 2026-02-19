@@ -1,5 +1,5 @@
 {
-  "name": "Curl inverso con manubri in piedi",
+  "name": "Standing Dumbbell Reverse Curl",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "forearms"
   ],
   "instructions": [
-    "Per iniziare, stai dritto con un manubrio in ciascuna mano usando una presa prona (palmi rivolti verso il basso). Le braccia devono essere completamente estese mentre i piedi sono alla larghezza delle spalle.",
-    "Tenendo fermi i gomiti, arriccia i pesi contraendo i bicipiti mentre espiri. Solo gli avambracci devono muoversi. Continua il movimento fino a quando i bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Mantieni la posizione contratta per un secondo mentre stringi il muscolo.",
-    "Inizia lentamente a riportare i manubri alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "To begin, stand straight with a dumbbell in each hand using a pronated grip (palms facing down). Your arms should be fully extended while your feet are shoulder width apart from each other. This is the starting position.",
+    "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
+    "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "En maintenant les bras supérieurs immobiles, effectuez des curls en soulevant les poids tout en contractant les biceps pendant que vous expirez. Seules les avant-bras doivent bouger. Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient au niveau des épaules. Maintenez cette position contractée pendant une seconde en contractant le muscle.",
     "Ramenez lentement les haltères vers leur position initiale pendant que vous respirez.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl inverso con manubri in piedi",
+  "instructions_it": [
+    "Per iniziare, stai dritto con un manubrio in ciascuna mano usando una presa prona (palmi rivolti verso il basso). Le braccia devono essere completamente estese mentre i piedi sono alla larghezza delle spalle.",
+    "Tenendo fermi i gomiti, arriccia i pesi contraendo i bicipiti mentre espiri. Solo gli avambracci devono muoversi. Continua il movimento fino a quando i bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Mantieni la posizione contratta per un secondo mentre stringi il muscolo.",
+    "Inizia lentamente a riportare i manubri alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

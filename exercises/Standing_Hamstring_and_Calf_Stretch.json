@@ -1,5 +1,5 @@
 {
-  "name": "Allungamento in Piedi dei Muscoli Posteriori della Coscia e del Polpaccio",
+  "name": "Standing Hamstring and Calf Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia passando una cintura, una banda o una corda attorno a un piede. Mentre sei in piedi, porta quel piede in avanti.",
-    "Piegati con la gamba posteriore, mantenendo dritta quella anteriore. Ora solleva le dita del piede anteriore da terra e inclina il corpo in avanti.",
-    "Usando la cintura, tira la parte superiore del piede per aumentare l'allungamento del polpaccio. Tieni la posizione per 10-20 secondi e ripeti con l'altro piede."
+    "Being by looping a belt, band, or rope around one foot. While standing, place that foot forward.",
+    "Bend your back leg, while keeping the front one straight. Now raise the toes of your front foot off of the ground and lean forward.",
+    "Using the belt, pull on the top of the foot to increase the stretch in the calf. Hold for 10-20 seconds and repeat with the other foot."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,11 @@
     "Commencez par enrouler une ceinture, un élastique ou une corde autour d'un pied. Debout, placez ce pied en avant.",
     "Pliez votre jambe arrière, tout en gardant la jambe avant droite. Soulevez ensuite les orteils de votre pied avant hors du sol et penchez-vous en avant.",
     "En utilisant la ceinture, tirez sur le dessus du pied pour augmenter l'étirement du mollet. Maintenez la position pendant 10 à 20 secondes et répétez avec l'autre pied."
+  ],
+  "name_it": "Allungamento in Piedi dei Muscoli Posteriori della Coscia e del Polpaccio",
+  "instructions_it": [
+    "Inizia passando una cintura, una banda o una corda attorno a un piede. Mentre sei in piedi, porta quel piede in avanti.",
+    "Piegati con la gamba posteriore, mantenendo dritta quella anteriore. Ora solleva le dita del piede anteriore da terra e inclina il corpo in avanti.",
+    "Usando la cintura, tira la parte superiore del piede per aumentare l'allungamento del polpaccio. Tieni la posizione per 10-20 secondi e ripeti con l'altro piede."
   ]
 }

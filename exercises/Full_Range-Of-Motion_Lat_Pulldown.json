@@ -1,5 +1,5 @@
 {
-  "name": "Lat Pulldown a Pieno Raggio di Movimento",
+  "name": "Full Range-Of-Motion Lat Pulldown",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,8 +13,8 @@
     "shoulders"
   ],
   "instructions": [
-    "In piedi o seduto su una panca alta, afferra due cavi a staffa attaccati alle pulegge alte. Afferra con la mano opposta in modo che le braccia siano incrociate e i palmi siano rivolti in avanti.",
-    "Tenendo il petto in alto e mantenendo una leggera curvatura nella parte bassa della schiena, tira le maniglie verso il basso come se stessi eseguendo un normale pulldown. L'ampiezza del movimento sarà più simile a un arco. Durante il movimento, ruota le mani in modo che nella posizione finale i palmi siano rivolti l'uno verso l'altro anziché in avanti. Torna lentamente alla posizione di partenza e ripeti."
+    "Either standing or seated on a high bench, grasp two stirrup cables that are attached to the high pulleys. Grab with the opposing hand so your arms are crisscrossed about you and your palms are facing forward.",
+    "Keeping your chest up and maintaining a slight arch in your lower back, pull the handles down as if you were doing a regular pulldown. The range of motion will be more of an arc. During the movement, rotate your hands so that in the bottom position your palms face each other rather than forward. Return slowly to the starting position and repeat."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Debout ou assis sur un banc élevé, saisissez deux câbles en forme d'étrier qui sont fixés aux poulies hautes. Attrapez-les avec la main opposée, de sorte que vos bras se croisent devant vous et que vos paumes soient tournées vers l'avant.",
     "En gardant la poitrine relevée et en maintenant une légère courbure dans votre bas du dos, tirez les poignées vers le bas comme si vous faisiez un row traditionnel. La plage de mouvement sera plus en forme d'arc. Pendant le mouvement, faites pivoter vos mains de sorte que, dans la position inférieure, vos paumes se fassent face plutôt que vers l'avant. Revenez lentement à la position de départ et répétez le mouvement."
+  ],
+  "name_it": "Lat Pulldown a Pieno Raggio di Movimento",
+  "instructions_it": [
+    "In piedi o seduto su una panca alta, afferra due cavi a staffa attaccati alle pulegge alte. Afferra con la mano opposta in modo che le braccia siano incrociate e i palmi siano rivolti in avanti.",
+    "Tenendo il petto in alto e mantenendo una leggera curvatura nella parte bassa della schiena, tira le maniglie verso il basso come se stessi eseguendo un normale pulldown. L'ampiezza del movimento sarà più simile a un arco. Durante il movimento, ruota le mani in modo che nella posizione finale i palmi siano rivolti l'uno verso l'altro anziché in avanti. Torna lentamente alla posizione di partenza e ripeti."
   ]
 }

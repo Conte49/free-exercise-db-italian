@@ -17,10 +17,10 @@
     "triceps"
   ],
   "instructions": [
-    "Afferra le anelli utilizzando una presa falsa, con la base dei palmi sopra gli anelli. Inizia un pull-up tirando i gomiti verso il basso ai lati, flettendo i gomiti.",
-    "Quando raggiungi la posizione alta del pull-up, tira gli anelli verso le ascelle mentre inclini le spalle in avanti, permettendo ai gomiti di muoversi dritti dietro di te. Questo ti mette nella posizione corretta per continuare nella parte del dip del movimento.",
-    "Mantenendo il controllo e la stabilità, estendi il gomito per completare il movimento.",
-    "Fai attenzione quando ti abbassi a terra."
+    "Grip the rings using a false grip, with the base of your palms on top of the rings. Initiate a pull up by pulling the elbows down to your side, flexing the elbows.",
+    "As you reach the top position of the pull-up, pull the rings to your armpits as you roll your shoulders forward, allowing your elbows to move straight back behind you. This puts you into the proper position to continue into the dip portion of the movement.",
+    "Maintaining control and stability, extend through the elbow to complete the motion.",
+    "Use care when lowering yourself to the ground."
   ],
   "category": "strength",
   "images": [
@@ -33,5 +33,12 @@
     "Une fois que vous atteignez la position supérieure du tractions, tirez les anneaux vers vos aisselles en faisant rouler vos épaules vers l'avant, ce qui permet à vos coudes de se déplacer directement vers l'arrière. Cela vous place dans la bonne position pour passer à la partie dip du mouvement.",
     "En maintenant le contrôle et la stabilité, étendez-vous au niveau du coude pour compléter le mouvement.",
     "Faites attention lorsque vous vous abaissez au sol."
+  ],
+  "name_it": "Muscle Up",
+  "instructions_it": [
+    "Afferra le anelli utilizzando una presa falsa, con la base dei palmi sopra gli anelli. Inizia un pull-up tirando i gomiti verso il basso ai lati, flettendo i gomiti.",
+    "Quando raggiungi la posizione alta del pull-up, tira gli anelli verso le ascelle mentre inclini le spalle in avanti, permettendo ai gomiti di muoversi dritti dietro di te. Questo ti mette nella posizione corretta per continuare nella parte del dip del movimento.",
+    "Mantenendo il controllo e la stabilità, estendi il gomito per completare il movimento.",
+    "Fai attenzione quando ti abbassi a terra."
   ]
 }

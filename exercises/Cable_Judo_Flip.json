@@ -1,5 +1,5 @@
 {
-  "name": "Flip Judo con Cavo",
+  "name": "Cable Judo Flip",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Collega un attacco a corda a una torre e sposta il cavo nella posizione più bassa del puleggiatore. Posizionati di lato rispetto al cavo con una posizione ampia, e afferra la corda con entrambe le mani.",
-    "Ruota il corpo lontano dal puleggiatore mentre porti la corda sopra la spalla come se stessi eseguendo un flip judo.",
-    "Sposta il peso tra i piedi mentre ruoti e ti pieghi in avanti, tirando il cavo verso il basso.",
-    "Torna alla posizione di partenza e ripeti fino all'esaurimento.",
-    "Poi, riposizionati e ripeti la stessa serie di movimenti sul lato opposto."
+    "Connect a rope attachment to a tower, and move the cable to the lowest pulley position. Stand with your side to the cable with a wide stance, and grab the rope with both hands.",
+    "Twist your body away from the pulley as you bring the rope over your shoulder like you're performing a judo flip.",
+    "Shift your weight between your feet as you twist and crunch forward, pulling the cable downward.",
+    "Return to the starting position and repeat until failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "Déplacez votre poids entre vos pieds lorsque vous tournez et contractez vers l'avant, en tirant le câble vers le bas.",
     "Retournez à la position de départ et répétez jusqu'à l'échec.",
     "Ensuite, repositionnez-vous et répétez la même série de mouvements sur le côté opposé."
+  ],
+  "name_it": "Flip Judo con Cavo",
+  "instructions_it": [
+    "Collega un attacco a corda a una torre e sposta il cavo nella posizione più bassa del puleggiatore. Posizionati di lato rispetto al cavo con una posizione ampia, e afferra la corda con entrambe le mani.",
+    "Ruota il corpo lontano dal puleggiatore mentre porti la corda sopra la spalla come se stessi eseguendo un flip judo.",
+    "Sposta il peso tra i piedi mentre ruoti e ti pieghi in avanti, tirando il cavo verso il basso.",
+    "Torna alla posizione di partenza e ripeti fino all'esaurimento.",
+    "Poi, riposizionati e ripeti la stessa serie di movimenti sul lato opposto."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Curl con Cavo su Panca Scott",
+  "name": "Cable Preacher Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,13 +11,13 @@
     "forearms"
   ],
   "instructions": [
-    "Posiziona una panca Scott a circa 60 cm da una macchina con puleggia.",
-    "Attacca una barra dritta alla puleggia bassa.",
-    "Siediti sulla panca Scott con il gomito e la parte superiore delle braccia saldamente appoggiati sul cuscino della panca e fai in modo che qualcuno ti passi la barra dalla puleggia bassa.",
-    "Afferrati la barra ed estendi completamente le braccia sopra il cuscino della panca Scott. Questa sarà la tua posizione di partenza.",
-    "Ora inizia a sollevare il peso verso le spalle e contrai i bicipiti con forza nella parte superiore del movimento. Espira mentre esegui questo movimento. Inoltre, trattieni per un secondo nella parte superiore.",
-    "Ora abbassa lentamente il peso fino alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Place a preacher bench about 2 feet in front of a pulley machine.",
+    "Attach a straight bar to the low pulley.",
+    "Sit at the preacher bench with your elbow and upper arms firmly on top of the bench pad and have someone hand you the bar from the low pulley.",
+    "Grab the bar and fully extend your arms on top of the preacher bench pad. This will be your starting position.",
+    "Now start pilling the weight up towards your shoulders and squeeze the biceps hard at the top of the movement. Exhale as you perform this motion. Also, hold for a second at the top.",
+    "Now slowly lower the weight to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -33,5 +33,15 @@
     "Maintenant, commencez à empiler le poids vers vos épaules et contractez fortement les biceps au sommet du mouvement. Expirez pendant que vous exécutez ce mouvement. Tenez-vous également une seconde au sommet.",
     "Maintenant, abaissez lentement le poids jusqu'à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con Cavo su Panca Scott",
+  "instructions_it": [
+    "Posiziona una panca Scott a circa 60 cm da una macchina con puleggia.",
+    "Attacca una barra dritta alla puleggia bassa.",
+    "Siediti sulla panca Scott con il gomito e la parte superiore delle braccia saldamente appoggiati sul cuscino della panca e fai in modo che qualcuno ti passi la barra dalla puleggia bassa.",
+    "Afferrati la barra ed estendi completamente le braccia sopra il cuscino della panca Scott. Questa sarà la tua posizione di partenza.",
+    "Ora inizia a sollevare il peso verso le spalle e contrai i bicipiti con forza nella parte superiore del movimento. Espira mentre esegui questo movimento. Inoltre, trattieni per un secondo nella parte superiore.",
+    "Ora abbassa lentamente il peso fino alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

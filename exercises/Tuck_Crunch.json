@@ -1,5 +1,5 @@
 {
-  "name": "Crunch Tuck",
+  "name": "Tuck Crunch",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Per iniziare, sdraiati sul pavimento o su un tappetino da esercizio con la schiena appoggiata al pavimento. Le braccia devono essere distese lungo i fianchi con i palmi rivolti verso il basso.",
-    "Le gambe devono essere incrociate avvolgendo una caviglia attorno all'altra. Solleva lentamente le gambe in aria fino a quando le cosce sono perpendicolari al pavimento con un leggero piegamento delle ginocchia. Nota: le ginocchia e le punte dei piedi devono essere parallele al pavimento, a differenza delle cosce.",
-    "Solleva le braccia dal pavimento e incrociale in modo che riposino sul petto. Questa è la posizione di partenza.",
-    "Mantenendo la parte bassa della schiena premuta contro il pavimento, solleva lentamente il torso. Ricorda di espirare mentre esegui questa parte dell'esercizio.",
-    "Inizia a abbassare lentamente il torso di nuovo nella posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
+    "Your legs should be crossed by wrapping one ankle around the other. Slowly elevate your legs up in the air until your thighs are perpendicular to the floor with a slight bend at the knees. Note: Your knees and toes should be parallel to the floor as opposed to the thighs.",
+    "Move your arms from the floor and cross them so they are resting on your chest. This is the starting position.",
+    "While keeping your lower back pressed against the floor, slowly lift your torso. Remember to exhale while perform this part of the exercise.",
+    "Slowly begin to lower your torso back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "En gardant votre bas du dos pressé contre le sol, soulevez lentement votre torse. N'oubliez pas d'expirer pendant que vous exécutez cette partie de l'exercice.",
     "Commencez lentement à baisser votre torse jusqu'à la position de départ tout en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Crunch Tuck",
+  "instructions_it": [
+    "Per iniziare, sdraiati sul pavimento o su un tappetino da esercizio con la schiena appoggiata al pavimento. Le braccia devono essere distese lungo i fianchi con i palmi rivolti verso il basso.",
+    "Le gambe devono essere incrociate avvolgendo una caviglia attorno all'altra. Solleva lentamente le gambe in aria fino a quando le cosce sono perpendicolari al pavimento con un leggero piegamento delle ginocchia. Nota: le ginocchia e le punte dei piedi devono essere parallele al pavimento, a differenza delle cosce.",
+    "Solleva le braccia dal pavimento e incrociale in modo che riposino sul petto. Questa è la posizione di partenza.",
+    "Mantenendo la parte bassa della schiena premuta contro il pavimento, solleva lentamente il torso. Ricorda di espirare mentre esegui questa parte dell'esercizio.",
+    "Inizia a abbassare lentamente il torso di nuovo nella posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

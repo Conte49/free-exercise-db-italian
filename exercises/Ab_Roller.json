@@ -1,5 +1,5 @@
 {
-  "name": "Rullo per Addominali",
+  "name": "Ab Roller",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,10 +11,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Tieni il rullo per addominali con entrambe le mani e inginocchiati sul pavimento.",
-    "Ora posiziona il rullo per addominali sul pavimento di fronte a te in modo da essere in posizione di quattro zampe (come in una posizione di flessione inginocchiata). Questa sarà la tua posizione di partenza.",
-    "Rotola lentamente il rullo per addominali in avanti, allungando il tuo corpo in una posizione dritta. Suggerimento: scendi il più possibile senza toccare il pavimento con il corpo. Inspira durante questa parte del movimento.",
-    "Dopo una pausa nella posizione allungata, inizia a tirarti indietro verso la posizione di partenza mentre espiri. Suggerimento: vai lentamente e mantieni sempre gli addominali contratti."
+    "Hold the Ab Roller with both hands and kneel on the floor.",
+    "Now place the ab roller on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.",
+    "Slowly roll the ab roller straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.",
+    "After a pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Placez maintenant le rouleau abdominal sur le sol devant vous de manière à être à genoux et les mains au sol (comme dans la position de pompes genoux). Cette position sera votre position de départ.",
     "Faites rouler lentement le rouleau abdominal en ligne droite, en étirant votre corps dans une position droite. Conseils : Descendez aussi bas que vous le pouvez sans toucher le sol avec votre corps. Respirez pendant cette partie du mouvement.",
     "Après une pause à la position étirée, commencez à vous tirer vers la position de départ en expirant. Conseils : Faites-le lentement et gardez votre ventre bien tendu en tout temps."
+  ],
+  "name_it": "Rullo per Addominali",
+  "instructions_it": [
+    "Tieni il rullo per addominali con entrambe le mani e inginocchiati sul pavimento.",
+    "Ora posiziona il rullo per addominali sul pavimento di fronte a te in modo da essere in posizione di quattro zampe (come in una posizione di flessione inginocchiata). Questa sarà la tua posizione di partenza.",
+    "Rotola lentamente il rullo per addominali in avanti, allungando il tuo corpo in una posizione dritta. Suggerimento: scendi il più possibile senza toccare il pavimento con il corpo. Inspira durante questa parte del movimento.",
+    "Dopo una pausa nella posizione allungata, inizia a tirarti indietro verso la posizione di partenza mentre espiri. Suggerimento: vai lentamente e mantieni sempre gli addominali contratti."
   ]
 }

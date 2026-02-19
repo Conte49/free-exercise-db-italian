@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con Kettlebell Alternato",
+  "name": "Alternating Kettlebell Row",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -12,9 +12,9 @@
     "lats"
   ],
   "instructions": [
-    "Posiziona due kettlebell di fronte ai tuoi piedi. Piegati leggermente sulle ginocchia e spingi indietro i glutei il più possibile. Mentre ti pieghi in avanti per assumere la posizione di partenza, afferra entrambi i kettlebell per i manici.",
-    "Solleva un kettlebell da terra mentre tieni l'altro kettlebell. Retratti la scapola del lato attivo, mentre fletti il gomito, portando il kettlebell verso il tuo stomaco o la gabbia toracica.",
-    "Abbassa il kettlebell del braccio attivo e ripeti con l'altro braccio."
+    "Place two kettlebells in front of your feet. Bend your knees slightly and push your butt out as much as possible. As you bend over to get into the starting position grab both kettlebells by the handles.",
+    "Pull one kettlebell off of the floor while holding on to the other kettlebell. Retract the shoulder blade of the working side, as you flex the elbow, drawing the kettlebell towards your stomach or rib cage.",
+    "Lower the kettlebell in the working arm and repeat with your other arm."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "Placez deux kettlebells devant vos pieds. Fléchissez légèrement les genoux et poussez votre fessier autant que possible vers l'avant. En vous penchant pour revenir à la position de départ, attrapez les poignées des deux kettlebells.",
     "Saisissez une kettlebell avec une main et retirez-la du sol tout en tenant la seconde kettlebell. Retirez l'omoplate du côté qui travaille, en contractant le coude, en ramenant la kettlebell vers votre ventre ou votre cage thoracique.",
     "Abaissez la kettlebell dans l'armée de travail et répétez avec votre autre bras."
+  ],
+  "name_it": "Rematore con Kettlebell Alternato",
+  "instructions_it": [
+    "Posiziona due kettlebell di fronte ai tuoi piedi. Piegati leggermente sulle ginocchia e spingi indietro i glutei il più possibile. Mentre ti pieghi in avanti per assumere la posizione di partenza, afferra entrambi i kettlebell per i manici.",
+    "Solleva un kettlebell da terra mentre tieni l'altro kettlebell. Retratti la scapola del lato attivo, mentre fletti il gomito, portando il kettlebell verso il tuo stomaco o la gabbia toracica.",
+    "Abbassa il kettlebell del braccio attivo e ripeti con l'altro braccio."
   ]
 }

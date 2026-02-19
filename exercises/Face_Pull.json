@@ -11,8 +11,7 @@
     "middle back"
   ],
   "instructions": [
-    "Di fronte a un pulley alto con una corda o maniglie doppie attaccate, tira il peso direttamente verso il tuo viso, separando le mani mentre lo fai.",
-    "Mantieni i tuoi avambracci paralleli al suolo."
+    "Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground."
   ],
   "category": "strength",
   "images": [
@@ -22,5 +21,10 @@
   "id": "Face_Pull",
   "instructions_fr": [
     "Face à un poulie haut avec une corde ou des poignées doubles attachées, tirez le poids directement vers votre visage, en écartant vos mains pendant que vous le faites. Gardez vos bras supérieurs parallèles au sol."
+  ],
+  "name_it": "Face Pull",
+  "instructions_it": [
+    "Di fronte a un pulley alto con una corda o maniglie doppie attaccate, tira il peso direttamente verso il tuo viso, separando le mani mentre lo fai.",
+    "Mantieni i tuoi avambracci paralleli al suolo."
   ]
 }

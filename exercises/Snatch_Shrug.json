@@ -1,5 +1,5 @@
 {
-  "name": "Sollevamento con shrug",
+  "name": "Snatch Shrug",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,8 +12,8 @@
     "shoulders"
   ],
   "instructions": [
-    "Inizia con una presa ampia, con il bilanciere sospeso all'altezza della coscia. Puoi usare una presa ad uncino o una presa sopra.",
-    "Alza le spalle verso le orecchie. Anche se questo esercizio può solitamente essere caricato con pesi più pesanti rispetto a uno snatch, evita di sovraccaricare al punto che l'esecuzione rallenti."
+    "Begin with a wide grip, with the bar hanging at the mid thigh position. You can use a hook or overhand grip. Your back should be straight and inclined slightly forward.",
+    "Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a snatch, avoid overloading to the point that the execution slows down."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Commencez avec une prise large, la barre pendante au niveau des cuisses. Vous pouvez utiliser une poignée en crochet ou en prise inverse. Le dos doit être droit et légèrement incliné vers l'avant.",
     "Montez vos épaules vers vos oreilles. Bien que cet exercice puisse généralement être chargé avec un poids plus lourd qu'un snatch, évitez de trop charger au point de ralentir l'exécution."
+  ],
+  "name_it": "Sollevamento con shrug",
+  "instructions_it": [
+    "Inizia con una presa ampia, con il bilanciere sospeso all'altezza della coscia. Puoi usare una presa ad uncino o una presa sopra.",
+    "Alza le spalle verso le orecchie. Anche se questo esercizio può solitamente essere caricato con pesi più pesanti rispetto a uno snatch, evita di sovraccaricare al punto che l'esecuzione rallenti."
   ]
 }

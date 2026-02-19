@@ -1,5 +1,5 @@
 {
-  "name": "Trazione con Sled in Posizione Orso",
+  "name": "Bear Crawl Sled Drags",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,8 +13,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Indossando un'imbracatura o una cintura pesante, attacca la catena sul retro in modo da essere rivolto lontano dal sled. Piegati in avanti in modo che le mani siano a terra. La schiena deve essere dritta e le ginocchia piegate. Questa è la tua posizione di partenza.",
-    "Inizia spingendo con le gambe, alternando sinistra e destra. Usa le mani per mantenere l'equilibrio e per aiutarti a tirare. Cerca di mantenere la schiena dritta mentre ti muovi su una certa distanza."
+    "Wearing either a harness or a loose weight belt, attach the chain to the back so that you will be facing away from the sled. Bend down so that your hands are on the ground. Your back should be flat and knees bent. This is your starting position.",
+    "Begin by driving with legs, alternating left and right. Use your hands to maintain balance and to help pull. Try to keep your back flat as you move over a given distance."
   ],
   "category": "strongman",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Enfilant soit une harnais soit une ceinture de poids lâche, attachez la chaîne à l'arrière de manière à vous tenir dos au traîneau. Pliez-vous de sorte que vos mains touchent le sol. Le dos doit être plat et les genoux pliés. C'est votre position de départ.",
     "Commencez par propulser avec les jambes, en alternant la gauche et la droite. Utilisez vos mains pour maintenir l'équilibre et aider au tirage. Essayez de garder votre dos plat pendant que vous vous déplacez sur une certaine distance."
+  ],
+  "name_it": "Trazione con Sled in Posizione Orso",
+  "instructions_it": [
+    "Indossando un'imbracatura o una cintura pesante, attacca la catena sul retro in modo da essere rivolto lontano dal sled. Piegati in avanti in modo che le mani siano a terra. La schiena deve essere dritta e le ginocchia piegate. Questa è la tua posizione di partenza.",
+    "Inizia spingendo con le gambe, alternando sinistra e destra. Usa le mani per mantenere l'equilibrio e per aiutarti a tirare. Cerca di mantenere la schiena dritta mentre ti muovi su una certa distanza."
   ]
 }

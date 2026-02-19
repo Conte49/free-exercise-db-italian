@@ -1,5 +1,5 @@
 {
-  "name": "Curl dei Femorali con Banda da Seduti",
+  "name": "Seated Band Hamstring Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Fissa una banda vicino al suolo e posiziona una panca a un paio di piedi di distanza.",
-    "Siediti sulla panca e fissa la banda dietro le caviglie, iniziando con le gambe dritte. Questa sarà la tua posizione di partenza.",
-    "Fletti le ginocchia, portando i piedi verso la panca. Potrebbe essere necessario inclinarsi leggermente all'indietro per evitare che i piedi colpiscano il pavimento.",
-    "Fermati al termine del movimento, quindi torna lentamente alla posizione di partenza."
+    "Secure a band close to the ground and place a bench a couple feet away from it.",
+    "Seat yourself on the bench and secure the band behind your ankles, beginning with your legs straight. This will be your starting position.",
+    "Flex the knees, bringing your feet towards the bench. You may need to lean back slightly to keep your feet from striking the floor.",
+    "Pause at the completion of the movement, and then slowly return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Asseyez-vous sur le banc et fixez l'élastique derrière vos chevilles, en commençant avec les jambes tendues. C'est votre position de départ.",
     "Fléchissez les genoux en amenant vos pieds vers le banc. Vous devrez peut-être pencher légèrement votre corps vers l'arrière pour éviter que vos pieds ne touchent le sol.",
     "Arrêtez-vous à la fin du mouvement, puis revenez lentement à la position de départ."
+  ],
+  "name_it": "Curl dei Femorali con Banda da Seduti",
+  "instructions_it": [
+    "Fissa una banda vicino al suolo e posiziona una panca a un paio di piedi di distanza.",
+    "Siediti sulla panca e fissa la banda dietro le caviglie, iniziando con le gambe dritte. Questa sarà la tua posizione di partenza.",
+    "Fletti le ginocchia, portando i piedi verso la panca. Potrebbe essere necessario inclinarsi leggermente all'indietro per evitare che i piedi colpiscano il pavimento.",
+    "Fermati al termine del movimento, quindi torna lentamente alla posizione di partenza."
   ]
 }

@@ -17,11 +17,11 @@
     "triceps"
   ],
   "instructions": [
-    "Inizia con un bilanciere carico a terra. Il bilanciere dovrebbe essere vicino o toccare le tibie, e si dovrebbe afferrare con una presa ampia. I piedi dovrebbero essere direttamente sotto i fianchi, con le punte dei piedi ruotate verso l'esterno se necessario. Abbassa i fianchi, mantenendo il petto in alto e la testa rivolta in avanti. Le spalle dovrebbero essere appena davanti al bilanciere. Questa sarà la posizione di partenza.",
-    "Inizia il primo sollevamento spingendo attraverso la parte anteriore dei talloni, sollevando il bilanciere da terra. L'angolo della schiena dovrebbe rimanere lo stesso fino a quando il bilanciere non supera le ginocchia.",
-    "Transita nel secondo sollevamento estendendo i fianchi, le ginocchia e le caviglie, spingendo il bilanciere verso l'alto il più rapidamente possibile. Il bilanciere dovrebbe essere vicino al corpo. Al picco dell'estensione, solleva le spalle e consenti ai gomiti di piegarsi di lato.",
-    "Mentre sposti i piedi nella posizione di ricezione, leggermente più ampia, tirati sotto il bilanciere mentre sollevi il bilanciere sopra la testa. Il bilanciere dovrebbe essere ricevuto in una parziale accosciata. Continua a sollevare il bilanciere fino alla posizione sopra la testa, ricevendo il bilanciere bloccato sopra la testa.",
-    "Torna in posizione eretta con il peso sopra la testa."
+    "Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
+    "Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.",
+    "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+    "As you move your feet into the receiving position, a slightly wider position, pull yourself below the bar as you elevate the bar overhead. The bar should be received in a partial squat. Continue raising the bar to the overhead position, receiving the bar locked out overhead.",
+    "Return to a standing position with the weight over head."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -35,5 +35,13 @@
     "Passer à la deuxième traction en s'étirant au niveau des hanches, des genoux et des chevilles, en soulevant la barre le plus rapidement possible. La barre doit être proche du corps. En cas d'extension maximale, contracter les épaules et permettre aux coudes de se fléchir sur les côtés.",
     "Alors que vous déplacez vos pieds dans la position de réception, une position légèrement plus large, tirez-vous au-dessous de la barre alors que vous élevez la barre au-dessus de votre tête. La barre doit être reçue dans une position de squat partielle. Continuez à soulever la barre jusqu'à ce qu'elle soit verrouillée au-dessus de votre tête.",
     "Revenez à la position debout avec le poids au-dessus de la tête."
+  ],
+  "name_it": "Power Snatch",
+  "instructions_it": [
+    "Inizia con un bilanciere carico a terra. Il bilanciere dovrebbe essere vicino o toccare le tibie, e si dovrebbe afferrare con una presa ampia. I piedi dovrebbero essere direttamente sotto i fianchi, con le punte dei piedi ruotate verso l'esterno se necessario. Abbassa i fianchi, mantenendo il petto in alto e la testa rivolta in avanti. Le spalle dovrebbero essere appena davanti al bilanciere. Questa sarà la posizione di partenza.",
+    "Inizia il primo sollevamento spingendo attraverso la parte anteriore dei talloni, sollevando il bilanciere da terra. L'angolo della schiena dovrebbe rimanere lo stesso fino a quando il bilanciere non supera le ginocchia.",
+    "Transita nel secondo sollevamento estendendo i fianchi, le ginocchia e le caviglie, spingendo il bilanciere verso l'alto il più rapidamente possibile. Il bilanciere dovrebbe essere vicino al corpo. Al picco dell'estensione, solleva le spalle e consenti ai gomiti di piegarsi di lato.",
+    "Mentre sposti i piedi nella posizione di ricezione, leggermente più ampia, tirati sotto il bilanciere mentre sollevi il bilanciere sopra la testa. Il bilanciere dovrebbe essere ricevuto in una parziale accosciata. Continua a sollevare il bilanciere fino alla posizione sopra la testa, ricevendo il bilanciere bloccato sopra la testa.",
+    "Torna in posizione eretta con il peso sopra la testa."
   ]
 }

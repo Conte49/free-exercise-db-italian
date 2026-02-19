@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati a terra con la parte bassa della schiena premuta sul pavimento. Per questo esercizio, dovrai posizionare le mani accanto alla testa. Fai attenzione a non sforzare il collo mentre lo esegui.",
-    "Solleva le spalle nella posizione di crunch portando le ginocchia verso l'alto in modo che siano perpendicolari al pavimento, con le gambe inferiori parallele al pavimento. Questa sarà la tua posizione di partenza.",
-    "Ora, simultaneamente, esegui lentamente un movimento di pedalata, spingendo in avanti con la gamba destra e avvicinando il ginocchio della gamba sinistra. Avvicina il gomito destro al ginocchio sinistro piegandoti di lato mentre espiri.",
-    "Torna alla posizione iniziale mentre inspiri.",
-    "Piega dalla parte opposta mentre pedali con le gambe e avvicina il gomito sinistro al ginocchio destro ed espira.",
-    "Continua ad alternare in questo modo fino a completare tutte le ripetizioni raccomandate per ciascun lato."
+    "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put your hands beside your head. Be careful however to not strain with the neck as you perform it. Now lift your shoulders into the crunch position.",
+    "Bring knees up to where they are perpendicular to the floor, with your lower legs parallel to the floor. This will be your starting position.",
+    "Now simultaneously, slowly go through a cycle pedal motion kicking forward with the right leg and bringing in the knee of the left leg. Bring your right elbow close to your left knee by crunching to the side, as you breathe out.",
+    "Go back to the initial position as you breathe in.",
+    "Crunch to the opposite side as you cycle your legs and bring closer your left elbow to your right knee and exhale.",
+    "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "Revenez à la position initiale en respirant.",
     "Faites un crunch vers le côté opposé en faisant pédaler vos jambes et en rapprochant votre coude gauche de votre genou droit, puis expirez.",
     "Continuez à alterner de cette manière jusqu'à ce que toutes les répétitions recommandées pour chaque côté aient été effectuées."
+  ],
+  "name_it": "Air Bike",
+  "instructions_it": [
+    "Sdraiati a terra con la parte bassa della schiena premuta sul pavimento. Per questo esercizio, dovrai posizionare le mani accanto alla testa. Fai attenzione a non sforzare il collo mentre lo esegui.",
+    "Solleva le spalle nella posizione di crunch portando le ginocchia verso l'alto in modo che siano perpendicolari al pavimento, con le gambe inferiori parallele al pavimento. Questa sarà la tua posizione di partenza.",
+    "Ora, simultaneamente, esegui lentamente un movimento di pedalata, spingendo in avanti con la gamba destra e avvicinando il ginocchio della gamba sinistra. Avvicina il gomito destro al ginocchio sinistro piegandoti di lato mentre espiri.",
+    "Torna alla posizione iniziale mentre inspiri.",
+    "Piega dalla parte opposta mentre pedali con le gambe e avvicina il gomito sinistro al ginocchio destro ed espira.",
+    "Continua ad alternare in questo modo fino a completare tutte le ripetizioni raccomandate per ciascun lato."
   ]
 }

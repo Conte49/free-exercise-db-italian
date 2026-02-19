@@ -1,5 +1,5 @@
 {
-  "name": "Rematore sospeso",
+  "name": "Suspended Row",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "lats"
   ],
   "instructions": [
-    "Sospendi le tue cinghie a un'altezza di circa petto. Prendi un manico in ciascuna mano e inclina indietro. Mantieni il corpo eretto e la testa e il petto alti. Le tue braccia dovrebbero essere completamente estese. Questa sarà la tua posizione di partenza.",
-    "Inizia flettendo il gomito per avviare il movimento. Protra i tuoi scapole mentre lo fai.",
-    "Alla fine del movimento fai una pausa, e poi torna alla posizione di partenza."
+    "Suspend your straps at around chest height. Take a handle in each hand and lean back. Keep your body erect and your head and chest up. Your arms should be fully extended. This will be your starting position.",
+    "Begin by flexing the elbow to initiate the movement. Protract your shoulder blades as you do so.",
+    "At the completion of the motion pause, and then return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "Suspendez vos sangles à environ la hauteur de votre poitrine. Prenez une poignée dans chaque main et penchez-vous en arrière. Gardez le dos droit et la tête et la poitrine levées. Vos bras doivent être complètement tendus. C'est votre position de départ.",
     "Commencez par fléchir le coude pour initier le mouvement. Écartez vos omoplates pendant que vous faites cela.",
     "À la fin du mouvement, faites une pause, puis revenez à la position de départ."
+  ],
+  "name_it": "Rematore sospeso",
+  "instructions_it": [
+    "Sospendi le tue cinghie a un'altezza di circa petto. Prendi un manico in ciascuna mano e inclina indietro. Mantieni il corpo eretto e la testa e il petto alti. Le tue braccia dovrebbero essere completamente estese. Questa sarà la tua posizione di partenza.",
+    "Inizia flettendo il gomito per avviare il movimento. Protra i tuoi scapole mentre lo fai.",
+    "Alla fine del movimento fai una pausa, e poi torna alla posizione di partenza."
   ]
 }

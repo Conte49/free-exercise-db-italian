@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dei Tricipiti sopra la testa con Corda",
+  "name": "Triceps Overhead Extension with Rope",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Fissa una corda a un puleggia bassa. Dopo aver selezionato un peso appropriato, afferra la corda con entrambe le mani e voltati lontano dal cavo.",
-    "Posiziona le mani dietro la testa con i gomiti rivolti verso l'alto. I gomiti dovrebbero essere inizialmente flessi, e puoi posizionare i piedi in modo sfalsato e inclinarti delicatamente lontano dalla macchina per creare maggiore stabilità. Questa sarà la tua posizione di partenza.",
-    "Per eseguire il movimento, estendi il gomito mantenendo il braccio superiore in posizione, sollevando le mani sopra la testa.",
-    "Contrai i tricipiti nella parte superiore del movimento e abbassa lentamente il peso tornando alla posizione di partenza."
+    "Attach a rope to a low pulley. After selecting an appropriate weight, grasp the rope with both hands and face away from the cable.",
+    "Position your hands behind your head with your elbows point straight up. Your elbows should start out flexed, and you can stagger your stance and lean gently away from the machine to create greater stability. This will be your starting position.",
+    "To perform the movement, extend through the elbow while keeping the upper arm in position, raising your hands above your head.",
+    "Squeeze your triceps at the top of the movement, and slowly lower the weight back to the start position."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Placez vos mains derrière votre tête, les coudes pointant vers le haut. Vos coudes doivent être fléchis au départ, et vous pouvez décaler votre posture et pencher légèrement votre corps de l'autre côté de la machine pour plus de stabilité. Cette position sera votre position de départ.",
     "Pour exécuter le mouvement, étendez-vous au niveau du coude tout en maintenant le bras supérieur en place, en soulevant les mains au-dessus de votre tête.",
     "Contractez vos triceps au sommet du mouvement et abaissez lentement le poids jusqu'à la position de départ."
+  ],
+  "name_it": "Estensione dei Tricipiti sopra la testa con Corda",
+  "instructions_it": [
+    "Fissa una corda a un puleggia bassa. Dopo aver selezionato un peso appropriato, afferra la corda con entrambe le mani e voltati lontano dal cavo.",
+    "Posiziona le mani dietro la testa con i gomiti rivolti verso l'alto. I gomiti dovrebbero essere inizialmente flessi, e puoi posizionare i piedi in modo sfalsato e inclinarti delicatamente lontano dalla macchina per creare maggiore stabilità. Questa sarà la tua posizione di partenza.",
+    "Per eseguire il movimento, estendi il gomito mantenendo il braccio superiore in posizione, sollevando le mani sopra la testa.",
+    "Contrai i tricipiti nella parte superiore del movimento e abbassa lentamente il peso tornando alla posizione di partenza."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Rotazione Esterna con Cavo",
+  "name": "External Rotation with Cable",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Regola il cavo all'altezza del tuo gomito. Stai con il lato sinistro rivolto verso la banda a un paio di piedi di distanza.",
-    "Afferrati il manico con la mano destra e tieni il gomito premuto saldamente al tuo fianco. Ti consigliamo di tenere un cuscinetto o un rullo di schiuma in posizione con il gomito per mantenerlo fermo.",
-    "Con il braccio superiore in posizione, il gomito dovrebbe essere flesso a 90 gradi con la mano che si estende attraverso la parte anteriore del tuo torso. Questa sarà la tua posizione di partenza.",
-    "Esegui il movimento ruotando il braccio in un movimento di rovescio, mantenendo il gomito in posizione."
+    "Adjust the cable to the same height as your elbow. Stand with your left side to the band a couple of feet away.",
+    "Grasp the handle with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.",
+    "With your upper arm in position, your elbow should be flexed to 90 degrees with your hand reaching across the front of your torso. This will be your starting position.",
+    "Execute the movement by rotating your arm in a backhand motion, keeping your elbow in place."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Prenez la poignée avec votre main droite et maintenez votre coude fermement contre votre côté. Nous vous recommandons de maintenir une housse ou un rouleau en mousse en place avec votre coude pour le maintenir fermement en place.",
     "Avec votre bras supérieur en position, votre coude doit être fléchi à 90 degrés et votre main devez atteindre la partie avant de votre torse. Cette position sera votre point de départ.",
     "Exécutez le mouvement en faisant pivoter votre bras dans un mouvement vers l'arrière, en gardant votre coude en place."
+  ],
+  "name_it": "Rotazione Esterna con Cavo",
+  "instructions_it": [
+    "Regola il cavo all'altezza del tuo gomito. Stai con il lato sinistro rivolto verso la banda a un paio di piedi di distanza.",
+    "Afferrati il manico con la mano destra e tieni il gomito premuto saldamente al tuo fianco. Ti consigliamo di tenere un cuscinetto o un rullo di schiuma in posizione con il gomito per mantenerlo fermo.",
+    "Con il braccio superiore in posizione, il gomito dovrebbe essere flesso a 90 gradi con la mano che si estende attraverso la parte anteriore del tuo torso. Questa sarà la tua posizione di partenza.",
+    "Esegui il movimento ruotando il braccio in un movimento di rovescio, mantenendo il gomito in posizione."
   ]
 }

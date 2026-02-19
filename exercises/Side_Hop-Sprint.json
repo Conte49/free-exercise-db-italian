@@ -1,5 +1,5 @@
 {
-  "name": "Salto Laterale-Sprint",
+  "name": "Side Hop-Sprint",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,9 +14,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Posizionati di lato a un cono o un ostacolo.",
-    "Inizia questo esercizio saltando lateralmente sopra l'ostacolo, rimbalzando al momento dell'atterraggio per saltare di nuovo verso il punto di partenza.",
-    "Salta per un numero prestabilito di ripetizioni il più rapidamente possibile e termina questo esercizio sprintando per una breve distanza dopo aver atterrato l'ultimo salto."
+    "Stand to the side of a cone or hurdle.",
+    "Begin this drill by hopping sideways over the obstacle, rebounding out of your landing to hop back to where you started.",
+    "Hop for a prescribed number or repetitions as quickly as possible, and finish this drill by sprinting a short distance upon landing the last hop."
   ],
   "category": "plyometrics",
   "images": [
@@ -28,5 +28,11 @@
     "Debout sur le côté d'un cône ou d'une haie.",
     "Commencez cet exercice en bondissant latéralement au-dessus de l'obstacle, en rebondissant après votre atterrissage pour revenir à votre point de départ.",
     "Sauter un nombre prescrit ou de répétitions le plus rapidement possible et terminer cet exercice en sprintant une courte distance à l'atterrissage du dernier saut."
+  ],
+  "name_it": "Salto Laterale-Sprint",
+  "instructions_it": [
+    "Posizionati di lato a un cono o un ostacolo.",
+    "Inizia questo esercizio saltando lateralmente sopra l'ostacolo, rimbalzando al momento dell'atterraggio per saltare di nuovo verso il punto di partenza.",
+    "Salta per un numero prestabilito di ripetizioni il più rapidamente possibile e termina questo esercizio sprintando per una breve distanza dopo aver atterrato l'ultimo salto."
   ]
 }

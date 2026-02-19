@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con Bilanciere a Un Braccio",
+  "name": "One-Arm Long Bar Row",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "lats"
   ],
   "instructions": [
-    "Posiziona un bilanciere in un landmine o in un angolo per impedirne il movimento. Carica un peso adeguato sul tuo lato.",
-    "Stai in piedi accanto al bilanciere e afferra con una mano vicino al collare. Usando i fianchi e le gambe, sollevati in posizione eretta.",
-    "Assumi una posizione con le ginocchia piegate, con i fianchi indietro e il petto in alto. Il tuo braccio dovrebbe essere esteso. Questa sarà la tua posizione di partenza.",
-    "Tira il peso verso il tuo lato retrattando la spalla e flettendo il gomito. Non scuotere il peso o barare durante il movimento.",
-    "Dopo una breve pausa, torna alla posizione di partenza."
+    "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
+    "Stand next to the bar, and take a grip with one hand close to the collar. Using your hips and legs, rise to a standing position.",
+    "Assume a bent-knee stance with your hips back and your chest up. Your arm should be extended. This will be your starting position.",
+    "Pull the weight to your side by retracting the shoulder and flexing the elbow. Do not jerk the weight or cheat during the movement.",
+    "After a brief pause, return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,13 @@
     "Prenez une position en s'appuyant sur les genoux, les hanches en arrière et la poitrine relevée. Votre bras doit être tendu vers l'avant. Cette position sera votre point de départ.",
     "Tirez le poids sur votre côté en rétractant l'épaule et en fléchissant le coude. Ne tirez pas brutalement sur le poids ou ne trichez pas pendant le mouvement.",
     "Après une courte pause, revenez à la position de départ."
+  ],
+  "name_it": "Rematore con Bilanciere a Un Braccio",
+  "instructions_it": [
+    "Posiziona un bilanciere in un landmine o in un angolo per impedirne il movimento. Carica un peso adeguato sul tuo lato.",
+    "Stai in piedi accanto al bilanciere e afferra con una mano vicino al collare. Usando i fianchi e le gambe, sollevati in posizione eretta.",
+    "Assumi una posizione con le ginocchia piegate, con i fianchi indietro e il petto in alto. Il tuo braccio dovrebbe essere esteso. Questa sarà la tua posizione di partenza.",
+    "Tira il peso verso il tuo lato retrattando la spalla e flettendo il gomito. Non scuotere il peso o barare durante il movimento.",
+    "Dopo una breve pausa, torna alla posizione di partenza."
   ]
 }

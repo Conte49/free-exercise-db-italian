@@ -1,5 +1,5 @@
 {
-  "name": "Appeso a una mano",
+  "name": "One Handed Hang",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,10 +11,7 @@
     "biceps"
   ],
   "instructions": [
-    "Afferrati a una barra per trazioni con una mano, usando una presa prona.",
-    "Tieni i piedi sul pavimento o su un gradino.",
-    "Lascia che la maggior parte del tuo peso penda da quella mano, mantenendo i piedi a terra.",
-    "Mantieni la posizione per 10-20 secondi e cambia lato."
+    "Grab onto a chinup bar with one hand, using a pronated grip. Keep your feet on the floor or a step. Allow the majority of your weight to hang from that hand, while keeping your feet on the ground. Hold for 10-20 seconds and switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -24,5 +21,12 @@
   "id": "One_Handed_Hang",
   "instructions_fr": [
     "Saisissez une barre de traction avec une seule main, en utilisant une poignée prononnée. Gardez vos pieds sur le sol ou sur un marchepied. Laissez la majeure partie de votre poids pendre de cette main tout en gardant les pieds à plat sur le sol. Tenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ],
+  "name_it": "Appeso a una mano",
+  "instructions_it": [
+    "Afferrati a una barra per trazioni con una mano, usando una presa prona.",
+    "Tieni i piedi sul pavimento o su un gradino.",
+    "Lascia che la maggior parte del tuo peso penda da quella mano, mantenendo i piedi a terra.",
+    "Mantieni la posizione per 10-20 secondi e cambia lato."
   ]
 }

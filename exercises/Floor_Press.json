@@ -12,9 +12,9 @@
     "shoulders"
   ],
   "instructions": [
-    "Regola i j-hooks in modo che siano all'altezza appropriata per posizionare la barra. Inizia sdraiato sul pavimento con la testa vicino all'estremità di un power rack. Tieni le scapole unite; solleva la barra dai ganci.",
-    "Abbassa la barra verso la parte inferiore del petto o la parte superiore dello stomaco, stringendo la barra e cercando di allargarla mentre lo fai. Assicurati di mantenere i gomiti a posto durante il movimento. Abbassa la barra finché il tuo braccio superiore non tocca il pavimento e fermati, evitando di far sbattere o rimbalzare il peso.",
-    "Spingi la barra verso l'alto il più velocemente possibile, mantenendo la barra, i polsi e i gomiti allineati mentre lo fai."
+    "Adjust the j-hooks so they are at the appropriate height to rack the bar. Begin lying on the floor with your head near the end of a power rack. Keeping your shoulder blades pulled together; pull the bar off of the hooks.",
+    "Lower the bar towards the bottom of your chest or upper stomach, squeezing the bar and attempting to pull it apart as you do so. Ensure that you tuck your elbows throughout the movement. Lower the bar until your upper arm contacts the ground and pause, preventing any slamming or bouncing of the weight.",
+    "Press the bar back up as fast as you can, keeping the bar, your wrists, and elbows in line as you do so."
   ],
   "category": "powerlifting",
   "images": [
@@ -26,5 +26,11 @@
     "Ajustez les crochets J afin qu'ils soient à la hauteur appropriée pour ranger la barre. Commencez en vous couchant sur le sol, la tête près de l'extrémité d'un rack de puissance. En gardant vos omoplate tirées ensemble; retirez la barre des crochets.",
     "Abaissez la barre vers le bas de votre poitrine ou de votre estomac supérieur, en serrant la barre et en essayant de l'écarter pendant que vous le faites. Assurez-vous de rentrer vos coudes tout au long du mouvement. Abaissez la barre jusqu'à ce que votre bras supérieur touche le sol et stoppez-vous, en évitant toute claque ou rebond de la poids.",
     "Appuyez sur la barre rapidement, tout en gardant la barre, vos poignets et vos coudes alignés pendant que vous le faites."
+  ],
+  "name_it": "Floor Press",
+  "instructions_it": [
+    "Regola i j-hooks in modo che siano all'altezza appropriata per posizionare la barra. Inizia sdraiato sul pavimento con la testa vicino all'estremità di un power rack. Tieni le scapole unite; solleva la barra dai ganci.",
+    "Abbassa la barra verso la parte inferiore del petto o la parte superiore dello stomaco, stringendo la barra e cercando di allargarla mentre lo fai. Assicurati di mantenere i gomiti a posto durante il movimento. Abbassa la barra finché il tuo braccio superiore non tocca il pavimento e fermati, evitando di far sbattere o rimbalzare il peso.",
+    "Spingi la barra verso l'alto il più velocemente possibile, mantenendo la barra, i polsi e i gomiti allineati mentre lo fai."
   ]
 }

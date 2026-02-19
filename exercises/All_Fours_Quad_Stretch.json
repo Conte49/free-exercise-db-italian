@@ -1,5 +1,5 @@
 {
-  "name": "Stretching Quadruple in Quattro",
+  "name": "All Fours Quad Stretch",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -11,9 +11,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Inizia in posizione quadrupede, con le mani e le ginocchia a terra, poi solleva una gamba da terra e afferra il piede con la mano.",
-    "Usa la mano per afferrare il piede o la caviglia, mantenendo il ginocchio completamente flesso, allungando i quadricipiti e i flessori dell'anca.",
-    "Concentrati sull'estensione dei fianchi, spingendoli verso il pavimento. Mantieni la posizione per 10-20 secondi e poi cambia lato."
+    "Start off on your hands and knees, then lift your leg off the floor and hold the foot with your hand.",
+    "Use your hand to hold the foot or ankle, keeping the knee fully flexed, stretching the quadriceps and hip flexors.",
+    "Focus on extending your hips, thrusting them towards the floor. Hold for 10-20 seconds and then switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Commencez à quatre pattes, puis soulevez la jambe du sol et tenez-la avec votre main.",
     "Utilisez votre main pour tenir le pied ou la cheville, en gardant le genou complètement fléchi, en étirant les quadricep et les flexeurs de hanche.",
     "Concentrez-vous sur l'extension de vos hanches, en les projetant vers le sol. Maintenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ],
+  "name_it": "Stretching Quadruple in Quattro",
+  "instructions_it": [
+    "Inizia in posizione quadrupede, con le mani e le ginocchia a terra, poi solleva una gamba da terra e afferra il piede con la mano.",
+    "Usa la mano per afferrare il piede o la caviglia, mantenendo il ginocchio completamente flesso, allungando i quadricipiti e i flessori dell'anca.",
+    "Concentrati sull'estensione dei fianchi, spingendoli verso il pavimento. Mantieni la posizione per 10-20 secondi e poi cambia lato."
   ]
 }

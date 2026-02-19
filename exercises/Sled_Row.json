@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con slitta",
+  "name": "Sled Row",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,10 @@
     "lats"
   ],
   "instructions": [
-    "Attacca due maniglie a una slitta collegata da una corda o una catena. Carica la slitta con un peso appropriato.",
-    "Di fronte alla slitta, allontanati finché non c'è tensione nella corda.",
-    "Con una maniglia in ciascuna mano, piega leggermente le ginocchia, mantieni la testa e il petto alti, e inizia con le braccia estese.",
-    "Per iniziare il movimento, flette il gomito mentre ritrai le scapole, tirando la slitta verso di te.",
-    "Fai un passo o due indietro per ottenere tensione nella corda e ripeti."
+    "Attach dual handles to a sled connected by a rope or chain. Load the sled to an appropriate weight. Face the sled, backing up until there is some tension in the line.",
+    "With a handle in each hand, bend the knees slightly, keep your head and chest up, and begin with your arms extended.",
+    "To initiate the movement, flex the elbow as you retract your shoulder blades, pulling the sled towards you.",
+    "Take a step or two back to get tension in the line and repeat."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +28,13 @@
     "Avec une poignée dans chaque main, fléchissez légèrement les genoux, gardez la tête et la poitrine relevées, et commencez avec les bras tendus.",
     "Pour initier le mouvement, pliez le coude tout en ramenant les omoplates vers l'avant, en tirant la poignée vers vous.",
     "Faites un pas ou deux en arrière pour créer une tension sur la ligne et répétez l'exercice."
+  ],
+  "name_it": "Rematore con slitta",
+  "instructions_it": [
+    "Attacca due maniglie a una slitta collegata da una corda o una catena. Carica la slitta con un peso appropriato.",
+    "Di fronte alla slitta, allontanati finché non c'è tensione nella corda.",
+    "Con una maniglia in ciascuna mano, piega leggermente le ginocchia, mantieni la testa e il petto alti, e inizia con le braccia estese.",
+    "Per iniziare il movimento, flette il gomito mentre ritrai le scapole, tirando la slitta verso di te.",
+    "Fai un passo o due indietro per ottenere tensione nella corda e ripeti."
   ]
 }

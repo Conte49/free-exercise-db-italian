@@ -1,5 +1,5 @@
 {
-  "name": "Squat Pistol con Kettlebell",
+  "name": "Kettlebell Pistol Squat",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -14,10 +14,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Prendi un kettlebell con entrambe le mani e tienilo per i manici. Tieni una gamba sollevata da terra e accovacciati con l'altra.",
-    "Accovacciati piegando il ginocchio e spingendo indietro i fianchi, tenendo il kettlebell davanti a te.",
-    "Mantieni la posizione bassa per un secondo e poi inverti il movimento, spingendo attraverso il tallone e mantenendo la testa e il petto alti.",
-    "Abbassati di nuovo e ripeti."
+    "Pick up a kettlebell with two hands and hold it by the horns. Hold one leg off of the floor and squat down on the other.",
+    "Squat down by flexing the knee and sitting back with the hips, holding the kettlebell up in front of you.",
+    "Hold the bottom position for a second and then reverse the motion, driving through the heel and keeping your head and chest up.",
+    "Lower yourself again and repeat."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,12 @@
     "Pliez-vous en flexant le genou et en reculant les hanches, tout en tenant la kettlebell devant vous.",
     "Maintenez la position basse pendant une seconde, puis inversez le mouvement en poussant par le talon et en gardant la tête et la poitrine levées.",
     "Abaissez-vous à nouveau et répétez l'exercice."
+  ],
+  "name_it": "Squat Pistol con Kettlebell",
+  "instructions_it": [
+    "Prendi un kettlebell con entrambe le mani e tienilo per i manici. Tieni una gamba sollevata da terra e accovacciati con l'altra.",
+    "Accovacciati piegando il ginocchio e spingendo indietro i fianchi, tenendo il kettlebell davanti a te.",
+    "Mantieni la posizione bassa per un secondo e poi inverti il movimento, spingendo attraverso il tallone e mantenendo la testa e il petto alti.",
+    "Abbassati di nuovo e ripeti."
   ]
 }

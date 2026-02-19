@@ -1,5 +1,5 @@
 {
-  "name": "Stretching dell'inguine da sdraiati di lato",
+  "name": "Side Lying Groin Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,9 +11,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Inizia sdraiandoti sul lato destro e piega il ginocchio destro davanti a te per stabilizzare il torso.",
-    "Appoggia la testa sulla mano o sulla spalla destra. Solleva la gamba sinistra verso l'alto e afferrala dietro il ginocchio (più facile) o alla caviglia (più difficile).",
-    "Tira il ginocchio sinistro verso la spalla sinistra e contemporaneamente premi il piede o il ginocchio verso il pavimento. Per intensificare questo allungamento, distendi la gamba sinistra. Cambia lato."
+    "Start off by lying on your right side and bend your right knee in front of you to stabilize the torso.",
+    "Rest your head on your right hand or shoulder. Lift your left leg upward and hold it by the back of the knee (easier) or the foot (harder).",
+    "Pull your left knee in toward your left shoulder and simultaneously press your foot or knee down to the floor. To intensify this stretch, straighten your left leg. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Commencez par vous coucher sur votre côté droit et pliez le genou droit devant vous pour stabiliser le torse.",
     "Reposez votre tête sur votre main droite ou votre épaule. Levez la jambe gauche et tenez-la par le dos du genou (plus facile) ou par le pied (plus difficile).",
     "Approchez votre genou gauche de votre épaule gauche et appuyez simultanément votre pied ou votre genou au sol. Pour intensifier l'étirement, étendez votre jambe gauche. Alternez les côtés."
+  ],
+  "name_it": "Stretching dell'inguine da sdraiati di lato",
+  "instructions_it": [
+    "Inizia sdraiandoti sul lato destro e piega il ginocchio destro davanti a te per stabilizzare il torso.",
+    "Appoggia la testa sulla mano o sulla spalla destra. Solleva la gamba sinistra verso l'alto e afferrala dietro il ginocchio (più facile) o alla caviglia (più difficile).",
+    "Tira il ginocchio sinistro verso la spalla sinistra e contemporaneamente premi il piede o il ginocchio verso il pavimento. Per intensificare questo allungamento, distendi la gamba sinistra. Cambia lato."
   ]
 }

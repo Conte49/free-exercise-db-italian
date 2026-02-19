@@ -1,5 +1,5 @@
 {
-  "name": "Pressa per Polpacci sulla Macchina Leg Press",
+  "name": "Calf Press On The Leg Press Machine",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Utilizzando una macchina leg press, siediti sulla macchina e posiziona le gambe sulla piattaforma direttamente di fronte a te con una posizione dei piedi media (alla larghezza delle spalle).",
-    "Abbassa le barre di sicurezza che tengono in posizione la piattaforma pesata e spingi la piattaforma verso l'alto fino a quando le tue gambe sono completamente estese di fronte a te senza bloccare le ginocchia. (Nota: in alcune unità leg press puoi lasciare le barre di sicurezza per una maggiore sicurezza. Se la tua unità leg press lo consente, allora questo è il metodo preferito per eseguire l'esercizio.) Il tuo torso e le gambe dovrebbero formare un angolo perfetto di 90 gradi. Ora posiziona con attenzione le punte e le palle dei piedi sulla parte inferiore della piattaforma con i talloni che sporgono. Le punte dovrebbero essere rivolte in avanti, verso l'esterno o verso l'interno come descritto all'inizio del capitolo. Questa sarà la tua posizione di partenza.",
-    "Premi sulla piattaforma sollevando i talloni mentre espiri estendendo le caviglie il più in alto possibile e flettendo il polpaccio. Assicurati che il ginocchio rimanga fermo in ogni momento. Non ci dovrebbe essere alcuna flessione in nessun momento. Mantieni la posizione contratta per un secondo prima di iniziare a tornare giù.",
-    "Torna lentamente alla posizione di partenza mentre inspiri abbassando i talloni mentre pieghi le caviglie fino a quando i polpacci sono allungati.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Using a leg press machine, sit down on the machine and place your legs on the platform directly in front of you at a medium (shoulder width) foot stance.",
+    "Lower the safety bars holding the weighted platform in place and press the platform all the way up until your legs are fully extended in front of you without locking your knees. (Note: In some leg press units you can leave the safety bars on for increased safety. If your leg press unit allows for this, then this is the preferred method of performing the exercise.) Your torso and the legs should make perfect 90-degree angle. Now carefully place your toes and balls of your feet on the lower portion of the platform with the heels extending off. Toes should be facing forward, outwards or inwards as described at the beginning of the chapter. This will be your starting position.",
+    "Press on the platform by raising your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
+    "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "Appuyez sur la plateforme en levant les talons alors que vous respirez en étendant vos chevilles le plus possible et en contractant votre mollet. Assurez-vous que le genou reste immobile en tout temps. Il ne devrait pas y avoir de fléchissement à tout moment. Tenez la position contractée pendant une seconde avant de commencer à redescendre.",
     "Revenez lentement à la position de départ en inspirant, en descendant les talons et en fléchissant les chevilles jusqu'à ce que les mollets soient étirés.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Pressa per Polpacci sulla Macchina Leg Press",
+  "instructions_it": [
+    "Utilizzando una macchina leg press, siediti sulla macchina e posiziona le gambe sulla piattaforma direttamente di fronte a te con una posizione dei piedi media (alla larghezza delle spalle).",
+    "Abbassa le barre di sicurezza che tengono in posizione la piattaforma pesata e spingi la piattaforma verso l'alto fino a quando le tue gambe sono completamente estese di fronte a te senza bloccare le ginocchia. (Nota: in alcune unità leg press puoi lasciare le barre di sicurezza per una maggiore sicurezza. Se la tua unità leg press lo consente, allora questo è il metodo preferito per eseguire l'esercizio.) Il tuo torso e le gambe dovrebbero formare un angolo perfetto di 90 gradi. Ora posiziona con attenzione le punte e le palle dei piedi sulla parte inferiore della piattaforma con i talloni che sporgono. Le punte dovrebbero essere rivolte in avanti, verso l'esterno o verso l'interno come descritto all'inizio del capitolo. Questa sarà la tua posizione di partenza.",
+    "Premi sulla piattaforma sollevando i talloni mentre espiri estendendo le caviglie il più in alto possibile e flettendo il polpaccio. Assicurati che il ginocchio rimanga fermo in ogni momento. Non ci dovrebbe essere alcuna flessione in nessun momento. Mantieni la posizione contratta per un secondo prima di iniziare a tornare giù.",
+    "Torna lentamente alla posizione di partenza mentre inspiri abbassando i talloni mentre pieghi le caviglie fino a quando i polpacci sono allungati.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

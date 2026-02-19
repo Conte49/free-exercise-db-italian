@@ -1,5 +1,5 @@
 {
-  "name": "Iperestensioni (Estensioni della schiena)",
+  "name": "Hyperextensions (Back Extensions)",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,12 +12,12 @@
     "hamstrings"
   ],
   "instructions": [
-    "Sdraiati a faccia in giù su una panca per iperestensioni, infilando le caviglie saldamente sotto i supporti per i piedi.",
-    "Regola il pad superiore, se possibile, in modo che le cosce superiori siano appoggiate piatte sul pad largo, lasciando abbastanza spazio per piegarti in vita senza alcuna restrizione.",
-    "Con il corpo dritto, incrocia le braccia davanti a te (la mia preferenza) o dietro la testa. Questa sarà la tua posizione di partenza. Suggerimento: puoi anche tenere un disco per aggiungere resistenza davanti a te sotto le braccia incrociate.",
-    "Inizia a piegarti in avanti lentamente in vita il più lontano possibile mantenendo la schiena piatta. Inspira mentre esegui questo movimento. Continua a piegarti in avanti finché non senti un bel allungamento nei muscoli posteriori della coscia e non puoi più andare avanti senza curvare la schiena. Suggerimento: non curvare mai la schiena mentre esegui questo esercizio. Inoltre, alcune persone possono andare più lontano di altre. La cosa importante è andare il più lontano possibile senza curvare la schiena.",
-    "Sollevare lentamente il torso tornando alla posizione iniziale mentre inspiri. Suggerimento: evita la tentazione di inarcare la schiena oltre una linea retta. Inoltre, non oscillare mai il torso per proteggere la schiena da infortuni.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Lie face down on a hyperextension bench, tucking your ankles securely under the footpads.",
+    "Adjust the upper pad if possible so your upper thighs lie flat across the wide pad, leaving enough room for you to bend at the waist without any restriction.",
+    "With your body straight, cross your arms in front of you (my preference) or behind your head. This will be your starting position. Tip: You can also hold a weight plate for extra resistance in front of you under your crossed arms.",
+    "Start bending forward slowly at the waist as far as you can while keeping your back flat. Inhale as you perform this movement. Keep moving forward until you feel a nice stretch on the hamstrings and you can no longer keep going without a rounding of the back. Tip: Never round the back as you perform this exercise. Also, some people can go farther than others. The key thing is that you go as far as your body allows you to without rounding the back.",
+    "Slowly raise your torso back to the initial position as you inhale. Tip: Avoid the temptation to arch your back past a straight line. Also, do not swing the torso at any time in order to protect the back from injury.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -32,5 +32,14 @@
     "Commencez à vous pencher lentement vers l'avant au niveau de la taille aussi loin que vous le pouvez en gardant le dos plat. Inspirez pendant que vous exécutez ce mouvement. Continuez à vous pencher jusqu'à ce que vous ressentiez une bonne étirement sur les ischio-jambiers et que vous ne puissiez plus avancer sans courber le dos. Astuce : Ne courbez jamais le dos pendant que vous exécutez cet exercice. Certaines personnes peuvent également aller plus loin que d'autres. La chose importante est d'aller aussi loin que votre corps le permet sans courber le dos.",
     "Élevez lentement votre torse jusqu'à la position de départ en inspirant. Conseils : Évitez de courber exagérément votre dos au-delà d'une ligne droite. N'effectuez pas non plus de mouvements brusques avec votre torse pour éviter de vous blesser le dos.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Iperestensioni (Estensioni della schiena)",
+  "instructions_it": [
+    "Sdraiati a faccia in giù su una panca per iperestensioni, infilando le caviglie saldamente sotto i supporti per i piedi.",
+    "Regola il pad superiore, se possibile, in modo che le cosce superiori siano appoggiate piatte sul pad largo, lasciando abbastanza spazio per piegarti in vita senza alcuna restrizione.",
+    "Con il corpo dritto, incrocia le braccia davanti a te (la mia preferenza) o dietro la testa. Questa sarà la tua posizione di partenza. Suggerimento: puoi anche tenere un disco per aggiungere resistenza davanti a te sotto le braccia incrociate.",
+    "Inizia a piegarti in avanti lentamente in vita il più lontano possibile mantenendo la schiena piatta. Inspira mentre esegui questo movimento. Continua a piegarti in avanti finché non senti un bel allungamento nei muscoli posteriori della coscia e non puoi più andare avanti senza curvare la schiena. Suggerimento: non curvare mai la schiena mentre esegui questo esercizio. Inoltre, alcune persone possono andare più lontano di altre. La cosa importante è andare il più lontano possibile senza curvare la schiena.",
+    "Sollevare lentamente il torso tornando alla posizione iniziale mentre inspiri. Suggerimento: evita la tentazione di inarcare la schiena oltre una linea retta. Inoltre, non oscillare mai il torso per proteggere la schiena da infortuni.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Curl a Martello",
+  "name": "Hammer Curls",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi con il torso eretto e un manubrio in ciascuna mano tenuto a lunghezza delle braccia. I gomiti dovrebbero essere vicini al torso.",
-    "I palmi delle mani dovrebbero essere rivolti verso il torso. Questa sarà la tua posizione di partenza.",
-    "Ora, mentre mantieni il braccio superiore fermo, espira e solleva il peso in avanti contraendo i bicipiti. Continua a sollevare il peso fino a quando i bicipiti sono completamente contratti e il manubrio è all'altezza della spalla. Tieni la posizione contratta per un breve momento mentre contrai i bicipiti. Suggerimento: Concentrati nel mantenere il gomito fermo e muovi solo l'avambraccio.",
-    "Dopo la breve pausa, inspira e inizia lentamente a riportare i manubri nella posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
+    "The palms of the hands should be facing your torso. This will be your starting position.",
+    "Now, while holding your upper arm stationary, exhale and curl the weight forward while contracting the biceps. Continue to raise the weight until the biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief moment as you squeeze the biceps. Tip: Focus on keeping the elbow stationary and only moving your forearm.",
+    "After the brief pause, inhale and slowly begin the lower the dumbbells back down to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "Maintenant, tout en maintenant votre bras supérieur immobile, expirez et soulevez le poids vers l'avant en contractant les biceps. Continuez à soulever le poids jusqu'à ce que les biceps soient complètement contractés et que l'haltère soit au niveau de l'épaule. Maintenez la position contractée pendant un bref instant en contractant les biceps. Astuce : Concentrez-vous sur le maintien du coude immobile et en ne déplaçant que votre avant-bras.",
     "Après la brève pause, inspirez et ramenez lentement les haltères vers la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl a Martello",
+  "instructions_it": [
+    "Stai in piedi con il torso eretto e un manubrio in ciascuna mano tenuto a lunghezza delle braccia. I gomiti dovrebbero essere vicini al torso.",
+    "I palmi delle mani dovrebbero essere rivolti verso il torso. Questa sarà la tua posizione di partenza.",
+    "Ora, mentre mantieni il braccio superiore fermo, espira e solleva il peso in avanti contraendo i bicipiti. Continua a sollevare il peso fino a quando i bicipiti sono completamente contratti e il manubrio è all'altezza della spalla. Tieni la posizione contratta per un breve momento mentre contrai i bicipiti. Suggerimento: Concentrati nel mantenere il gomito fermo e muovi solo l'avambraccio.",
+    "Dopo la breve pausa, inspira e inizia lentamente a riportare i manubri nella posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

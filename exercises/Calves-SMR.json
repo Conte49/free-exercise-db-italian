@@ -1,5 +1,5 @@
 {
-  "name": "SMR per i polpacci",
+  "name": "Calves-SMR",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia seduto sul pavimento. Posiziona un rullo di schiuma sotto la tua gamba inferiore. L'altra gamba può essere incrociata sopra l'opposta o posizionata sul pavimento, sostenendo parte del tuo peso. Questa sarà la tua posizione di partenza.",
-    "Posiziona le mani ai lati o appena dietro di te e premi verso il basso per sollevare i fianchi da terra, mettendo gran parte del tuo peso contro il muscolo del polpaccio. Rotola da sotto il ginocchio a sopra la caviglia, fermandoti nei punti di tensione per 10-30 secondi. Ripeti con l'altra gamba."
+    "Begin seated on the floor. Place a foam roller underneath your lower leg. Your other leg can either be crossed over the opposite or be placed on the floor, supporting some of your weight. This will be your starting position.",
+    "Place your hands to your side or just behind you, and press down to raise your hips off of the floor, placing much of your weight against your calf muscle. Roll from below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat for the other leg."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Commencez assis par terre. Placez un rouleau en mousse sous votre jambe inférieure. Votre autre jambe peut être soit croisée sur l'opposée, soit posée à plat sur le sol pour supporter une partie de votre poids. C'est votre position de départ.",
     "Placez vos mains de côté ou juste derrière vous, et pressez vers le bas pour soulever vos hanches du sol, en plaçant une partie importante de votre poids sur votre mollet. Enroulez à partir du dessous du genou jusqu'au-dessus de la cheville, en faisant des pauses aux points de tension pendant 10 à 30 secondes. Répétez l'opération pour l'autre jambe."
+  ],
+  "name_it": "SMR per i polpacci",
+  "instructions_it": [
+    "Inizia seduto sul pavimento. Posiziona un rullo di schiuma sotto la tua gamba inferiore. L'altra gamba può essere incrociata sopra l'opposta o posizionata sul pavimento, sostenendo parte del tuo peso. Questa sarà la tua posizione di partenza.",
+    "Posiziona le mani ai lati o appena dietro di te e premi verso il basso per sollevare i fianchi da terra, mettendo gran parte del tuo peso contro il muscolo del polpaccio. Rotola da sotto il ginocchio a sopra la caviglia, fermandoti nei punti di tensione per 10-30 secondi. Ripeti con l'altra gamba."
   ]
 }

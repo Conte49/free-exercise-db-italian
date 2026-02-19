@@ -1,5 +1,5 @@
 {
-  "name": "Hamstring Manuale Prono",
+  "name": "Prone Manual Hamstring",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Avrai bisogno di un partner per questo esercizio. Sdraiati a faccia in giù con le gambe dritte. Il tuo assistente posizionerà la mano sul tuo tallone.",
-    "Per iniziare, flette il ginocchio per sollevare la gamba. Il tuo partner dovrebbe fornire resistenza, iniziando leggero e aumentando la pressione man mano che il movimento viene completato. Comunica con il tuo partner per monitorare i livelli di resistenza appropriati.",
-    "Fermati in cima, riportando la gamba nella posizione di partenza mentre il tuo partner fornisce resistenza nell'altra direzione."
+    "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",
+    "To begin, flex the knee to curl your leg up. Your partner should provide resistance, starting light and increasing the pressure as the movement is completed. Communicate with your partner to monitor appropriate resistance levels.",
+    "Pause at the top, returning the leg to the starting position as your partner provides resistance going the other direction."
   ],
   "category": "strength",
   "images": [
@@ -23,5 +23,11 @@
     "Vous aurez besoin d'un partenaire pour cet exercice. Allongez-vous sur le ventre avec les jambes tendues. Votre assistant posera sa main sur votre talon.",
     "Commencez par fléchir le genou pour remonter la jambe. Votre partenaire doit fournir une résistance, en commençant doucement et en augmentant la pression lorsque le mouvement est terminé. Communiquez avec votre partenaire pour surveiller les niveaux de résistance appropriés.",
     "Pausez en haut, en ramenant la jambe à la position de départ pendant que votre partenaire fournit une résistance dans l'autre sens."
+  ],
+  "name_it": "Hamstring Manuale Prono",
+  "instructions_it": [
+    "Avrai bisogno di un partner per questo esercizio. Sdraiati a faccia in giù con le gambe dritte. Il tuo assistente posizionerà la mano sul tuo tallone.",
+    "Per iniziare, flette il ginocchio per sollevare la gamba. Il tuo partner dovrebbe fornire resistenza, iniziando leggero e aumentando la pressione man mano che il movimento viene completato. Comunica con il tuo partner per monitorare i livelli di resistenza appropriati.",
+    "Fermati in cima, riportando la gamba nella posizione di partenza mentre il tuo partner fornisce resistenza nell'altra direzione."
   ]
 }

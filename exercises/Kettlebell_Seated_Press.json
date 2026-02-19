@@ -1,5 +1,5 @@
 {
-  "name": "Pressa Seated con Kettlebell",
+  "name": "Kettlebell Seated Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,9 +11,9 @@
     "triceps"
   ],
   "instructions": [
-    "Siediti sul pavimento e allarga le gambe in modo comodo.",
-    "Porta un kettlebell alla spalla.",
-    "Spingi il kettlebell verso l'alto e all'esterno fino a quando non è bloccato sopra la testa. Torna alla posizione di partenza."
+    "Sit on the floor and spread your legs out comfortably.",
+    "Clean one kettlebell to your shoulder.",
+    "Press the kettlebell up and out until it is locked out overhead. Return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,11 @@
     "Asseyez-vous par terre et espacez vos jambes confortablement.",
     "Épaulez une kettlebell jusqu'à votre épaule.",
     "Presse la Kettlebell vers le haut et vers l'extérieur jusqu'à ce qu'elle soit verrouillée au-dessus de la tête. Revenez à la position de départ."
+  ],
+  "name_it": "Pressa Seated con Kettlebell",
+  "instructions_it": [
+    "Siediti sul pavimento e allarga le gambe in modo comodo.",
+    "Porta un kettlebell alla spalla.",
+    "Spingi il kettlebell verso l'alto e all'esterno fino a quando non è bloccato sopra la testa. Torna alla posizione di partenza."
   ]
 }

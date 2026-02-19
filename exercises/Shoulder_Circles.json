@@ -1,5 +1,5 @@
 {
-  "name": "Cerchi con le spalle",
+  "name": "Shoulder Circles",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -11,8 +11,8 @@
     "traps"
   ],
   "instructions": [
-    "Con le spalle rilassate e le braccia appoggiate comodamente ai lati (o in grembo se sei seduto), ruota delicatamente le spalle in avanti, verso l'alto, indietro e verso il basso.",
-    "Inverti la direzione. Puoi eseguire questo esercizio alternando le spalle o entrambe contemporaneamente."
+    "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you're seated), gently roll your shoulders forward, up, back, and down.",
+    "Reverse direction. You can do this exercise alternating shoulders or both at the same time."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,10 @@
   "instructions_fr": [
     "En gardant les épaules détendues et les bras le long du corps (ou sur les genoux si vous êtes assis), roulez doucement les épaules vers l’avant, vers le haut, vers l’arrière et vers le bas.",
     "Inversez la direction. Vous pouvez faire cet exercice en alternant les épaules ou les deux en même temps."
+  ],
+  "name_it": "Cerchi con le spalle",
+  "instructions_it": [
+    "Con le spalle rilassate e le braccia appoggiate comodamente ai lati (o in grembo se sei seduto), ruota delicatamente le spalle in avanti, verso l'alto, indietro e verso il basso.",
+    "Inverti la direzione. Puoi eseguire questo esercizio alternando le spalle o entrambe contemporaneamente."
   ]
 }

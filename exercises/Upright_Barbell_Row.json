@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con bilanciere in posizione eretta",
+  "name": "Upright Barbell Row",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,10 +11,10 @@
     "traps"
   ],
   "instructions": [
-    "Afferrate un bilanciere con una presa sopraelevata che sia leggermente più stretta della larghezza delle spalle. Il bilanciere dovrebbe poggiare sulla parte superiore delle cosce con le braccia distese e un leggero piegamento nei gomiti. La schiena deve essere dritta. Questa sarà la vostra posizione di partenza.",
-    "Ora espirate e utilizzate i lati delle spalle per sollevare il bilanciere, alzando i gomiti verso l'alto e di lato. Tenete il bilanciere vicino al corpo mentre lo sollevate. Continuate a sollevare il bilanciere fino a che non tocca quasi il mento. Suggerimento: i gomiti devono guidare il movimento e devono sempre essere più alti degli avambracci. Ricordate di mantenere il torso fermo e di fare una pausa di un secondo in cima al movimento.",
-    "Abbassate lentamente il bilanciere fino alla posizione di partenza. Inspirate mentre eseguite questa parte del movimento.",
-    "Ripetete per il numero raccomandato di ripetizioni."
+    "Grasp a barbell with an overhand grip that is slightly less than shoulder width. The bar should be resting on the top of your thighs with your arms extended and a slight bend in your elbows. Your back should also be straight. This will be your starting position.",
+    "Now exhale and use the sides of your shoulders to lift the bar, raising your elbows up and to the side. Keep the bar close to your body as you raise it. Continue to lift the bar until it nearly touches your chin. Tip: Your elbows should drive the motion, and should always be higher than your forearms. Remember to keep your torso stationary and pause for a second at the top of the movement.",
+    "Lower the bar back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Respirez maintenant et utilisez les côtés de vos épaules pour soulever la barre, en levant vos coudes vers le haut et sur le côté. Maintenez la barre près de votre corps lorsque vous la soulevez. Continuez à soulever la barre jusqu'à ce qu'elle touche presque votre menton. Astuce : Vos coudes doivent diriger le mouvement et devraient toujours être plus hauts que vos avant-bras. N'oubliez pas de garder votre torse immobile et de faire une pause pendant une seconde au sommet du mouvement.",
     "Abaissez lentement la barre jusqu'à sa position initiale. Inhalez pendant que vous exécutez cette partie du mouvement.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Rematore con bilanciere in posizione eretta",
+  "instructions_it": [
+    "Afferrate un bilanciere con una presa sopraelevata che sia leggermente più stretta della larghezza delle spalle. Il bilanciere dovrebbe poggiare sulla parte superiore delle cosce con le braccia distese e un leggero piegamento nei gomiti. La schiena deve essere dritta. Questa sarà la vostra posizione di partenza.",
+    "Ora espirate e utilizzate i lati delle spalle per sollevare il bilanciere, alzando i gomiti verso l'alto e di lato. Tenete il bilanciere vicino al corpo mentre lo sollevate. Continuate a sollevare il bilanciere fino a che non tocca quasi il mento. Suggerimento: i gomiti devono guidare il movimento e devono sempre essere più alti degli avambracci. Ricordate di mantenere il torso fermo e di fare una pausa di un secondo in cima al movimento.",
+    "Abbassate lentamente il bilanciere fino alla posizione di partenza. Inspirate mentre eseguite questa parte del movimento.",
+    "Ripetete per il numero raccomandato di ripetizioni."
   ]
 }

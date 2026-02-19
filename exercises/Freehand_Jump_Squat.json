@@ -1,5 +1,5 @@
 {
-  "name": "Squat Jump a Corpo Libero",
+  "name": "Freehand Jump Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,12 +13,12 @@
     "hamstrings"
   ],
   "instructions": [
-    "Incrocia le braccia sul petto.",
-    "Con la testa alta e la schiena dritta, posiziona i piedi alla larghezza delle spalle.",
-    "Mantenendo la schiena dritta e il petto in alto, accovacciati mentre inspiri fino a quando le cosce superiori sono parallele, o più basse, rispetto al pavimento.",
-    "Ora, premendo principalmente con la parte anteriore dei piedi, salta dritto in alto il più in alto possibile, usando le cosce come molle. Espira durante questa fase del movimento.",
-    "Quando tocchi di nuovo il pavimento, accovacciati immediatamente e salta di nuovo.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Cross your arms over your chest.",
+    "With your head up and your back straight, position your feet at shoulder width.",
+    "Keeping your back straight and chest up, squat down as you inhale until your upper thighs are parallel, or lower, to the floor.",
+    "Now pressing mainly with the ball of your feet, jump straight up in the air as high as possible, using the thighs like springs. Exhale during this portion of the movement.",
+    "When you touch the floor again, immediately squat down and jump again.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -33,5 +33,14 @@
     "Maintenant, en appuyant principalement avec la plante de vos pieds, sautez thẳng vers le haut dans les airs aussi haut que possible, en utilisant les cuisses comme des ressorts. Exhalez pendant cette partie du mouvement.",
     "Lorsque vous touchez à nouveau le sol, accroupissez-vous immédiatement et sautez à nouveau.",
     "Répétez le mouvement pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Squat Jump a Corpo Libero",
+  "instructions_it": [
+    "Incrocia le braccia sul petto.",
+    "Con la testa alta e la schiena dritta, posiziona i piedi alla larghezza delle spalle.",
+    "Mantenendo la schiena dritta e il petto in alto, accovacciati mentre inspiri fino a quando le cosce superiori sono parallele, o più basse, rispetto al pavimento.",
+    "Ora, premendo principalmente con la parte anteriore dei piedi, salta dritto in alto il più in alto possibile, usando le cosce come molle. Espira durante questa fase del movimento.",
+    "Quando tocchi di nuovo il pavimento, accovacciati immediatamente e salta di nuovo.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

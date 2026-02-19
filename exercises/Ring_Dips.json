@@ -1,5 +1,5 @@
 {
-  "name": "Dips alle anelli",
+  "name": "Ring Dips",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Afferrate un anello in ciascuna mano e poi fate un piccolo salto per aiutarvi a entrare nella posizione di partenza con le braccia distese.",
-    "Iniziate piegando il gomito, abbassando il corpo fino a quando le braccia non superano i 90 gradi. Evitate di oscillare e mantenete una buona postura durante la discesa.",
-    "Invertite il movimento estendendo il gomito, spingendovi indietro nella posizione di partenza.",
-    "Ripetete per il numero desiderato di ripetizioni."
+    "Grip a ring in each hand, and then take a small jump to help you get into the starting position with your arms locked out.",
+    "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
+    "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
+    "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Commencez par fléchir le coude, en abaissant votre corps jusqu'à ce que vos bras forment un angle de 90 degrés. Évitez de balancer et maintenez une bonne posture tout au long de la descente.",
     "Inversez le mouvement en étendant le coude, en vous repoussant vers la position de départ.",
     "Répétez pour le nombre de répétitions souhaité."
+  ],
+  "name_it": "Dips alle anelli",
+  "instructions_it": [
+    "Afferrate un anello in ciascuna mano e poi fate un piccolo salto per aiutarvi a entrare nella posizione di partenza con le braccia distese.",
+    "Iniziate piegando il gomito, abbassando il corpo fino a quando le braccia non superano i 90 gradi. Evitate di oscillare e mantenete una buona postura durante la discesa.",
+    "Invertite il movimento estendendo il gomito, spingendovi indietro nella posizione di partenza.",
+    "Ripetete per il numero desiderato di ripetizioni."
   ]
 }

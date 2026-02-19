@@ -1,5 +1,5 @@
 {
-  "name": "Kettlebell Turkish Get-Up (stile squat)",
+  "name": "Kettlebell Turkish Get-Up (Squat style)",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,9 +15,9 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati sulla schiena sul pavimento e solleva un kettlebell in posizione alta estendendo il gomito. Piega il ginocchio dello stesso lato del kettlebell.",
-    "Mantenendo il kettlebell bloccato in alto, ruota verso il lato opposto e usa il braccio non lavorante per aiutarti a spingerti in avanti nella posizione di affondo.",
-    "Usando la mano libera, spingiti in posizione seduta, poi progredisci fino ai piedi. Mentre guardi verso l'alto al kettlebell, alzati lentamente. Inverti il movimento tornando alla posizione di partenza e ripeti."
+    "Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.",
+    "Keeping the kettlebell locked out at all times, pivot to the opposite side and use your non- working arm to assist you in driving forward to the lunge position.",
+    "Using your free hand, push yourself to a seated position, then progressing to your feet. While looking up at the kettlebell, slowly stand up. Reverse the motion back to the starting position and repeat."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,11 @@
     "Allongez-vous sur le dos et pressez une kettlebell jusqu'à la position haute en étendant le coude. Pliez le genou du même côté que la kettlebell.",
     "En gardant la Kettlebell tendue tout le temps, pivoter vers le côté opposé et utiliser votre bras non travailleur pour vous aider à avancer en position de flexions.",
     "En utilisant votre main libre, poussez-vous vers une position assise, puis progressez vers vos pieds. En regardant vers le haut à la kettlebell, tenez-vous droit lentement. Inversez le mouvement jusqu'à la position de départ et répétez."
+  ],
+  "name_it": "Kettlebell Turkish Get-Up (stile squat)",
+  "instructions_it": [
+    "Sdraiati sulla schiena sul pavimento e solleva un kettlebell in posizione alta estendendo il gomito. Piega il ginocchio dello stesso lato del kettlebell.",
+    "Mantenendo il kettlebell bloccato in alto, ruota verso il lato opposto e usa il braccio non lavorante per aiutarti a spingerti in avanti nella posizione di affondo.",
+    "Usando la mano libera, spingiti in posizione seduta, poi progredisci fino ai piedi. Mentre guardi verso l'alto al kettlebell, alzati lentamente. Inverti il movimento tornando alla posizione di partenza e ripeti."
   ]
 }

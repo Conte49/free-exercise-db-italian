@@ -1,5 +1,5 @@
 {
-  "name": "Crunch con Corda in Piedi",
+  "name": "Standing Rope Crunch",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Attacca una corda a un puleggia alta e seleziona un peso appropriato.",
-    "Stai in piedi con la schiena rivolta verso la torre del cavo. Prendi la corda con entrambe le mani sopra le spalle, tenendola all'altezza del petto. Questa sarà la tua posizione di partenza.",
-    "Esegui il movimento flettendo la colonna vertebrale, portando il peso verso il basso il più lontano possibile.",
-    "Mantieni la contrazione massima per un momento prima di tornare alla posizione di partenza."
+    "Attach a rope to a high pulley and select an appropriate weight.",
+    "Stand with your back to the cable tower. Take the rope with both hands over your shoulders, holding it to your upper chest. This will be your starting position.",
+    "Perform the movement by flexing the spine, crunching the weight down as far as you can.",
+    "Hold the peak contraction for a moment before returning to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Debout, le dos tourné vers la tour à câbles. Prenez la corde avec les deux mains au-dessus de vos épaules, en la maintenant contre votre poitrine supérieure. Telle sera votre position de départ.",
     "Exécutez le mouvement en fléchissant la colonne vertébrale, en écrasant le poids aussi bas que possible.",
     "Maintenez la contraction maximale un instant avant de revenir à la position de départ."
+  ],
+  "name_it": "Crunch con Corda in Piedi",
+  "instructions_it": [
+    "Attacca una corda a un puleggia alta e seleziona un peso appropriato.",
+    "Stai in piedi con la schiena rivolta verso la torre del cavo. Prendi la corda con entrambe le mani sopra le spalle, tenendola all'altezza del petto. Questa sarà la tua posizione di partenza.",
+    "Esegui il movimento flettendo la colonna vertebrale, portando il peso verso il basso il più lontano possibile.",
+    "Mantieni la contrazione massima per un momento prima di tornare alla posizione di partenza."
   ]
 }

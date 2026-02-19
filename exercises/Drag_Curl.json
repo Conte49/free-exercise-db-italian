@@ -1,5 +1,5 @@
 {
-  "name": "Curl Drag",
+  "name": "Drag Curl",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,10 +11,10 @@
     "forearms"
   ],
   "instructions": [
-    "Afferrate un bilanciere con una presa supinata (palmi rivolti in avanti) e avvicinate i gomiti al torso e alla schiena. Questa sarà la vostra posizione di partenza.",
-    "Mentre espirate, arricciate il bilanciere verso l'alto mantenendo i gomiti indietro mentre \"trascinati\" il bilanciere su mantenendolo in contatto con il torso. Suggerimento: come potete vedere, non manterrete i gomiti bloccati ai lati, ma invece li porterete indietro. Inoltre, non sollevate le spalle.",
-    "Tornate lentamente alla posizione di partenza mantenendo il bilanciere in contatto con il torso in ogni momento.",
-    "Ripetete per il numero raccomandato di ripetizioni."
+    "Grab a barbell with a supinated grip (palms facing forward) and get your elbows close to your torso and back. This will be your starting position.",
+    "As you exhale, curl the bar up while keeping the elbows to the back as you \"Drag\" the bar up by keeping it in contact with your torso. Tip: As you can see, you will not be keeping the elbows pinned to your sides, but instead you will be bringing them back. Also, do not lift your shoulders.",
+    "Slowly go back to the starting position as you keep the bar in contact with the torso at all times.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "En expirant, soulevez la barre en gardant les coudes vers l'arrière lorsque vous \"Tirez\" la barre vers le haut en gardant celle-ci en contact avec votre torse. Astuce : Comme vous pouvez le voir, vous ne maintiendrez pas les coudes collés à vos côtés, mais plutôt vous les amènerez vers l'arrière. De plus, ne soulevez pas vos épaules.",
     "Revenez lentement à la position de départ tout en gardant la barre en contact avec le torse en tout temps.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl Drag",
+  "instructions_it": [
+    "Afferrate un bilanciere con una presa supinata (palmi rivolti in avanti) e avvicinate i gomiti al torso e alla schiena. Questa sarà la vostra posizione di partenza.",
+    "Mentre espirate, arricciate il bilanciere verso l'alto mantenendo i gomiti indietro mentre \"trascinati\" il bilanciere su mantenendolo in contatto con il torso. Suggerimento: come potete vedere, non manterrete i gomiti bloccati ai lati, ma invece li porterete indietro. Inoltre, non sollevate le spalle.",
+    "Tornate lentamente alla posizione di partenza mantenendo il bilanciere in contatto con il torso in ogni momento.",
+    "Ripetete per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Salti con Coni Frontali (o salti con ostacoli)",
+  "name": "Front Cone Hops (or hurdle hops)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,11 +15,11 @@
     "hamstrings"
   ],
   "instructions": [
-    "Posiziona una fila di coni o altri piccoli ostacoli, distanziandoli di qualche piede l'uno dall'altro.",
-    "Stai in piedi davanti al primo cono con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Inizia saltando con entrambi i piedi sopra il primo cono, muovendo entrambe le braccia mentre salti.",
-    "Assorbi l'impatto dell'atterraggio piegando le ginocchia, rimbalzando dal primo salto per saltare sopra il prossimo cono.",
-    "Continua fino a quando non hai saltato sopra tutti i coni."
+    "Set up a row of cones or other small barriers, placing them a few feet apart.",
+    "Stand in front of the first cone with your feet shoulder width apart. This will be your starting position.",
+    "Begin by jumping with both feet over the first cone, swinging both arms as you jump.",
+    "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next cone.",
+    "Continue until you have jumped over all of the cones."
   ],
   "category": "plyometrics",
   "images": [
@@ -33,5 +33,13 @@
     "Commencez par sauter avec les deux pieds au-dessus du premier cône, en balançant les deux bras pendant que vous sautez.",
     "Absorbez l'impact de l'atterrissage en fléchissant les genoux, puis rebondissez après le premier bond en sautant par-dessus le cône suivant.",
     "Continuez jusqu'à ce que vous ayez sauté par-dessus tous les cônes."
+  ],
+  "name_it": "Salti con Coni Frontali (o salti con ostacoli)",
+  "instructions_it": [
+    "Posiziona una fila di coni o altri piccoli ostacoli, distanziandoli di qualche piede l'uno dall'altro.",
+    "Stai in piedi davanti al primo cono con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Inizia saltando con entrambi i piedi sopra il primo cono, muovendo entrambe le braccia mentre salti.",
+    "Assorbi l'impatto dell'atterraggio piegando le ginocchia, rimbalzando dal primo salto per saltare sopra il prossimo cono.",
+    "Continua fino a quando non hai saltato sopra tutti i coni."
   ]
 }

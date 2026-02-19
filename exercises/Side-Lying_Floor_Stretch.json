@@ -1,5 +1,5 @@
 {
-  "name": "Stretching laterale a terra",
+  "name": "Side-Lying Floor Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia sdraiandoti sul lato sinistro, piegando il ginocchio sinistro davanti a te per stabilizzare il torso (usa anche i muscoli addominali per mantenerti eretto).",
-    "Distendi la gamba destra e appoggia il piede destro sul pavimento dietro il sinistro. Distendi il braccio destro sopra la testa e tira delicatamente il polso destro per allungare l'intero lato destro del corpo. Cambia lato."
+    "First lie on your left side, bending your left knee in front of you to stabilize your torso (use your abdominal muscles as well to hold you upright).",
+    "Straighten your right leg and rest the right foot on the floor behind your left. Straighten your right arm over your head and gently pull on your right wrist to stretch the entire right side of the body. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Commencez par vous allonger sur votre gauche, en pliant le genou devant vous pour stabiliser votre torse (utilisez également vos abdominaux pour vous maintenir droit).",
     "Écartez la jambe droite et posez le pied droit à plat derrière votre gauche. Étirez le bras droit vers le haut au-dessus de votre tête et tirez doucement sur votre poignet droit pour étirer tout le côté droit du corps. Alternez les côtés."
+  ],
+  "name_it": "Stretching laterale a terra",
+  "instructions_it": [
+    "Inizia sdraiandoti sul lato sinistro, piegando il ginocchio sinistro davanti a te per stabilizzare il torso (usa anche i muscoli addominali per mantenerti eretto).",
+    "Distendi la gamba destra e appoggia il piede destro sul pavimento dietro il sinistro. Distendi il braccio destro sopra la testa e tira delicatamente il polso destro per allungare l'intero lato destro del corpo. Cambia lato."
   ]
 }

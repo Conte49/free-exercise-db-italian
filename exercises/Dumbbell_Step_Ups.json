@@ -1,5 +1,5 @@
 {
-  "name": "Step Up con Manubri",
+  "name": "Dumbbell Step Ups",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Stai in piedi dritto tenendo un manubrio in ciascuna mano (palmi rivolti verso il lato delle gambe).",
-    "Posiziona il piede destro sulla piattaforma elevata. Salta sulla piattaforma estendendo l'anca e il ginocchio della gamba destra. Usa principalmente il tallone per sollevare il resto del corpo e posiziona anche il piede della gamba sinistra sulla piattaforma. Espira mentre esegui la forza necessaria per salire.",
-    "Scendi con la gamba sinistra flettendo l'anca e il ginocchio della gamba destra mentre inspiri. Torna alla posizione iniziale posizionando il piede destro accanto al piede sinistro nella posizione iniziale.",
-    "Ripeti con la gamba destra per il numero raccomandato di ripetizioni e poi esegui con la gamba sinistra."
+    "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
+    "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
+    "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
+    "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Placez le pied droit sur la plateforme surélevée. Montez sur la plateforme en étendant l'hip et le genou de votre jambe droite. Utilisez principalement les talons pour soulever le reste de votre corps et placez le pied de la jambe gauche sur la plateforme également. Respirez en exécutant la force nécessaire pour monter.",
     "Descendez en position en pliant la hanche et le genou de la jambe droite tout en inspirant. Revenez à la position debout en déplaçant le pied droit vers la position initiale, côte à côte avec le pied gauche.",
     "Répétez avec la jambe droite pendant le nombre de répétitions recommandé, puis exécutez avec la jambe gauche."
+  ],
+  "name_it": "Step Up con Manubri",
+  "instructions_it": [
+    "Stai in piedi dritto tenendo un manubrio in ciascuna mano (palmi rivolti verso il lato delle gambe).",
+    "Posiziona il piede destro sulla piattaforma elevata. Salta sulla piattaforma estendendo l'anca e il ginocchio della gamba destra. Usa principalmente il tallone per sollevare il resto del corpo e posiziona anche il piede della gamba sinistra sulla piattaforma. Espira mentre esegui la forza necessaria per salire.",
+    "Scendi con la gamba sinistra flettendo l'anca e il ginocchio della gamba destra mentre inspiri. Torna alla posizione iniziale posizionando il piede destro accanto al piede sinistro nella posizione iniziale.",
+    "Ripeti con la gamba destra per il numero raccomandato di ripetizioni e poi esegui con la gamba sinistra."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Ponte Laterale",
+  "name": "Side Bridge",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -17,5 +17,7 @@
     "Side_Bridge/1.jpg"
   ],
   "id": "Side_Bridge",
-  "instructions_fr": []
+  "instructions_fr": [],
+  "name_it": "Ponte Laterale",
+  "instructions_it": []
 }

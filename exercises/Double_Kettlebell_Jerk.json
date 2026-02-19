@@ -1,5 +1,5 @@
 {
-  "name": "Jerk con Doppio Kettlebell",
+  "name": "Double Kettlebell Jerk",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,13 +13,13 @@
     "triceps"
   ],
   "instructions": [
-    "Tieni un kettlebell per il manico in ciascuna mano.",
-    "Porta i kettlebell alle spalle estendendo le gambe e i fianchi mentre tiri i kettlebell verso le spalle. Ruota i polsi mentre lo fai, in modo che i palmi siano rivolti in avanti. Questa sarà la tua posizione di partenza.",
-    "Fletti il corpo piegando le ginocchia, mantenendo il torso eretto.",
-    "Inverti immediatamente la direzione, spingendo attraverso i talloni, in sostanza saltando per creare slancio.",
-    "Mentre lo fai, premi i kettlebell sopra la testa per bloccarli estendendo le braccia, usando lo slancio del corpo per muovere i pesi.",
-    "Riporta i piedi a terra in modo spaccato, con un piede avanti e uno indietro.",
-    "Mantenendo i pesi sopra la testa, torna in posizione eretta, unendo i piedi. Abbassa i pesi per eseguire la ripetizione successiva."
+    "Hold a kettlebell by the handle in each hand.",
+    "Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward. This will be your starting position.",
+    "Dip your body by bending the knees, keeping your torso upright.",
+    "Immediately reverse direction, driving through the heels, in essence jumping to create momentum.",
+    "As you do so, press the kettlebells overhead to lockout by extending the arms, using your body's momentum to move the weights.",
+    "Return your feet to the ground in a split fashion, with one foot forward and one foot back.",
+    "Keeping the weights overhead, return to a standing position, bringing your feet together. Lower the weights to perform the next repetition."
   ],
   "category": "strength",
   "images": [
@@ -35,5 +35,15 @@
     "Alors que vous le faites, presse les kettlebells au-dessus de la tête en verrouillant en étendant les bras, en utilisant la dynamique de votre corps pour déplacer les poids.",
     "Ramenez vos pieds au sol en position écartée, un pied en avant et l'autre en arrière.",
     "Gardez les poids au-dessus de votre tête, revenez à une position debout en rapprochant vos pieds. Abaissez les poids pour effectuer la prochaine répétition."
+  ],
+  "name_it": "Jerk con Doppio Kettlebell",
+  "instructions_it": [
+    "Tieni un kettlebell per il manico in ciascuna mano.",
+    "Porta i kettlebell alle spalle estendendo le gambe e i fianchi mentre tiri i kettlebell verso le spalle. Ruota i polsi mentre lo fai, in modo che i palmi siano rivolti in avanti. Questa sarà la tua posizione di partenza.",
+    "Fletti il corpo piegando le ginocchia, mantenendo il torso eretto.",
+    "Inverti immediatamente la direzione, spingendo attraverso i talloni, in sostanza saltando per creare slancio.",
+    "Mentre lo fai, premi i kettlebell sopra la testa per bloccarli estendendo le braccia, usando lo slancio del corpo per muovere i pesi.",
+    "Riporta i piedi a terra in modo spaccato, con un piede avanti e uno indietro.",
+    "Mantenendo i pesi sopra la testa, torna in posizione eretta, unendo i piedi. Abbassa i pesi per eseguire la ripetizione successiva."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Flessioni con i piedi elevati",
+  "name": "Push-Ups With Feet Elevated",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati a faccia in giù sul pavimento e posiziona le mani a circa 90 cm di distanza l'una dall'altra, sollevando il torso con le braccia distese.",
-    "Posiziona le punte dei piedi sopra una panca piatta. Questo permetterà al tuo corpo di essere elevato. Nota: Più alta è l'elevazione della panca piatta, maggiore sarà la resistenza dell'esercizio.",
-    "Abbassati fino a quando il tuo petto quasi tocca il pavimento mentre inspiri.",
-    "Utilizzando i muscoli pettorali, spingi il tuo corpo superiore verso l'alto fino alla posizione di partenza e contrai il petto. Espira mentre esegui questo passaggio.",
-    "Dopo una pausa di un secondo nella posizione contratta, ripeti il movimento per il numero prescritto di ripetizioni."
+    "Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.",
+    "Place your toes on top of a flat bench. This will allow your body to be elevated. Note: The higher the elevation of the flat bench, the higher the resistance of the exercise is.",
+    "Lower yourself until your chest almost touches the floor as you inhale.",
+    "Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+    "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,13 @@
     "Descendez vous-même jusqu'à ce que votre poitrine touche presque le sol pendant que vous inspirez.",
     "En utilisant vos muscles pecs, appuyez sur votre corps supérieur jusqu'à la position de départ et contractez votre poitrine. Respirez pendant que vous exécutez cette étape.",
     "Après une deuxième pause à la position contractée, répétez le mouvement pour le nombre de répétitions prescrit."
+  ],
+  "name_it": "Flessioni con i piedi elevati",
+  "instructions_it": [
+    "Sdraiati a faccia in giù sul pavimento e posiziona le mani a circa 90 cm di distanza l'una dall'altra, sollevando il torso con le braccia distese.",
+    "Posiziona le punte dei piedi sopra una panca piatta. Questo permetterà al tuo corpo di essere elevato. Nota: Più alta è l'elevazione della panca piatta, maggiore sarà la resistenza dell'esercizio.",
+    "Abbassati fino a quando il tuo petto quasi tocca il pavimento mentre inspiri.",
+    "Utilizzando i muscoli pettorali, spingi il tuo corpo superiore verso l'alto fino alla posizione di partenza e contrai il petto. Espira mentre esegui questo passaggio.",
+    "Dopo una pausa di un secondo nella posizione contratta, ripeti il movimento per il numero prescritto di ripetizioni."
   ]
 }

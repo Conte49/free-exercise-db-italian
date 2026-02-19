@@ -1,5 +1,5 @@
 {
-  "name": "Scaption con manubri",
+  "name": "Dumbbell Scaption",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,9 +11,9 @@
     "traps"
   ],
   "instructions": [
-    "Questo esercizio correttivo rinforza i muscoli che stabilizzano la scapola. Tieni un peso leggero in ciascuna mano, pendente ai lati. I tuoi pollici dovrebbero essere rivolti verso l'alto.",
-    "Inizia il movimento sollevando le braccia di fronte a te, circa 30 gradi rispetto al centro. Le tue braccia dovrebbero essere completamente estese mentre esegui il movimento.",
-    "Continua fino a quando le tue braccia sono parallele al suolo, e poi torna alla posizione di partenza."
+    "This corrective exercise strengthens the muscles that stabilize your shoulder blade. Hold a light weight in each hand, hanging at your sides. Your thumbs should pointing up.",
+    "Begin the movement raising your arms out in front of you, about 30 degrees off center. Your arms should be fully extended as you perform the movement.",
+    "Continue until your arms are parallel to the ground, and then return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,11 @@
     "Cet exercice correctif renforce les muscles qui stabilisent votre omoplate. Tenez un poids léger dans chaque main, pendantes à vos côtés. Vos pouces devraient pointer vers le haut.",
     "Commencez le mouvement en soulevant vos bras devant vous, à environ 30 degrés du centre. Vos bras doivent être complètement tendus pendant que vous exécutez le mouvement.",
     "Continuez jusqu'à ce que vos bras soient parallèles au sol, puis revenez à la position de départ."
+  ],
+  "name_it": "Scaption con manubri",
+  "instructions_it": [
+    "Questo esercizio correttivo rinforza i muscoli che stabilizzano la scapola. Tieni un peso leggero in ciascuna mano, pendente ai lati. I tuoi pollici dovrebbero essere rivolti verso l'alto.",
+    "Inizia il movimento sollevando le braccia di fronte a te, circa 30 gradi rispetto al centro. Le tue braccia dovrebbero essere completamente estese mentre esegui il movimento.",
+    "Continua fino a quando le tue braccia sono parallele al suolo, e poi torna alla posizione di partenza."
   ]
 }

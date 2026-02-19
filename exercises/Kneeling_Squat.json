@@ -1,5 +1,5 @@
 {
-  "name": "Squat in ginocchio",
+  "name": "Kneeling Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "lower back"
   ],
   "instructions": [
-    "Imposta l'asta all'altezza corretta in un power rack. Inginocchiati dietro l'asta; potrebbe essere utile mettere un tappetino per proteggere le ginocchia. Scivola sotto l'asta, posizionandola sulla parte posteriore delle spalle. Le scapole devono essere retratte e l'asta ben aderente alla schiena. Solleva il peso.",
-    "Con lo sguardo rivolto in avanti, siediti indietro con il sedere fino a toccare i polpacci.",
-    "Inverti il movimento, riportando il torso in posizione eretta."
+    "Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.",
+    "With your head looking forward, sit back with your butt until you touch your calves.",
+    "Reverse the motion, returning the torso to an upright position."
   ],
   "category": "powerlifting",
   "images": [
@@ -27,5 +27,11 @@
     "Réglerez la barre à la hauteur appropriée dans un rack de puissance. Genouchez derrière la barre ; il peut être bénéfique de mettre une natte pour amortir vos genoux. Glissez-vous sous la barre, en la rangeant sur le dos de vos épaules. Vos omoplates devraient être rétractées et la barre bien serrée sur votre dos. Déverrouillez le poids.",
     "En gardant la tête tournée vers l'avant, asseyez-vous en faisant reposer vos fesses sur vos mollets.",
     "Inverser le mouvement, ramener le torse dans une position verticale."
+  ],
+  "name_it": "Squat in ginocchio",
+  "instructions_it": [
+    "Imposta l'asta all'altezza corretta in un power rack. Inginocchiati dietro l'asta; potrebbe essere utile mettere un tappetino per proteggere le ginocchia. Scivola sotto l'asta, posizionandola sulla parte posteriore delle spalle. Le scapole devono essere retratte e l'asta ben aderente alla schiena. Solleva il peso.",
+    "Con lo sguardo rivolto in avanti, siediti indietro con il sedere fino a toccare i polpacci.",
+    "Inverti il movimento, riportando il torso in posizione eretta."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Squat con Box e Catene",
+  "name": "Box Squat with Chains",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -16,11 +16,11 @@
     "lower back"
   ],
   "instructions": [
-    "Inizia in un power rack con un box all'altezza appropriata dietro di te. Tipicamente, dovresti mirare a un'altezza del box che ti porti a uno squat parallelo, ma puoi allenarti più in alto o più in basso se desideri.",
-    "Per impostare le catene, inizia facendo passare la catena leader sopra le maniche della barra. La catena pesante dovrebbe essere attaccata utilizzando un gancio a scatto. Regola la lunghezza della catena leader in modo che alcuni anelli siano ancora a terra nella parte superiore del movimento.",
-    "Inizia posizionandoti sotto la barra e mettendola sulla parte posteriore delle spalle. Stringi le scapole insieme e ruota i gomiti in avanti, cercando di piegare la barra sulle spalle. Rimuovi la barra dal rack, creando un arco stretto nella parte bassa della schiena, e fai un passo indietro nella posizione. Posiziona i piedi più larghi per enfatizzare di più la schiena, i glutei, gli adduttori e i muscoli posteriori della coscia, o più vicini per sviluppare di più i quadricipiti. Tieni la testa rivolta in avanti.",
-    "Con la schiena, le spalle e il core tesi, spingi le ginocchia e il sedere all'esterno mentre inizi la discesa. Siediti indietro con i fianchi finché non sei seduto sul box. Idealmente, le tue tibie dovrebbero essere perpendicolari al suolo. Fai una pausa quando raggiungi il box e rilassa i flessori dell'anca. Non rimbalzare mai su un box.",
-    "Mantenendo il peso sui talloni e spingendo i piedi e le ginocchia verso l'esterno, spingi verso l'alto dal box mentre guidi il movimento con la testa. Continua verso l'alto, mantenendo la tensione dalla testa ai piedi."
+    "Begin in a power rack with a box at the appropriate height behind you. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired.",
+    "To set up the chains, begin by looping the leader chain over the sleeves of the bar. The heavy chain should be attached using a snap hook. Adjust the length of the lead chain so that a few links are still on the floor at the top of the movement.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward.",
+    "With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. Ideally, your shins should be perpendicular to the ground. Pause when you reach the box, and relax the hip flexors. Never bounce off of a box.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe."
   ],
   "category": "strength",
   "images": [
@@ -34,5 +34,13 @@
     "Commencez par vous placer sous la barre et posez-la sur vos épaules. Raffermissez vos omoplates et faites pivoter vos coudes vers l'avant en essayant de plier la barre sur vos épaules. Retirez la barre du porte-barre, en créant une arching dans votre bas du dos, puis reculons pour prendre une position stable. Écarrez les pieds pour mettre davantage l'accent sur le dos, les fessiers, les adducteurs et les ischio-jambiers, ou rapprochez-les pour développer davantage les quadriceps. Gardez la tête tournée vers l'avant.",
     "En gardant le dos, les épaules et le tronc bien tendus, poussez les genoux et les fesses vers l'extérieur et commencez votre descente. Asseyez-vous en faisant pivoter les hanches jusqu'à ce que vous soyez assis sur la boîte. Idéalement, vos mollets devraient être perpendiculaires au sol. Marque une pause lorsque vous atteignez la boîte, et relâchez les flexeurs de hanche. Ne rebondissez jamais sur la boîte.",
     "En gardant le poids sur vos talons et en poussant avec vos pieds et vos genoux, montez rapidement à partir de la boîte en guidant le mouvement avec votre tête. Continuez à monter en gardant une tension de la tête aux pieds."
+  ],
+  "name_it": "Squat con Box e Catene",
+  "instructions_it": [
+    "Inizia in un power rack con un box all'altezza appropriata dietro di te. Tipicamente, dovresti mirare a un'altezza del box che ti porti a uno squat parallelo, ma puoi allenarti più in alto o più in basso se desideri.",
+    "Per impostare le catene, inizia facendo passare la catena leader sopra le maniche della barra. La catena pesante dovrebbe essere attaccata utilizzando un gancio a scatto. Regola la lunghezza della catena leader in modo che alcuni anelli siano ancora a terra nella parte superiore del movimento.",
+    "Inizia posizionandoti sotto la barra e mettendola sulla parte posteriore delle spalle. Stringi le scapole insieme e ruota i gomiti in avanti, cercando di piegare la barra sulle spalle. Rimuovi la barra dal rack, creando un arco stretto nella parte bassa della schiena, e fai un passo indietro nella posizione. Posiziona i piedi più larghi per enfatizzare di più la schiena, i glutei, gli adduttori e i muscoli posteriori della coscia, o più vicini per sviluppare di più i quadricipiti. Tieni la testa rivolta in avanti.",
+    "Con la schiena, le spalle e il core tesi, spingi le ginocchia e il sedere all'esterno mentre inizi la discesa. Siediti indietro con i fianchi finché non sei seduto sul box. Idealmente, le tue tibie dovrebbero essere perpendicolari al suolo. Fai una pausa quando raggiungi il box e rilassa i flessori dell'anca. Non rimbalzare mai su un box.",
+    "Mantenendo il peso sui talloni e spingendo i piedi e le ginocchia verso l'esterno, spingi verso l'alto dal box mentre guidi il movimento con la testa. Continua verso l'alto, mantenendo la tensione dalla testa ai piedi."
   ]
 }

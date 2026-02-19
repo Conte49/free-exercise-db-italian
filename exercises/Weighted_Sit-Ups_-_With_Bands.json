@@ -1,5 +1,5 @@
 {
-  "name": "Sit-Up con Pesi - Con Bande",
+  "name": "Weighted Sit-Ups - With Bands",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia fissando le bande attorno alla base della panca declinata. Posiziona le maniglie verso l'interno della panca declinata in modo che, sdraiandoti, tu possa raggiungerle entrambe.",
-    "Posiziona le gambe attraverso la macchina declinata finché non sono bloccate. Ora afferra le bande per esercizi con entrambe le mani. Usa una presa prona (palmi in avanti) per afferrare le maniglie. Posizionale vicino alla clavicola e ruota il polso per una presa neutra (palmi rivolti verso il torso). Nota: le tue braccia devono rimanere immobili durante l'esercizio. Questa è la posizione di partenza.",
-    "Muovi il torso verso l'alto finché la parte superiore del corpo non è perpendicolare al pavimento mentre espiri. Tieni la contrazione per un secondo e abbassa la parte superiore del corpo di nuovo nella posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Start out by strapping the bands around the base of the decline bench. Place the handles towards the inside of the decline bench so that when lying down, you can reach for both of them.",
+    "Position your legs through the decline machine until they are secured. Now reach for the exercise bands with both hands. Use a pronated (palms forward) grip to grasp the handles. Position them near your collar bone and rotate your wrist to a neutral grip (palms facing the torso). Note: Your arms should remain stationary throughout the exercise. This is the starting position.",
+    "Move your torso upward until your upper body is perpendicular to the floor while exhaling. Hold the contraction for a second and lower your upper body back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Placez vos jambes dans la machine inclinée jusqu'à ce qu'elles soient bien maintenues. Attrapez ensuite les bandes d'exercice avec les deux mains. Utilisez une poignée prononcée (paumes vers l'avant) pour saisir les poignées. Placez-les près de votre plaque de collier et faites un rotule de poignet vers une poignée neutre (paumes face au torse). Note : vos bras doivent rester stationnaires tout au long de l'exercice. Telle est la position de départ.",
     "Déplacez votre torse vers le haut jusqu'à ce que votre corps soit perpendiculaire au sol en expirant. Maintenez la contraction pendant une seconde, puis ramenez votre corps vers la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Sit-Up con Pesi - Con Bande",
+  "instructions_it": [
+    "Inizia fissando le bande attorno alla base della panca declinata. Posiziona le maniglie verso l'interno della panca declinata in modo che, sdraiandoti, tu possa raggiungerle entrambe.",
+    "Posiziona le gambe attraverso la macchina declinata finché non sono bloccate. Ora afferra le bande per esercizi con entrambe le mani. Usa una presa prona (palmi in avanti) per afferrare le maniglie. Posizionale vicino alla clavicola e ruota il polso per una presa neutra (palmi rivolti verso il torso). Nota: le tue braccia devono rimanere immobili durante l'esercizio. Questa è la posizione di partenza.",
+    "Muovi il torso verso l'alto finché la parte superiore del corpo non è perpendicolare al pavimento mentre espiri. Tieni la contrazione per un secondo e abbassa la parte superiore del corpo di nuovo nella posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

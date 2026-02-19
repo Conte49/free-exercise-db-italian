@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con Cavo Unilaterale da Seduto",
+  "name": "Seated One-arm Cable Pulley Rows",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,12 +13,12 @@
     "traps"
   ],
   "instructions": [
-    "Per entrare nella posizione di partenza, siediti sulla macchina e posiziona i piedi sulla piattaforma frontale o sulla barra trasversale fornita, assicurandoti che le ginocchia siano leggermente piegate e non bloccate.",
-    "Inclina il busto mantenendo l'allineamento naturale della schiena e afferra l'attacco con maniglia singola con il braccio sinistro usando una presa con i palmi rivolti verso il basso.",
-    "Con il braccio esteso, tira indietro fino a quando il tuo torso forma un angolo di 90 gradi rispetto alle gambe. La schiena dovrebbe essere leggermente arcuata e il petto sporgere in avanti. Dovresti sentire un buon allungamento del tuo grande dorsale mentre tieni la barra davanti a te. Il braccio destro può essere mantenuto lungo il fianco. Questa è la posizione di partenza dell'esercizio.",
-    "Mantenendo il torso fermo, tira le maniglie verso il tuo torso mantenendo le braccia vicine ad esso mentre ruoti il polso, in modo che quando la tua mano è vicino agli addominali sia in una posizione neutra (palmi rivolti verso il torso). Espira mentre esegui quel movimento. A quel punto dovresti contrarre i muscoli della schiena con forza.",
-    "Mantieni quella contrazione per un secondo e torna lentamente alla posizione originale mentre inspiri. Suggerimento: Ricorda di ruotare il polso mentre torni alla posizione di partenza in modo che i palmi siano di nuovo rivolti verso il basso.",
-    "Ripeti per il numero raccomandato di ripetizioni e poi esegui lo stesso movimento con la mano destra."
+    "To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
+    "Lean over as you keep the natural alignment of your back and grab the single handle attachment with your left arm using a palms-down grip.",
+    "With your arm extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lat as you hold the bar in front of you. The right arm can be kept by the waist. This is the starting position of the exercise.",
+    "Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it as you rotate the wrist, so that by the time your hand is by your abdominals it is in a neutral position (palms facing the torso). Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard.",
+    "Hold that contraction for a second and slowly go back to the original position while breathing in. Tip: Remember to rotate the wrist as you go back to the starting position so that the palms are facing down again.",
+    "Repeat for the recommended amount of repetitions and then perform the same movement with the right hand."
   ],
   "category": "strength",
   "images": [
@@ -33,5 +33,14 @@
     "En gardant le tronc immobile, tirez les poignées vers votre tronc tout en gardant les bras près de celui-ci lorsque vous faites pivoter le poignet, de sorte que lorsque votre main se trouve à la hauteur de vos abdominaux, elle se trouve dans une position neutre (paumes face au tronc). Respirez pendant que vous effectuez ce mouvement. À ce moment-là, vous devriez serrer fort les muscles de votre dos.",
     "Maintenez cette contraction pendant une seconde, puis revenez lentement à la position de départ en respirant. Astuce : N'oubliez pas de faire pivoter le poignet en revenant à la position de départ afin que les paumes soient à nouveau orientées vers le bas.",
     "Répétez pour le nombre de répétitions recommandé, puis exécutez le même mouvement avec la main droite."
+  ],
+  "name_it": "Rematore con Cavo Unilaterale da Seduto",
+  "instructions_it": [
+    "Per entrare nella posizione di partenza, siediti sulla macchina e posiziona i piedi sulla piattaforma frontale o sulla barra trasversale fornita, assicurandoti che le ginocchia siano leggermente piegate e non bloccate.",
+    "Inclina il busto mantenendo l'allineamento naturale della schiena e afferra l'attacco con maniglia singola con il braccio sinistro usando una presa con i palmi rivolti verso il basso.",
+    "Con il braccio esteso, tira indietro fino a quando il tuo torso forma un angolo di 90 gradi rispetto alle gambe. La schiena dovrebbe essere leggermente arcuata e il petto sporgere in avanti. Dovresti sentire un buon allungamento del tuo grande dorsale mentre tieni la barra davanti a te. Il braccio destro può essere mantenuto lungo il fianco. Questa è la posizione di partenza dell'esercizio.",
+    "Mantenendo il torso fermo, tira le maniglie verso il tuo torso mantenendo le braccia vicine ad esso mentre ruoti il polso, in modo che quando la tua mano è vicino agli addominali sia in una posizione neutra (palmi rivolti verso il torso). Espira mentre esegui quel movimento. A quel punto dovresti contrarre i muscoli della schiena con forza.",
+    "Mantieni quella contrazione per un secondo e torna lentamente alla posizione originale mentre inspiri. Suggerimento: Ricorda di ruotare il polso mentre torni alla posizione di partenza in modo che i palmi siano di nuovo rivolti verso il basso.",
+    "Ripeti per il numero raccomandato di ripetizioni e poi esegui lo stesso movimento con la mano destra."
   ]
 }

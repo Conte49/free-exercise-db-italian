@@ -1,5 +1,5 @@
 {
-  "name": "Jackknife laterale",
+  "name": "Side Jackknife",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,5 +15,7 @@
     "Side_Jackknife/1.jpg"
   ],
   "id": "Side_Jackknife",
-  "instructions_fr": []
+  "instructions_fr": [],
+  "name_it": "Jackknife laterale",
+  "instructions_it": []
 }

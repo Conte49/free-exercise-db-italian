@@ -1,5 +1,5 @@
 {
-  "name": "Hack Squat con Bilanciere",
+  "name": "Barbell Hack Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Stai in piedi dritto tenendo un bilanciere dietro di te con le braccia distese e i piedi alla larghezza delle spalle. Suggerimento: una presa alla larghezza delle spalle è la migliore con i palmi delle mani rivolti all'indietro. Puoi usare delle fasce per i polsi per questo esercizio per una presa migliore. Questa sarà la tua posizione di partenza.",
-    "Mantenendo la testa e gli occhi alti e la schiena dritta, accovacciati finché le cosce superiori non sono parallele al pavimento. Inspira mentre scendi lentamente.",
-    "Premendo principalmente con il tallone del piede e stringendo le cosce, risali mentre espiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Stand up straight while holding a barbell behind you at arms length and your feet at shoulder width. Tip: A shoulder width grip is best with the palms of your hands facing back. You can use wrist wraps for this exercise for a better grip. This will be your starting position.",
+    "While keeping your head and eyes up and back straight, squat until your upper thighs are parallel to the floor. Breathe in as you slowly go down.",
+    "Pressing mainly with the heel of the foot and squeezing the thighs, go back up as you breathe out.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "En gardant la tête et les yeux levés et le dos droit, faites un squat jusqu'à ce que vos cuisses soient parallèles au sol. Inhalez lentement en descendant.",
     "En appuyant principalement avec le talon du pied et en contractant les cuisses, remontée en expirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Hack Squat con Bilanciere",
+  "instructions_it": [
+    "Stai in piedi dritto tenendo un bilanciere dietro di te con le braccia distese e i piedi alla larghezza delle spalle. Suggerimento: una presa alla larghezza delle spalle è la migliore con i palmi delle mani rivolti all'indietro. Puoi usare delle fasce per i polsi per questo esercizio per una presa migliore. Questa sarà la tua posizione di partenza.",
+    "Mantenendo la testa e gli occhi alti e la schiena dritta, accovacciati finché le cosce superiori non sono parallele al pavimento. Inspira mentre scendi lentamente.",
+    "Premendo principalmente con il tallone del piede e stringendo le cosce, risali mentre espiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

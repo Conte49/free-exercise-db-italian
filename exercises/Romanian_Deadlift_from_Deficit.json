@@ -1,5 +1,5 @@
 {
-  "name": "Stacco Rumeno da Deficit",
+  "name": "Romanian Deadlift from Deficit",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,9 +14,9 @@
     "traps"
   ],
   "instructions": [
-    "Inizia in posizione eretta tenendo un bilanciere allungato davanti a te. Puoi posizionarti su una piattaforma rialzata per aumentare l'ampiezza del movimento.",
-    "Inizia piegando leggermente le ginocchia, poi flette l'anca, spingendo indietro il sedere il più possibile, abbassando il torso fin dove la flessibilità lo consente. La schiena deve rimanere in estensione assoluta in ogni momento e il bilanciere deve rimanere in contatto con le gambe. Se eseguito correttamente, dovresti sentire una forte tensione nei muscoli posteriori della coscia.",
-    "Inverti il movimento per tornare alla posizione di partenza."
+    "Begin standing while holding a bar at arm's length in front of you. You can stand on a raised platform to increase the range of motion.",
+    "Begin by flexing the knees slightly, and then flex at the hip, moving your butt back as far as possible, lowering the torso as far as flexibility allows. The back should remain in absolute extension at all times, and the bar should remain in contact with the legs. If done properly, there should be heavy tension felt in the hamstrings.",
+    "Reverse the motion to return to the starting position."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -28,5 +28,11 @@
     "Commencez debout en tenant une barre à la longueur du bras devant vous. Vous pouvez vous tenir sur une plateforme surélevée pour augmenter la gamme de mouvements.",
     "Commencez par fléchir légèrement les genoux, puis fléchissez au niveau de la hanche, en déplaçant les fesses le plus possible vers l'arrière, en abaissant le torse autant que votre souplesse le permet. Le dos doit rester complètement étiré en tout temps, et la barre doit rester en contact avec vos jambes. Si vous le faites correctement, vous devriez ressentir une forte tension dans les ischio-jambiers.",
     "Inversez le mouvement pour revenir à la position de départ."
+  ],
+  "name_it": "Stacco Rumeno da Deficit",
+  "instructions_it": [
+    "Inizia in posizione eretta tenendo un bilanciere allungato davanti a te. Puoi posizionarti su una piattaforma rialzata per aumentare l'ampiezza del movimento.",
+    "Inizia piegando leggermente le ginocchia, poi flette l'anca, spingendo indietro il sedere il più possibile, abbassando il torso fin dove la flessibilità lo consente. La schiena deve rimanere in estensione assoluta in ogni momento e il bilanciere deve rimanere in contatto con le gambe. Se eseguito correttamente, dovresti sentire una forte tensione nei muscoli posteriori della coscia.",
+    "Inverti il movimento per tornare alla posizione di partenza."
   ]
 }

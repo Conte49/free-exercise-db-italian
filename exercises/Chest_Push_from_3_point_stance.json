@@ -1,5 +1,5 @@
 {
-  "name": "Spinta del petto da posizione a tre punti",
+  "name": "Chest Push from 3 point stance",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "triceps"
   ],
   "instructions": [
-    "Inizia in una posizione a tre punti, accovacciato con la schiena dritta e una mano a terra. Posiziona la palla medica direttamente di fronte a te.",
-    "Per iniziare, fai il tuo primo passo mentre tiri la palla verso il petto, posizionando entrambe le mani per prepararti al lancio.",
-    "Mentre esegui il secondo passo, rilascia esplosivamente la palla in avanti con tutta la forza possibile."
+    "Begin in a three point stance, squatted down with your back flat and one hand on the ground. Place the medicine ball directly in front of you.",
+    "To begin, take your first step as you pull the ball to your chest, positioning both hands to prepare for the throw.",
+    "As you execute the second step, explosively release the ball forward as hard as possible."
   ],
   "category": "plyometrics",
   "images": [
@@ -27,5 +27,11 @@
     "Commencez en position à trois points, accroupi avec le dos plat et une main au sol. Placez la balle médicamenteuse directement devant vous.",
     "Pour commencer, faites votre premier pas en ramenant le ballon à votre poitrine, en plaçant les deux mains pour vous préparer à le lancer.",
     "Alors que vous exécutez la seconde étape, libérez explosivement la balle en avant aussi fort que possible."
+  ],
+  "name_it": "Spinta del petto da posizione a tre punti",
+  "instructions_it": [
+    "Inizia in una posizione a tre punti, accovacciato con la schiena dritta e una mano a terra. Posiziona la palla medica direttamente di fronte a te.",
+    "Per iniziare, fai il tuo primo passo mentre tiri la palla verso il petto, posizionando entrambe le mani per prepararti al lancio.",
+    "Mentre esegui il secondo passo, rilascia esplosivamente la palla in avanti con tutta la forza possibile."
   ]
 }

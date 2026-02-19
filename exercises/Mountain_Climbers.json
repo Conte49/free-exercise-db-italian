@@ -1,5 +1,5 @@
 {
-  "name": "Climber",
+  "name": "Mountain Climbers",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,8 +13,8 @@
     "shoulders"
   ],
   "instructions": [
-    "Inizia in posizione di push-up, con il peso sostenuto dalle mani e dalle punte dei piedi. Flettendo il ginocchio e l'anca, porta una gamba fino a quando il ginocchio è approssimativamente sotto l'anca. Questa sarà la tua posizione di partenza.",
-    "Inverti esplosivamente le posizioni delle tue gambe, estendendo la gamba piegata fino a quando non è dritta e sostenuta dalla punta, e portando l'altro piede in alto con l'anca e il ginocchio piegati. Ripeti in modo alternato per 20-30 secondi."
+    "Begin in a pushup position, with your weight supported by your hands and toes. Flexing the knee and hip, bring one leg until the knee is approximately under the hip. This will be your starting position.",
+    "Explosively reverse the positions of your legs, extending the bent leg until the leg is straight and supported by the toe, and bringing the other foot up with the hip and knee flexed. Repeat in an alternating fashion for 20-30 seconds."
   ],
   "category": "plyometrics",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Commencez en position de pompes, en supportant votre poids par les mains et les orteils. En fléchissant le genou et la hanche, amenez une jambe jusqu'à ce que le genou se trouve environ sous la hanche. Cette position sera votre point de départ.",
     "Inverser de manière explosive les positions des jambes, étendre la jambe pliée jusqu'à ce qu'elle soit droite et soutenue par l'orteil, et amener l'autre pied vers le haut avec la hanche et le genou fléchis. Répéter de manière alternée pendant 20 à 30 secondes."
+  ],
+  "name_it": "Climber",
+  "instructions_it": [
+    "Inizia in posizione di push-up, con il peso sostenuto dalle mani e dalle punte dei piedi. Flettendo il ginocchio e l'anca, porta una gamba fino a quando il ginocchio è approssimativamente sotto l'anca. Questa sarà la tua posizione di partenza.",
+    "Inverti esplosivamente le posizioni delle tue gambe, estendendo la gamba piegata fino a quando non è dritta e sostenuta dalla punta, e portando l'altro piede in alto con l'anca e il ginocchio piegati. Ripeti in modo alternato per 20-30 secondi."
   ]
 }

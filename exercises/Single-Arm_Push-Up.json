@@ -1,5 +1,5 @@
 {
-  "name": "Flessione a un braccio",
+  "name": "Single-Arm Push-Up",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "triceps"
   ],
   "instructions": [
-    "Inizia sdraiato a pancia in giù sul terreno. Posizionati in modo da sostenere il tuo peso sulle punte dei piedi e su un braccio. Il braccio di lavoro dovrebbe essere posizionato direttamente sotto la spalla, completamente esteso. Le gambe devono essere estese e per questo movimento potrebbe essere necessario avere una base più ampia, posizionando i piedi più distanti rispetto a una flessione normale.",
-    "Mantieni una buona postura e posiziona la mano libera dietro la schiena. Questa sarà la tua posizione di partenza.",
-    "Abbassati flettendo il gomito fino a toccare il terreno.",
-    "Scendi lentamente e inverti la direzione estendendo il braccio per tornare alla posizione di partenza."
+    "Begin laying prone on the ground. Move yourself into a position supporting your weight on your toes and one arm. Your working arm should be placed directly under the shoulder, fully extended. Your legs should be extended, and for this movement you may need a wider base, placing your feet further apart than in a normal push-up.",
+    "Maintain good posture, and place your free hand behind your back. This will be your starting position.",
+    "Lower yourself by allowing the elbow to flex until you touch the ground.",
+    "Descend slowly, and reverse direction be extending the arm to return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Maintenez une bonne posture et placez votre main libre dans votre dos. Cette position sera votre point de départ.",
     "Baissez-vous en fléchissant le coude jusqu'à toucher le sol.",
     "Descendez lentement et inversez la direction en étendant le bras pour revenir à la position de départ."
+  ],
+  "name_it": "Flessione a un braccio",
+  "instructions_it": [
+    "Inizia sdraiato a pancia in giù sul terreno. Posizionati in modo da sostenere il tuo peso sulle punte dei piedi e su un braccio. Il braccio di lavoro dovrebbe essere posizionato direttamente sotto la spalla, completamente esteso. Le gambe devono essere estese e per questo movimento potrebbe essere necessario avere una base più ampia, posizionando i piedi più distanti rispetto a una flessione normale.",
+    "Mantieni una buona postura e posiziona la mano libera dietro la schiena. Questa sarà la tua posizione di partenza.",
+    "Abbassati flettendo il gomito fino a toccare il terreno.",
+    "Scendi lentamente e inverti la direzione estendendo il braccio per tornare alla posizione di partenza."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Braccio Contro il Muro",
+  "name": "One Arm Against Wall",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "In posizione eretta, appoggia un braccio piegato contro un muro o una porta.",
-    "Inclina lentamente il corpo verso il braccio finché non senti un allungamento nei tuoi dorsali."
+    "From a standing position, place a bent arm against a wall or doorway.",
+    "Slowly lean toward your arm until you feel a stretch in your lats."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "À partir d'une position debout, placez un bras plié contre un mur ou une porte.",
     "Inclinaison lente vers votre bras jusqu'à ce que vous sentiez une étirement dans vos grands dorsaux."
+  ],
+  "name_it": "Braccio Contro il Muro",
+  "instructions_it": [
+    "In posizione eretta, appoggia un braccio piegato contro un muro o una porta.",
+    "Inclina lentamente il corpo verso il braccio finché non senti un allungamento nei tuoi dorsali."
   ]
 }

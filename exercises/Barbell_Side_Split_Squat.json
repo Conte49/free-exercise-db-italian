@@ -1,5 +1,5 @@
 {
-  "name": "Squat laterale con bilanciere",
+  "name": "Barbell Side Split Squat",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "lower back"
   ],
   "instructions": [
-    "Stai in piedi dritto mentre tieni un bilanciere posizionato sulla parte posteriore delle spalle (leggermente sotto il collo). I tuoi piedi dovrebbero essere posizionati larghi, con il piede della gamba di guida inclinato verso l'esterno. Questa sarà la tua posizione di partenza.",
-    "Abbassa il corpo verso il lato del piede inclinato piegando il ginocchio e l'anca della gamba di guida, mantenendo l'altra gamba solo leggermente piegata. Inspira mentre abbassi il corpo.",
-    "Torna alla posizione di partenza estendendo l'anca e il ginocchio della gamba di guida. Espira mentre esegui questo movimento.",
-    "Dopo aver eseguito il numero raccomandato di ripetizioni, ripeti il movimento con l'altra gamba."
+    "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck). Your feet should be placed wide apart with the foot of the lead leg angled out to the side. This will be your starting position.",
+    "Lower your body towards the side of your angled foot by bending the knee and hip of your lead leg and while keeping the opposite leg only slightly bent. Breathe in as you lower your body.",
+    "Return to the starting position by extending the hip and knee of the lead leg. Breathe out as you perform this movement.",
+    "After performing the recommended amount of reps, repeat the movement with the opposite leg."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Abaissez votre corps vers le côté de votre pied incliné en fléchissant le genou et l'hip de votre jambe d'attaque, tout en gardant la jambe opposée légèrement pliée. Inspirez pendant que vous abaissez votre corps.",
     "Revenez à la position de départ en étendant l'hanche et le genou de la jambe de devant. Respirez en effectuant ce mouvement.",
     "Après avoir effectué le nombre de répétitions recommandé, répétez le mouvement avec la jambe opposée."
+  ],
+  "name_it": "Squat laterale con bilanciere",
+  "instructions_it": [
+    "Stai in piedi dritto mentre tieni un bilanciere posizionato sulla parte posteriore delle spalle (leggermente sotto il collo). I tuoi piedi dovrebbero essere posizionati larghi, con il piede della gamba di guida inclinato verso l'esterno. Questa sarà la tua posizione di partenza.",
+    "Abbassa il corpo verso il lato del piede inclinato piegando il ginocchio e l'anca della gamba di guida, mantenendo l'altra gamba solo leggermente piegata. Inspira mentre abbassi il corpo.",
+    "Torna alla posizione di partenza estendendo l'anca e il ginocchio della gamba di guida. Espira mentre esegui questo movimento.",
+    "Dopo aver eseguito il numero raccomandato di ripetizioni, ripeti il movimento con l'altra gamba."
   ]
 }

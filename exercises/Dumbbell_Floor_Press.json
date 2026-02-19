@@ -1,5 +1,5 @@
 {
-  "name": "Distensione su Panca con Manubri",
+  "name": "Dumbbell Floor Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "shoulders"
   ],
   "instructions": [
-    "Sdraiati sul pavimento tenendo i manubri nelle mani. Le tue ginocchia possono essere piegate. Inizia con i pesi completamente estesi sopra di te.",
-    "Abbassa i pesi finché il tuo braccio superiore non tocca il pavimento. Puoi piegare i gomiti per enfatizzare la dimensione e la forza dei tricipiti, oppure per concentrarti sul petto, angola le braccia di lato.",
-    "Fermati in basso, poi riporta il peso insieme in alto estendendo i gomiti."
+    "Lay on the floor holding dumbbells in your hands. Your knees can be bent. Begin with the weights fully extended above you.",
+    "Lower the weights until your upper arm comes in contact with the floor. You can tuck your elbows to emphasize triceps size and strength, or to focus on your chest angle your arms to the side.",
+    "Pause at the bottom, and then bring the weight together at the top by extending through the elbows."
   ],
   "category": "powerlifting",
   "images": [
@@ -26,5 +26,11 @@
     "Allongez-vous par terre en tenant les haltères dans vos mains. Vos genoux peuvent être pliés. Commencez avec les poids complètement étendus au-dessus de vous.",
     "Abaissez les poids jusqu'à ce que votre bras supérieur entre en contact avec le sol. Vous pouvez plier vos coudes pour mettre l'accent sur la taille et la force des triceps, ou pour vous concentrer sur l'angle de votre poitrine, en inclinant vos bras sur les côtés.",
     "Arrêtez-vous en bas, puis amenez le poids ensemble en haut en étendant à travers les coudes."
+  ],
+  "name_it": "Distensione su Panca con Manubri",
+  "instructions_it": [
+    "Sdraiati sul pavimento tenendo i manubri nelle mani. Le tue ginocchia possono essere piegate. Inizia con i pesi completamente estesi sopra di te.",
+    "Abbassa i pesi finché il tuo braccio superiore non tocca il pavimento. Puoi piegare i gomiti per enfatizzare la dimensione e la forza dei tricipiti, oppure per concentrarti sul petto, angola le braccia di lato.",
+    "Fermati in basso, poi riporta il peso insieme in alto estendendo i gomiti."
   ]
 }

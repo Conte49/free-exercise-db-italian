@@ -1,5 +1,5 @@
 {
-  "name": "Adduzioni dell'anca con banda",
+  "name": "Band Hip Adductions",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Fissa una banda attorno a un palo solido o a un altro oggetto.",
-    "Stai con il lato sinistro rivolto verso il palo e infila il piede destro nella banda, facendola passare attorno alla caviglia.",
-    "Stai dritto e afferra il palo se necessario. Questa sarà la tua posizione di partenza.",
-    "Tenendo il ginocchio dritto, solleva la gamba destra di lato il più lontano possibile.",
-    "Torna alla posizione di partenza e ripeti per il numero di ripetizioni desiderato.",
-    "Cambia lato."
+    "Anchor a band around a solid post or other object.",
+    "Stand with your left side to the post, and put your right foot through the band, getting it around the ankle.",
+    "Stand up straight and hold onto the post if needed. This will be your starting position.",
+    "Keeping the knee straight, raise your right legs out to the side as far as you can.",
+    "Return to the starting position and repeat for the desired rep count.",
+    "Switch sides."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "En gardant le genou tendu, soulevez votre jambe droite sur les côtés aussi haut que possible.",
     "Revenez à la position de départ et répétez le nombre de répétitions souhaité.",
     "Changez de côté."
+  ],
+  "name_it": "Adduzioni dell'anca con banda",
+  "instructions_it": [
+    "Fissa una banda attorno a un palo solido o a un altro oggetto.",
+    "Stai con il lato sinistro rivolto verso il palo e infila il piede destro nella banda, facendola passare attorno alla caviglia.",
+    "Stai dritto e afferra il palo se necessario. Questa sarà la tua posizione di partenza.",
+    "Tenendo il ginocchio dritto, solleva la gamba destra di lato il più lontano possibile.",
+    "Torna alla posizione di partenza e ripeti per il numero di ripetizioni desiderato.",
+    "Cambia lato."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Curl delle dita",
+  "name": "Finger Curls",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Tieni un bilanciere con entrambe le mani e i palmi rivolti verso l'alto; mani distanziate di circa la larghezza delle spalle.",
-    "Posiziona i piedi piatti sul pavimento, a una distanza leggermente superiore alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Abbassa il bilanciere il più possibile estendendo le dita. Lascia che il bilanciere scivoli giù per le mani, afferrando il bilanciere con l'ultima articolazione delle dita.",
-    "Ora solleva il bilanciere il più in alto possibile chiudendo le mani mentre espiri. Mantieni la contrazione in cima."
+    "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
+    "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart. This will be your starting position.",
+    "Lower the bar as far as possible by extending the fingers. Allowing the bar to roll down the hands, catch the bar with the final joint in the fingers.",
+    "Now curl bar up as high as possible by closing your hands while exhaling. Hold the contraction at the top."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Placez vos pieds à plat sur le sol, à une distance légèrement plus large que la largeur des épaules. Cette position sera votre point de départ.",
     "Abaissez la barre le plus bas possible en étendant les doigts. Laissez la barre rouler sur les mains et attrapez-la avec la dernière articulation des doigts.",
     "Maintenant, soulevez la barre jusqu'à la hauteur maximale en rapprochant vos mains tout en expirant. Maintenez le contrat au sommet."
+  ],
+  "name_it": "Curl delle dita",
+  "instructions_it": [
+    "Tieni un bilanciere con entrambe le mani e i palmi rivolti verso l'alto; mani distanziate di circa la larghezza delle spalle.",
+    "Posiziona i piedi piatti sul pavimento, a una distanza leggermente superiore alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Abbassa il bilanciere il più possibile estendendo le dita. Lascia che il bilanciere scivoli giù per le mani, afferrando il bilanciere con l'ultima articolazione delle dita.",
+    "Ora solleva il bilanciere il più in alto possibile chiudendo le mani mentre espiri. Mantieni la contrazione in cima."
   ]
 }

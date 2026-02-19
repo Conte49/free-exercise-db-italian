@@ -1,5 +1,5 @@
 {
-  "name": "Alzata con manubri",
+  "name": "Dumbbell Raise",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,10 +11,10 @@
     "biceps"
   ],
   "instructions": [
-    "Afferrate un manubrio in ciascuna mano e state dritti con le braccia estese ai lati, con un leggero piegamento dei gomiti e la schiena dritta. Questa sarà la vostra posizione di partenza. Suggerimento: il manubrio dovrebbe essere accanto alle cosce con il palmo delle mani rivolto all'indietro.",
-    "Utilizzate le spalle laterali per sollevare i manubri mentre espirate. I manubri dovrebbero essere ai lati del corpo mentre li sollevate. Continuate a sollevarli fino a quando i manubri non sono quasi allineati con il vostro mento. Suggerimento: i gomiti devono guidare il movimento. Mentre sollevate il manubrio, il vostro gomito deve essere sempre più alto dell'avambraccio. Inoltre, mantenete il torso fermo e fermatevi per un secondo nella parte superiore del movimento.",
-    "Abbassate lentamente i manubri fino alla posizione di partenza. Inspirate mentre eseguite questa parte del movimento.",
-    "Ripetete per il numero raccomandato di ripetizioni."
+    "Grab a dumbbell in each arm and stand up straight with your arms extended by your sides with a slight bend at the elbows and your back straight. This will be your starting position. Tip: The dumbbell should be next to your thighs with the palm of your hands facing back.",
+    "Use your side shoulders to lift the dumbbells as you exhale. The dumbbells should be to the side of the body as you move them up. Continue to lift it until the dumbbells are nearly in line with your chin. Tip: Your elbows should drive the motion. As you lift the dumbbell, your elbow should always be higher than your forearm. Also, keep your torso stationary and pause for a second at the top of the movement.",
+    "Lower the dumbbells back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Utilisez vos épaules latérales pour soulever les haltères pendant que vous expirez. Les haltères doivent être sur le côté du corps lorsque vous les soulevez. Continuez à les soulever jusqu'à ce qu'ils soient presque alignés avec votre menton. Astuce : Ce sont vos coudés qui devraient diriger le mouvement. Lorsque vous soulevez l'haltère, votre coude devrait toujours être plus haut que votre avant-bras. De plus, gardez votre torse immobile et faites une pause pendant une seconde au sommet du mouvement.",
     "Abaissez lentement les haltères en revenant à la position de départ. Inhalez pendant que vous exécutez cette partie du mouvement.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Alzata con manubri",
+  "instructions_it": [
+    "Afferrate un manubrio in ciascuna mano e state dritti con le braccia estese ai lati, con un leggero piegamento dei gomiti e la schiena dritta. Questa sarà la vostra posizione di partenza. Suggerimento: il manubrio dovrebbe essere accanto alle cosce con il palmo delle mani rivolto all'indietro.",
+    "Utilizzate le spalle laterali per sollevare i manubri mentre espirate. I manubri dovrebbero essere ai lati del corpo mentre li sollevate. Continuate a sollevarli fino a quando i manubri non sono quasi allineati con il vostro mento. Suggerimento: i gomiti devono guidare il movimento. Mentre sollevate il manubrio, il vostro gomito deve essere sempre più alto dell'avambraccio. Inoltre, mantenete il torso fermo e fermatevi per un secondo nella parte superiore del movimento.",
+    "Abbassate lentamente i manubri fino alla posizione di partenza. Inspirate mentre eseguite questa parte del movimento.",
+    "Ripetete per il numero raccomandato di ripetizioni."
   ]
 }

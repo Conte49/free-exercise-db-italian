@@ -1,5 +1,5 @@
 {
-  "name": "Strappo con Kettlebell a Un Braccio",
+  "name": "One-Arm Kettlebell Snatch",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -16,9 +16,9 @@
     "triceps"
   ],
   "instructions": [
-    "Posiziona un kettlebell tra i tuoi piedi. Piega le ginocchia e spingi indietro i fianchi per assumere la posizione di partenza corretta.",
-    "Guarda dritto davanti a te e fai oscillare il kettlebell indietro tra le gambe.",
-    "Inverti immediatamente la direzione e spingi con i fianchi e le ginocchia, accelerando il kettlebell verso l'alto. Man mano che il kettlebell sale fino alla spalla, ruota la mano e spingi verso l'alto, usando l'inerzia per ricevere il peso bloccato sopra la testa."
+    "Place a kettlebell between your feet. Bend your knees and push your butt back to get in the proper starting position.",
+    "Look straight ahead and swing the kettlebell back between your legs.",
+    "Immediately reverse the direction and drive through with your hips and knees, accelerating the kettlebell upward. As the kettlebell rises to your shoulder rotate your hand and punch straight up, using momentum to receive the weight locked out overhead."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,11 @@
     "Placez une kettlebell entre vos pieds. Fléchissez les genoux et poussez votre fessier vers l'arrière pour prendre la position de départ appropriée.",
     "Regardez droit devant vous et balancerez la kettlebell vers l'arrière entre vos jambes.",
     "Inversez immédiatement la direction et propulsez-vous avec vos hanches et vos genoux, en accélérant le kettlebell vers le haut. Alors que le kettlebell monte à votre épaule, faites pivoter votre main et frappez droit vers le haut, en utilisant de l'élan pour recevoir le poids verrouillé au-dessus."
+  ],
+  "name_it": "Strappo con Kettlebell a Un Braccio",
+  "instructions_it": [
+    "Posiziona un kettlebell tra i tuoi piedi. Piega le ginocchia e spingi indietro i fianchi per assumere la posizione di partenza corretta.",
+    "Guarda dritto davanti a te e fai oscillare il kettlebell indietro tra le gambe.",
+    "Inverti immediatamente la direzione e spingi con i fianchi e le ginocchia, accelerando il kettlebell verso l'alto. Man mano che il kettlebell sale fino alla spalla, ruota la mano e spingi verso l'alto, usando l'inerzia per ricevere il peso bloccato sopra la testa."
   ]
 }

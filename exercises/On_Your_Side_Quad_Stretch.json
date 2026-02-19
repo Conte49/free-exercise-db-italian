@@ -1,5 +1,5 @@
 {
-  "name": "Stretching del Quadricipite da Lato",
+  "name": "On Your Side Quad Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia sdraiandoti sul lato destro, con il ginocchio destro piegato a un angolo di 90 gradi appoggiato a terra di fronte a te (questo stabilizza il torso).",
-    "Piega il ginocchio sinistro dietro di te e afferra il piede sinistro con la mano sinistra. Per allungare il flessore dell'anca, spingi l'anca sinistra in avanti mentre spingi il piede sinistro indietro nella mano. Cambia lato."
+    "Start off by lying on your right side, with your right knee bent at a 90-degree angle resting on the floor in front of you (this stabilizes the torso).",
+    "Bend your left knee behind you and hold your left foot with your left hand. To stretch your hip flexor, press your left hip forward as you push your left foot back into your hand. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Commencez par vous allonger sur votre côté droit, avec le genou droit plié à un angle de 90 degrés et reposant sur le sol devant vous (cela stabilise le torse).",
     "Pliez votre genou gauche derrière vous et tenez votre pied gauche avec votre main gauche. Pour étirer votre psoas iliaque, poussez votre hanche gauche vers l'avant tout en poussant votre pied gauche vers l'arrière dans votre main. Alternez les côtés."
+  ],
+  "name_it": "Stretching del Quadricipite da Lato",
+  "instructions_it": [
+    "Inizia sdraiandoti sul lato destro, con il ginocchio destro piegato a un angolo di 90 gradi appoggiato a terra di fronte a te (questo stabilizza il torso).",
+    "Piega il ginocchio sinistro dietro di te e afferra il piede sinistro con la mano sinistra. Per allungare il flessore dell'anca, spingi l'anca sinistra in avanti mentre spingi il piede sinistro indietro nella mano. Cambia lato."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Adduzione dell'anca con cavo",
+  "name": "Cable Hip Adduction",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,13 +9,13 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi di fronte a un puleggia bassa, rivolto in avanti, con una gamba accanto al puleggia e l'altra allontanata.",
-    "Attacca il polsino alla caviglia al cavo e anche alla caviglia della gamba che è accanto al puleggia.",
-    "Ora fai un passo in fuori e lontano dal peso con una posizione ampia e afferra la barra del sistema di pulegge.",
-    "Stai in piedi sulla gamba che non ha il polsino alla caviglia (la gamba lontana) e lascia che la gamba con il polsino venga tirata verso il puleggia bassa. Questa sarà la tua posizione di partenza.",
-    "Ora esegui il movimento spostando la gamba con il polsino davanti alla gamba lontana usando le cosce interne per abdurre l'anca. Espira durante questa parte del movimento.",
-    "Ritorna lentamente alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni e poi ripeti lo stesso movimento con l'altra gamba."
+    "Stand in front of a low pulley facing forward with one leg next to the pulley and the other one away.",
+    "Attach the ankle cuff to the cable and also to the ankle of the leg that is next to the pulley.",
+    "Now step out and away from the stack with a wide stance and grasp the bar of the pulley system.",
+    "Stand on the foot that does not have the ankle cuff (the far foot) and allow the leg with the cuff to be pulled towards the low pulley. This will be your starting position.",
+    "Now perform the movement by moving the leg with the ankle cuff in front of the far leg by using the inner thighs to abduct the hip. Breathe out during this portion of the movement.",
+    "Slowly return to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions and then repeat the same movement with the opposite leg."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,15 @@
     "Exécutez maintenant le mouvement en déplaçant la jambe avec le mollet devant la jambe éloignée en utilisant les faces internes des cuisses pour écarter l'hip. Respirez pendant cette partie du mouvement.",
     "Retournez lentement à la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé, puis répétez le même mouvement avec la jambe opposée."
+  ],
+  "name_it": "Adduzione dell'anca con cavo",
+  "instructions_it": [
+    "Stai in piedi di fronte a un puleggia bassa, rivolto in avanti, con una gamba accanto al puleggia e l'altra allontanata.",
+    "Attacca il polsino alla caviglia al cavo e anche alla caviglia della gamba che è accanto al puleggia.",
+    "Ora fai un passo in fuori e lontano dal peso con una posizione ampia e afferra la barra del sistema di pulegge.",
+    "Stai in piedi sulla gamba che non ha il polsino alla caviglia (la gamba lontana) e lascia che la gamba con il polsino venga tirata verso il puleggia bassa. Questa sarà la tua posizione di partenza.",
+    "Ora esegui il movimento spostando la gamba con il polsino davanti alla gamba lontana usando le cosce interne per abdurre l'anca. Espira durante questa parte del movimento.",
+    "Ritorna lentamente alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni e poi ripeti lo stesso movimento con l'altra gamba."
   ]
 }

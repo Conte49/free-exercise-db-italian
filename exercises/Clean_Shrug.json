@@ -1,5 +1,5 @@
 {
-  "name": "Pullover con Bilanciere",
+  "name": "Clean Shrug",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,8 +12,8 @@
     "shoulders"
   ],
   "instructions": [
-    "Inizia con una presa doppia sopra la larghezza delle spalle, con il bilanciere che pende all'altezza della coscia centrale. La schiena deve essere dritta e leggermente inclinata in avanti.",
-    "Sollevare le spalle verso le orecchie. Anche se questo esercizio può generalmente essere eseguito con pesi più pesanti rispetto a un clean, evita di sovraccaricare al punto che l'esecuzione rallenti."
+    "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
+    "Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a clean, avoid overloading to the point that the execution slows down."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Commencez avec une prise à la largeur des épaules, en double poignée ou en crochet, la barre suspendue au niveau de la cuisse. Le dos doit être droit et légèrement incliné vers l'avant.",
     "Montez vos épaules vers vos oreilles. Bien que cet exercice puisse généralement être chargé avec un poids plus lourd qu'un épaulé, évitez de surcharger au point d' ralentir l'exécution."
+  ],
+  "name_it": "Pullover con Bilanciere",
+  "instructions_it": [
+    "Inizia con una presa doppia sopra la larghezza delle spalle, con il bilanciere che pende all'altezza della coscia centrale. La schiena deve essere dritta e leggermente inclinata in avanti.",
+    "Sollevare le spalle verso le orecchie. Anche se questo esercizio può generalmente essere eseguito con pesi più pesanti rispetto a un clean, evita di sovraccaricare al punto che l'esecuzione rallenti."
   ]
 }

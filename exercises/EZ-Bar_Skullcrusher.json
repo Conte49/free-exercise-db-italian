@@ -1,5 +1,5 @@
 {
-  "name": "Skullcrusher con EZ-Bar",
+  "name": "EZ-Bar Skullcrusher",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "forearms"
   ],
   "instructions": [
-    "Utilizzando una presa stretta, solleva l'EZ bar e tienila con i gomiti vicini al corpo mentre sei sdraiato sulla panca. Le braccia dovrebbero essere perpendicolari al pavimento. Questa sarà la tua posizione di partenza.",
-    "Mantenendo i gomiti fissi, abbassa la barra flettendo i gomiti. Inspira mentre esegui questa parte del movimento. Fai una pausa quando la barra è direttamente sopra la fronte.",
-    "Solleva la barra di nuovo alla posizione di partenza estendendo il gomito ed espirando.",
-    "Ripeti."
+    "Using a close grip, lift the EZ bar and hold it with your elbows in as you lie on the bench. Your arms should be perpendicular to the floor. This will be your starting position.",
+    "Keeping the upper arms stationary, lower the bar by allowing the elbows to flex. Inhale as you perform this portion of the movement. Pause once the bar is directly above the forehead.",
+    "Lift the bar back to the starting position by extending the elbow and exhaling.",
+    "Repeat."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "En gardant les bras supérieurs stationnaires, baissez la barre en laissant les coudes se fléchir. Inspirez pendant cette partie du mouvement. Faites une pause lorsque la barre est directement au-dessus du front.",
     "Remettez la barre en place en étendant le coude et en expirant.",
     "Répéter."
+  ],
+  "name_it": "Skullcrusher con EZ-Bar",
+  "instructions_it": [
+    "Utilizzando una presa stretta, solleva l'EZ bar e tienila con i gomiti vicini al corpo mentre sei sdraiato sulla panca. Le braccia dovrebbero essere perpendicolari al pavimento. Questa sarà la tua posizione di partenza.",
+    "Mantenendo i gomiti fissi, abbassa la barra flettendo i gomiti. Inspira mentre esegui questa parte del movimento. Fai una pausa quando la barra è direttamente sopra la fronte.",
+    "Solleva la barra di nuovo alla posizione di partenza estendendo il gomito ed espirando.",
+    "Ripeti."
   ]
 }

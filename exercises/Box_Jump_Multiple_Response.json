@@ -1,5 +1,5 @@
 {
-  "name": "Salto sul Box (Risposta Multipla)",
+  "name": "Box Jump (Multiple Response)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,10 +15,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Assumi una posizione rilassata di fronte al box o alla piattaforma, a una distanza di circa un braccio.",
-    "Le braccia devono essere lungo i fianchi e le gambe leggermente piegate.",
-    "Utilizzando le braccia per aiutare nella spinta iniziale, salta verso l'alto e in avanti, atterrando con i piedi simultaneamente sulla parte superiore del box o della piattaforma.",
-    "Subito dopo, scendi o salta indietro nel punto di partenza originale; quindi ripeti la sequenza."
+    "Assume a relaxed stance facing the box or platform approximately an arm's length away. Arms should be down at the sides and legs slightly bent.",
+    "Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.",
+    "Immediately drop or jump back down to the original starting place; then repeat the sequence."
   ],
   "category": "plyometrics",
   "images": [
@@ -30,5 +29,12 @@
     "Prenez une position détendue face à la boîte ou à la plateforme, à environ la longueur d'un bras de celle-ci. Les bras doivent être abaissés le long du corps et les jambes légèrement fléchies.",
     "En utilisant les bras pour aider dans le premier burst, sauter vers le haut et vers l'avant, en atterrissant avec les pieds simultanément sur le dessus de la boîte ou de la plateforme.",
     "Descendez immédiatement ou sautez à l'endroit de départ d'origine ; puis répétez la séquence."
+  ],
+  "name_it": "Salto sul Box (Risposta Multipla)",
+  "instructions_it": [
+    "Assumi una posizione rilassata di fronte al box o alla piattaforma, a una distanza di circa un braccio.",
+    "Le braccia devono essere lungo i fianchi e le gambe leggermente piegate.",
+    "Utilizzando le braccia per aiutare nella spinta iniziale, salta verso l'alto e in avanti, atterrando con i piedi simultaneamente sulla parte superiore del box o della piattaforma.",
+    "Subito dopo, scendi o salta indietro nel punto di partenza originale; quindi ripeti la sequenza."
   ]
 }

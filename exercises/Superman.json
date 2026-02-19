@@ -12,10 +12,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per iniziare, sdraiati dritto e a faccia in giù sul pavimento o sul tappetino da esercizio. Le tue braccia dovrebbero essere completamente estese davanti a te. Questa è la posizione di partenza.",
-    "Sollevare contemporaneamente le braccia, le gambe e il torace da terra e mantenere questa contrazione per 2 secondi. Suggerimento: stringi la parte bassa della schiena per ottenere i migliori risultati da questo esercizio. Ricorda di espirare durante questo movimento. Nota: quando mantieni la posizione contratta, dovresti sembrare Superman mentre vola.",
-    "Inizia a abbassare lentamente le braccia, le gambe e il torace tornando alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni prescritte nel tuo programma."
+    "To begin, lie straight and face down on the floor or exercise mat. Your arms should be fully extended in front of you. This is the starting position.",
+    "Simultaneously raise your arms, legs, and chest off of the floor and hold this contraction for 2 seconds. Tip: Squeeze your lower back to get the best results from this exercise. Remember to exhale during this movement. Note: When holding the contracted position, you should look like superman when he is flying.",
+    "Slowly begin to lower your arms, legs and chest back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "stretching",
   "images": [
@@ -28,5 +28,12 @@
     "Simultanément, soulevez vos bras, vos jambes et votre poitrine du sol et maintenez cette contraction pendant 2 secondes. Conseils : contractez votre bas du dos pour obtenir les meilleurs résultats de cet exercice. N'oubliez pas d'expirer pendant ce mouvement. Note : lorsque vous tenez la position contractée, vous devez ressembler à Superman lorsqu'il vole.",
     "Commencez lentement à baisser les bras, les jambes et la poitrine jusqu'à la position de départ tout en inspirant.",
     "Répétez pour le nombre de répétitions recommandé prescrit dans votre programme."
+  ],
+  "name_it": "Superman",
+  "instructions_it": [
+    "Per iniziare, sdraiati dritto e a faccia in giù sul pavimento o sul tappetino da esercizio. Le tue braccia dovrebbero essere completamente estese davanti a te. Questa è la posizione di partenza.",
+    "Sollevare contemporaneamente le braccia, le gambe e il torace da terra e mantenere questa contrazione per 2 secondi. Suggerimento: stringi la parte bassa della schiena per ottenere i migliori risultati da questo esercizio. Ricorda di espirare durante questo movimento. Nota: quando mantieni la posizione contratta, dovresti sembrare Superman mentre vola.",
+    "Inizia a abbassare lentamente le braccia, le gambe e il torace tornando alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni prescritte nel tuo programma."
   ]
 }

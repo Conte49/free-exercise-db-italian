@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dei tricipiti con bilanciere a presa stretta sdraiati dietro la testa",
+  "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Tenendo un bilanciere o un bilanciere EZ con una presa prona (palmi rivolti in avanti), sdraiati sulla schiena su una panca piatta con la testa vicina all'estremità della panca. Suggerimento: Se stai usando un bilanciere, afferralo con una presa larga quanto le spalle; se stai usando un bilanciere EZ, afferralo sulle impugnature interne.",
-    "Estendi le braccia di fronte a te e porta lentamente il bilanciere indietro in un movimento semicircolare (mantenendo le braccia estese) fino a una posizione sopra la testa. Alla fine di questo passaggio, le tue braccia dovrebbero essere sopra la testa e parallele al pavimento. Questa sarà la tua posizione di partenza. Suggerimento: Tieni i gomiti sempre vicini al corpo.",
-    "Mentre inspiri, abbassa il bilanciere piegando i gomiti e mantenendo il braccio superiore fermo. Continua ad abbassare il bilanciere fino a quando gli avambracci non sono perpendicolari al pavimento.",
-    "Mentre espiri, riporta il bilanciere alla posizione di partenza spingendo il bilanciere verso l'alto in un movimento semicircolare fino a quando anche gli avambracci non sono paralleli al pavimento. Contrai i tricipiti con forza nella parte superiore del movimento per un secondo. Suggerimento: Ancora una volta, solo gli avambracci dovrebbero muoversi. I bracci superiori devono rimanere fermi in ogni momento.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head close to the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.",
+    "Extend your arms in front of you and slowly bring the bar back in a semi circular motion (while keeping the arms extended) to a position over your head. At the end of this step your arms should be overhead and parallel to the floor. This will be your starting position. Tip: Keep your elbows in at all times.",
+    "As you inhale, lower the bar by bending at the elbows and while keeping the upper arm stationary. Keep lowering the bar until your forearms are perpendicular to the floor.",
+    "As you exhale bring the bar back up to the starting position by pushing the bar up in a semi-circular motion until the lower arms are also parallel to the floor. Contract the triceps hard at the top of the movement for a second. Tip: Again, only the forearms should move. The upper arms should remain stationary at all times.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "En inspirant, abaissez la barre en fléchissant les coudes et en gardant le bras supérieur immobile. Continuez à baisser la barre jusqu'à ce que vos avant-bras soient perpendiculaires au sol.",
     "En expirant, ramenez la barre à sa position de départ en la poussant vers le haut selon un mouvement semi-circulaire jusqu'à ce que les avant-bras soient également parallèles au sol. Contractez durement les triceps au sommet du mouvement pendant une seconde. Astuce : à nouveau, seuls les avant-bras doivent bouger. Les bras supérieurs doivent rester fixes en tout temps.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Estensione dei tricipiti con bilanciere a presa stretta sdraiati dietro la testa",
+  "instructions_it": [
+    "Tenendo un bilanciere o un bilanciere EZ con una presa prona (palmi rivolti in avanti), sdraiati sulla schiena su una panca piatta con la testa vicina all'estremità della panca. Suggerimento: Se stai usando un bilanciere, afferralo con una presa larga quanto le spalle; se stai usando un bilanciere EZ, afferralo sulle impugnature interne.",
+    "Estendi le braccia di fronte a te e porta lentamente il bilanciere indietro in un movimento semicircolare (mantenendo le braccia estese) fino a una posizione sopra la testa. Alla fine di questo passaggio, le tue braccia dovrebbero essere sopra la testa e parallele al pavimento. Questa sarà la tua posizione di partenza. Suggerimento: Tieni i gomiti sempre vicini al corpo.",
+    "Mentre inspiri, abbassa il bilanciere piegando i gomiti e mantenendo il braccio superiore fermo. Continua ad abbassare il bilanciere fino a quando gli avambracci non sono perpendicolari al pavimento.",
+    "Mentre espiri, riporta il bilanciere alla posizione di partenza spingendo il bilanciere verso l'alto in un movimento semicircolare fino a quando anche gli avambracci non sono paralleli al pavimento. Contrai i tricipiti con forza nella parte superiore del movimento per un secondo. Suggerimento: Ancora una volta, solo gli avambracci dovrebbero muoversi. I bracci superiori devono rimanere fermi in ogni momento.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

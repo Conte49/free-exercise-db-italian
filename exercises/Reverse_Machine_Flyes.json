@@ -1,5 +1,5 @@
 {
-  "name": "Aperture inversa con macchina",
+  "name": "Reverse Machine Flyes",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Regola le maniglie in modo che siano completamente indietro. Scegli un peso appropriato e regola l'altezza del sedile in modo che le maniglie siano all'altezza delle spalle. Afferra le maniglie con le mani rivolte verso l'interno. Questa sarà la tua posizione di partenza.",
-    "In un movimento semicircolare, tira le mani verso il lato e indietro, contraendo i deltoidi posteriori.",
-    "Mantieni le braccia leggermente piegate durante tutto il movimento, con tutto il movimento che avviene all'articolazione della spalla.",
-    "Fermati nella parte posteriore del movimento e ritorna lentamente il peso alla posizione di partenza."
+    "Adjust the handles so that they are fully to the rear. Make an appropriate weight selection and adjust the seat height so the handles are at shoulder level. Grasp the handles with your hands facing inwards. This will be your starting position.",
+    "In a semicircular motion, pull your hands out to your side and back, contracting your rear delts.",
+    "Keep your arms slightly bent throughout the movement, with all of the motion occurring at the shoulder joint.",
+    "Pause at the rear of the movement, and slowly return the weight to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Dans un mouvement semi-circulaire, éloignez vos mains vers les côtés et vers l'arrière, en contractant vos deltoïdes postérieurs.",
     "Gardez vos bras légèrement fléchis tout au long du mouvement, toute la mobilité se situant au niveau de l'articulation de l'épaule.",
     "Arrêtez-vous à l'arrière du mouvement et ramenez lentement le poids à la position de départ."
+  ],
+  "name_it": "Aperture inversa con macchina",
+  "instructions_it": [
+    "Regola le maniglie in modo che siano completamente indietro. Scegli un peso appropriato e regola l'altezza del sedile in modo che le maniglie siano all'altezza delle spalle. Afferra le maniglie con le mani rivolte verso l'interno. Questa sarà la tua posizione di partenza.",
+    "In un movimento semicircolare, tira le mani verso il lato e indietro, contraendo i deltoidi posteriori.",
+    "Mantieni le braccia leggermente piegate durante tutto il movimento, con tutto il movimento che avviene all'articolazione della spalla.",
+    "Fermati nella parte posteriore del movimento e ritorna lentamente il peso alla posizione di partenza."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con bilanciere camberato da sdraiati",
+  "name": "Lying Cambered Barbell Row",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,10 +13,10 @@
     "traps"
   ],
   "instructions": [
-    "Posiziona un bilanciere camberato sotto una panca per esercizi.",
-    "Sdraiati a faccia in giù sulla panca e afferra il bilanciere con una presa a palmi in giù (presa prona) più ampia della larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Mentre espiri, tira su il bilanciere mantenendo i gomiti vicini al corpo fino al petto, per mirare alla parte superiore della schiena centrale, o fino allo stomaco se il tuo obiettivo è colpire i dorsali.",
-    "Dopo un secondo di pausa in cima, abbassa lentamente il bilanciere fino alla posizione di partenza mentre inspiri."
+    "Place a cambered bar underneath an exercise bench.",
+    "Lie face down on the exercise bench and grab the bar using a palms down (pronated grip) that is wider than shoulder width. This will be your starting position.",
+    "As you exhale row the bar up as you keep the elbows close to your body to either your chest, in order to target the upper mid back, or to your stomach if targeting the lats is your goal.",
+    "After a second hold at the top, lower back down to the starting position slowly as you inhale."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Allongez-vous face contre le banc d'exercice et attrapez la barre en utilisant une poignée prononçée (des paumes vers le bas) qui est plus large que la largeur des épaules. Cette position sera votre point de départ.",
     "En expirant, ramenez la barre vers votre poitrine en gardant les coudes près de votre corps pour cibler le milieu du dos supérieur, ou vers votre ventre si vous visez les grands dorsaux.",
     "Après une seconde de maintien en haut, redescendez lentement à la position de départ en inspirant."
+  ],
+  "name_it": "Rematore con bilanciere camberato da sdraiati",
+  "instructions_it": [
+    "Posiziona un bilanciere camberato sotto una panca per esercizi.",
+    "Sdraiati a faccia in giù sulla panca e afferra il bilanciere con una presa a palmi in giù (presa prona) più ampia della larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, tira su il bilanciere mantenendo i gomiti vicini al corpo fino al petto, per mirare alla parte superiore della schiena centrale, o fino allo stomaco se il tuo obiettivo è colpire i dorsali.",
+    "Dopo un secondo di pausa in cima, abbassa lentamente il bilanciere fino alla posizione di partenza mentre inspiri."
   ]
 }

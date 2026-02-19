@@ -1,5 +1,5 @@
 {
-  "name": "Press con Kettlebell a Pendolo",
+  "name": "Kettlebell Seesaw Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,9 +11,9 @@
     "triceps"
   ],
   "instructions": [
-    "Pulisci due kettlebell fino alle spalle.",
-    "Spingi un kettlebell verso l'alto.",
-    "Abbassa il kettlebell e spingi immediatamente l'altro kettlebell. Assicurati di fare lo stesso numero di ripetizioni su entrambi i lati."
+    "Clean two kettlebells two your shoulders.",
+    "Press one kettlebell.",
+    "Lower the kettlebell and immediately press the other kettlebell. Make sure to do the same amount of reps on both sides."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,11 @@
     "Épaulez deux kettlebells jusqu'à vos épaules.",
     "Presse une kettlebell.",
     "Abaissez la kettlebell et appuyez immédiatement sur l'autre kettlebell. Assurez-vous d'effectuer le même nombre de répétitions des deux côtés."
+  ],
+  "name_it": "Press con Kettlebell a Pendolo",
+  "instructions_it": [
+    "Pulisci due kettlebell fino alle spalle.",
+    "Spingi un kettlebell verso l'alto.",
+    "Abbassa il kettlebell e spingi immediatamente l'altro kettlebell. Assicurati di fare lo stesso numero di ripetizioni su entrambi i lati."
   ]
 }

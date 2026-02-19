@@ -1,5 +1,5 @@
 {
-  "name": "Affondo in Camminata con Bilanciere",
+  "name": "Barbell Walking Lunge",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Inizia in piedi con i piedi alla larghezza delle spalle e un bilanciere appoggiato sulla parte superiore della schiena.",
-    "Fai un passo in avanti con una gamba, piegando le ginocchia per abbassare i fianchi. Scendi finché il ginocchio posteriore non tocca quasi il terreno. La tua postura deve rimanere eretta e il ginocchio anteriore deve rimanere sopra il piede anteriore.",
-    "Spingi attraverso il tallone del piede in avanti ed estendi entrambe le ginocchia per sollevarti di nuovo.",
-    "Fai un passo in avanti con il piede posteriore, ripetendo l'affondo con l'altra gamba."
+    "Begin standing with your feet shoulder width apart and a barbell across your upper back.",
+    "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
+    "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
+    "Step forward with your rear foot, repeating the lunge on the opposite leg."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Avancez un pied en avant, fléchissez les genoux pour baisser les hanches. Descendez jusqu'à ce que votre genou arrière frôle le sol. Votre posture doit rester droite, et votre genou avant doit rester au-dessus de votre pied avant.",
     "Faites pivoter votre corps vers l'avant en appuyant sur le talon de votre pied d'appui et en étendant les deux genoux pour vous relever.",
     "Avancez avec le pied arrière, en répétant la fente sur la jambe opposée."
+  ],
+  "name_it": "Affondo in Camminata con Bilanciere",
+  "instructions_it": [
+    "Inizia in piedi con i piedi alla larghezza delle spalle e un bilanciere appoggiato sulla parte superiore della schiena.",
+    "Fai un passo in avanti con una gamba, piegando le ginocchia per abbassare i fianchi. Scendi finché il ginocchio posteriore non tocca quasi il terreno. La tua postura deve rimanere eretta e il ginocchio anteriore deve rimanere sopra il piede anteriore.",
+    "Spingi attraverso il tallone del piede in avanti ed estendi entrambe le ginocchia per sollevarti di nuovo.",
+    "Fai un passo in avanti con il piede posteriore, ripetendo l'affondo con l'altra gamba."
   ]
 }

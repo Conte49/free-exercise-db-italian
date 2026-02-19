@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dei Tricipiti con Manubri",
+  "name": "Tricep Dumbbell Kickback",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia con un manubrio in ciascuna mano e i palmi rivolti verso il torso. Tieni la schiena dritta con una leggera flessione delle ginocchia e piegati in avanti all'altezza della vita. Il tuo torso dovrebbe essere quasi parallelo al pavimento. Assicurati di tenere la testa alta. Le braccia superiori dovrebbero essere vicine al torso e parallele al pavimento. Gli avambracci dovrebbero essere rivolti verso il pavimento mentre tieni i pesi. Dovrebbe formarsi un angolo di 90 gradi tra l'avambraccio e il braccio superiore. Questa è la tua posizione di partenza.",
-    "Ora, mantenendo le braccia superiori ferme, espira e utilizza i tricipiti per sollevare i pesi fino a quando il braccio è completamente esteso. Concentrati sul movimento dell'avambraccio.",
-    "Dopo una breve pausa nella contrazione massima, inspira e abbassa lentamente i manubri fino alla posizione di partenza.",
-    "Ripeti il movimento per il numero di ripetizioni prescritto."
+    "Start with a dumbbell in each hand and your palms facing your torso. Keep your back straight with a slight bend in the knees and bend forward at the waist. Your torso should be almost parallel to the floor. Make sure to keep your head up. Your upper arms should be close to your torso and parallel to the floor. Your forearms should be pointed towards the floor as you hold the weights. There should be a 90-degree angle formed between your forearm and upper arm. This is your starting position.",
+    "Now, while keeping your upper arms stationary, exhale and use your triceps to lift the weights until the arm is fully extended. Focus on moving the forearm.",
+    "After a brief pause at the top contraction, inhale and slowly lower the dumbbells back down to the starting position.",
+    "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Maintenant, tout en gardant vos bras supérieurs stationnaires, expirez et utilisez vos triceps pour soulever les poids jusqu'à ce que le bras soit complètement tendu. Concentrez-vous sur le mouvement du avant-bras.",
     "Après une brève pause à la contraction maximale, inspirez et abaissez lentement les haltères jusqu'à la position de départ.",
     "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ],
+  "name_it": "Estensione dei Tricipiti con Manubri",
+  "instructions_it": [
+    "Inizia con un manubrio in ciascuna mano e i palmi rivolti verso il torso. Tieni la schiena dritta con una leggera flessione delle ginocchia e piegati in avanti all'altezza della vita. Il tuo torso dovrebbe essere quasi parallelo al pavimento. Assicurati di tenere la testa alta. Le braccia superiori dovrebbero essere vicine al torso e parallele al pavimento. Gli avambracci dovrebbero essere rivolti verso il pavimento mentre tieni i pesi. Dovrebbe formarsi un angolo di 90 gradi tra l'avambraccio e il braccio superiore. Questa è la tua posizione di partenza.",
+    "Ora, mantenendo le braccia superiori ferme, espira e utilizza i tricipiti per sollevare i pesi fino a quando il braccio è completamente esteso. Concentrati sul movimento dell'avambraccio.",
+    "Dopo una breve pausa nella contrazione massima, inspira e abbassa lentamente i manubri fino alla posizione di partenza.",
+    "Ripeti il movimento per il numero di ripetizioni prescritto."
   ]
 }

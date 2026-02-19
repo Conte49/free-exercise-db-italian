@@ -1,5 +1,5 @@
 {
-  "name": "Salto a forbice",
+  "name": "Scissors Jump",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Assumi una posizione di affondo con un piede in avanti e il ginocchio piegato, mentre il ginocchio posteriore è quasi a contatto con il terreno.",
-    "Assicurati che il ginocchio anteriore sia sopra la linea mediana del piede. Estendendo entrambe le gambe, salta il più in alto possibile, muovendo le braccia per guadagnare slancio.",
-    "Mentre salti il più in alto possibile, cambia la posizione delle gambe, portando la gamba anteriore dietro e la gamba posteriore davanti.",
-    "All'atterraggio, assorbi l'impatto attraverso le gambe adottando la posizione di affondo e ripeti."
+    "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
+    "Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
+    "As you jump as high as you can, switch the position of your legs, moving your front leg to the back and the rear leg to the front.",
+    "As you land, absorb the impact through the legs by adopting the lunge position, and repeat."
   ],
   "category": "plyometrics",
   "images": [
@@ -28,5 +28,12 @@
     "Assurez-vous que le genou avant est au-dessus de la ligne médiane du pied. Étendez les deux jambes, sautez aussi haut que possible en balançant les bras pour obtenir une hauteur maximale.",
     "Lorsque vous sautez aussi haut que vous le pouvez, changez la position de vos jambes, en déplaçant votre jambe avant vers l'arrière et votre jambe arrière vers l'avant.",
     "À l'atterrissage, absorbez l'impact par les jambes en prenant une posture de lunge, et répétez l'action."
+  ],
+  "name_it": "Salto a forbice",
+  "instructions_it": [
+    "Assumi una posizione di affondo con un piede in avanti e il ginocchio piegato, mentre il ginocchio posteriore è quasi a contatto con il terreno.",
+    "Assicurati che il ginocchio anteriore sia sopra la linea mediana del piede. Estendendo entrambe le gambe, salta il più in alto possibile, muovendo le braccia per guadagnare slancio.",
+    "Mentre salti il più in alto possibile, cambia la posizione delle gambe, portando la gamba anteriore dietro e la gamba posteriore davanti.",
+    "All'atterraggio, assorbi l'impatto attraverso le gambe adottando la posizione di affondo e ripeti."
   ]
 }

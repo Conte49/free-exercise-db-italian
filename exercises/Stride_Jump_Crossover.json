@@ -1,5 +1,5 @@
 {
-  "name": "Salto Incrociato",
+  "name": "Stride Jump Crossover",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,10 +14,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Stai di lato a una scatola con il piede interno sopra di essa, vicino al bordo.",
-    "Inizia oscillando le braccia verso l'alto mentre spingi attraverso la gamba superiore, saltando verso l'alto il più in alto possibile. Cerca di sollevare il ginocchio opposto.",
-    "Atterra nella posizione opposta da quella in cui sei partito, dall'altro lato della scatola. Il piede che era inizialmente sulla scatola ora sarà a terra, con l'altro piede ora sulla scatola.",
-    "Ripeti il movimento, incrociando di nuovo dall'altra parte."
+    "Stand to the side of a box with your inside foot on top of it, close to the edge.",
+    "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
+    "Land in the opposite position that you started, on the opposite side of the box. The foot that was initially on the box will now be on the ground, with the opposite foot now on the box.",
+    "Repeat the movement, crossing back over to the other side."
   ],
   "category": "plyometrics",
   "images": [
@@ -30,5 +30,12 @@
     "Commencez par balancer les bras vers le haut en poussant sur la jambe supérieure, en sautant aussi haut que possible. Essayez de remonter le genou opposé.",
     "Atterrissez dans la position opposée à celle où vous avez commencé, sur le côté opposé de la boîte. Le pied qui était initialement sur la boîte sera maintenant à terre, tandis que l'autre pied se trouvera désormais sur la boîte.",
     "Répétez le mouvement en croisant de nouveau vers l'autre côté."
+  ],
+  "name_it": "Salto Incrociato",
+  "instructions_it": [
+    "Stai di lato a una scatola con il piede interno sopra di essa, vicino al bordo.",
+    "Inizia oscillando le braccia verso l'alto mentre spingi attraverso la gamba superiore, saltando verso l'alto il più in alto possibile. Cerca di sollevare il ginocchio opposto.",
+    "Atterra nella posizione opposta da quella in cui sei partito, dall'altro lato della scatola. Il piede che era inizialmente sulla scatola ora sarà a terra, con l'altro piede ora sulla scatola.",
+    "Ripeti il movimento, incrociando di nuovo dall'altra parte."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Panca a terra con kettlebell",
+  "name": "Leg-Over Floor Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati sul pavimento con un kettlebell posizionato sul petto, tenendolo per il manico. Estendi la gamba sul lato di lavoro sopra la gamba sul lato non lavorante. Il tuo braccio libero può essere esteso di lato per supporto.",
-    "Spingi il kettlebell in una posizione bloccata.",
-    "Abbassa il peso finché il gomito non tocca il suolo, mantenendo il kettlebell sopra il gomito. Ripeti per il numero desiderato di ripetizioni."
+    "Lie on the floor with one kettlebell in place on your chest, holding it by the handle. Extend leg on working side over leg on non-working side.Your free arm can be extended out to your side for support.",
+    "Press the kettlebll into a locked out position.",
+    "Lower the weight until the elbow touches the ground, keeping the kettlebell above the elbow. Repeat for the desired number of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "Allongez-vous sur le sol avec une kettlebell posée sur votre poitrine, en la tenant par la poignée. Étendez la jambe du côté de travail au-dessus de la jambe du côté non travaillant. Votre bras libre peut être étendu sur le côté pour vous soutenir.",
     "Presse la kettlebell dans une position verrouillée.",
     "Baissez le poids jusqu'à ce que le coude touche le sol, en gardant la kettlebell au-dessus du coude. Répétez le nombre de répétitions souhaité."
+  ],
+  "name_it": "Panca a terra con kettlebell",
+  "instructions_it": [
+    "Sdraiati sul pavimento con un kettlebell posizionato sul petto, tenendolo per il manico. Estendi la gamba sul lato di lavoro sopra la gamba sul lato non lavorante. Il tuo braccio libero può essere esteso di lato per supporto.",
+    "Spingi il kettlebell in una posizione bloccata.",
+    "Abbassa il peso finché il gomito non tocca il suolo, mantenendo il kettlebell sopra il gomito. Ripeti per il numero desiderato di ripetizioni."
   ]
 }

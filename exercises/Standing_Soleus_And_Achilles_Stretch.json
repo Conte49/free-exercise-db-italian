@@ -1,5 +1,5 @@
 {
-  "name": "Stretching del Soleo e di Achille in Piedi",
+  "name": "Standing Soleus And Achilles Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi con i piedi alla distanza delle anche, un piede leggermente davanti all'altro.",
-    "Piegati su entrambe le ginocchia, mantenendo il tallone posteriore a terra. Cambia lato."
+    "Stand with your feet hip-distance apart, one foot slightly in front of the other.",
+    "Bend both knees, keeping your back heel on the floor. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Debout, les pieds à la largeur des hanches, un pied légèrement devant l'autre.",
     "Pliez les deux genoux tout en gardant le talon de votre dos au sol. Alternez d'un côté à l'autre."
+  ],
+  "name_it": "Stretching del Soleo e di Achille in Piedi",
+  "instructions_it": [
+    "Stai in piedi con i piedi alla distanza delle anche, un piede leggermente davanti all'altro.",
+    "Piegati su entrambe le ginocchia, mantenendo il tallone posteriore a terra. Cambia lato."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Serie Artiglio in Movimento",
+  "name": "Moving Claw Series",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Questo movimento aiuta a preparare la tua forma di corsa per eccellere negli sprint. Mentre corri, assicurati di flettere il ginocchio, cercando di colpire i glutei mentre l'anca si estende.",
-    "Ricarica il quadricipite mentre la gamba si muove avanti, attaccando il terreno nel passo successivo.",
-    "Assicurati che mentre corri, tu blocchi con le braccia, colpendo rapidamente in un movimento 1-2."
+    "This move helps prepare your running form to help you excel at sprinting. As you run, be sure to flex the knee, aiming to kick your glutes as the hip extends.",
+    "Reload the quad as the leg moves back forward, attacking the ground on the next step.",
+    "Ensure that as you run, you block with the arms, punching through in a rapid 1-2 motion."
   ],
   "category": "plyometrics",
   "images": [
@@ -26,5 +26,11 @@
     "Ce mouvement aide à préparer votre forme de course pour vous aider à exceller dans le sprint. Lorsque vous courez, assurez-vous de fléchir le genou, en visant à frapper vos fesses avec le talon alors que l'hanche s'étend.",
     "Reketle le quadricep lorsque la jambe se replie, en attaquant le sol sur le pas suivant.",
     "Assurez-vous que lorsque vous courez, vous bloquez avec les bras, en frappant rapidement dans une mouvement rapide 1-2."
+  ],
+  "name_it": "Serie Artiglio in Movimento",
+  "instructions_it": [
+    "Questo movimento aiuta a preparare la tua forma di corsa per eccellere negli sprint. Mentre corri, assicurati di flettere il ginocchio, cercando di colpire i glutei mentre l'anca si estende.",
+    "Ricarica il quadricipite mentre la gamba si muove avanti, attaccando il terreno nel passo successivo.",
+    "Assicurati che mentre corri, tu blocchi con le braccia, colpendo rapidamente in un movimento 1-2."
   ]
 }

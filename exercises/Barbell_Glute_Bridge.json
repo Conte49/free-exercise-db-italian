@@ -1,5 +1,5 @@
 {
-  "name": "Ponte Gluteo con Bilanciere",
+  "name": "Barbell Glute Bridge",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Inizia seduto a terra con un bilanciere carico sopra le gambe. Utilizzare un bilanciere spesso o avere un cuscinetto sul bilanciere può ridurre notevolmente il disagio causato da questo esercizio. Rotola il bilanciere in modo che sia direttamente sopra i fianchi e sdraiati a terra.",
-    "Inizia il movimento spingendo con i talloni, estendendo i fianchi verticalmente attraverso il bilanciere. Il tuo peso dovrebbe essere sostenuto dalla parte superiore della schiena e dai talloni dei piedi.",
-    "Estendi il più possibile, poi inverti il movimento per tornare alla posizione di partenza."
+    "Begin seated on the ground with a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise. Roll the bar so that it is directly above your hips, and lay down flat on the floor.",
+    "Begin the movement by driving through with your heels, extending your hips vertically through the bar. Your weight should be supported by your upper back and the heels of your feet.",
+    "Extend as far as possible, then reverse the motion to return to the starting position."
   ],
   "category": "powerlifting",
   "images": [
@@ -26,5 +26,11 @@
     "Commencez assis par terre avec une barre chargée sur vos jambes. Utiliser une barre épaisse ou mettre une bande de protection sur la barre peut réduire considérablement le inconfort causé par cet exercice. Faites rouler la barre de sorte qu'elle soit directement au-dessus de vos hanches, et étendez-vous à plat sur le sol.",
     "Commencez le mouvement en poussant avec vos talons, en étendant vos hanches verticalement à travers la barre. Votre poids doit être soutenu par votre dos supérieur et les talons de vos pieds.",
     "Étendez-vous autant que possible, puis inversez le mouvement pour revenir à la position de départ."
+  ],
+  "name_it": "Ponte Gluteo con Bilanciere",
+  "instructions_it": [
+    "Inizia seduto a terra con un bilanciere carico sopra le gambe. Utilizzare un bilanciere spesso o avere un cuscinetto sul bilanciere può ridurre notevolmente il disagio causato da questo esercizio. Rotola il bilanciere in modo che sia direttamente sopra i fianchi e sdraiati a terra.",
+    "Inizia il movimento spingendo con i talloni, estendendo i fianchi verticalmente attraverso il bilanciere. Il tuo peso dovrebbe essere sostenuto dalla parte superiore della schiena e dai talloni dei piedi.",
+    "Estendi il più possibile, poi inverti il movimento per tornare alla posizione di partenza."
   ]
 }

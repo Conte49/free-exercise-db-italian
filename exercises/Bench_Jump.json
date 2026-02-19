@@ -1,5 +1,5 @@
 {
-  "name": "Salto sulla panca",
+  "name": "Bench Jump",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,11 +13,11 @@
     "hamstrings"
   ],
   "instructions": [
-    "Inizia con una panca o un box a 30-60 cm davanti a te. Stai in piedi con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Esegui un breve squat in preparazione al salto; porta le braccia indietro.",
-    "Rimbalza da questa posizione, estendendo anche i fianchi, le ginocchia e le caviglie per saltare il più in alto possibile. Porta le braccia in avanti e verso l'alto.",
-    "Salta sopra la panca, atterrando con le ginocchia piegate, assorbendo l'impatto attraverso le gambe.",
-    "Girati e affronta la direzione opposta, quindi salta di nuovo sopra la panca."
+    "Begin with a box or bench 1-2 feet in front of you. Stand with your feet shoulder width apart. This will be your starting position.",
+    "Perform a short squat in preparation for the jump; swing your arms behind you.",
+    "Rebound out of this position, extending through the hips, knees, and ankles to jump as high as possible. Swing your arms forward and up.",
+    "Jump over the bench, landing with the knees bent, absorbing the impact through the legs.",
+    "Turn around and face the opposite direction, then jump back over the bench."
   ],
   "category": "plyometrics",
   "images": [
@@ -31,5 +31,13 @@
     "Rebondissez dans cette position, en étendant les hanches, les genoux et les chevilles pour sauter aussi haut que possible. Balancer vos bras vers l'avant et vers le haut.",
     "Sautez par-dessus le banc, en atterrissant avec les genoux fléchis, en absorbant l'impact par les jambes.",
     "Tournez-vous et faites face à la direction opposée, puis sautez à nouveau par-dessus le banc."
+  ],
+  "name_it": "Salto sulla panca",
+  "instructions_it": [
+    "Inizia con una panca o un box a 30-60 cm davanti a te. Stai in piedi con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Esegui un breve squat in preparazione al salto; porta le braccia indietro.",
+    "Rimbalza da questa posizione, estendendo anche i fianchi, le ginocchia e le caviglie per saltare il più in alto possibile. Porta le braccia in avanti e verso l'alto.",
+    "Salta sopra la panca, atterrando con le ginocchia piegate, assorbendo l'impatto attraverso le gambe.",
+    "Girati e affronta la direzione opposta, quindi salta di nuovo sopra la panca."
   ]
 }

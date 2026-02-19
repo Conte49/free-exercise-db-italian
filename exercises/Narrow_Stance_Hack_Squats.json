@@ -1,5 +1,5 @@
 {
-  "name": "Squat Hack a Stretto",
+  "name": "Narrow Stance Hack Squats",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,13 +13,13 @@
     "hamstrings"
   ],
   "instructions": [
-    "Posiziona la parte posteriore del tuo torso contro il pad posteriore della macchina e aggancia le spalle sotto i cuscinetti delle spalle forniti.",
-    "Posiziona le gambe sulla piattaforma utilizzando una posizione ristretta, con i piedi meno larghi delle spalle e le punte leggermente rivolte verso l'esterno. I tuoi piedi dovrebbero essere distanti circa 7,5 cm o meno.",
-    "Posiziona le braccia sui manici laterali della macchina e disinserisci le barre di sicurezza (che nella maggior parte dei modelli si fa spostando i manici laterali da una posizione frontale a una diagonale).",
-    "Ora distendi le gambe senza bloccare le ginocchia. Questa sarà la tua posizione di partenza.",
-    "Inizia a abbassare lentamente l'unità piegando le ginocchia mentre mantieni una postura dritta con la testa alta (la schiena sul pad in ogni momento). Continua fino a quando l'angolo tra la coscia e i polpacci diventa leggermente inferiore a 90 gradi (che è il punto in cui le cosce sono al di sotto della parallela rispetto al pavimento). Inspira mentre esegui questa parte del movimento.",
-    "Inizia a sollevare l'unità mentre espiri spingendo il pavimento principalmente con i talloni dei piedi mentre distendi di nuovo le gambe e torni alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Place the back of your torso against the back pad of the machine and hook your shoulders under the shoulder pads provided.",
+    "Position your legs in the platform using a less than shoulder width narrow stance with the toes slightly pointed out. Your feet should be around 3 inches or less apart. Tip: Keep your head up at all times and also maintain the back on the pad at all times.",
+    "Place your arms on the side handles of the machine and disengage the safety bars (which on most designs is done by moving the side handles from a facing front position to a diagonal position).",
+    "Now straighten your legs without locking the knees. This will be your starting position.",
+    "Begin to slowly lower the unit by bending the knees as you maintain a straight posture with the head up (back on the pad at all times). Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement.",
+    "Begin to raise the unit as you exhale by pushing the floor with mainly with the heels of your feet as you straighten the legs again and go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -35,5 +35,15 @@
     "Commencez à descendre lentement la charge en fléchissant les genoux tout en maintenant une posture droite avec la tête haute (le dos doit rester en contact avec le banc pendant tout le mouvement). Descendez jusqu'à ce que l'angle entre la cuisse et le mollet devienne légèrement inférieur à 90 degrés (c'est-à-dire lorsque les cuisses se trouvent en dessous de la position parallèle au sol). Inspirez pendant cette partie du mouvement.",
     "Commencez à soulever l'unité en expirant en poussant le sol principalement avec les talons de vos pieds tout en redressant de nouveau les jambes et en revenant à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Squat Hack a Stretto",
+  "instructions_it": [
+    "Posiziona la parte posteriore del tuo torso contro il pad posteriore della macchina e aggancia le spalle sotto i cuscinetti delle spalle forniti.",
+    "Posiziona le gambe sulla piattaforma utilizzando una posizione ristretta, con i piedi meno larghi delle spalle e le punte leggermente rivolte verso l'esterno. I tuoi piedi dovrebbero essere distanti circa 7,5 cm o meno.",
+    "Posiziona le braccia sui manici laterali della macchina e disinserisci le barre di sicurezza (che nella maggior parte dei modelli si fa spostando i manici laterali da una posizione frontale a una diagonale).",
+    "Ora distendi le gambe senza bloccare le ginocchia. Questa sarà la tua posizione di partenza.",
+    "Inizia a abbassare lentamente l'unità piegando le ginocchia mentre mantieni una postura dritta con la testa alta (la schiena sul pad in ogni momento). Continua fino a quando l'angolo tra la coscia e i polpacci diventa leggermente inferiore a 90 gradi (che è il punto in cui le cosce sono al di sotto della parallela rispetto al pavimento). Inspira mentre esegui questa parte del movimento.",
+    "Inizia a sollevare l'unità mentre espiri spingendo il pavimento principalmente con i talloni dei piedi mentre distendi di nuovo le gambe e torni alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Cerchi con le Ginocchia",
+  "name": "Knee Circles",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Stai in piedi con le gambe unite e le mani sui fianchi.",
-    "Ora muovi le ginocchia in un movimento circolare mentre respiri normalmente.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Stand with your legs together and hands by your waist.",
+    "Now move your knees in a circular motion as you breathe normally.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "stretching",
   "images": [
@@ -26,5 +26,11 @@
     "Debout, les jambes jointes et les mains le long du corps.",
     "Maintenant, déplacez vos genoux en mouvement circulaire tout en respirant normalement.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Cerchi con le Ginocchia",
+  "instructions_it": [
+    "Stai in piedi con le gambe unite e le mani sui fianchi.",
+    "Ora muovi le ginocchia in un movimento circolare mentre respiri normalmente.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

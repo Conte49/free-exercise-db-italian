@@ -1,5 +1,5 @@
 {
-  "name": "Twist russi con cavo",
+  "name": "Cable Russian Twists",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,13 +9,13 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Collega un attacco standard e posiziona il cavo su una puleggia centrale.",
-    "Sdraiati su una palla di stabilità perpendicolare al cavo e afferra il manico con una mano. Dovresti essere a una distanza approssimativa della lunghezza del braccio dalla puleggia, con la tensione del peso sul cavo.",
-    "Afferra il manico con entrambe le mani ed estendi completamente le braccia sopra il petto. Le tue mani dovrebbero essere direttamente in linea con la puleggia. Se non lo sono, regola la puleggia verso l'alto o verso il basso fino a che lo siano.",
-    "Tieni i fianchi sollevati e gli addominali contratti. Ruota il torso lontano dalla puleggia per una rotazione completa di un quarto. Il tuo corpo dovrebbe essere piatto dalla testa alle ginocchia.",
-    "Fermati per un momento e in modo lento e controllato ripristina la posizione di partenza. Dovresti avere ancora tensione laterale sul cavo nella posizione di riposo.",
-    "Ripeti lo stesso movimento fino a esaurimento.",
-    "Poi, riposiziona e ripeti la stessa serie di movimenti sul lato opposto."
+    "Connect a standard handle attachment, and position the cable to a middle pulley position.",
+    "Lie on a stability ball perpendicular to the cable and grab the handle with one hand. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.",
+    "Grab the handle with both hands and fully extend your arms above your chest. You hands should be directly in-line with the pulley. If not, adjust the pulley up or down until they are.",
+    "Keep your hips elevated and abs engaged. Rotate your torso away from the pulley for a full-quarter rotation. Your body should be flat from head to knees.",
+    "Pause for a moment and in a slow and controlled manner reset to the starting position. You should still have side tension on the cable in the resting position.",
+    "Repeat the same movement to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,15 @@
     "Faites une pause pendant un instant et, d'une manière lente et contrôlée, revenez à la position de départ. Vous devez toujours avoir une tension latérale sur le câble dans la position de repos.",
     "Répétez le même mouvement jusqu'à l'échec.",
     "Ensuite, repositionnez-vous et répétez la même série de mouvements sur le côté opposé."
+  ],
+  "name_it": "Twist russi con cavo",
+  "instructions_it": [
+    "Collega un attacco standard e posiziona il cavo su una puleggia centrale.",
+    "Sdraiati su una palla di stabilità perpendicolare al cavo e afferra il manico con una mano. Dovresti essere a una distanza approssimativa della lunghezza del braccio dalla puleggia, con la tensione del peso sul cavo.",
+    "Afferra il manico con entrambe le mani ed estendi completamente le braccia sopra il petto. Le tue mani dovrebbero essere direttamente in linea con la puleggia. Se non lo sono, regola la puleggia verso l'alto o verso il basso fino a che lo siano.",
+    "Tieni i fianchi sollevati e gli addominali contratti. Ruota il torso lontano dalla puleggia per una rotazione completa di un quarto. Il tuo corpo dovrebbe essere piatto dalla testa alle ginocchia.",
+    "Fermati per un momento e in modo lento e controllato ripristina la posizione di partenza. Dovresti avere ancora tensione laterale sul cavo nella posizione di riposo.",
+    "Ripeti lo stesso movimento fino a esaurimento.",
+    "Poi, riposiziona e ripeti la stessa serie di movimenti sul lato opposto."
   ]
 }

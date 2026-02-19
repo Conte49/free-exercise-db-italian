@@ -1,5 +1,5 @@
 {
-  "name": "Sollevamento Glutei e Hamstring",
+  "name": "Glute Ham Raise",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "glutes"
   ],
   "instructions": [
-    "Inizia regolando l'attrezzatura per adattarla al tuo corpo. Posiziona i piedi contro il supporto per i piedi tra i rulli mentre sei sdraiato a faccia in giù. Le tue ginocchia dovrebbero essere appena dietro il cuscino.",
-    "Parti dal fondo del movimento. Mantieni la schiena arcuata mentre inizi il movimento flettendo le ginocchia. Spingi le punte dei piedi contro il supporto mentre lo fai. Tieni il busto dritto e continua fino a quando il tuo corpo è eretto.",
-    "Torna alla posizione di partenza, mantenendo il controllo durante la discesa."
+    "Begin by adjusting the equipment to fit your body. Place your feet against the footplate in between the rollers as you lie facedown. Your knees should be just behind the pad.",
+    "Start from the bottom of the movement. Keep your back arched as you begin the movement by flexing the knees. Drive your toes into the foot plate as you do so. Keep your upper body straight, and continue until your body is upright.",
+    "Return to the starting position, keeping your descent under control."
   ],
   "category": "powerlifting",
   "images": [
@@ -26,5 +26,11 @@
     "Commencez par ajuster l'équipement à votre morphologie. Placez vos pieds contre le plateau de soutien entre les rouleaux en vous allongant sur le ventre. Vos genoux doivent se trouver juste derrière le rembourrage.",
     "Commencez à partir de la position basse du mouvement. Gardez le dos arqué au début du mouvement en fléchissant les genoux. Appuyez vos orteils dans la plaque de pied pendant que vous le faites. Gardez votre corps supérieur droit et continuez jusqu'à ce que votre corps soit debout.",
     "Retournez à la position de départ en contrôlant votre descente."
+  ],
+  "name_it": "Sollevamento Glutei e Hamstring",
+  "instructions_it": [
+    "Inizia regolando l'attrezzatura per adattarla al tuo corpo. Posiziona i piedi contro il supporto per i piedi tra i rulli mentre sei sdraiato a faccia in giù. Le tue ginocchia dovrebbero essere appena dietro il cuscino.",
+    "Parti dal fondo del movimento. Mantieni la schiena arcuata mentre inizi il movimento flettendo le ginocchia. Spingi le punte dei piedi contro il supporto mentre lo fai. Tieni il busto dritto e continua fino a quando il tuo corpo è eretto.",
+    "Torna alla posizione di partenza, mantenendo il controllo durante la discesa."
   ]
 }

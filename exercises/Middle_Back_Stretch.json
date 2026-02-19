@@ -1,5 +1,5 @@
 {
-  "name": "Stretching della parte centrale della schiena",
+  "name": "Middle Back Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -13,8 +13,8 @@
     "lower back"
   ],
   "instructions": [
-    "Stai in piedi con i piedi alla larghezza delle spalle e le mani sui fianchi.",
-    "Ruota a vita fino a sentire un allungamento. Mantieni la posizione per 10-15 secondi, poi ruota dall'altra parte."
+    "Stand so your feet are shoulder width apart and your hands are on your hips.",
+    "Twist at your waist until you feel a stretch. Hold for 10 to 15 seconds, then twist to the other side."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Tenez-vous debout, les pieds à la largeur des épaules, les mains sur les hanches.",
     "Tournez votre taille jusqu'à ce que vous ressentiez une étirement. Maintenez la position pendant 10 à 15 secondes, puis tournez de l'autre côté."
+  ],
+  "name_it": "Stretching della parte centrale della schiena",
+  "instructions_it": [
+    "Stai in piedi con i piedi alla larghezza delle spalle e le mani sui fianchi.",
+    "Ruota a vita fino a sentire un allungamento. Mantieni la posizione per 10-15 secondi, poi ruota dall'altra parte."
   ]
 }

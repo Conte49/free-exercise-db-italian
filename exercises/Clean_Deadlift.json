@@ -16,9 +16,9 @@
     "traps"
   ],
   "instructions": [
-    "Inizia in piedi con un bilanciere vicino alle tibie. I tuoi piedi dovrebbero essere direttamente sotto i fianchi con le punte leggermente rivolte verso l'esterno. Afferra il bilanciere con una presa doppia sopra o con la presa a gancio, a circa larghezza delle spalle. Accovacciati verso il bilanciere. La tua colonna vertebrale dovrebbe essere in piena estensione, con un angolo della schiena che posiziona le spalle davanti al bilanciere e la schiena il più verticale possibile.",
-    "Inizia spingendo attraverso il pavimento con la parte anteriore dei talloni. Man mano che il bilanciere sale, mantieni un angolo della schiena costante. Allarga le ginocchia verso l'esterno per aiutare a tenerle lontane dal percorso del bilanciere.",
-    "Dopo che il bilanciere supera le ginocchia, completa il sollevamento spingendo i fianchi verso il bilanciere fino a quando i tuoi fianchi e le ginocchia sono estesi."
+    "Begin standing with a barbell close to your shins. Your feet should be directly under your hips with your feet turned out slightly. Grip the bar with a double overhand grip or hook grip, about shoulder width apart. Squat down to the bar. Your spine should be in full extension, with a back angle that places your shoulders in front of the bar and your back as vertical as possible.",
+    "Begin by driving through the floor through the front of your heels. As the bar travels upward, maintain a constant back angle. Flare your knees out to the side to help keep them out of the bar's path.",
+    "After the bar crosses the knees, complete the lift by driving the hips into the bar until your hips and knees are extended."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -30,5 +30,11 @@
     "Commencez debout avec une barre close à vos mollets. Vos pieds doivent être directement sous vos hanches, légèrement tournés vers l'extérieur. Attrapez la barre avec une poignée en double sur-main ou en crochet, à environ la largeur des épaules. Faites un squat jusqu'à la barre. Votre colonne vertébrale doit être en extension complète, avec un angle du dos qui place vos épaules devant la barre et votre dos aussi vertical que possible.",
     "Commencez en poussant à travers le sol à l'avant de vos talons. Alors que la barre se déplace vers le haut, maintenez un angle constant du dos. Écartez les genoux vers l'extérieur pour aider à les garder hors de la trajectoire de la barre.",
     "Après que la barre ait franchi les genoux, terminez le mouvement en poussant les hanches vers la barre jusqu'à ce que vos hanches et vos genoux soient tendus."
+  ],
+  "name_it": "Clean Deadlift",
+  "instructions_it": [
+    "Inizia in piedi con un bilanciere vicino alle tibie. I tuoi piedi dovrebbero essere direttamente sotto i fianchi con le punte leggermente rivolte verso l'esterno. Afferra il bilanciere con una presa doppia sopra o con la presa a gancio, a circa larghezza delle spalle. Accovacciati verso il bilanciere. La tua colonna vertebrale dovrebbe essere in piena estensione, con un angolo della schiena che posiziona le spalle davanti al bilanciere e la schiena il più verticale possibile.",
+    "Inizia spingendo attraverso il pavimento con la parte anteriore dei talloni. Man mano che il bilanciere sale, mantieni un angolo della schiena costante. Allarga le ginocchia verso l'esterno per aiutare a tenerle lontane dal percorso del bilanciere.",
+    "Dopo che il bilanciere supera le ginocchia, completa il sollevamento spingendo i fianchi verso il bilanciere fino a quando i tuoi fianchi e le ginocchia sono estesi."
   ]
 }

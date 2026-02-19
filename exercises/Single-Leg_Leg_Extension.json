@@ -1,5 +1,5 @@
 {
-  "name": "Estensione della gamba su un solo lato",
+  "name": "Single-Leg Leg Extension",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Siediti sulla macchina e regola la posizione in modo da essere correttamente allineato. Il cuscinetto dovrebbe essere contro la parte inferiore della tibia ma non in contatto con la caviglia. Regola il sedile in modo che il punto di rotazione sia allineato con il tuo ginocchio. Seleziona un peso appropriato alle tue capacità.",
-    "Mantenendo una buona postura, estendi completamente una gamba, facendo una pausa nella parte superiore del movimento.",
-    "Torna alla posizione di partenza senza fermare il peso, mantenendo tensione sul muscolo.",
-    "Ripeti per il numero desiderato di ripetizioni."
+    "Seat yourself in the machine and adjust it so that you are positioned properly. The pad should be against the lower part of the shin but not in contact with the ankle. Adjust the seat so that the pivot point is in line with your knee. Select a weight appropriate for your abilities.",
+    "Maintaining good posture, fully extend one leg, pausing at the top of the motion.",
+    "Return to the starting position without letting the weight stop, keeping tension on the muscle.",
+    "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "En maintenant une bonne posture, étendez complètement une jambe, en faisant une pause au sommet du mouvement.",
     "Revenez à la position de départ sans laisser le poids s'arrêter, en gardant la tension sur le muscle.",
     "Répétez pour le nombre de répétitions souhaité."
+  ],
+  "name_it": "Estensione della gamba su un solo lato",
+  "instructions_it": [
+    "Siediti sulla macchina e regola la posizione in modo da essere correttamente allineato. Il cuscinetto dovrebbe essere contro la parte inferiore della tibia ma non in contatto con la caviglia. Regola il sedile in modo che il punto di rotazione sia allineato con il tuo ginocchio. Seleziona un peso appropriato alle tue capacità.",
+    "Mantenendo una buona postura, estendi completamente una gamba, facendo una pausa nella parte superiore del movimento.",
+    "Torna alla posizione di partenza senza fermare il peso, mantenendo tensione sul muscolo.",
+    "Ripeti per il numero desiderato di ripetizioni."
   ]
 }

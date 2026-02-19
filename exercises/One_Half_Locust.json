@@ -1,5 +1,5 @@
 {
-  "name": "Mezza Locusta",
+  "name": "One Half Locust",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -13,10 +13,10 @@
     "chest"
   ],
   "instructions": [
-    "Sdraiati a faccia in giù sul pavimento.",
-    "Metti la mano sinistra sotto l'osso iliaco sinistro per proteggere l'anca e l'osso pubico.",
-    "Piega il ginocchio destro in modo da poter afferrare il piede con la mano destra.",
-    "Solleva il piede in aria e contemporaneamente solleva le spalle da terra. Questo allunga anche il flessore dell'anca destra e il petto e le spalle. Cambia lato. Se non ti dà fastidio alla schiena, puoi provare a farlo con entrambe le braccia e le gambe contemporaneamente."
+    "Lie facedown on the floor.",
+    "Put your left hand under your left hipbone to pad your hip and pubic bone.",
+    "Bend your right knee so you can hold the foot in your right hand.",
+    "Lift the foot in the air and simultaneously lift your shoulders off the floor. This also stretches the right hip flexor and the chest and shoulders. Switch sides. If it doesn't bother your back, you can try it with both arms and legs at the same time."
   ],
   "category": "stretching",
   "images": [
@@ -29,5 +29,12 @@
     "Placez votre main gauche sous votre os de la hanche gauche pour amortir votre hanche et vos os du pubis.",
     "Pliez le genou droit afin de pouvoir tenir le pied dans votre main droite.",
     "Soulevez le pied dans les airs et soulevez simultanément vos épaules du sol. Cela étire également le psoas iliaque droit et la poitrine et les épaules. Alternez d'un côté à l'autre. Si cela ne dérange pas votre dos, vous pouvez essayer de le faire avec les deux bras et les deux jambes en même temps."
+  ],
+  "name_it": "Mezza Locusta",
+  "instructions_it": [
+    "Sdraiati a faccia in giù sul pavimento.",
+    "Metti la mano sinistra sotto l'osso iliaco sinistro per proteggere l'anca e l'osso pubico.",
+    "Piega il ginocchio destro in modo da poter afferrare il piede con la mano destra.",
+    "Solleva il piede in aria e contemporaneamente solleva le spalle da terra. Questo allunga anche il flessore dell'anca destra e il petto e le spalle. Cambia lato. Se non ti dà fastidio alla schiena, puoi provare a farlo con entrambe le braccia e le gambe contemporaneamente."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Panca Piana con Macchina",
+  "name": "Machine Bench Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,13 +12,13 @@
     "triceps"
   ],
   "instructions": [
-    "Siediti sulla macchina per la panca piana e seleziona il peso.",
-    "Posiziona i piedi sul leveraggio fornito dalla macchina, poiché ti aiuterà a portare le maniglie in avanti in modo da poterle afferrare e distendere completamente le braccia.",
-    "Afferra le maniglie con una presa a palmi in giù e solleva i gomiti in modo che le braccia superiori siano parallele al pavimento ai lati del torso. Suggerimento: gli avambracci saranno puntati in avanti poiché stai afferrando le maniglie. Una volta portate le maniglie in avanti e distese le braccia, sarai nella posizione di partenza.",
-    "Ora riporta le maniglie verso di te mentre inspiri.",
-    "Spingi le maniglie lontano da te mentre contrai i pettorali ed espiri. Tieni la contrazione per un secondo prima di tornare alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni.",
-    "Quando hai finito, posiziona di nuovo i piedi sul leveraggio e riporta lentamente le maniglie al loro posto originale."
+    "Sit down on the Chest Press Machine and select the weight.",
+    "Step on the lever provided by the machine since it will help you to bring the handles forward so that you can grab the handles and fully extend the arms.",
+    "Grab the handles with a palms-down grip and lift your elbows so that your upper arms are parallel to the floor to the sides of your torso. Tip: Your forearms will be pointing forward since you are grabbing the handles. Once you bring the handles forward and extend the arms you will be at the starting position.",
+    "Now bring the handles back towards you as you breathe in.",
+    "Push the handles away from you as you flex your pecs and you breathe out. Hold the contraction for a second before going back to the starting position.",
+    "Repeat for the recommended amount of reps.",
+    "When finished step on the lever again and slowly get the handles back to their original place."
   ],
   "category": "strength",
   "images": [
@@ -34,5 +34,15 @@
     "Poussez les poignées loin de vous en contractant vos pectoraux et en respirant. Maintenez la contraction pendant une seconde avant de revenir à la position de départ.",
     "Répétez le nombre de répétitions recommandé.",
     "Lorsque vous avez terminé, montez à nouveau sur le levier et remettez lentement les poignées à leur place d'origine."
+  ],
+  "name_it": "Panca Piana con Macchina",
+  "instructions_it": [
+    "Siediti sulla macchina per la panca piana e seleziona il peso.",
+    "Posiziona i piedi sul leveraggio fornito dalla macchina, poiché ti aiuterà a portare le maniglie in avanti in modo da poterle afferrare e distendere completamente le braccia.",
+    "Afferra le maniglie con una presa a palmi in giù e solleva i gomiti in modo che le braccia superiori siano parallele al pavimento ai lati del torso. Suggerimento: gli avambracci saranno puntati in avanti poiché stai afferrando le maniglie. Una volta portate le maniglie in avanti e distese le braccia, sarai nella posizione di partenza.",
+    "Ora riporta le maniglie verso di te mentre inspiri.",
+    "Spingi le maniglie lontano da te mentre contrai i pettorali ed espiri. Tieni la contrazione per un secondo prima di tornare alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Quando hai finito, posiziona di nuovo i piedi sul leveraggio e riporta lentamente le maniglie al loro posto originale."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Stretching della parte bassa della schiena in sedia",
+  "name": "Chair Lower Back Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,9 +11,9 @@
     "lower back"
   ],
   "instructions": [
-    "Siediti dritto su una sedia.",
-    "Piegati da un lato con il braccio sopra la testa. Puoi tenerti alla sedia con l'altra mano.",
-    "Mantieni la posizione per 10 secondi e ripeti dall'altro lato."
+    "Sit upright on a chair.",
+    "Bend to one side with your arm over your head. You can hold onto the chair with your free hand.",
+    "Hold for 10 seconds, and repeat for your other side."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Asseyez-vous droit sur une chaise.",
     "Inclinez-vous d'un côté en plaçant votre bras au-dessus de votre tête. Vous pouvez vous appuyer sur la chaise avec votre main libre.",
     "Maintenez la position pendant 10 secondes, puis répétez l'exercice pour l'autre côté."
+  ],
+  "name_it": "Stretching della parte bassa della schiena in sedia",
+  "instructions_it": [
+    "Siediti dritto su una sedia.",
+    "Piegati da un lato con il braccio sopra la testa. Puoi tenerti alla sedia con l'altra mano.",
+    "Mantieni la posizione per 10 secondi e ripeti dall'altro lato."
   ]
 }

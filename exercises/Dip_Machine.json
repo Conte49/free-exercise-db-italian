@@ -1,5 +1,5 @@
 {
-  "name": "Macchina per Dip",
+  "name": "Dip Machine",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "shoulders"
   ],
   "instructions": [
-    "Siediti in modo sicuro sulla macchina per dip, seleziona il peso e afferra saldamente le maniglie.",
-    "Tieni i gomiti vicino ai fianchi per enfatizzare i tricipiti. I gomiti devono essere piegati a un angolo di 90 gradi.",
-    "Mentre contrai i tricipiti, estendi le braccia verso il basso mentre espiri. Suggerimento: alla fine del movimento, cerca di mantenere un leggero piegamento delle braccia per mantenere la tensione sul muscolo tricipite.",
-    "Ora lascia lentamente che le braccia tornino alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Sit securely in a dip machine, select the weight and firmly grasp the handles.",
+    "Now keep your elbows in at your sides in order to place emphasis on the triceps. The elbows should be bent at a 90 degree angle.",
+    "As you contract the triceps, extend your arms downwards as you exhale. Tip: At the bottom of the movement, focus on keeping a little bend in your arms to keep tension on the triceps muscle.",
+    "Now slowly let your arms come back up to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,13 @@
     "Alors que vous contractez les triceps, étendez vos bras vers le bas en expirant. Conseil : En bas du mouvement, concentrez-vous sur le maintien d'un léger angle dans vos bras pour maintenir la tension sur le muscle des triceps.",
     "Maintenant, laissez lentement vos bras remonter à la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Macchina per Dip",
+  "instructions_it": [
+    "Siediti in modo sicuro sulla macchina per dip, seleziona il peso e afferra saldamente le maniglie.",
+    "Tieni i gomiti vicino ai fianchi per enfatizzare i tricipiti. I gomiti devono essere piegati a un angolo di 90 gradi.",
+    "Mentre contrai i tricipiti, estendi le braccia verso il basso mentre espiri. Suggerimento: alla fine del movimento, cerca di mantenere un leggero piegamento delle braccia per mantenere la tensione sul muscolo tricipite.",
+    "Ora lascia lentamente che le braccia tornino alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Pressa Spalle con Cavi",
+  "name": "Cable Shoulder Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,10 +11,10 @@
     "triceps"
   ],
   "instructions": [
-    "Sposta i cavi verso il fondo delle torri e seleziona un peso appropriato.",
-    "Stai in piedi direttamente tra i montanti. Afferra i cavi e tienili all'altezza delle spalle, con i palmi rivolti in avanti. Questa sarà la tua posizione di partenza.",
-    "Tenendo la testa e il petto alti, estendi il gomito per premere le maniglie direttamente sopra la testa.",
-    "Dopo una pausa in cima, torna alla posizione di partenza e ripeti."
+    "Move the cables to the bottom of the towers and select an appropriate weight.",
+    "Stand directly in between the uprights. Grasp the cables and hold them at shoulder height, palms facing forward. This will be your starting position.",
+    "Keeping your head and chest up, extend through the elbow to press the handles directly over head.",
+    "After pausing at the top, return to the starting position and repeat."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Debout entre les montants verticaux. Prenez les câbles et tenez-les à la hauteur des épaules, les paumes tournées vers l'avant. Cette position sera votre position de départ.",
     "Gardez la tête et la poitrine levées, étendez le coude pour presser les poignées directement au-dessus de la tête.",
     "Après une pause au sommet, revenez à la position de départ et répétez."
+  ],
+  "name_it": "Pressa Spalle con Cavi",
+  "instructions_it": [
+    "Sposta i cavi verso il fondo delle torri e seleziona un peso appropriato.",
+    "Stai in piedi direttamente tra i montanti. Afferra i cavi e tienili all'altezza delle spalle, con i palmi rivolti in avanti. Questa sarà la tua posizione di partenza.",
+    "Tenendo la testa e il petto alti, estendi il gomito per premere le maniglie direttamente sopra la testa.",
+    "Dopo una pausa in cima, torna alla posizione di partenza e ripeti."
   ]
 }

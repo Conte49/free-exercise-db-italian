@@ -1,5 +1,5 @@
 {
-  "name": "Croce di Ferro con Cavi",
+  "name": "Cable Iron Cross",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia spostando le pulegge nella posizione alta, seleziona la resistenza da utilizzare e prendi una maniglia in ciascuna mano.",
-    "Stai direttamente tra entrambe le pulegge con le braccia estese ai lati. La tua testa e il tuo petto dovrebbero essere alzati mentre le braccia formano una \"T\". Questa sarà la tua posizione di partenza.",
-    "Mantenendo i gomiti estesi, tira le braccia dritte ai lati.",
-    "Riporta le braccia nella posizione di partenza dopo una pausa al picco della contrazione.",
-    "Continua il movimento per il numero di ripetizioni prescritto."
+    "Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.",
+    "Stand directly between both pulleys with your arms extended out to your sides. Your head and chest should be up while your arms form a \"T\". This will be your starting position.",
+    "Keeping the elbows extended, pull your arms straight to your sides.",
+    "Return your arms back to the starting position after a pause at the peak contraction.",
+    "Continue the movement for the prescribed number of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "En gardant les coudes étendus, ramenez vos bras le long de votre corps.",
     "Ramenez vos bras à la position de départ après une pause à la contraction maximale.",
     "Continuez le mouvement pour le nombre prescrit de répétitions."
+  ],
+  "name_it": "Croce di Ferro con Cavi",
+  "instructions_it": [
+    "Inizia spostando le pulegge nella posizione alta, seleziona la resistenza da utilizzare e prendi una maniglia in ciascuna mano.",
+    "Stai direttamente tra entrambe le pulegge con le braccia estese ai lati. La tua testa e il tuo petto dovrebbero essere alzati mentre le braccia formano una \"T\". Questa sarà la tua posizione di partenza.",
+    "Mantenendo i gomiti estesi, tira le braccia dritte ai lati.",
+    "Riporta le braccia nella posizione di partenza dopo una pausa al picco della contrazione.",
+    "Continua il movimento per il numero di ripetizioni prescritto."
   ]
 }

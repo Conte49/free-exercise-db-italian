@@ -1,5 +1,5 @@
 {
-  "name": "Caduta Sospesa",
+  "name": "Suspended Fallout",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -13,11 +13,11 @@
     "shoulders"
   ],
   "instructions": [
-    "Regola le cinghie in modo che i manici siano a un'altezza appropriata, sotto il livello della vita.",
-    "Inizia in posizione eretta afferrando i manici. Inclina il corpo verso le cinghie, passando a una posizione di flessione inclinata. Questa sarà la tua posizione di partenza.",
-    "Mantenendo le braccia dritte, inclina ulteriormente il corpo verso le cinghie di sospensione, avvicinando il corpo al suolo, permettendo alle spalle di estendersi, sollevando le braccia sopra la testa.",
-    "Mantieni la colonna vertebrale neutra e il resto del corpo dritto, con le spalle come unici articolazioni consentite a muoversi.",
-    "Fermati durante la contrazione massima, quindi ritorna alla posizione di partenza."
+    "Adjust the straps so the handles are at an appropriate height, below waist level.",
+    "Begin standing and grasping the handles. Lean into the straps, moving to an incline push-up position. This will be your starting position.",
+    "Keeping your arms straight, lean further into the suspension straps, bringing your body closer to the ground, allowing your shoulders to extend, raising your arms up and over your head.",
+    "Maintain a neutral spine and keep the rest of your body straight, your shoulders being the only joints allowed to move.",
+    "Pause during the peak contraction, and then return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,13 @@
     "En gardant vos bras droits, penchez-vous davantage dans les sangles de suspension, en rapprochant votre corps du sol, en permettant à vos épaules de s'étendre, en soulevant vos bras au-dessus de votre tête.",
     "Maintenez une colonne vertébrale neutre et gardez le reste de votre corps droit, vos épaules étant les seules articulations autorisées à bouger.",
     "Faites une pause pendant la contraction maximale, puis revenez à la position de départ."
+  ],
+  "name_it": "Caduta Sospesa",
+  "instructions_it": [
+    "Regola le cinghie in modo che i manici siano a un'altezza appropriata, sotto il livello della vita.",
+    "Inizia in posizione eretta afferrando i manici. Inclina il corpo verso le cinghie, passando a una posizione di flessione inclinata. Questa sarà la tua posizione di partenza.",
+    "Mantenendo le braccia dritte, inclina ulteriormente il corpo verso le cinghie di sospensione, avvicinando il corpo al suolo, permettendo alle spalle di estendersi, sollevando le braccia sopra la testa.",
+    "Mantieni la colonna vertebrale neutra e il resto del corpo dritto, con le spalle come unici articolazioni consentite a muoversi.",
+    "Fermati durante la contrazione massima, quindi ritorna alla posizione di partenza."
   ]
 }

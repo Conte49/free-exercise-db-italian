@@ -1,5 +1,5 @@
 {
-  "name": "SMR del Gran Dorsale",
+  "name": "Latissimus Dorsi-SMR",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati sul pavimento, posiziona un rullo di schiuma sotto la schiena e su un lato, appena dietro l'ascella. Questa sarà la tua posizione di partenza.",
-    "Tieni il braccio del lato che stai allungando dietro e di lato mentre sposti il tuo peso sui dorsali, mantenendo la parte superiore del corpo sollevata da terra. Tieni la posizione per 10-30 secondi, poi cambia lato."
+    "While lying on the floor, place a foam roll under your back and to one side, just behind your arm pit. This will be your starting position.",
+    "Keep the arm of the side being stretched behind and to the side of you as you shift your weight onto your lats, keeping your upper body off of the ground. Hold for 10-30 seconds, and switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Allongé sur le sol, placez un rouleau en mousse sous votre dos et d'un côté, juste derrière votre aisselle. Cette position sera votre point de départ.",
     "Gardez le bras du côté étiré derrière et sur le côté de vous alors que vous déplacez votre poids sur vos latissimes, en gardant votre buste supérieur hors du sol. Maintenez la position pendant 10 à 30 secondes, puis changez de côté."
+  ],
+  "name_it": "SMR del Gran Dorsale",
+  "instructions_it": [
+    "Sdraiati sul pavimento, posiziona un rullo di schiuma sotto la schiena e su un lato, appena dietro l'ascella. Questa sarà la tua posizione di partenza.",
+    "Tieni il braccio del lato che stai allungando dietro e di lato mentre sposti il tuo peso sui dorsali, mantenendo la parte superiore del corpo sollevata da terra. Tieni la posizione per 10-30 secondi, poi cambia lato."
   ]
 }

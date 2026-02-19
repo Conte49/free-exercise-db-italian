@@ -1,5 +1,5 @@
 {
-  "name": "Cintura per il collo da seduti con resistenza",
+  "name": "Seated Head Harness Neck Resistance",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Posiziona una cintura per il collo sul pavimento all'estremità di una panca piatta. Una volta selezionati i pesi, siediti all'estremità della panca piatta con i piedi più larghi della larghezza delle spalle. Le punte dei piedi devono essere rivolte verso l'esterno.",
-    "Inclina lentamente il torso in avanti fino a che non è quasi parallelo al pavimento. Con entrambe le mani, posiziona saldamente la cintura per il collo attorno alla tua testa. Suggerimento: assicurati che i pesi siano ancora sul pavimento per prevenire qualsiasi tensione sul collo. Ora afferra il peso con entrambe le mani mentre sollevi il torso indietro fino a che non è quasi perpendicolare al pavimento. Nota: la tua testa e il torso devono essere leggermente inclinati in avanti per eseguire questo esercizio.",
-    "Ora posiziona entrambe le mani sopra le ginocchia. Questa è la posizione di partenza.",
-    "Abbassa lentamente il collo fino a che il mento tocca la parte superiore del tuo petto mentre inspiri.",
-    "Mentre espiri, riporta il collo alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Place a neck strap on the floor at the end of a flat bench. Once you have selected the weights, sit at the end of the flat bench with your feet wider than shoulder width apart from each other. Your toes should be pointed out.",
+    "Slowly move your torso forward until it is almost parallel with the floor. Using both hands, securely position the neck strap around your head. Tip: Make sure the weights are still lying on the floor to prevent any strain on the neck. Now grab the weight with both hands while elevating your torso back until it is almost perpendicular to the floor. Note: Your head and torso needs to be slightly tilted forward to perform this exercise.",
+    "Now place both hands on top of your knees. This is the starting position.",
+    "Slowly lower your neck down until your chin touches the upper part of your chest while breathing in.",
+    "While exhaling, bring your neck back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "Baissez lentement votre cou jusqu'à ce que votre menton touche la partie supérieure de votre poitrine tout en respirant.",
     "Pendant l'exhalation, ramenez votre cou à la position de départ.",
     "Répétez le nombre de répétitions recommandé."
+  ],
+  "name_it": "Cintura per il collo da seduti con resistenza",
+  "instructions_it": [
+    "Posiziona una cintura per il collo sul pavimento all'estremità di una panca piatta. Una volta selezionati i pesi, siediti all'estremità della panca piatta con i piedi più larghi della larghezza delle spalle. Le punte dei piedi devono essere rivolte verso l'esterno.",
+    "Inclina lentamente il torso in avanti fino a che non è quasi parallelo al pavimento. Con entrambe le mani, posiziona saldamente la cintura per il collo attorno alla tua testa. Suggerimento: assicurati che i pesi siano ancora sul pavimento per prevenire qualsiasi tensione sul collo. Ora afferra il peso con entrambe le mani mentre sollevi il torso indietro fino a che non è quasi perpendicolare al pavimento. Nota: la tua testa e il torso devono essere leggermente inclinati in avanti per eseguire questo esercizio.",
+    "Ora posiziona entrambe le mani sopra le ginocchia. Questa è la posizione di partenza.",
+    "Abbassa lentamente il collo fino a che il mento tocca la parte superiore del tuo petto mentre inspiri.",
+    "Mentre espiri, riporta il collo alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

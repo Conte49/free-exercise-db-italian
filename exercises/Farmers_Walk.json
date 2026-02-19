@@ -1,5 +1,5 @@
 {
-  "name": "Camminata del contadino",
+  "name": "Farmer's Walk",
   "force": null,
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,10 +16,9 @@
     "traps"
   ],
   "instructions": [
-    "Esistono vari attrezzi che possono essere utilizzati per la camminata del contadino. Questi possono essere eseguiti anche con manubri pesanti o bilancieri corti se questi attrezzi non sono disponibili.",
-    "Inizia stando in piedi tra gli attrezzi.",
-    "Dopo aver afferrato i manici, sollevali spingendo attraverso i talloni, mantenendo la schiena dritta e la testa alta.",
-    "Cammina facendo passi brevi e veloci, e non dimenticare di respirare. Muoviti per una distanza prestabilita, tipicamente 15-30 metri, il più velocemente possibile."
+    "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.",
+    "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",
+    "Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
   ],
   "category": "strongman",
   "images": [
@@ -31,5 +30,12 @@
     "Il existe divers équipements qui peuvent être utilisés pour la marche des agriculteurs. Ces derniers peuvent également être effectués avec des haltères lourds ou des barres courtes si ces équipements ne sont pas disponibles. Commencez par vous tenir debout entre les équipements.",
     "Après avoir saisi les poignées, soulevez-les en appuyant sur vos talons, en gardant le dos droit et la tête levée.",
     "Marcher en prenant des pas courts et rapides, et n'oubliez pas de respirer. Se déplacer sur une certaine distance, généralement entre 50 et 100 pieds, le plus rapidement possible."
+  ],
+  "name_it": "Camminata del contadino",
+  "instructions_it": [
+    "Esistono vari attrezzi che possono essere utilizzati per la camminata del contadino. Questi possono essere eseguiti anche con manubri pesanti o bilancieri corti se questi attrezzi non sono disponibili.",
+    "Inizia stando in piedi tra gli attrezzi.",
+    "Dopo aver afferrato i manici, sollevali spingendo attraverso i talloni, mantenendo la schiena dritta e la testa alta.",
+    "Cammina facendo passi brevi e veloci, e non dimenticare di respirare. Muoviti per una distanza prestabilita, tipicamente 15-30 metri, il più velocemente possibile."
   ]
 }

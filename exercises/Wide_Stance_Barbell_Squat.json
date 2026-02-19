@@ -1,5 +1,5 @@
 {
-  "name": "Squat con Bilanciere a Stance Ampia",
+  "name": "Wide Stance Barbell Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,12 +14,12 @@
     "lower back"
   ],
   "instructions": [
-    "Questo esercizio è meglio eseguito all'interno di un rack per squat per motivi di sicurezza. Per iniziare, posiziona il bilanciere su un rack che meglio si adatta alla tua altezza. Una volta scelta l'altezza corretta e caricato il bilanciere, posizionati sotto di esso e appoggia la parte posteriore delle spalle (leggermente sotto il collo) su di esso.",
-    "Afferralo con entrambe le braccia ai lati e sollevalo dal rack spingendo prima con le gambe e contemporaneamente raddrizzando il torso.",
-    "Allontanati dal rack e posiziona le gambe con una stance più ampia della larghezza delle spalle, con le punte dei piedi leggermente rivolte verso l'esterno. Tieni sempre la testa alta, poiché guardare in basso ti farà perdere l'equilibrio, e mantieni anche la schiena dritta. Questa sarà la tua posizione di partenza.",
-    "Inizia a abbassare lentamente il bilanciere piegando le ginocchia mentre mantieni una postura dritta con la testa alta. Continua a scendere fino a quando l'angolo tra la coscia e i polpacci diventa leggermente inferiore a 90 gradi (che è il punto in cui le cosce sono sotto il parallelo rispetto al pavimento). Inspira mentre esegui questa parte del movimento. Suggerimento: Se hai eseguito correttamente l'esercizio, la parte anteriore delle ginocchia dovrebbe formare una linea retta immaginaria con le punte dei piedi che è perpendicolare al davanti. Se le tue ginocchia superano quella linea immaginaria (se sono oltre le punte dei piedi), stai esercitando uno stress eccessivo sul ginocchio e l'esercizio è stato eseguito in modo errato.",
-    "Inizia a sollevare il bilanciere mentre espiri spingendo il pavimento con il tallone del piede mentre raddrizzi di nuovo le gambe e torni alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+    "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+    "Step away from the rack and position your legs using a wider-than-shoulder-width stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance, and also maintain a straight back. This will be your starting position.",
+    "Begin to slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+    "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot as you straighten the legs again and go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -34,5 +34,14 @@
     "Commencez à lentement descendre la barre en fléchissant les genoux tout en maintenant une posture droite avec la tête levée. Continuez jusqu'à ce que l'angle entre le haut de la jambe et les mollets devienne légèrement inférieur à 90 degrés (ce qui est le point où les cuisses sont en dessous de la position parallèle au sol). Inspirez pendant cette partie du mouvement. Conseil : si vous avez effectué l'exercice correctement, l'avant des genoux devrait former une ligne droite imaginaire avec les orteils et être perpendiculaire à l'avant. Si vos genoux se trouvent derrière cette ligne imaginaire (si ils se trouvent derrière vos orteils), alors vous exercez une pression indue sur vos genoux et l'exercice n'a pas été effectué correctement.",
     "Commencez à soulever la barre en expirant en poussant le sol avec le talon de votre pied tout en redressant à nouveau les jambes et en revenant à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Squat con Bilanciere a Stance Ampia",
+  "instructions_it": [
+    "Questo esercizio è meglio eseguito all'interno di un rack per squat per motivi di sicurezza. Per iniziare, posiziona il bilanciere su un rack che meglio si adatta alla tua altezza. Una volta scelta l'altezza corretta e caricato il bilanciere, posizionati sotto di esso e appoggia la parte posteriore delle spalle (leggermente sotto il collo) su di esso.",
+    "Afferralo con entrambe le braccia ai lati e sollevalo dal rack spingendo prima con le gambe e contemporaneamente raddrizzando il torso.",
+    "Allontanati dal rack e posiziona le gambe con una stance più ampia della larghezza delle spalle, con le punte dei piedi leggermente rivolte verso l'esterno. Tieni sempre la testa alta, poiché guardare in basso ti farà perdere l'equilibrio, e mantieni anche la schiena dritta. Questa sarà la tua posizione di partenza.",
+    "Inizia a abbassare lentamente il bilanciere piegando le ginocchia mentre mantieni una postura dritta con la testa alta. Continua a scendere fino a quando l'angolo tra la coscia e i polpacci diventa leggermente inferiore a 90 gradi (che è il punto in cui le cosce sono sotto il parallelo rispetto al pavimento). Inspira mentre esegui questa parte del movimento. Suggerimento: Se hai eseguito correttamente l'esercizio, la parte anteriore delle ginocchia dovrebbe formare una linea retta immaginaria con le punte dei piedi che è perpendicolare al davanti. Se le tue ginocchia superano quella linea immaginaria (se sono oltre le punte dei piedi), stai esercitando uno stress eccessivo sul ginocchio e l'esercizio è stato eseguito in modo errato.",
+    "Inizia a sollevare il bilanciere mentre espiri spingendo il pavimento con il tallone del piede mentre raddrizzi di nuovo le gambe e torni alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

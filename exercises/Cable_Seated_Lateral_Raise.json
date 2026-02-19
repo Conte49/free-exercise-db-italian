@@ -1,5 +1,5 @@
 {
-  "name": "Alzata Laterale con Cavi da Seduto",
+  "name": "Cable Seated Lateral Raise",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,13 +12,13 @@
     "traps"
   ],
   "instructions": [
-    "Posizionati al centro di due pulegge basse opposte tra loro e metti una panca piatta proprio dietro di te (in modo perpendicolare a te; il bordo stretto della panca dovrebbe essere quello dietro di te). Seleziona il peso da utilizzare su ciascuna puleggia.",
-    "Ora siediti sul bordo della panca piatta dietro di te con i piedi posizionati davanti alle ginocchia.",
-    "Inclina il busto in avanti mantenendo la schiena dritta e appoggia il torso sulle cosce.",
-    "Fatti dare le maniglie singole attaccate alle pulegge. Afferra la puleggia sinistra con la mano destra e la puleggia destra con la mano sinistra dopo aver selezionato il peso. Le pulegge dovrebbero passare sotto le tue ginocchia e le braccia saranno estese con i palmi rivolti l'uno verso l'altro e un leggero piegamento ai gomiti. Questa sarà la posizione di partenza.",
-    "Mantenendo le braccia fisse, solleva le braccia superiori lateralmente fino a farle diventare parallele al pavimento e all'altezza delle spalle. Espira durante l'esecuzione di questo movimento e mantieni la contrazione per un secondo.",
-    "Abbassa lentamente le braccia nella posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni. Suggerimento: Mantieni le braccia superiori perpendicolari al torso e una posizione fissa dei gomiti (angolo di 10 gradi a 30 gradi) durante l'esercizio."
+    "Stand in the middle of two low pulleys that are opposite to each other and place a flat bench right behind you (in perpendicular fashion to you; the narrow edge of the bench should be the one behind you). Select the weight to be used on each pulley.",
+    "Now sit at the edge of the flat bench behind you with your feet placed in front of your knees.",
+    "Bend forward while keeping your back flat and rest your torso on the thighs.",
+    "Have someone give you the single handles attached to the pulleys. Grasp the left pulley with the right hand and the right pulley with the left after you select your weight. The pulleys should run under your knees and your arms will be extended with palms facing each other and a slight bend at the elbows. This will be the starting position.",
+    "While keeping the arms stationary, raise the upper arms to the sides until they are parallel to the floor and at shoulder height. Exhale during the execution of this movement and hold the contraction for a second.",
+    "Slowly lower your arms to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions. Tip: Maintain upper arms perpendicular to torso and a fixed elbow position (10 degree to 30 degree angle) throughout exercise."
   ],
   "category": "strength",
   "images": [
@@ -34,5 +34,15 @@
     "En gardant les bras immobiles, soulevez les bras supérieurs sur les côtés jusqu'à ce qu'ils soient parallèles au sol et à la hauteur des épaules. Exhalez pendant l'exécution de ce mouvement et maintenez la contraction pendant une seconde.",
     "Abaissez lentement vos bras jusqu'à la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé. Astuce : maintenir les bras supérieurs perpendiculaires au corps et une position du coude fixe (angle de 10 à 30 degrés) tout au long de l'exercice."
+  ],
+  "name_it": "Alzata Laterale con Cavi da Seduto",
+  "instructions_it": [
+    "Posizionati al centro di due pulegge basse opposte tra loro e metti una panca piatta proprio dietro di te (in modo perpendicolare a te; il bordo stretto della panca dovrebbe essere quello dietro di te). Seleziona il peso da utilizzare su ciascuna puleggia.",
+    "Ora siediti sul bordo della panca piatta dietro di te con i piedi posizionati davanti alle ginocchia.",
+    "Inclina il busto in avanti mantenendo la schiena dritta e appoggia il torso sulle cosce.",
+    "Fatti dare le maniglie singole attaccate alle pulegge. Afferra la puleggia sinistra con la mano destra e la puleggia destra con la mano sinistra dopo aver selezionato il peso. Le pulegge dovrebbero passare sotto le tue ginocchia e le braccia saranno estese con i palmi rivolti l'uno verso l'altro e un leggero piegamento ai gomiti. Questa sarà la posizione di partenza.",
+    "Mantenendo le braccia fisse, solleva le braccia superiori lateralmente fino a farle diventare parallele al pavimento e all'altezza delle spalle. Espira durante l'esecuzione di questo movimento e mantieni la contrazione per un secondo.",
+    "Abbassa lentamente le braccia nella posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni. Suggerimento: Mantieni le braccia superiori perpendicolari al torso e una posizione fissa dei gomiti (angolo di 10 gradi a 30 gradi) durante l'esercizio."
   ]
 }

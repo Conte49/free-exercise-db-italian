@@ -1,5 +1,5 @@
 {
-  "name": "Piramide",
+  "name": "Pyramid",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,8 +11,8 @@
     "shoulders"
   ],
   "instructions": [
-    "Inizia rotolando il tuo torso in avanti sulla palla in modo che i tuoi fianchi poggino sopra la palla e diventino il punto più alto del tuo corpo.",
-    "Appoggia le mani e i piedi sul pavimento. Le braccia e le gambe possono essere leggermente piegate o dritte, a seconda delle dimensioni della palla, della tua flessibilità e della lunghezza delle tue estremità. Questo aiuta anche a sviluppare la forza stabilizzatrice nel tuo torso e nelle spalle."
+    "Start off by rolling your torso forward onto the ball so your hips rest on top of the ball and become the highest point of your body.",
+    "Rest your hands and feet on the floor. Your arms and legs can be slightly bent or straight, depending on the size of the ball, your flexibility, and the length of your limbs. This also helps develop stabilizing strength in your torso and shoulders."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,10 @@
   "instructions_fr": [
     "Commencez par rouler votre tronc vers l'avant sur le ballon de sorte que vos hanches reposent sur le dessus du ballon et deviennent le point le plus élevé de votre corps.",
     "Reposez vos mains et vos pieds à plat sur le sol. Vos bras et vos jambes peuvent être légèrement fléchis ou tendus, en fonction de la taille du ballon, de votre souplesse et de la longueur de vos membres. Cela aide également à développer une force de stabilisation dans votre tronc et vos épaules."
+  ],
+  "name_it": "Piramide",
+  "instructions_it": [
+    "Inizia rotolando il tuo torso in avanti sulla palla in modo che i tuoi fianchi poggino sopra la palla e diventino il punto più alto del tuo corpo.",
+    "Appoggia le mani e i piedi sul pavimento. Le braccia e le gambe possono essere leggermente piegate o dritte, a seconda delle dimensioni della palla, della tua flessibilità e della lunghezza delle tue estremità. Questo aiuta anche a sviluppare la forza stabilizzatrice nel tuo torso e nelle spalle."
   ]
 }

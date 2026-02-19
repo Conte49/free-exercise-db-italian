@@ -1,5 +1,5 @@
 {
-  "name": "Stacco da terra su una gamba con kettlebell",
+  "name": "Kettlebell One-Legged Deadlift",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "lower back"
   ],
   "instructions": [
-    "Tieni un kettlebell per il manico in una mano. Stai in equilibrio su una gamba, dalla stessa parte in cui tieni il kettlebell.",
-    "Mantenendo il ginocchio leggermente piegato, esegui uno stacco da terra rigido piegando l'anca, estendendo la gamba libera dietro di te per mantenere l'equilibrio.",
-    "Continua a abbassare il kettlebell fino a essere parallelo al suolo, quindi torna alla posizione eretta."
+    "Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.",
+    "Keeping that knee slightly bent, perform a stiff legged deadlift by bending at the hip, extending your free leg behind you for balance.",
+    "Continue lowering the kettlebell until you are parallel to the ground, and then return to the upright position."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "Tenez une kettlebell par la poignée d'une seule main. Debout sur une seule jambe, du même côté que vous tenez la kettlebell.",
     "En gardant ce genou légèrement plié, effectuez un deadlift à jambe raide en vous penchant au niveau des hanches, en étendant votre jambe libre derrière vous pour l'équilibre.",
     "Continuez à descendre la kettlebell jusqu'à ce que vous soyez parallèle au sol, puis revenez à la position debout."
+  ],
+  "name_it": "Stacco da terra su una gamba con kettlebell",
+  "instructions_it": [
+    "Tieni un kettlebell per il manico in una mano. Stai in equilibrio su una gamba, dalla stessa parte in cui tieni il kettlebell.",
+    "Mantenendo il ginocchio leggermente piegato, esegui uno stacco da terra rigido piegando l'anca, estendendo la gamba libera dietro di te per mantenere l'equilibrio.",
+    "Continua a abbassare il kettlebell fino a essere parallelo al suolo, quindi torna alla posizione eretta."
   ]
 }

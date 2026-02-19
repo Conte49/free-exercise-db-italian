@@ -1,5 +1,5 @@
 {
-  "name": "Pulldown con presa larga dietro il collo",
+  "name": "Wide-Grip Pulldown Behind The Neck",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,12 +13,12 @@
     "shoulders"
   ],
   "instructions": [
-    "Siediti su una macchina per il pulldown con una barra larga attaccata al puleggia superiore. Assicurati di regolare il cuscino per le ginocchia della macchina in base alla tua altezza. Questi cuscini impediranno al tuo corpo di essere sollevato dalla resistenza attaccata alla barra.",
-    "Afferrate la barra con i palmi rivolti in avanti utilizzando la presa prescritta. Nota sulle prese: per una presa larga, le mani devono essere distanziate a una distanza maggiore della larghezza delle spalle. Per una presa media, le mani devono essere distanziate a una distanza uguale alla larghezza delle spalle e per una presa stretta a una distanza minore della larghezza delle spalle.",
-    "Con entrambe le braccia estese davanti a te che tengono la barra alla larghezza di presa scelta, porta il torso e la testa in avanti. Pensa a una linea immaginaria dal centro della barra fino alla parte posteriore del collo. Questa è la tua posizione di partenza.",
-    "Espirando, porta la barra verso il basso fino a toccare la parte posteriore del collo, tirando le spalle e le braccia superiori verso il basso e indietro. Suggerimento: Concentrati nel contrarre i muscoli della schiena una volta raggiunta la posizione contratta completa. Il torso superiore deve rimanere immobile e solo le braccia devono muoversi. Gli avambracci non devono fare altro lavoro se non tenere la barra; quindi non cercare di tirare verso il basso la barra usando gli avambracci.",
-    "Dopo un secondo nella posizione contratta stringendo le scapole insieme, solleva lentamente la barra tornando alla posizione di partenza quando le braccia sono completamente estese e i dorsali sono completamente allungati. Inspira durante questa parte del movimento.",
-    "Ripeti questo movimento per il numero prescritto di ripetizioni."
+    "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+    "Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
+    "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso and head forward. Think of an imaginary line from the center of the bar down to the back of your neck. This is your starting position.",
+    "As you breathe out, bring the bar down until it touches the back of your neck by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the bar; therefore do not try to pull down the bar using the forearms.",
+    "After a second on the contracted position squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. Inhale during this portion of the movement.",
+    "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -33,5 +33,14 @@
     "En expirant, descendez la barre jusqu'à ce qu'elle touche l'arrière de votre cou en contractant les épaules et les haut du bras vers l'arrière. Astuce : Concentrez-vous sur la contraction des muscles du dos une fois que vous avez atteint la position contractée maximale. La partie supérieure du corps doit rester stationnaire et seul les bras doivent bouger. Les avant-bras ne doivent servir qu'à tenir la barre, donc n'essayez pas d'utiliser vos avant-bras pour tirer vers le bas.",
     "Après une seconde dans la position contractée en serrant vos omoplates, soulevez lentement la barre jusqu'à la position de départ lorsque vos bras sont complètement étendus et que vos grands dorsaux sont complètement étirés. Respirez pendant cette partie du mouvement.",
     "Répétez ce mouvement pour le nombre de répétitions prescrit."
+  ],
+  "name_it": "Pulldown con presa larga dietro il collo",
+  "instructions_it": [
+    "Siediti su una macchina per il pulldown con una barra larga attaccata al puleggia superiore. Assicurati di regolare il cuscino per le ginocchia della macchina in base alla tua altezza. Questi cuscini impediranno al tuo corpo di essere sollevato dalla resistenza attaccata alla barra.",
+    "Afferrate la barra con i palmi rivolti in avanti utilizzando la presa prescritta. Nota sulle prese: per una presa larga, le mani devono essere distanziate a una distanza maggiore della larghezza delle spalle. Per una presa media, le mani devono essere distanziate a una distanza uguale alla larghezza delle spalle e per una presa stretta a una distanza minore della larghezza delle spalle.",
+    "Con entrambe le braccia estese davanti a te che tengono la barra alla larghezza di presa scelta, porta il torso e la testa in avanti. Pensa a una linea immaginaria dal centro della barra fino alla parte posteriore del collo. Questa è la tua posizione di partenza.",
+    "Espirando, porta la barra verso il basso fino a toccare la parte posteriore del collo, tirando le spalle e le braccia superiori verso il basso e indietro. Suggerimento: Concentrati nel contrarre i muscoli della schiena una volta raggiunta la posizione contratta completa. Il torso superiore deve rimanere immobile e solo le braccia devono muoversi. Gli avambracci non devono fare altro lavoro se non tenere la barra; quindi non cercare di tirare verso il basso la barra usando gli avambracci.",
+    "Dopo un secondo nella posizione contratta stringendo le scapole insieme, solleva lentamente la barra tornando alla posizione di partenza quando le braccia sono completamente estese e i dorsali sono completamente allungati. Inspira durante questa parte del movimento.",
+    "Ripeti questo movimento per il numero prescritto di ripetizioni."
   ]
 }

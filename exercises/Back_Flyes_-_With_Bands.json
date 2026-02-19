@@ -1,5 +1,5 @@
 {
-  "name": "Aperture della schiena - Con bande",
+  "name": "Back Flyes - With Bands",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,12 +12,12 @@
     "triceps"
   ],
   "instructions": [
-    "Fissa una banda attorno a un palo stabile come quello di un rack per squat.",
-    "Afferrati la banda per le maniglie e allontanati in modo che la tensione nella banda aumenti.",
-    "Estendi e solleva le braccia dritte davanti a te. Suggerimento: le tue braccia dovrebbero essere dritte e parallele al pavimento, mentre sono perpendicolari al tuo torso. I tuoi piedi dovrebbero essere ben piantati a terra, distanziati alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Mentre espiri, muovi le braccia ai lati e indietro. Mantieni le braccia estese e parallele al pavimento. Continua il movimento fino a quando le braccia sono estese ai lati.",
-    "Dopo una pausa, torna alla posizione originale mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Run a band around a stationary post like that of a squat rack.",
+    "Grab the band by the handles and stand back so that the tension in the band rises.",
+    "Extend and lift the arms straight in front of you. Tip: Your arms should be straight and parallel to the floor while perpendicular to your torso. Your feet should be firmly planted on the floor spread at shoulder width. This will be your starting position.",
+    "As you exhale, move your arms to the sides and back. Keep your arms extended and parallel to the floor. Continue the movement until the arms are extended to your sides.",
+    "After a pause, go back to the original position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -32,5 +32,14 @@
     "En expirant, déplacez vos bras sur les côtés et vers l'arrière. Gardez vos bras tendus et parallèles au sol. Poursuivez le mouvement jusqu'à ce que vos bras soient étendus de chaque côté.",
     "Après une pause, revenez à la position originale en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Aperture della schiena - Con bande",
+  "instructions_it": [
+    "Fissa una banda attorno a un palo stabile come quello di un rack per squat.",
+    "Afferrati la banda per le maniglie e allontanati in modo che la tensione nella banda aumenti.",
+    "Estendi e solleva le braccia dritte davanti a te. Suggerimento: le tue braccia dovrebbero essere dritte e parallele al pavimento, mentre sono perpendicolari al tuo torso. I tuoi piedi dovrebbero essere ben piantati a terra, distanziati alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, muovi le braccia ai lati e indietro. Mantieni le braccia estese e parallele al pavimento. Continua il movimento fino a quando le braccia sono estese ai lati.",
+    "Dopo una pausa, torna alla posizione originale mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

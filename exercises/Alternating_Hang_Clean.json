@@ -1,5 +1,5 @@
 {
-  "name": "Pulizia Alternata con Kettlebell",
+  "name": "Alternating Hang Clean",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,9 +16,9 @@
     "traps"
   ],
   "instructions": [
-    "Posiziona due kettlebell tra i tuoi piedi. Per entrare nella posizione di partenza, spingi indietro il tuo sedere e guarda dritto davanti a te.",
-    "Pulire un kettlebell fino alla spalla e tenere l'altro kettlebell in posizione appesa. Pulire il kettlebell fino alla spalla estendendo le gambe e i fianchi mentre tiri il kettlebell verso le spalle. Ruota il polso mentre lo fai.",
-    "Abbassa il kettlebell pulito in posizione appesa e pulisci l'altro kettlebell. Ripeti."
+    "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
+    "Clean one kettlebell to your shoulder and hold on to the other kettlebell in a hanging position. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so.",
+    "Lower the cleaned kettlebell to a hanging position and clean the alternate kettlebell. Repeat."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,11 @@
     "Placez deux kettlebells entre vos pieds. Pour prendre la position de départ, poussez vos fesses en arrière et regardez droit devant vous.",
     "Épaulez une kettlebell jusqu'à votre épaule et tenez l'autre kettlebell dans une position pendante. Épaulez la kettlebell jusqu'à votre épaule en étendant les jambes et les hanches tout en tirant la kettlebell vers vos épaules. Faites tourner votre poignet pendant ce temps.",
     "Baissez la kettlebell épaulée dans une position suspendue et épaulez l'autre kettlebell. Répétez."
+  ],
+  "name_it": "Pulizia Alternata con Kettlebell",
+  "instructions_it": [
+    "Posiziona due kettlebell tra i tuoi piedi. Per entrare nella posizione di partenza, spingi indietro il tuo sedere e guarda dritto davanti a te.",
+    "Pulire un kettlebell fino alla spalla e tenere l'altro kettlebell in posizione appesa. Pulire il kettlebell fino alla spalla estendendo le gambe e i fianchi mentre tiri il kettlebell verso le spalle. Ruota il polso mentre lo fai.",
+    "Abbassa il kettlebell pulito in posizione appesa e pulisci l'altro kettlebell. Ripeti."
   ]
 }

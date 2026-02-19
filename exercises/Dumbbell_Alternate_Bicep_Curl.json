@@ -1,5 +1,5 @@
 {
-  "name": "Curl con manubri alternato",
+  "name": "Dumbbell Alternate Bicep Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,11 +11,11 @@
     "forearms"
   ],
   "instructions": [
-    "Stai in piedi (torso eretto) con un manubrio in ciascuna mano tenuto a lunghezza delle braccia. I gomiti dovrebbero essere vicini al torso e i palmi delle mani dovrebbero essere rivolti verso le cosce.",
-    "Mantenendo il braccio superiore fermo, solleva il manubrio destro ruotando il palmo della mano finché non è rivolto in avanti. A questo punto continua a contrarre i bicipiti mentre espiri fino a quando i bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Tieni la posizione contratta per un secondo mentre stringi i bicipiti. Suggerimento: Solo gli avambracci dovrebbero muoversi.",
-    "Inizia lentamente a riportare il manubrio alla posizione di partenza mentre inspiri. Suggerimento: Ricorda di ruotare i palmi di nuovo nella posizione di partenza (rivolti verso le cosce) mentre scendi.",
-    "Ripeti il movimento con la mano sinistra. Questo equivale a una ripetizione.",
-    "Continua ad alternare in questo modo per il numero raccomandato di ripetizioni."
+    "Stand (torso upright) with a dumbbell in each hand held at arms length. The elbows should be close to the torso and the palms of your hand should be facing your thighs.",
+    "While holding the upper arm stationary, curl the right weight as you rotate the palm of the hands until they are facing forward. At this point continue contracting the biceps as you breathe out until your biceps is fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Tip: Only the forearms should move.",
+    "Slowly begin to bring the dumbbell back to the starting position as your breathe in. Tip: Remember to twist the palms back to the starting position (facing your thighs) as you come down.",
+    "Repeat the movement with the left hand. This equals one repetition.",
+    "Continue alternating in this manner for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,13 @@
     "Ramenez lentement l'haltère à la position de départ en respirant. Conseils : N'oubliez pas de tourner les paumes vers la position de départ (en direction des cuisses) lorsque vous redescendez.",
     "Répétez le mouvement avec la main gauche. Cela équivaut à une répétition.",
     "Continuez à alterner de cette manière pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con manubri alternato",
+  "instructions_it": [
+    "Stai in piedi (torso eretto) con un manubrio in ciascuna mano tenuto a lunghezza delle braccia. I gomiti dovrebbero essere vicini al torso e i palmi delle mani dovrebbero essere rivolti verso le cosce.",
+    "Mantenendo il braccio superiore fermo, solleva il manubrio destro ruotando il palmo della mano finché non è rivolto in avanti. A questo punto continua a contrarre i bicipiti mentre espiri fino a quando i bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Tieni la posizione contratta per un secondo mentre stringi i bicipiti. Suggerimento: Solo gli avambracci dovrebbero muoversi.",
+    "Inizia lentamente a riportare il manubrio alla posizione di partenza mentre inspiri. Suggerimento: Ricorda di ruotare i palmi di nuovo nella posizione di partenza (rivolti verso le cosce) mentre scendi.",
+    "Ripeti il movimento con la mano sinistra. Questo equivale a una ripetizione.",
+    "Continua ad alternare in questo modo per il numero raccomandato di ripetizioni."
   ]
 }

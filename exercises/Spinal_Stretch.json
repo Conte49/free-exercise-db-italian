@@ -1,5 +1,5 @@
 {
-  "name": "Allungamento della colonna vertebrale",
+  "name": "Spinal Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -14,10 +14,10 @@
     "traps"
   ],
   "instructions": [
-    "Siediti su una sedia in modo che la schiena sia dritta e i piedi siano ben piantati a terra.",
-    "Intreccia le dita dietro la testa, con i gomiti all'esterno e il mento abbassato.",
-    "Ruota la parte superiore del corpo da un lato per circa 3 volte, il più lontano possibile. Poi inclina in avanti e ruota il torso per raggiungere il gomito a terra all'interno del ginocchio.",
-    "Torna in posizione eretta e poi ripeti dall'altro lato."
+    "Sit in a chair so your back is straight and your feet planted on the floor.",
+    "Interlace your fingers behind your head, elbows out and your chin down.",
+    "Twist your upper body to one side about 3 times as far as you can. Then lean forward and twist your torso to reach your elbow to the floor on the inside of your knee.",
+    "Return to upright position and then repeat for your other side."
   ],
   "category": "stretching",
   "images": [
@@ -30,5 +30,12 @@
     "Entrelacez vos doigts derrière votre tête, coudes écartés et menton vers le bas.",
     "Tournez votre corps supérieur d'un côté environ 3 fois le plus loin possible. Puis penchez-vous en avant et tournez votre torse pour atteindre votre coude jusqu'au sol à l'intérieur de votre genou.",
     "Revenez à la position debout et répétez l'exercice pour l'autre côté."
+  ],
+  "name_it": "Allungamento della colonna vertebrale",
+  "instructions_it": [
+    "Siediti su una sedia in modo che la schiena sia dritta e i piedi siano ben piantati a terra.",
+    "Intreccia le dita dietro la testa, con i gomiti all'esterno e il mento abbassato.",
+    "Ruota la parte superiore del corpo da un lato per circa 3 volte, il più lontano possibile. Poi inclina in avanti e ruota il torso per raggiungere il gomito a terra all'interno del ginocchio.",
+    "Torna in posizione eretta e poi ripeti dall'altro lato."
   ]
 }

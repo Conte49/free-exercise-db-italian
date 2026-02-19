@@ -1,5 +1,5 @@
 {
-  "name": "Panca Piana con Catene",
+  "name": "Bench Press with Chains",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Regola la catena leader, accorciandola alla lunghezza desiderata. Posiziona le catene sulle estremità della barra.",
-    "Sdraiati sulla panca, cercando di portare la testa oltre la barra se possibile. Tieni i piedi sotto di te e inarca la schiena. Usando la barra per sostenere il tuo peso, solleva le spalle dalla panca e ritraile, stringendo le scapole insieme. Usa i piedi per spingere i trapezi nella panca. Mantieni questa posizione del corpo tesa durante tutto il movimento. Qualunque sia la larghezza della tua presa, dovrebbe coprire l'anello sulla barra.",
-    "Tira la barra fuori dal supporto senza protrarre le spalle. Concentrati nel stringere la barra e nel cercare di allargarla. Abbassa la barra verso il tuo petto inferiore o stomaco superiore. La barra, il polso e il gomito devono rimanere allineati in ogni momento.",
-    "Fermati quando il bilanciere tocca il tuo torso, e poi spingi la barra verso l'alto con tutta la forza possibile. I gomiti dovrebbero essere tenuti vicini fino al blocco."
+    "Adjust the leader chain, shortening it to the desired length.Place the chains on the sleeves of the bar.",
+    "Lying on the bench, get your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement. However wide your grip, it should cover the ring on the bar.",
+    "Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart. Lower the bar to your lower chest or upper stomach. The bar, wrist, and elbow should stay in line at all times.",
+    "Pause when the barbell touches your torso, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
   ],
   "category": "powerlifting",
   "images": [
@@ -29,5 +29,12 @@
     "Allongez-vous sur le banc, portez votre tête au-delà de la barre si possible. Enroulez vos pieds sous vous et arquez votre dos. En utilisant la barre pour soutenir votre poids, soulevez vos épaules du banc et retractez-les, en pinçant les omoplates ensemble. Utilisez vos pieds pour enfoncer vos trapèzes dans le banc. Maintenez cette position corporelle rigide pendant tout le mouvement. Quelle que soit la largeur de votre prise, elle doit couvrir l'anneau de la barre.",
     "Saisissez la barre hors du support sans protruire vos épaules. Concentrez-vous en contractant la barre et en essayant de l'éloigner. Abaissez la barre jusqu'à votre poitrine inférieure ou votre estomac supérieur. La barre, le poignet et le coude doivent rester alignés en tout temps.",
     "Passez lorsque la barre touche votre torse, puis poussez la barre vers le haut avec autant de force que possible. Les coudées doivent être rentrées jusqu'à l'extension complète."
+  ],
+  "name_it": "Panca Piana con Catene",
+  "instructions_it": [
+    "Regola la catena leader, accorciandola alla lunghezza desiderata. Posiziona le catene sulle estremità della barra.",
+    "Sdraiati sulla panca, cercando di portare la testa oltre la barra se possibile. Tieni i piedi sotto di te e inarca la schiena. Usando la barra per sostenere il tuo peso, solleva le spalle dalla panca e ritraile, stringendo le scapole insieme. Usa i piedi per spingere i trapezi nella panca. Mantieni questa posizione del corpo tesa durante tutto il movimento. Qualunque sia la larghezza della tua presa, dovrebbe coprire l'anello sulla barra.",
+    "Tira la barra fuori dal supporto senza protrarre le spalle. Concentrati nel stringere la barra e nel cercare di allargarla. Abbassa la barra verso il tuo petto inferiore o stomaco superiore. La barra, il polso e il gomito devono rimanere allineati in ogni momento.",
+    "Fermati quando il bilanciere tocca il tuo torso, e poi spingi la barra verso l'alto con tutta la forza possibile. I gomiti dovrebbero essere tenuti vicini fino al blocco."
   ]
 }

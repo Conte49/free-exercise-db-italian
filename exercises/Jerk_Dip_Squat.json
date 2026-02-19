@@ -1,5 +1,5 @@
 {
-  "name": "Squat con Dip per Jerk",
+  "name": "Jerk Dip Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,8 +12,8 @@
     "calves"
   ],
   "instructions": [
-    "Questo movimento rinforza la parte di dip del jerk. Inizia con il bilanciere posizionato nella posizione del jerk, con le spalle in avanti per creare un supporto e il bilanciere che tocca leggermente la gola. I piedi dovrebbero essere direttamente sotto i fianchi, con le punte dei piedi ruotate verso l'esterno, come è comodo.",
-    "Mantenendo il torso verticale, esegui un dip flettendo le ginocchia, permettendo loro di muoversi in avanti senza spostare i fianchi all'indietro. Il dip non dovrebbe essere eccessivo. Riporta il peso nella posizione di partenza spingendo energicamente attraverso i piedi."
+    "This movement strengthens the dip portion of the jerk. Begin with the bar racked in the jerk position, with the shoulders forward to create a shelf and the bar lightly contacting the throat. The feet should be directly under the hips, with the feet turned out as is comfortable.",
+    "Keeping the torso vertical, dip by flexing the knees, allowing them to travel forward and without moving the hips to the rear. The dip should not be excessive. Return the weight to the starting position by driving forcefully though the feet."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Ce mouvement renforce la partie de plongeon du jet. Commencez avec la barre en position de jet, les épaules vers l'avant pour créer un support et la barre en contact léger avec la gorge. Les pieds doivent être directement sous les hanches, avec les pieds tournés vers l'extérieur selon ce qui est confortable.",
     "En gardant la partie supérieure du corps verticale, plongez en fléchissant les genoux, en les laissant s'avancer sans déplacer les hanches vers l'arrière. Le plongeon ne doit pas être excessif. Remontez à la position de départ en poussant vigoureusement sur les pieds."
+  ],
+  "name_it": "Squat con Dip per Jerk",
+  "instructions_it": [
+    "Questo movimento rinforza la parte di dip del jerk. Inizia con il bilanciere posizionato nella posizione del jerk, con le spalle in avanti per creare un supporto e il bilanciere che tocca leggermente la gola. I piedi dovrebbero essere direttamente sotto i fianchi, con le punte dei piedi ruotate verso l'esterno, come è comodo.",
+    "Mantenendo il torso verticale, esegui un dip flettendo le ginocchia, permettendo loro di muoversi in avanti senza spostare i fianchi all'indietro. Il dip non dovrebbe essere eccessivo. Riporta il peso nella posizione di partenza spingendo energicamente attraverso i piedi."
   ]
 }

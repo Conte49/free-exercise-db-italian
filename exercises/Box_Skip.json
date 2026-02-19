@@ -1,5 +1,5 @@
 {
-  "name": "Salto con la Scatola",
+  "name": "Box Skip",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,11 +15,11 @@
     "quadriceps"
   ],
   "instructions": [
-    "Avrai bisogno di diverse scatole allineate a circa 2,5 metri di distanza l'una dall'altra.",
-    "Inizia fronteggiando la prima scatola con una gamba leggermente indietro rispetto all'altra.",
-    "Spingi con la gamba posteriore, cercando di guadagnare il massimo dell'altezza possibile con i fianchi.",
-    "Immediatamente dopo aver atterrato sulla scatola, spingi l'altra gamba in avanti e verso l'alto per guadagnare altezza e distanza, saltando dalla scatola. Atterra tra le prime due scatole con la stessa gamba che ha atterrato sulla prima scatola.",
-    "Poi, fai un passo verso la scatola successiva e ripeti."
+    "You will need several boxes lined up about 8 feet apart.",
+    "Begin facing the first box with one leg slightly behind the other.",
+    "Drive off the back leg, attempting to gain as much height with the hips as possible.",
+    "Immediately upon landing on the box, drive the other leg forward and upward to gain height and distance, leaping from the box. Land between the first two boxes with the same leg that landed on the first box.",
+    "Then, step to the next box and repeat."
   ],
   "category": "plyometrics",
   "images": [
@@ -33,5 +33,13 @@
     "Utilisez la jambe arrière comme propulsion, en essayant de gagner autant d'altitude que possible au niveau des hanches.",
     "Dès l'atterrissage sur la boîte, projette l'autre jambe en avant et vers le haut pour gagner en hauteur et en distance, en sautant de la boîte. Atteignez le sol entre les deux premières boîtes avec la même jambe qui a atterri sur la première boîte.",
     "Ensuite, passez à la prochaine boîte et répétez l'exercice."
+  ],
+  "name_it": "Salto con la Scatola",
+  "instructions_it": [
+    "Avrai bisogno di diverse scatole allineate a circa 2,5 metri di distanza l'una dall'altra.",
+    "Inizia fronteggiando la prima scatola con una gamba leggermente indietro rispetto all'altra.",
+    "Spingi con la gamba posteriore, cercando di guadagnare il massimo dell'altezza possibile con i fianchi.",
+    "Immediatamente dopo aver atterrato sulla scatola, spingi l'altra gamba in avanti e verso l'alto per guadagnare altezza e distanza, saltando dalla scatola. Atterra tra le prime due scatole con la stessa gamba che ha atterrato sulla prima scatola.",
+    "Poi, fai un passo verso la scatola successiva e ripeti."
   ]
 }

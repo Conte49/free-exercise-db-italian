@@ -15,13 +15,13 @@
     "traps"
   ],
   "instructions": [
-    "Posiziona un bilanciere sul pavimento.",
-    "Stai in mezzo al bilanciere in lunghezza.",
-    "Piegati in avanti piegando le ginocchia e mantenendo la schiena dritta, afferra la parte anteriore del bilanciere con la mano destra. Il tuo palmo dovrebbe essere in posizione neutra, rivolto verso sinistra.",
-    "Afferra la parte posteriore del bilanciere con la mano sinistra. Il palmo della tua mano dovrebbe essere in allineamento di presa neutra (palmi rivolti verso destra). Suggerimento: assicurati che la tua presa sia uniforme sul bilanciere. Il tuo torso dovrebbe essere posizionato esattamente al centro del bilanciere e la distanza tra il tuo torso e la tua mano destra (che dovrebbe essere davanti) dovrebbe essere la stessa della distanza tra il tuo torso e la tua mano sinistra (che dovrebbe essere dietro).",
-    "Ora alzati in posizione eretta con il peso. Suggerimento: i tuoi piedi dovrebbero essere alla larghezza delle spalle e le punte leggermente rivolte verso l'esterno.",
-    "Accovacciati piegando le ginocchia e mantenendo la schiena dritta fino a quando le tue cosce superiori sono parallele al pavimento. Suggerimento: mantieni la schiena il più verticale possibile rispetto al pavimento e la testa alta. Ricorda anche di non lasciare che le ginocchia superino le punte dei piedi. Inspira durante questa parte del movimento.",
-    "Ora risollevati alla posizione di partenza spingendo con i piedi. Suggerimento: mantieni il bilanciere sospeso all'altezza delle braccia e i gomiti bloccati con una leggera flessione. Le braccia servono solo come ganci. Evita di sollevare con esse. Fai il sollevamento con le cosce; non con le braccia."
+    "Place a barbell on the floor.",
+    "Stand in the middle of the bar length wise.",
+    "Bend down by bending at the knees and keeping your back straight and grasp the front of the bar with your right hand. Your palm should be in (neutral grip) facing the left side.",
+    "Grasp the rear of the bar with your left hand. The palm of your hand should be in neutral grip alignment (palms facing the right side). Tip: Ensure that your grip is even on the bar. Your torso should be positioned right in the middle of the bar and the distance between your torso and your right hand (which should be at the front) should be the same as the distance between your torso and your left hand (which should be to your back).",
+    "Now stand straight up with the weight. Tip: Your feet should be shoulder width apart and your toes slightly pointed out.",
+    "Squat down by bending at the knees and keeping your back straight until your upper thighs are parallel with the floor. Tip: Keep your back as vertical as possible with the floor and your head up. Also remember to not let your knees go past your toes. Inhale during this portion of the movement.",
+    "Now drive yourself back up to the starting position by pushing with the feet . Tip: Keep the bar hanging at arm's length and your elbows locked with a slight bend. The arms only serve as hooks. Avoid doing any lifting with them. Do the lifting with your thighs; not your arms."
   ],
   "category": "strength",
   "images": [
@@ -37,5 +37,15 @@
     "Maintenant, tenez-vous droit avec le poids. Conseils : vos pieds doivent être à la largeur des épaules et vos orteils légèrement pointés vers l'extérieur.",
     "Pliez-vous en pliant les genoux et en gardant le dos droit jusqu'à ce que vos cuisses supérieures soient parallèles au sol. Astuce : Gardez votre dos aussi vertical que possible par rapport au sol et la tête levée. N'oubliez pas non plus de ne pas laisser vos genoux dépasser vos orteils. Inhalez pendant cette partie du mouvement.",
     "Maintenant, ramenez-vous à la position de départ en poussant avec les pieds. Conseils : Gardez la barre suspendue à la longueur du bras et vos coudes verrouillés avec un léger angle. Les bras ne servent que d'accroches. Évitez de soulever quoi que ce soit avec eux. Faites le levage avec vos cuisses ; pas avec vos bras."
+  ],
+  "name_it": "Jefferson Squats",
+  "instructions_it": [
+    "Posiziona un bilanciere sul pavimento.",
+    "Stai in mezzo al bilanciere in lunghezza.",
+    "Piegati in avanti piegando le ginocchia e mantenendo la schiena dritta, afferra la parte anteriore del bilanciere con la mano destra. Il tuo palmo dovrebbe essere in posizione neutra, rivolto verso sinistra.",
+    "Afferra la parte posteriore del bilanciere con la mano sinistra. Il palmo della tua mano dovrebbe essere in allineamento di presa neutra (palmi rivolti verso destra). Suggerimento: assicurati che la tua presa sia uniforme sul bilanciere. Il tuo torso dovrebbe essere posizionato esattamente al centro del bilanciere e la distanza tra il tuo torso e la tua mano destra (che dovrebbe essere davanti) dovrebbe essere la stessa della distanza tra il tuo torso e la tua mano sinistra (che dovrebbe essere dietro).",
+    "Ora alzati in posizione eretta con il peso. Suggerimento: i tuoi piedi dovrebbero essere alla larghezza delle spalle e le punte leggermente rivolte verso l'esterno.",
+    "Accovacciati piegando le ginocchia e mantenendo la schiena dritta fino a quando le tue cosce superiori sono parallele al pavimento. Suggerimento: mantieni la schiena il più verticale possibile rispetto al pavimento e la testa alta. Ricorda anche di non lasciare che le ginocchia superino le punte dei piedi. Inspira durante questa parte del movimento.",
+    "Ora risollevati alla posizione di partenza spingendo con i piedi. Suggerimento: mantieni il bilanciere sospeso all'altezza delle braccia e i gomiti bloccati con una leggera flessione. Le braccia servono solo come ganci. Evita di sollevare con esse. Fai il sollevamento con le cosce; non con le braccia."
   ]
 }

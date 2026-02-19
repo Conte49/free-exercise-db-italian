@@ -1,5 +1,5 @@
 {
-  "name": "Distensione su panca con manubri",
+  "name": "Dumbbell Bench Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati su una panca piatta con un manubrio in ciascuna mano appoggiato sulle cosce. I palmi delle mani devono essere rivolti l'uno verso l'altro.",
-    "Poi, usando le cosce per aiutarti a sollevare i manubri, alza i manubri uno alla volta in modo da poterli tenere di fronte a te all'altezza delle spalle.",
-    "Una volta all'altezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani siano rivolti lontano da te. I manubri dovrebbero trovarsi appena ai lati del tuo petto, con il braccio superiore e l'avambraccio che formano un angolo di 90 gradi. Assicurati di mantenere il pieno controllo dei manubri in ogni momento. Questa sarà la tua posizione di partenza.",
-    "Poi, mentre espiri, usa il petto per spingere i manubri verso l'alto. Blocca le braccia in cima al sollevamento e stringi il petto, mantieni la posizione per un secondo e poi inizia a scendere lentamente. Suggerimento: idealmente, abbassare il peso dovrebbe richiedere circa il doppio del tempo rispetto a sollevarlo.",
-    "Ripeti il movimento per il numero di ripetizioni prescritto dal tuo programma di allenamento."
+    "Lie down on a flat bench with a dumbbell in each hand resting on top of your thighs. The palms of your hands will be facing each other.",
+    "Then, using your thighs to help raise the dumbbells up, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width.",
+    "Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. The dumbbells should be just to the sides of your chest, with your upper arm and forearm creating a 90 degree angle. Be sure to maintain full control of the dumbbells at all times. This will be your starting position.",
+    "Then, as you breathe out, use your chest to push the dumbbells up. Lock your arms at the top of the lift and squeeze your chest, hold for a second and then begin coming down slowly. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
+    "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,13 @@
     "Une fois à la largeur des épaules, faites pivoter vos poignets vers l'avant de sorte que les paumes de vos mains vous soient opposées. Les haltères doivent se trouver de chaque côté de votre poitrine, votre bras supérieur et votre avant-bras formant un angle de 90 degrés. Assurez-vous de garder le contrôle total des haltères en tout temps. Ce sera votre position de départ.",
     "Ensuite, pendant que vous expirez, utilisez votre poitrine pour pousser les haltères vers le haut. Verrouillez vos bras au sommet du levage et contractez votre poitrine, maintenez-le pendant une seconde, puis commencez à redescendre lentement. Astuce : idéalement, l'abaissement du poids devrait prendre environ deux fois plus de temps que le fait de le soulever.",
     "Répétez le mouvement pour le nombre prescrit de répétitions de votre programme d'entraînement."
+  ],
+  "name_it": "Distensione su panca con manubri",
+  "instructions_it": [
+    "Sdraiati su una panca piatta con un manubrio in ciascuna mano appoggiato sulle cosce. I palmi delle mani devono essere rivolti l'uno verso l'altro.",
+    "Poi, usando le cosce per aiutarti a sollevare i manubri, alza i manubri uno alla volta in modo da poterli tenere di fronte a te all'altezza delle spalle.",
+    "Una volta all'altezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani siano rivolti lontano da te. I manubri dovrebbero trovarsi appena ai lati del tuo petto, con il braccio superiore e l'avambraccio che formano un angolo di 90 gradi. Assicurati di mantenere il pieno controllo dei manubri in ogni momento. Questa sarà la tua posizione di partenza.",
+    "Poi, mentre espiri, usa il petto per spingere i manubri verso l'alto. Blocca le braccia in cima al sollevamento e stringi il petto, mantieni la posizione per un secondo e poi inizia a scendere lentamente. Suggerimento: idealmente, abbassare il peso dovrebbe richiedere circa il doppio del tempo rispetto a sollevarlo.",
+    "Ripeti il movimento per il numero di ripetizioni prescritto dal tuo programma di allenamento."
   ]
 }

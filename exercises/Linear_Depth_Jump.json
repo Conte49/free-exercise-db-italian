@@ -1,5 +1,5 @@
 {
-  "name": "Salto in Profondità Lineare",
+  "name": "Linear Depth Jump",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Avrai bisogno di due scatole o panchine distanziate di qualche piede l'una dall'altra. Inizia stando in piedi su una scatola rivolta verso l'altra piattaforma.",
-    "Per iniziare il movimento, lascia cadere delicatamente il corpo a terra tra le tue piattaforme, permettendo a ginocchia e anche di flettersi.",
-    "Inverti il movimento esplodendo, estendendo attraverso le anche, le ginocchia e le caviglie per saltare sulla piattaforma opposta.",
-    "Atterra dolcemente, assorbendo l'impatto attraverso le gambe."
+    "You will need two boxes or benches spaced a few feet away from each other. Begin by standing on one box facing towards the other platform.",
+    "To initiate the movement, gently drop down to the ground between your platforms, allowing the knees and hips to flex.",
+    "Reverse the motion by exploding, extending through the hips, knees, and ankles to jump onto the other platform.",
+    "Land softly, asborbing the impact through the legs."
   ],
   "category": "plyometrics",
   "images": [
@@ -29,5 +29,12 @@
     "Pour initier le mouvement, baissez-vous doucement sur le sol entre vos plates-formes, en fléchissant les genoux et les hanches.",
     "Inverser le mouvement en explosant, en étendant les hanches, les genoux et les chevilles pour sauter sur l'autre plateforme.",
     "Atterrissez en douceur, en absorbant l'impact par les jambes."
+  ],
+  "name_it": "Salto in Profondità Lineare",
+  "instructions_it": [
+    "Avrai bisogno di due scatole o panchine distanziate di qualche piede l'una dall'altra. Inizia stando in piedi su una scatola rivolta verso l'altra piattaforma.",
+    "Per iniziare il movimento, lascia cadere delicatamente il corpo a terra tra le tue piattaforme, permettendo a ginocchia e anche di flettersi.",
+    "Inverti il movimento esplodendo, estendendo attraverso le anche, le ginocchia e le caviglie per saltare sulla piattaforma opposta.",
+    "Atterra dolcemente, assorbendo l'impatto attraverso le gambe."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Squat Sissy con Pesi",
+  "name": "Weighted Sissy Squat",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "In piedi, con i piedi alla larghezza delle spalle e le punte dei piedi sollevate, usa una mano per afferrare le travi di un rack per squat e l'altra mano per tenere un disco sopra il petto. Questa è la tua posizione di partenza.",
-    "Mentre usi un braccio per sostenerti, piega le ginocchia e abbassa lentamente il torso verso il suolo portando il bacino e le ginocchia in avanti. Inspira mentre scendi e fermati quando le tue gambe superiori e inferiori formano quasi un angolo di 90 gradi. Mantieni la posizione di allungamento per un secondo.",
-    "Dopo il secondo di attesa, usa i muscoli della coscia per riportare il torso alla posizione di partenza. Espira mentre ti sollevi.",
-    "Ripeti per il numero di volte consigliato."
+    "Standing upright, with feet at shoulder width and toes raised, use one hand to hold onto the beams of a squat rack and the opposite arm to hold a plate on top of your chest. This is your starting position.",
+    "As you use one arm to hold yourself, bend at the knees and slowly lower your torso toward the ground by bringing your pelvis and knees forward. Inhale as you go down and stop when your upper and lower legs almost create a 90-degree angle. Hold the stretch position for a second.",
+    "After your one second hold, use your thigh muscles to bring your torso back up to the starting position. Exhale as you move up.",
+    "Repeat for the recommended amount of times."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Alors que vous utilisez un bras pour vous maintenir, fléchissez les genoux et abaissez lentement votre torse vers le sol en amenant votre bassin et vos genoux vers l'avant. Inhalez pendant que vous descendez et arrêtez-vous lorsque vos cuisses et vos mollets forment presque un angle de 90 degrés. Maintenez la position d'étirement pendant une seconde.",
     "Après votre temps d'arrêt d'une seconde, utilisez vos muscles des cuisses pour ramener votre torse à la position de départ. Exhalez en montant.",
     "Répétez le nombre de fois recommandé."
+  ],
+  "name_it": "Squat Sissy con Pesi",
+  "instructions_it": [
+    "In piedi, con i piedi alla larghezza delle spalle e le punte dei piedi sollevate, usa una mano per afferrare le travi di un rack per squat e l'altra mano per tenere un disco sopra il petto. Questa è la tua posizione di partenza.",
+    "Mentre usi un braccio per sostenerti, piega le ginocchia e abbassa lentamente il torso verso il suolo portando il bacino e le ginocchia in avanti. Inspira mentre scendi e fermati quando le tue gambe superiori e inferiori formano quasi un angolo di 90 gradi. Mantieni la posizione di allungamento per un secondo.",
+    "Dopo il secondo di attesa, usa i muscoli della coscia per riportare il torso alla posizione di partenza. Espira mentre ti sollevi.",
+    "Ripeti per il numero di volte consigliato."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Affondo sospeso",
+  "name": "Suspended Split Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Sospendi le cinghie in modo che le maniglie siano a 45-75 cm dal pavimento.",
-    "Fermati di spalle rispetto all'attrezzatura, posiziona il piede posteriore nella maniglia dietro di te. Tieni la testa rivolta in avanti e il petto in alto, con il ginocchio leggermente piegato. Questa sarà la tua posizione di partenza.",
-    "Scendi piegando il ginocchio e i fianchi, abbassandoti verso il pavimento. Mantieni il peso sul tallone del piede e conserva la postura durante l'esercizio.",
-    "Alla fine del movimento, inverti l'azione, estendendo l'anca e il ginocchio per tornare alla posizione di partenza."
+    "Suspend your straps so the handles are 18-30 inches from the floor.",
+    "Facing away from the setup, place your rear foot into the handle behind you. Keep your head looking forward and your chest up, with your knee slightly bent. This will be your starting position.",
+    "Descend by flexing the knee and hips, lowering yourself to the ground. Keep your weight on the heel of your foot and maintain your posture throughout the exercise.",
+    "At the bottom of the movement, reverse the motion, extending through the hip and knee to return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,12 @@
     "Dos au montage, placez votre pied arrière dans la poignée derrière vous. Gardez la tête tournée vers l'avant et le torse levé, avec le genou légèrement fléchi. Cette position sera votre point de départ.",
     "Descendez en fléchissant le genou et l'hanche, en vous baissant jusqu'au sol. Gardez votre poids sur le talon et maintenez votre posture tout au long de l'exercice.",
     "En bas du mouvement, inversez le mouvement, en étendant la hanche et le genou pour revenir à la position de départ."
+  ],
+  "name_it": "Affondo sospeso",
+  "instructions_it": [
+    "Sospendi le cinghie in modo che le maniglie siano a 45-75 cm dal pavimento.",
+    "Fermati di spalle rispetto all'attrezzatura, posiziona il piede posteriore nella maniglia dietro di te. Tieni la testa rivolta in avanti e il petto in alto, con il ginocchio leggermente piegato. Questa sarà la tua posizione di partenza.",
+    "Scendi piegando il ginocchio e i fianchi, abbassandoti verso il pavimento. Mantieni il peso sul tallone del piede e conserva la postura durante l'esercizio.",
+    "Alla fine del movimento, inverti l'azione, estendendo l'anca e il ginocchio per tornare alla posizione di partenza."
   ]
 }

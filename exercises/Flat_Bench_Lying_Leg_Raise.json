@@ -1,5 +1,5 @@
 {
-  "name": "Sollevamento Gambe Sdraiati su Panca Piana",
+  "name": "Flat Bench Lying Leg Raise",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati con la schiena piatta su una panca e le gambe distese di fronte a te oltre il bordo.",
-    "Posiziona le mani sotto i glutei con i palmi rivolti verso il basso oppure ai lati tenendo la panca. Questa sarà la tua posizione di partenza.",
-    "Mantenendo le gambe distese, il più dritte possibile con le ginocchia leggermente piegate ma bloccate, solleva le gambe fino a formare un angolo di 90 gradi con il pavimento. Espira mentre esegui questa parte del movimento e mantieni la contrazione in alto per un secondo.",
-    "Ora, mentre inspiri, abbassa lentamente le gambe fino alla posizione di partenza."
+    "Lie with your back flat on a bench and your legs extended in front of you off the end.",
+    "Place your hands either under your glutes with your palms down or by the sides holding on to the bench. This will be your starting position.",
+    "As you keep your legs extended, straight as possible with your knees slightly bent but locked raise your legs until they make a 90-degree angle with the floor. Exhale as you perform this portion of the movement and hold the contraction at the top for a second.",
+    "Now, as you inhale, slowly lower your legs back down to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Placez vos mains soit sous vos fesses avec les paumes vers le bas, soit sur les côtés en tenant le banc. Ce sera votre position de départ.",
     "En gardant vos jambes tendues, aussi droites que possible avec les genoux légèrement fléchis mais verrouillés, soulevez vos jambes jusqu'à ce qu'elles forment un angle de 90 degrés avec le sol. Exhalez pendant cette partie du mouvement et maintenez la contraction en haut pendant une seconde.",
     "Maintenant, en inspirant, abaissez lentement vos jambes jusqu'à la position de départ."
+  ],
+  "name_it": "Sollevamento Gambe Sdraiati su Panca Piana",
+  "instructions_it": [
+    "Sdraiati con la schiena piatta su una panca e le gambe distese di fronte a te oltre il bordo.",
+    "Posiziona le mani sotto i glutei con i palmi rivolti verso il basso oppure ai lati tenendo la panca. Questa sarà la tua posizione di partenza.",
+    "Mantenendo le gambe distese, il più dritte possibile con le ginocchia leggermente piegate ma bloccate, solleva le gambe fino a formare un angolo di 90 gradi con il pavimento. Espira mentre esegui questa parte del movimento e mantieni la contrazione in alto per un secondo.",
+    "Ora, mentre inspiri, abbassa lentamente le gambe fino alla posizione di partenza."
   ]
 }

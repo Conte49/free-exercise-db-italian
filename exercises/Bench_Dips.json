@@ -1,5 +1,5 @@
 {
-  "name": "Dips su panca",
+  "name": "Bench Dips",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Per questo esercizio avrai bisogno di posizionare una panca dietro la schiena. Con la panca perpendicolare al tuo corpo e guardando lontano da essa, afferra il bordo della panca con le mani completamente estese, separate alla larghezza delle spalle. Le gambe saranno estese in avanti, piegate in vita e perpendicolari al tuo torso. Questa sarà la tua posizione di partenza.",
-    "Abbassa lentamente il corpo mentre inspiri piegando i gomiti fino a scendere abbastanza da formare un angolo leggermente inferiore ai 90 gradi tra il braccio superiore e l'avambraccio. Suggerimento: mantieni i gomiti il più vicino possibile durante il movimento. Gli avambracci dovrebbero sempre puntare verso il basso.",
-    "Usando i tuoi tricipiti per riportare su il torso, sollevati di nuovo nella posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "For this exercise you will need to place a bench behind your back. With the bench perpendicular to your body, and while looking away from it, hold on to the bench on its edge with the hands fully extended, separated at shoulder width. The legs will be extended forward, bent at the waist and perpendicular to your torso. This will be your starting position.",
+    "Slowly lower your body as you inhale by bending at the elbows until you lower yourself far enough to where there is an angle slightly smaller than 90 degrees between the upper arm and the forearm. Tip: Keep the elbows as close as possible throughout the movement. Forearms should always be pointing down.",
+    "Using your triceps to bring your torso up again, lift yourself back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Abaissez lentement votre corps en inspirant en fléchissant les coudes jusqu'à ce que vous vous abaissez suffisamment pour créer un angle légèrement inférieur à 90 degrés entre le bras supérieur et l'avant-bras. Astuce : Gardez les coudes aussi près que possible tout au long du mouvement. Les avant-bras doivent toujours pointer vers le bas.",
     "En utilisant vos triceps pour remonter votre torse, ramenez-vous à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Dips su panca",
+  "instructions_it": [
+    "Per questo esercizio avrai bisogno di posizionare una panca dietro la schiena. Con la panca perpendicolare al tuo corpo e guardando lontano da essa, afferra il bordo della panca con le mani completamente estese, separate alla larghezza delle spalle. Le gambe saranno estese in avanti, piegate in vita e perpendicolari al tuo torso. Questa sarà la tua posizione di partenza.",
+    "Abbassa lentamente il corpo mentre inspiri piegando i gomiti fino a scendere abbastanza da formare un angolo leggermente inferiore ai 90 gradi tra il braccio superiore e l'avambraccio. Suggerimento: mantieni i gomiti il più vicino possibile durante il movimento. Gli avambracci dovrebbero sempre puntare verso il basso.",
+    "Usando i tuoi tricipiti per riportare su il torso, sollevati di nuovo nella posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Salto in Lungo da In Piedi",
+  "name": "Standing Long Jump",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Questo esercizio è meglio eseguito su sabbia o su una superficie morbida per l'atterraggio. Assicurati di poter misurare la distanza.",
-    "Utilizzando un ampio movimento delle braccia e un contro-movimento delle gambe, salta in avanti il più lontano possibile.",
-    "Cerca di atterrare con i piedi davanti a te, raggiungendo il più lontano possibile con le gambe.",
-    "Misura la distanza dal punto di atterraggio al punto di partenza e registra i risultati."
+    "This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.",
+    "Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.",
+    "Attempt to land with your feet out in front you, reaching as far as possible with your legs.",
+    "Measure the distance from your landing point to the starting point and track results."
   ],
   "category": "plyometrics",
   "images": [
@@ -29,5 +29,12 @@
     "En utilisant un grand mouvement du bras et un contre-mouvement des jambes, sautez vers l'avant aussi loin que vous le pouvez.",
     "Essayez d'atterrir avec les pieds devant vous, en étendant les jambes le plus possible.",
     "Mesurez la distance entre votre point d'atterrissage et le point de départ et suivez les résultats."
+  ],
+  "name_it": "Salto in Lungo da In Piedi",
+  "instructions_it": [
+    "Questo esercizio è meglio eseguito su sabbia o su una superficie morbida per l'atterraggio. Assicurati di poter misurare la distanza.",
+    "Utilizzando un ampio movimento delle braccia e un contro-movimento delle gambe, salta in avanti il più lontano possibile.",
+    "Cerca di atterrare con i piedi davanti a te, raggiungendo il più lontano possibile con le gambe.",
+    "Misura la distanza dal punto di atterraggio al punto di partenza e registra i risultati."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Step Up con Bilanciere",
+  "name": "Barbell Step Ups",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,10 +14,10 @@
     "quadriceps"
   ],
   "instructions": [
-    "Stai dritto mentre tieni un bilanciere posizionato sulla parte posteriore delle spalle (leggermente sotto il collo) e posizionati dietro una piattaforma elevata (come quella utilizzata per il supporto dietro una panca piatta). Questa è la tua posizione di partenza.",
-    "Posiziona il piede destro sulla piattaforma elevata. Salta sulla piattaforma estendendo l'anca e il ginocchio della gamba destra. Usa principalmente il tallone per sollevare il resto del corpo e posiziona anche il piede della gamba sinistra sulla piattaforma. Espira mentre esegui la forza necessaria per salire.",
-    "Scendi con la gamba sinistra flettendo l'anca e il ginocchio della gamba destra mentre inspiri. Torna alla posizione di partenza posizionando il piede destro accanto al piede sinistro nella posizione iniziale.",
-    "Ripeti con la gamba destra per il numero raccomandato di ripetizioni e poi esegui con la gamba sinistra."
+    "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.",
+    "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
+    "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
+    "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,12 @@
     "Placez le pied droit sur la plateforme surélevée. Montez sur la plateforme en étendant l’hip et le genou de votre jambe droite. Utilisez principalement les talons pour soulever le reste de votre corps et placez le pied de la jambe gauche sur la plateforme également. Exhalez en exécutant la force nécessaire pour monter.",
     "Descendez d'un degré avec la jambe gauche en fléchissant le bassin et le genou de la jambe droite en inspirant. Revenez à la position debout initiale en plaçant le pied droit à côté du pied gauche dans la position initiale.",
     "Répétez avec la jambe droite le nombre de répétitions recommandé, puis exécutez avec la jambe gauche."
+  ],
+  "name_it": "Step Up con Bilanciere",
+  "instructions_it": [
+    "Stai dritto mentre tieni un bilanciere posizionato sulla parte posteriore delle spalle (leggermente sotto il collo) e posizionati dietro una piattaforma elevata (come quella utilizzata per il supporto dietro una panca piatta). Questa è la tua posizione di partenza.",
+    "Posiziona il piede destro sulla piattaforma elevata. Salta sulla piattaforma estendendo l'anca e il ginocchio della gamba destra. Usa principalmente il tallone per sollevare il resto del corpo e posiziona anche il piede della gamba sinistra sulla piattaforma. Espira mentre esegui la forza necessaria per salire.",
+    "Scendi con la gamba sinistra flettendo l'anca e il ginocchio della gamba destra mentre inspiri. Torna alla posizione di partenza posizionando il piede destro accanto al piede sinistro nella posizione iniziale.",
+    "Ripeti con la gamba destra per il numero raccomandato di ripetizioni e poi esegui con la gamba sinistra."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Croce di Ferro",
+  "name": "Iron Cross",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,5 +22,7 @@
     "Iron_Cross/1.jpg"
   ],
   "id": "Iron_Cross",
-  "instructions_fr": []
+  "instructions_fr": [],
+  "name_it": "Croce di Ferro",
+  "instructions_it": []
 }

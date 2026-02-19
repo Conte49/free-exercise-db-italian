@@ -1,5 +1,5 @@
 {
-  "name": "Stacchi con Cavi",
+  "name": "Cable Deadlifts",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,10 +14,10 @@
     "lower back"
   ],
   "instructions": [
-    "Sposta i cavi verso il fondo delle torri e seleziona un peso appropriato. Posizionati direttamente tra i montanti.",
-    "Per iniziare, accovacciati flettendo i fianchi e le ginocchia fino a raggiungere le maniglie.",
-    "Dopo averle afferrate, inizia la tua ascesa. Spingendo attraverso i talloni estendi i fianchi e le ginocchia mantenendo le mani pendenti ai lati. Tieni la testa e il petto alti durante il movimento.",
-    "Dopo aver raggiunto una posizione eretta completa, torna alla posizione di partenza e ripeti."
+    "Move the cables to the bottom of the towers and select an appropriate weight. Stand directly in between the uprights.",
+    "To begin, squat down be flexing your hips and knees until you can reach the handles.",
+    "After grasping them, begin your ascent. Driving through your heels extend your hips and knees keeping your hands hanging at your side. Keep your head and chest up throughout the movement.",
+    "After reaching a full standing position, Return to the starting position and repeat."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,12 @@
     "Pour commencer, accroupissez-vous en fléchissant les hanches et les genoux jusqu'à ce que vous puissiez atteindre les poignées.",
     "Après les avoir saisies, commencez votre ascension. En vous appuyant sur vos talons, étendez vos hanches et vos genoux tout en gardant les mains le long de votre corps. Gardez la tête et la poitrine relevées pendant tout le mouvement.",
     "Une fois la position debout complète atteinte, retournez à la position de départ et répétez l'exercice."
+  ],
+  "name_it": "Stacchi con Cavi",
+  "instructions_it": [
+    "Sposta i cavi verso il fondo delle torri e seleziona un peso appropriato. Posizionati direttamente tra i montanti.",
+    "Per iniziare, accovacciati flettendo i fianchi e le ginocchia fino a raggiungere le maniglie.",
+    "Dopo averle afferrate, inizia la tua ascesa. Spingendo attraverso i talloni estendi i fianchi e le ginocchia mantenendo le mani pendenti ai lati. Tieni la testa e il petto alti durante il movimento.",
+    "Dopo aver raggiunto una posizione eretta completa, torna alla posizione di partenza e ripeti."
   ]
 }

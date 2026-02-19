@@ -1,5 +1,5 @@
 {
-  "name": "Sollevamento con Manubrio Singolo",
+  "name": "Single Dumbbell Raise",
   "force": null,
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,9 +12,9 @@
     "traps"
   ],
   "instructions": [
-    "Con una posizione ampia, tieni un manubrio con entrambe le mani, afferrando la testa del manubrio invece del manico. Le tue braccia dovrebbero essere estese e pendere all'altezza della vita. Questa sarà la tua posizione di partenza.",
-    "Solleva il peso fino a portarlo sopra il livello delle spalle, mantenendo le braccia estese. Il tuo torso e i fianchi dovrebbero rimanere fissi durante il movimento.",
-    "Torna alla posizione di partenza e ripeti per il numero raccomandato di ripetizioni."
+    "With a wide stance, hold a dumbell with both hands, grasping the head of the dumbbell instead of the handle. Your arms should be extended and hanging at the waist. This will be your starting position.",
+    "Raise the weight until it is above shoulder level, keeping your arms extended. Your torso and hips should remain stationary throughout the movement.",
+    "Return to the starting position and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "En prenant une large posture, tenez un haltère avec les deux mains, en saisissant la tête de l'haltère plutôt que la poignée. Vos bras doivent être étendus et pendre au niveau de la taille. Cette position sera votre position de départ.",
     "Soulevez le poids jusqu'à ce qu'il soit au-dessus du niveau de vos épaules, en gardant vos bras tendus. Votre torse et vos hanches doivent rester immobiles tout au long du mouvement.",
     "Retournez à la position de départ et répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Sollevamento con Manubrio Singolo",
+  "instructions_it": [
+    "Con una posizione ampia, tieni un manubrio con entrambe le mani, afferrando la testa del manubrio invece del manico. Le tue braccia dovrebbero essere estese e pendere all'altezza della vita. Questa sarà la tua posizione di partenza.",
+    "Solleva il peso fino a portarlo sopra il livello delle spalle, mantenendo le braccia estese. Il tuo torso e i fianchi dovrebbero rimanere fissi durante il movimento.",
+    "Torna alla posizione di partenza e ripeti per il numero raccomandato di ripetizioni."
   ]
 }

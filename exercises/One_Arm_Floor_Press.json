@@ -1,5 +1,5 @@
 {
-  "name": "Press su un braccio a terra",
+  "name": "One Arm Floor Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,13 +12,13 @@
     "shoulders"
   ],
   "instructions": [
-    "Sdraiati su una superficie piana con la schiena appoggiata a terra o a un tappetino da esercizio. Assicurati che le ginocchia siano piegate.",
-    "Fatti passare il bilanciere da un partner con una mano. All'inizio, il tuo braccio dovrebbe essere quasi completamente esteso, simile alla posizione di partenza di un press su panca con bilanciere. Tuttavia, questa volta la tua presa sarà neutra (palmi rivolti verso il torso).",
-    "Assicurati che la mano che non stai usando per sollevare il peso sia posizionata accanto a te.",
-    "Inizia l'esercizio abbassando il bilanciere fino a quando il tuo gomito tocca il suolo. Assicurati di inspirare mentre questo è il movimento eccentrico (parte di abbassamento dell'esercizio).",
-    "Poi inizia a sollevare il bilanciere di nuovo nella posizione di partenza originale. Ricorda di espirare durante il movimento concentrico (parte di sollevamento dell'esercizio).",
-    "Ripeti fino a completare le ripetizioni consigliate.",
-    "Cambia braccio e ripeti il movimento."
+    "Lie down on a flat surface with your back pressing against the floor or an exercise mat. Make sure your knees are bent.",
+    "Have a partner hand you the bar on one hand. When starting, your arm should be just about fully extended, similar to the starting position of a barbell bench press. However, this time your grip will be neutral (palms facing your torso).",
+    "Make sure the hand you are not using to lift the weight is placed by your side.",
+    "Begin the exercise by lowering the barbell until your elbow touches the ground. Make sure to breathe in as this is the eccentric (lowering part of the exercise).",
+    "Then start lifting the barbell back up to the original starting position. Remember to breathe out during the concentric (lifting part of the exercise).",
+    "Repeat until you have performed your recommended repetitions.",
+    "Switch arms and repeat the movement."
   ],
   "category": "strength",
   "images": [
@@ -34,5 +34,15 @@
     "Ensuite, commencez à soulever la barre de nouveau jusqu'à la position de départ d'origine. N'oubliez pas de respirer pendant la phase concentrique (la partie de l'exercice où vous soulevez le poids).",
     "Répétez jusqu'à ce que vous ayez effectué le nombre de répétitions recommandé.",
     "Changez de bras et répétez le mouvement."
+  ],
+  "name_it": "Press su un braccio a terra",
+  "instructions_it": [
+    "Sdraiati su una superficie piana con la schiena appoggiata a terra o a un tappetino da esercizio. Assicurati che le ginocchia siano piegate.",
+    "Fatti passare il bilanciere da un partner con una mano. All'inizio, il tuo braccio dovrebbe essere quasi completamente esteso, simile alla posizione di partenza di un press su panca con bilanciere. Tuttavia, questa volta la tua presa sarà neutra (palmi rivolti verso il torso).",
+    "Assicurati che la mano che non stai usando per sollevare il peso sia posizionata accanto a te.",
+    "Inizia l'esercizio abbassando il bilanciere fino a quando il tuo gomito tocca il suolo. Assicurati di inspirare mentre questo è il movimento eccentrico (parte di abbassamento dell'esercizio).",
+    "Poi inizia a sollevare il bilanciere di nuovo nella posizione di partenza originale. Ricorda di espirare durante il movimento concentrico (parte di sollevamento dell'esercizio).",
+    "Ripeti fino a completare le ripetizioni consigliate.",
+    "Cambia braccio e ripeti il movimento."
   ]
 }

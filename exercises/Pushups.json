@@ -1,5 +1,5 @@
 {
-  "name": "Flessioni",
+  "name": "Pushups",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati a terra a faccia in giù e posiziona le mani a circa 90 centimetri di distanza l'una dall'altra mantenendo il busto sollevato con le braccia distese.",
-    "Successivamente, abbassati fino a quasi toccare il pavimento con il petto mentre inspiri.",
-    "Ora espira e spingi il tuo corpo superiore verso l'alto fino alla posizione di partenza mentre contrai il petto.",
-    "Dopo una breve pausa nella posizione contratta in alto, puoi iniziare ad abbassarti di nuovo per quante più ripetizioni necessarie."
+    "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.",
+    "Next, lower yourself downward until your chest almost touches the floor as you inhale.",
+    "Now breathe out and press your upper body back up to the starting position while squeezing your chest.",
+    "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Ensuite, abaissez-vous jusqu'à ce que votre poitrine touche presque le sol en inspirant.",
     "Respirez maintenant et remontez la partie supérieure de votre corps jusqu'à la position de départ en contractant votre poitrine.",
     "Après une brève pause à la position contractée haute, vous pouvez commencer à vous baisser à nouveau pour autant de répétitions que nécessaire."
+  ],
+  "name_it": "Flessioni",
+  "instructions_it": [
+    "Sdraiati a terra a faccia in giù e posiziona le mani a circa 90 centimetri di distanza l'una dall'altra mantenendo il busto sollevato con le braccia distese.",
+    "Successivamente, abbassati fino a quasi toccare il pavimento con il petto mentre inspiri.",
+    "Ora espira e spingi il tuo corpo superiore verso l'alto fino alla posizione di partenza mentre contrai il petto.",
+    "Dopo una breve pausa nella posizione contratta in alto, puoi iniziare ad abbassarti di nuovo per quante più ripetizioni necessarie."
   ]
 }

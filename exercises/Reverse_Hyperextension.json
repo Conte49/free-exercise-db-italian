@@ -1,5 +1,5 @@
 {
-  "name": "Iperestensione Inversa",
+  "name": "Reverse Hyperextension",
   "force": "pull",
   "level": "intermediate",
   "mechanic": null,
@@ -12,11 +12,11 @@
     "glutes"
   ],
   "instructions": [
-    "Posiziona i piedi tra i cuscini dopo aver caricato un peso adeguato. Sdraiati sul cuscino superiore, permettendo ai fianchi di pendere sul retro, mentre afferri le maniglie per mantenere la posizione.",
-    "Per iniziare il movimento, flette i fianchi, portando le gambe in avanti.",
-    "Inverte il movimento estendendo i fianchi, spingendo la gamba indietro. È molto importante non estendere eccessivamente l'anca in questo movimento, fermandosi prima di raggiungere il tuo pieno raggio di movimento.",
-    "Ritorna flettendo nuovamente l'anca, portando il carrello in avanti il più possibile.",
-    "Ripeti per il numero desiderato di ripetizioni."
+    "Place your feet between the pads after loading an appropriate weight. Lay on the top pad, allowing your hips to hang off the back, while grasping the handles to hold your position.",
+    "To begin the movement, flex the hips, pulling the legs forward.",
+    "Reverse the motion by extending the hips, kicking the leg back. It is very important not to over-extend the hip on this movement, stopping short of your full range of motion.",
+    "Return by again flexing the hip, pulling the carriage forward as far as you can.",
+    "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,13 @@
     "Inversez le mouvement en étendant les hanches, en renvoyant la jambe vers l'arrière. Il est très important de ne pas trop étendre l'articulation de la hanche lors de ce mouvement, en vous arrêtant avant votre amplitude de mouvement maximale.",
     "Revenez en fléchissant à nouveau l'hip et en tirant la poignée vers vous aussi loin que possible.",
     "Répétez pour le nombre de répétitions souhaité."
+  ],
+  "name_it": "Iperestensione Inversa",
+  "instructions_it": [
+    "Posiziona i piedi tra i cuscini dopo aver caricato un peso adeguato. Sdraiati sul cuscino superiore, permettendo ai fianchi di pendere sul retro, mentre afferri le maniglie per mantenere la posizione.",
+    "Per iniziare il movimento, flette i fianchi, portando le gambe in avanti.",
+    "Inverte il movimento estendendo i fianchi, spingendo la gamba indietro. È molto importante non estendere eccessivamente l'anca in questo movimento, fermandosi prima di raggiungere il tuo pieno raggio di movimento.",
+    "Ritorna flettendo nuovamente l'anca, portando il carrello in avanti il più possibile.",
+    "Ripeti per il numero desiderato di ripetizioni."
   ]
 }

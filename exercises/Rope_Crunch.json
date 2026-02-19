@@ -1,5 +1,5 @@
 {
-  "name": "Crunch con Corda",
+  "name": "Rope Crunch",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Mettiti in ginocchio a 30-60 cm da un sistema di cavi con una corda attaccata.",
-    "Dopo aver selezionato un peso appropriato, afferra la corda con entrambe le mani sopra la testa. Il tuo tronco dovrebbe essere eretto nella posizione di partenza.",
-    "Per iniziare, flette la colonna vertebrale, cercando di avvicinare la gabbia toracica alle gambe mentre tiri il cavo verso il basso.",
-    "Fermati sul fondo del movimento, quindi torna lentamente alla posizione di partenza.",
-    "Questi possono essere eseguiti con torsioni o di lato per colpire gli obliqui."
+    "Kneel 1-2 feet in front of a cable system with a rope attached.",
+    "After selecting an appropriate weight, grasp the rope with both hands reaching overhead. Your torso should be upright in the starting position.",
+    "To begin, flex at the spine, attempting to bring your rib cage to your legs as you pull the cable down.",
+    "Pause at the bottom of the motion, and then slowly return to the starting position.",
+    "These can be done with twists or to the side to hit the obliques."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "Pour commencer, fléchissez l'échine, en essayant d'amener la cage thoracique vers les jambes lorsque vous tirez le câble vers le bas.",
     "Arrêtez-vous au niveau le plus bas du mouvement, puis revenez lentement à la position de départ.",
     "Ces exercices peuvent être effectués avec des torsions ou sur le côté pour cibler les obliques."
+  ],
+  "name_it": "Crunch con Corda",
+  "instructions_it": [
+    "Mettiti in ginocchio a 30-60 cm da un sistema di cavi con una corda attaccata.",
+    "Dopo aver selezionato un peso appropriato, afferra la corda con entrambe le mani sopra la testa. Il tuo tronco dovrebbe essere eretto nella posizione di partenza.",
+    "Per iniziare, flette la colonna vertebrale, cercando di avvicinare la gabbia toracica alle gambe mentre tiri il cavo verso il basso.",
+    "Fermati sul fondo del movimento, quindi torna lentamente alla posizione di partenza.",
+    "Questi possono essere eseguiti con torsioni o di lato per colpire gli obliqui."
   ]
 }

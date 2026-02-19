@@ -1,5 +1,5 @@
 {
-  "name": "Pressa Spalle (Militare) alla Macchina",
+  "name": "Machine Shoulder (Military) Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,11 +11,11 @@
     "triceps"
   ],
   "instructions": [
-    "Siediti sulla macchina per il pressa spalle e seleziona il peso.",
-    "Afferrati ai manici ai lati mantenendo i gomiti piegati e allineati con il torso. Questa sarà la tua posizione di partenza.",
-    "Ora solleva i manici mentre espiri e distendi completamente le braccia. In cima alla posizione assicurati di mantenere la contrazione per un secondo.",
-    "Abbassa lentamente i manici tornando alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Sit down on the Shoulder Press Machine and select the weight.",
+    "Grab the handles to your sides as you keep the elbows bent and in line with your torso. This will be your starting position.",
+    "Now lift the handles as you exhale and you extend the arms fully. At the top of the position make sure that you hold the contraction for a second.",
+    "Lower the handles slowly back to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,13 @@
     "Maintenant, soulevez les poignées en expirant et étendez complètement les bras. En haut de la position, assurez-vous d'avoir une contraction pendant une seconde.",
     "Abaissez lentement les poignées en position de départ pendant que vous inspirez.",
     "Répétez le nombre de répétitions recommandé."
+  ],
+  "name_it": "Pressa Spalle (Militare) alla Macchina",
+  "instructions_it": [
+    "Siediti sulla macchina per il pressa spalle e seleziona il peso.",
+    "Afferrati ai manici ai lati mantenendo i gomiti piegati e allineati con il torso. Questa sarà la tua posizione di partenza.",
+    "Ora solleva i manici mentre espiri e distendi completamente le braccia. In cima alla posizione assicurati di mantenere la contrazione per un secondo.",
+    "Abbassa lentamente i manici tornando alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

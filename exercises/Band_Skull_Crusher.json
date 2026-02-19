@@ -1,5 +1,5 @@
 {
-  "name": "Skull Crusher con Banda",
+  "name": "Band Skull Crusher",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Fissa una banda alla base di un rack o della panca. Sdraiati sulla panca in modo che la banda sia allineata con la tua testa.",
-    "Afferrati alla banda, sollevando i gomiti in modo che il braccio superiore sia perpendicolare al pavimento. Con il gomito flesso, la banda dovrebbe essere sopra la tua testa. Questa sarà la tua posizione di partenza.",
-    "Estendi il gomito per raddrizzare il braccio, mantenendo il braccio superiore in posizione. Fai una pausa in cima al movimento e torna alla posizione di partenza."
+    "Secure a band to the base of a rack or the bench. Lay on the bench so that the band is lined up with your head.",
+    "Take hold of the band, raising your elbows so that the upper arm is perpendicular to the floor. With the elbow flexed, the band should be above your head. This will be your starting position.",
+    "Extend through the elbow to straighten your arm, keeping your upper arm in place. Pause at the top of the motion, and return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -23,5 +23,11 @@
     "Attachez une bande à la base d'un rack ou du banc. Étendez-vous sur le banc de sorte que la bande soit alignée avec votre tête.",
     "Prenez la bande, en relevant les coudes de sorte que le bras supérieur soit perpendiculaire au sol. Avec le coude fléchi, la bande doit se trouver au-dessus de votre tête.  C'est votre position de départ.",
     "Étendez-vous au niveau du coude pour redresser votre bras, en gardant votre bras supérieur immobile. Faites une pause en haut du mouvement, puis revenez à la position de départ."
+  ],
+  "name_it": "Skull Crusher con Banda",
+  "instructions_it": [
+    "Fissa una banda alla base di un rack o della panca. Sdraiati sulla panca in modo che la banda sia allineata con la tua testa.",
+    "Afferrati alla banda, sollevando i gomiti in modo che il braccio superiore sia perpendicolare al pavimento. Con il gomito flesso, la banda dovrebbe essere sopra la tua testa. Questa sarà la tua posizione di partenza.",
+    "Estendi il gomito per raddrizzare il braccio, mantenendo il braccio superiore in posizione. Fai una pausa in cima al movimento e torna alla posizione di partenza."
   ]
 }

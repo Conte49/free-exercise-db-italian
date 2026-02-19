@@ -1,5 +1,5 @@
 {
-  "name": "Trazione all'indietro",
+  "name": "Backward Drag",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,8 +15,8 @@
     "lower back"
   ],
   "instructions": [
-    "Carica un slittino con il peso desiderato, fissando una corda o delle cinghie al slittino che puoi afferrare.",
-    "Inizia l'esercizio muovendoti all'indietro per una certa distanza. Inclinandoti indietro, estendi le gambe per fare passi brevi e muoverti il più rapidamente possibile."
+    "Load a sled with the desired weight, attaching a rope or straps to the sled that you can hold onto.",
+    "Begin the exercise by moving backwards for a given distance. Leaning back, extend through the legs for short steps to move as quickly as possible."
   ],
   "category": "strongman",
   "images": [
@@ -27,5 +27,10 @@
   "instructions_fr": [
     "Chargez un traîneau avec le poids souhaité, en attachant une corde ou des sangles au traîneau que vous pouvez tenir.",
     "Commencez l'exercice en reculant sur une certaine distance. Penchez-vous en arrière et étendez vos jambes pour faire de petits pas afin de vous déplacer aussi rapidement que possible."
+  ],
+  "name_it": "Trazione all'indietro",
+  "instructions_it": [
+    "Carica un slittino con il peso desiderato, fissando una corda o delle cinghie al slittino che puoi afferrare.",
+    "Inizia l'esercizio muovendoti all'indietro per una certa distanza. Inclinandoti indietro, estendi le gambe per fare passi brevi e muoverti il più rapidamente possibile."
   ]
 }

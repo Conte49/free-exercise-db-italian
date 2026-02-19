@@ -1,5 +1,5 @@
 {
-  "name": "Spinta con il Carrello",
+  "name": "Sled Push",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,8 +15,8 @@
     "triceps"
   ],
   "instructions": [
-    "Carica il tuo carrello da spinta con il peso desiderato.",
-    "Assumi una postura atletica, inclinando il corpo verso il carrello con le braccia completamente estese, afferrando le maniglie. Spingi il carrello il più velocemente possibile, concentrandoti sull'estensione dei fianchi e delle ginocchia per rinforzare la tua catena posteriore."
+    "Load your pushing sled with the desired weight.",
+    "Take an athletic posture, leaning into the sled with your arms fully extended, grasping the handles. Push the sled as fast as possible, focusing on extending your hips and knees to strengthen your posterior chain."
   ],
   "category": "strongman",
   "images": [
@@ -27,5 +27,10 @@
   "instructions_fr": [
     "Chargez votre traîneau à pousser avec le poids souhaité.",
     "Prenez une posture athlétique, penchez-vous vers le traîneau en étendant complètement vos bras et en saisissant les poignées. Poussez le traîneau aussi vite que possible, en vous concentrant sur l'extension de vos hanches et de vos genoux pour renforcer votre chaîne postérieure."
+  ],
+  "name_it": "Spinta con il Carrello",
+  "instructions_it": [
+    "Carica il tuo carrello da spinta con il peso desiderato.",
+    "Assumi una postura atletica, inclinando il corpo verso il carrello con le braccia completamente estese, afferrando le maniglie. Spingi il carrello il più velocemente possibile, concentrandoti sull'estensione dei fianchi e delle ginocchia per rinforzare la tua catena posteriore."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dei tricipiti con manubri sdraiati",
+  "name": "Lying Dumbbell Tricep Extension",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Sdraiati su una panca piatta tenendo due manubri direttamente di fronte a te. Le braccia devono essere completamente estese a un angolo di 90 gradi rispetto al torso e al pavimento. I palmi devono essere rivolti verso l'interno e i gomiti devono essere vicini al corpo. Questa è la posizione di partenza.",
-    "Mentre inspiri e mantieni le braccia superiori ferme con i gomiti vicini, abbassa lentamente il peso fino a quando i manubri sono vicino alle orecchie.",
-    "A quel punto, mantenendo i gomiti vicini e le braccia superiori ferme, usa i tricipiti per riportare il peso alla posizione di partenza mentre espiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.",
+    "As you breathe in and you keep the upper arms stationary with the elbows in, slowly lower the weight until the dumbbells are near your ears.",
+    "At that point, while keeping the elbows in and the upper arms stationary, use the triceps to bring the weight back up to the starting position as you breathe out.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "En respirant, gardez les bras supérieurs immobiles avec les coudes rentrants, puis baissez lentement la charge jusqu'à ce que les haltères se rapprochent de vos oreilles.",
     "À ce stade, tout en gardant les coudes près du corps et les bras supérieurs fixes, utilisez les triceps pour ramener le poids à la position de départ pendant que vous expirez.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Estensione dei tricipiti con manubri sdraiati",
+  "instructions_it": [
+    "Sdraiati su una panca piatta tenendo due manubri direttamente di fronte a te. Le braccia devono essere completamente estese a un angolo di 90 gradi rispetto al torso e al pavimento. I palmi devono essere rivolti verso l'interno e i gomiti devono essere vicini al corpo. Questa è la posizione di partenza.",
+    "Mentre inspiri e mantieni le braccia superiori ferme con i gomiti vicini, abbassa lentamente il peso fino a quando i manubri sono vicino alle orecchie.",
+    "A quel punto, mantenendo i gomiti vicini e le braccia superiori ferme, usa i tricipiti per riportare il peso alla posizione di partenza mentre espiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

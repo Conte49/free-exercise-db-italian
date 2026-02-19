@@ -1,5 +1,5 @@
 {
-  "name": "Squat Potente con Banda Inversa",
+  "name": "Reverse Band Power Squat",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "lower back"
   ],
   "instructions": [
-    "Inizia in un power rack con i perni e la barra impostati all'altezza appropriata. Dopo aver caricato la barra, attacca le bande alla parte superiore del rack, utilizzando sia i perni che il telaio stesso. Attacca l'altra estremità delle bande alla barra.",
-    "Inizia posizionandoti sotto la barra e ponendola sulla parte posteriore delle spalle. Stringi le scapole insieme e ruota i gomiti in avanti, cercando di piegare la barra sulle spalle. Rimuovi la barra dal rack, creando un arco stretto nella parte bassa della schiena, e fai un passo indietro per tornare in posizione. Posiziona i piedi larghi per enfatizzare di più la schiena, i glutei, gli adduttori e i muscoli posteriori della coscia.",
-    "Tieni la testa rivolta in avanti. Con la schiena, le spalle e il core contratti, spingi le ginocchia e il sedere all'esterno mentre inizi la discesa. Siediti indietro con i fianchi il più possibile. Idealmente, le tue tibie dovrebbero essere perpendicolari al suolo. Una posizione più bassa della barra richiede un'inclinazione maggiore del torso per mantenere la barra sopra i talloni. Continua fino a superare la parallela, definita come la piega dell'anca allineata con la parte superiore del ginocchio.",
-    "Mantenendo il peso sui talloni e spingendo i piedi e le ginocchia verso l'esterno, spingi verso l'alto mentre guidi il movimento con la testa. Continua verso l'alto, mantenendo la tensione dalla testa ai piedi, fino a tornare alla posizione di partenza."
+    "Begin in a power rack with the pins and bar set at the appropriate height. After loading the bar, attach bands to the top of the rack, using either pegs or the frame itself. Attach the other end of the bands to the bar.",
+    "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wide for more emphasis on the back, glutes, adductors, and hamstrings.",
+    "Keep your head facing forward. With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips as much as possible. Ideally, your shins should be perpendicular to the ground. Lower bar position necessitates a greater torso lean to keep the bar over the heels. Continue until you break parallel, which is defined as the crease of the hip being in line with the top of the knee.",
+    "Keeping the weight on your heels and pushing your feet and knees out, drive upward as you lead the movement with your head. Continue upward, maintaining tightness head to toe, until you have returned to the starting position."
   ],
   "category": "powerlifting",
   "images": [
@@ -31,5 +31,12 @@
     "Commencez par passer sous la barre et placez-la sur le dos des épaules. Serrez vos omoplates et faites pivoter vos coudes vers l'avant en essayant de plier la barre sur vos épaules. Retirez la barre du support, en créant un arc dans votre bas du dos, et reculez pour prendre une position stable. Écarrez les pieds pour mettre davantage l'accent sur le dos, les fessiers, les adducteurs et les ischio-jambiers.",
     "Gardez la tête tournée vers l'avant. Avec le dos, les épaules et le tronc bien tendus, poussez les genoux et les fesses vers l'extérieur au moment où vous commencez votre descente. Asseyez-vous avec les hanches autant que possible. Idéalement, vos mollets devraient être perpendiculaires au sol. Une position de barre plus basse nécessite une inclinaison du torse plus importante pour maintenir la barre au-dessus des talons. Continuez jusqu'à ce que vous soyez à l'horizontale, c'est-à-dire lorsque la pliure de la hanche est alignée avec le dessus du genou.",
     "En gardant le poids sur les talons et en poussant les pieds et les genoux vers l'extérieur, montez en guidant le mouvement avec la tête. Continuez à monter, en maintenant la tension de la tête aux pieds, jusqu'à ce que vous soyez revenu à la position de départ."
+  ],
+  "name_it": "Squat Potente con Banda Inversa",
+  "instructions_it": [
+    "Inizia in un power rack con i perni e la barra impostati all'altezza appropriata. Dopo aver caricato la barra, attacca le bande alla parte superiore del rack, utilizzando sia i perni che il telaio stesso. Attacca l'altra estremità delle bande alla barra.",
+    "Inizia posizionandoti sotto la barra e ponendola sulla parte posteriore delle spalle. Stringi le scapole insieme e ruota i gomiti in avanti, cercando di piegare la barra sulle spalle. Rimuovi la barra dal rack, creando un arco stretto nella parte bassa della schiena, e fai un passo indietro per tornare in posizione. Posiziona i piedi larghi per enfatizzare di più la schiena, i glutei, gli adduttori e i muscoli posteriori della coscia.",
+    "Tieni la testa rivolta in avanti. Con la schiena, le spalle e il core contratti, spingi le ginocchia e il sedere all'esterno mentre inizi la discesa. Siediti indietro con i fianchi il più possibile. Idealmente, le tue tibie dovrebbero essere perpendicolari al suolo. Una posizione più bassa della barra richiede un'inclinazione maggiore del torso per mantenere la barra sopra i talloni. Continua fino a superare la parallela, definita come la piega dell'anca allineata con la parte superiore del ginocchio.",
+    "Mantenendo il peso sui talloni e spingendo i piedi e le ginocchia verso l'esterno, spingi verso l'alto mentre guidi il movimento con la testa. Continua verso l'alto, mantenendo la tensione dalla testa ai piedi, fino a tornare alla posizione di partenza."
   ]
 }

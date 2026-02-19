@@ -1,5 +1,5 @@
 {
-  "name": "Clean con Kettlebell a un Braccio",
+  "name": "One-Arm Kettlebell Clean",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,9 +14,9 @@
     "traps"
   ],
   "instructions": [
-    "Posiziona un kettlebell tra i tuoi piedi. Mentre ti pieghi per afferrare il kettlebell, spingi indietro i fianchi e mantieni gli occhi rivolti in avanti.",
-    "Porta il kettlebell alle spalle estendendo le gambe e i fianchi mentre sollevi il kettlebell verso la spalla. Il polso dovrebbe ruotare mentre lo fai.",
-    "Riporta il peso alla posizione di partenza."
+    "Place a kettlebell between your feet. As you bend down to grab the kettlebell, push your butt back and keep your eyes looking forward.",
+    "Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
+    "Return the weight to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,11 @@
     "Placez une kettlebell entre vos pieds. En vous penchant pour attraper la kettlebell, poussez votre fessier en arrière et gardez le regard tourné vers l'avant.",
     "Épaulez la kettlebell jusqu'à vos épaules en étendant les jambes et les hanches tout en soulevant la kettlebell vers votre épaule. Le poignet doit se tourner pendant que vous faites cela.",
     "Ramenez le poids à la position de départ."
+  ],
+  "name_it": "Clean con Kettlebell a un Braccio",
+  "instructions_it": [
+    "Posiziona un kettlebell tra i tuoi piedi. Mentre ti pieghi per afferrare il kettlebell, spingi indietro i fianchi e mantieni gli occhi rivolti in avanti.",
+    "Porta il kettlebell alle spalle estendendo le gambe e i fianchi mentre sollevi il kettlebell verso la spalla. Il polso dovrebbe ruotare mentre lo fai.",
+    "Riporta il peso alla posizione di partenza."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Flessori dell'anca in piedi",
+  "name": "Standing Hip Flexors",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi con la schiena dritta e la colonna vertebrale verticale, il piede sinistro leggermente davanti a quello destro.",
-    "Piega entrambe le ginocchia e solleva il tallone posteriore da terra mentre spingi l'anca destra in avanti. Tuttavia, non puoi ottenere uno stiramento profondo e completo in questa posizione, poiché è difficile rilassare il flessore dell'anca e stare in equilibrio contemporaneamente. Cambia lato."
+    "Stand up straight with the spine vertical, the left foot slightly in front of the right.",
+    "Bend both knees and lift the back heel off the floor as you press the right hip forward. You can't get a thorough, deep stretch in this position, however, because it's hard to relax the hip flexor and stand on it at the same time. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Tenez-vous droit, la colonne vertébrale verticale, le pied gauche légèrement devant le pied droit.",
     "Pliez les deux genoux et soulevez le talon arrière du sol en poussant l’hanche droite vers l’avant. Vous ne pouvez pas obtenir un étirement approfondi dans cette position, cependant, car il est difficile de détendre le flexor de hanche et de vous tenir debout sur celui-ci en même temps. Changer de côté."
+  ],
+  "name_it": "Flessori dell'anca in piedi",
+  "instructions_it": [
+    "Stai in piedi con la schiena dritta e la colonna vertebrale verticale, il piede sinistro leggermente davanti a quello destro.",
+    "Piega entrambe le ginocchia e solleva il tallone posteriore da terra mentre spingi l'anca destra in avanti. Tuttavia, non puoi ottenere uno stiramento profondo e completo in questa posizione, poiché è difficile rilassare il flessore dell'anca e stare in equilibrio contemporaneamente. Cambia lato."
   ]
 }

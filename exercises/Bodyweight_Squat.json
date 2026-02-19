@@ -1,5 +1,5 @@
 {
-  "name": "Squat a corpo libero",
+  "name": "Bodyweight Squat",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Stai in piedi con i piedi alla larghezza delle spalle. Puoi posizionare le mani dietro la testa. Questa sarà la tua posizione di partenza.",
-    "Inizia il movimento piegando le ginocchia e i fianchi, sedendoti all'indietro con i fianchi.",
-    "Continua fino a raggiungere la massima profondità se sei in grado, e poi inverte rapidamente il movimento fino a tornare alla posizione di partenza. Mentre esegui lo squat, tieni la testa e il petto alti e spingi le ginocchia verso l'esterno."
+    "Stand with your feet shoulder width apart. You can place your hands behind your head. This will be your starting position.",
+    "Begin the movement by flexing your knees and hips, sitting back with your hips.",
+    "Continue down to full depth if you are able,and quickly reverse the motion until you return to the starting position. As you squat, keep your head and chest up and push your knees out."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "Debout, les pieds à la largeur des épaules. Vous pouvez placer vos mains derrière votre tête. Ce sera votre position de départ.",
     "Commencez le mouvement en fléchissant les genoux et les hanches, en revenant en arrière avec vos hanches.",
     "Descendez jusqu'à la profondeur maximale si vous le pouvez, et inversez rapidement le mouvement jusqu'à retourner à la position de départ. Lors de votre squat, gardez la tête et la poitrine relevées et poussez les genoux vers l'extérieur."
+  ],
+  "name_it": "Squat a corpo libero",
+  "instructions_it": [
+    "Stai in piedi con i piedi alla larghezza delle spalle. Puoi posizionare le mani dietro la testa. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento piegando le ginocchia e i fianchi, sedendoti all'indietro con i fianchi.",
+    "Continua fino a raggiungere la massima profondità se sei in grado, e poi inverte rapidamente il movimento fino a tornare alla posizione di partenza. Mentre esegui lo squat, tieni la testa e il petto alti e spingi le ginocchia verso l'esterno."
   ]
 }

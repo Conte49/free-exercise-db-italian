@@ -1,5 +1,5 @@
 {
-  "name": "Salto Laterale su Una Gamba",
+  "name": "Single-Leg Lateral Hop",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,10 +14,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Posizionati di lato a un cono o un ostacolo. Per entrare nella posizione di partenza, stai in equilibrio su una gamba con il ginocchio leggermente piegato.",
-    "Per iniziare, esegui un salto di controbalzo per saltare lateralmente oltre il cono.",
-    "Atterra sulla gamba con cui hai saltato e rimbalza immediatamente tornando alla posizione di partenza.",
-    "Continua a saltare avanti e indietro."
+    "Stand to the side of a cone or hurdle. To get into the start position, stand on one leg with your knee slightly bent.",
+    "To begin, execute a counterjump to hop sideways over the cone.",
+    "Land on your jumping leg, and immediately rebound out of it by jumping back to the start position.",
+    "Continue hopping back and forth."
   ],
   "category": "plyometrics",
   "images": [
@@ -30,5 +30,12 @@
     "Pour commencer, exécutez un contre-saut pour sauter de côté par-dessus le cône.",
     "Rejoignez la jambe de saut, et rebondissez immédiatement dessus en sautant pour revenir à la position de départ.",
     "Continuez à sauter de va et vient."
+  ],
+  "name_it": "Salto Laterale su Una Gamba",
+  "instructions_it": [
+    "Posizionati di lato a un cono o un ostacolo. Per entrare nella posizione di partenza, stai in equilibrio su una gamba con il ginocchio leggermente piegato.",
+    "Per iniziare, esegui un salto di controbalzo per saltare lateralmente oltre il cono.",
+    "Atterra sulla gamba con cui hai saltato e rimbalza immediatamente tornando alla posizione di partenza.",
+    "Continua a saltare avanti e indietro."
   ]
 }

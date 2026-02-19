@@ -1,5 +1,5 @@
 {
-  "name": "Pressa per Spalle - Con Bande",
+  "name": "Shoulder Press - With Bands",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,9 +11,9 @@
     "triceps"
   ],
   "instructions": [
-    "Per iniziare, stai in piedi su una banda elastica in modo che la tensione inizi all'altezza delle braccia. Afferra i manici e sollevali in modo che le mani siano all'altezza delle spalle ai lati.",
-    "Ruota i polsi in modo che i palmi delle mani siano rivolti in avanti. I gomiti devono essere piegati, con le braccia superiori e gli avambracci allineati al torso. Questa è la tua posizione di partenza.",
-    "Mentre espiri, solleva i manici fino a quando le braccia non sono completamente estese sopra la testa."
+    "To begin, stand on an exercise band so that tension begins at arm's length. Grasp the handles and lift them so that the hands are at shoulder height at each side.",
+    "Rotate the wrists so that the palms of your hands are facing forward. Your elbows should be bent, with the upper arms and forearms in line to the torso. This is your starting position.",
+    "As you exhale, lift the handles up until your arms are fully extended overhead."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,11 @@
     "Pour commencer, tenez-vous sur une bande d'exercice de sorte que la tension commence à la longueur du bras. Saisissez les poignées et soulevez-les de sorte que les mains se trouvent à la hauteur des épaules de chaque côté.",
     "Faites pivoter les poignets de sorte que les paumes de vos mains soient tournées vers l'avant. Vos coudés doivent être fléchis, avec les bras supérieurs et les avant-bras alignés avec le torse. Telle est votre position de départ.",
     "En expirant, soulevez les poignées jusqu'à ce que vos bras soient complètement tendus au-dessus de votre tête."
+  ],
+  "name_it": "Pressa per Spalle - Con Bande",
+  "instructions_it": [
+    "Per iniziare, stai in piedi su una banda elastica in modo che la tensione inizi all'altezza delle braccia. Afferra i manici e sollevali in modo che le mani siano all'altezza delle spalle ai lati.",
+    "Ruota i polsi in modo che i palmi delle mani siano rivolti in avanti. I gomiti devono essere piegati, con le braccia superiori e gli avambracci allineati al torso. Questa è la tua posizione di partenza.",
+    "Mentre espiri, solleva i manici fino a quando le braccia non sono completamente estese sopra la testa."
   ]
 }

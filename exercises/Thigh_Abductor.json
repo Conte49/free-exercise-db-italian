@@ -1,5 +1,5 @@
 {
-  "name": "Abduttore della coscia",
+  "name": "Thigh Abductor",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "glutes"
   ],
   "instructions": [
-    "Per iniziare, siediti sulla macchina per abduttori e seleziona un peso con cui ti senti a tuo agio. Quando le tue gambe sono posizionate correttamente, afferra le maniglie su ciascun lato. L'intero tuo corpo superiore (dalla vita in su) deve rimanere fermo. Questa è la posizione di partenza.",
-    "Premi lentamente contro la macchina con le gambe per allontanarle l'una dall'altra mentre espiri.",
-    "Senti la contrazione per un secondo e inizia a riportare le gambe nella posizione di partenza mentre inspiri. Nota: Ricorda di mantenere il corpo superiore fermo per prevenire eventuali infortuni.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "To begin, sit down on the abductor machine and select a weight you are comfortable with. When your legs are positioned properly, grip the handles on each side. Your entire upper body (from the waist up) should be stationary. This is the starting position.",
+    "Slowly press against the machine with your legs to move them away from each other while exhaling.",
+    "Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary to prevent any injuries from occurring.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Appuyez lentement sur la machine avec vos jambes pour les éloigner l'une de l'autre en expirant.",
     "Respirant, ramenez vos jambes vers la position initiale en contractant vos abdominaux. \n\nNote : N'oubliez pas de maintenir votre corps supérieur immobile pour éviter toute blessure potentielle.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Abduttore della coscia",
+  "instructions_it": [
+    "Per iniziare, siediti sulla macchina per abduttori e seleziona un peso con cui ti senti a tuo agio. Quando le tue gambe sono posizionate correttamente, afferra le maniglie su ciascun lato. L'intero tuo corpo superiore (dalla vita in su) deve rimanere fermo. Questa è la posizione di partenza.",
+    "Premi lentamente contro la macchina con le gambe per allontanarle l'una dall'altra mentre espiri.",
+    "Senti la contrazione per un secondo e inizia a riportare le gambe nella posizione di partenza mentre inspiri. Nota: Ricorda di mantenere il corpo superiore fermo per prevenire eventuali infortuni.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

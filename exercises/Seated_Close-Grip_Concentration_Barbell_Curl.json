@@ -1,5 +1,5 @@
 {
-  "name": "Curl con bilanciere concentrato a presa ravvicinata da seduto",
+  "name": "Seated Close-Grip Concentration Barbell Curl",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Siediti su una panca piatta con un bilanciere o un E-Z Bar davanti a te tra le gambe. Le gambe dovrebbero essere divaricate con le ginocchia piegate e i piedi a terra.",
-    "Usa le braccia per sollevare il bilanciere e posizionare la parte posteriore delle braccia superiori sopra le cosce interne (circa tre pollici e mezzo dalla parte anteriore del ginocchio). È necessaria una presa supinata più stretta della larghezza delle spalle per eseguire questo esercizio. Suggerimento: il braccio dovrebbe essere esteso a lunghezza d'arm e il bilanciere dovrebbe essere sopra il pavimento. Questa sarà la tua posizione di partenza.",
-    "Mantenendo le braccia superiori fisse, arriccia i pesi in avanti contrarre i bicipiti mentre espiri. Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i tuoi bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Tieni la posizione contratta per un secondo mentre contrai i bicipiti.",
-    "Inizia lentamente a riportare il bilanciere nella posizione di partenza mentre inspiri. Suggerimento: evita movimenti oscillatori in qualsiasi momento.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Sit down on a flat bench with a barbell or E-Z Bar in front of you in between your legs. Your legs should be spread with the knees bent and the feet on the floor.",
+    "Use your arms to pick the barbell up and place the back of your upper arms on top of your inner thighs (around three and a half inches away from the front of the knee). A supinated grip closer than shoulder width is needed to perform this exercise. Tip: Your arm should be extended at arms length and the barbell should be above the floor. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps.",
+    "Slowly begin to bring the barbell back to starting position as your breathe in. Tip: Avoid swinging motions at any time.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "En maintenant les bras supérieurs immobiles, soulevez les poids en les pliant vers l'avant tout en contractant les biceps pendant que vous expirez. Seules les avant-bras doivent bouger. Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient à la hauteur des épaules. Maintenez cette position contractée pendant une seconde en contractant les biceps.",
     "Ramenez lentement la barre vers sa position initiale tout en respirant. Conseils : Évitez les mouvements de balançoement à tout moment.",
     "Répétez le mouvement pendant le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con bilanciere concentrato a presa ravvicinata da seduto",
+  "instructions_it": [
+    "Siediti su una panca piatta con un bilanciere o un E-Z Bar davanti a te tra le gambe. Le gambe dovrebbero essere divaricate con le ginocchia piegate e i piedi a terra.",
+    "Usa le braccia per sollevare il bilanciere e posizionare la parte posteriore delle braccia superiori sopra le cosce interne (circa tre pollici e mezzo dalla parte anteriore del ginocchio). È necessaria una presa supinata più stretta della larghezza delle spalle per eseguire questo esercizio. Suggerimento: il braccio dovrebbe essere esteso a lunghezza d'arm e il bilanciere dovrebbe essere sopra il pavimento. Questa sarà la tua posizione di partenza.",
+    "Mantenendo le braccia superiori fisse, arriccia i pesi in avanti contrarre i bicipiti mentre espiri. Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i tuoi bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Tieni la posizione contratta per un secondo mentre contrai i bicipiti.",
+    "Inizia lentamente a riportare il bilanciere nella posizione di partenza mentre inspiri. Suggerimento: evita movimenti oscillatori in qualsiasi momento.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

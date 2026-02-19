@@ -1,5 +1,5 @@
 {
-  "name": "Curl con Cavo per Polsi",
+  "name": "Cable Wrist Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia posizionando una panca piatta di fronte a un cavo a basso puleggia con un attacco a barra dritta.",
-    "Usa le braccia per afferrare la barra del cavo con una presa supinata stretta fino alla larghezza delle spalle (palmi verso l'alto) e portala in alto in modo che gli avambracci siano appoggiati sulla parte superiore delle cosce. I tuoi polsi dovrebbero pendere appena oltre le ginocchia.",
-    "Inizia a curvare il polso verso l'alto ed espira. Mantieni la contrazione per un secondo.",
-    "Abbassa lentamente i polsi di nuovo alla posizione di partenza mentre inspiri.",
-    "Gli avambracci dovrebbero rimanere fissi mentre l'unico movimento necessario per eseguire questo esercizio è il polso.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Start out by placing a flat bench in front of a low pulley cable that has a straight bar attachment.",
+    "Use your arms to grab the cable bar with a narrow to shoulder width supinated grip (palms up) and bring them up so that your forearms are resting against the top of your thighs. Your wrists should be hanging just beyond your knees.",
+    "Start out by curling your wrist upwards and exhaling. Keep the contraction for a second.",
+    "Slowly lower your wrists back down to the starting position while inhaling.",
+    "Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "Abaissez lentement vos poignets jusqu'à la position de départ tout en inspirant.",
     "Votre avant-bras doit rester immobile, seul votre poignet doit bouger pour exécuter cet exercice.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con Cavo per Polsi",
+  "instructions_it": [
+    "Inizia posizionando una panca piatta di fronte a un cavo a basso puleggia con un attacco a barra dritta.",
+    "Usa le braccia per afferrare la barra del cavo con una presa supinata stretta fino alla larghezza delle spalle (palmi verso l'alto) e portala in alto in modo che gli avambracci siano appoggiati sulla parte superiore delle cosce. I tuoi polsi dovrebbero pendere appena oltre le ginocchia.",
+    "Inizia a curvare il polso verso l'alto ed espira. Mantieni la contrazione per un secondo.",
+    "Abbassa lentamente i polsi di nuovo alla posizione di partenza mentre inspiri.",
+    "Gli avambracci dovrebbero rimanere fissi mentre l'unico movimento necessario per eseguire questo esercizio è il polso.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

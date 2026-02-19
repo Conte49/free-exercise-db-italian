@@ -1,5 +1,5 @@
 {
-  "name": "Alzata Naturale Gluteo e Hamstring",
+  "name": "Natural Glute Ham Raise",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "lower back"
   ],
   "instructions": [
-    "Utilizzando il cuscino per le gambe di una macchina per lat machine o di una panca per preacher, posizionati in modo che le caviglie siano sotto i cuscini, le ginocchia sulla seduta e voltati lontano dalla macchina. Dovresti essere in posizione eretta e mantenere una buona postura.",
-    "Questa sarà la tua posizione di partenza. Abbassati in modo controllato fino a quando le ginocchia non sono quasi completamente dritte.",
-    "Rimanendo sotto controllo, sollevati di nuovo fino alla posizione di partenza.",
-    "Se non riesci a completare una ripetizione, utilizza una banda, un partner o spingiti su una scatola per aiutarti a completare la ripetizione."
+    "Using the leg pad of a lat pulldown machine or a preacher bench, position yourself so that your ankles are under the pads, knees on the seat, and you are facing away from the machine. You should be upright and maintaining good posture.",
+    "This will be your starting position. Lower yourself under control until your knees are almost completely straight.",
+    "Remaining in control, raise yourself back up to the starting position.",
+    "If you are unable to complete a rep, use a band, a partner, or push off of a box to aid in completing a repetition."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Cela sera votre position de départ. Abaissez-vous en contrôlant jusqu'à ce que vos genoux soient presque complètement tendus.",
     "En restant contrôlé, remettez-vous debout jusqu'à la position de départ.",
     "Si vous n'êtes pas en mesure d'effectuer une répétition complète, utilisez une bande de résistance, l'aide d'un partenaire ou poussez sur une boîte pour vous aider à effectuer la répétition."
+  ],
+  "name_it": "Alzata Naturale Gluteo e Hamstring",
+  "instructions_it": [
+    "Utilizzando il cuscino per le gambe di una macchina per lat machine o di una panca per preacher, posizionati in modo che le caviglie siano sotto i cuscini, le ginocchia sulla seduta e voltati lontano dalla macchina. Dovresti essere in posizione eretta e mantenere una buona postura.",
+    "Questa sarà la tua posizione di partenza. Abbassati in modo controllato fino a quando le ginocchia non sono quasi completamente dritte.",
+    "Rimanendo sotto controllo, sollevati di nuovo fino alla posizione di partenza.",
+    "Se non riesci a completare una ripetizione, utilizza una banda, un partner o spingiti su una scatola per aiutarti a completare la ripetizione."
   ]
 }

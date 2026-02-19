@@ -1,5 +1,5 @@
 {
-  "name": "Dip alle parallele",
+  "name": "Parallel Bar Dip",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Posizionati tra un set di barre parallele. Appoggia una mano su ciascuna barra e poi fai un piccolo salto per aiutarti a entrare nella posizione di partenza con le braccia distese.",
-    "Inizia flettendo il gomito, abbassando il corpo fino a quando le braccia non superano i 90 gradi. Evita di oscillare e mantieni una buona postura durante la discesa.",
-    "Inverti il movimento estendendo il gomito, spingendoti di nuovo verso l'alto nella posizione di partenza.",
-    "Ripeti per il numero desiderato di ripetizioni."
+    "Stand between a set of parallel bars. Place a hand on each bar, and then take a small jump to help you get into the starting position with your arms locked out.",
+    "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",
+    "Reverse the motion by extending the elbow, pushing yourself back up into the starting position.",
+    "Repeat for the desired number of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Commencez par fléchir le coude, en abaissant votre corps jusqu'à ce que vos bras forment un angle de 90 degrés. Évitez de balancer et maintenez une bonne posture tout au long de la descente.",
     "Inverser le mouvement en étendant le coude, en vous repoussant vers la position de départ.",
     "Répétez pour le nombre de répétitions souhaité."
+  ],
+  "name_it": "Dip alle parallele",
+  "instructions_it": [
+    "Posizionati tra un set di barre parallele. Appoggia una mano su ciascuna barra e poi fai un piccolo salto per aiutarti a entrare nella posizione di partenza con le braccia distese.",
+    "Inizia flettendo il gomito, abbassando il corpo fino a quando le braccia non superano i 90 gradi. Evita di oscillare e mantieni una buona postura durante la discesa.",
+    "Inverti il movimento estendendo il gomito, spingendoti di nuovo verso l'alto nella posizione di partenza.",
+    "Ripeti per il numero desiderato di ripetizioni."
   ]
 }

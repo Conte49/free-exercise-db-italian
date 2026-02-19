@@ -1,5 +1,5 @@
 {
-  "name": "Crunch obliqui",
+  "name": "Oblique Crunches",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,13 +9,13 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati a terra con la parte bassa della schiena premuta contro il pavimento. Per questo esercizio, dovrai posizionare una mano accanto alla testa e l'altra di lato contro il pavimento.",
-    "Assicurati che i piedi siano sollevati e appoggiati su una superficie piana.",
-    "Ora solleva la spalla dalla parte in cui la tua mano tocca la testa.",
-    "Semplicemente solleva la spalla e il corpo verso l'alto fino a toccare il ginocchio. Ad esempio, se hai la mano destra accanto alla testa, dovrai sollevare il corpo verso l'alto fino a far toccare il gomito destro al ginocchio sinistro. La stessa variazione può essere applicata facendo l'inverso e usando il gomito sinistro per toccare il ginocchio destro.",
-    "Dopo che il tuo ginocchio tocca il gomito, abbassa il corpo fino a tornare alla posizione di partenza.",
-    "Ricorda di inspirare durante la fase eccentrica (abbassamento) dell'esercizio e di espirare durante la fase concentrica (sollevamento) dell'esercizio.",
-    "Continua ad alternare in questo modo fino a completare tutte le ripetizioni consigliate per ciascun lato."
+    "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put one hand beside your head and the other to the side against the floor.",
+    "Make sure your feet are elevated and resting on a flat surface.",
+    "Now lift the shoulder in which your hand is touching your head.",
+    "Simply elevate your shoulder and body upward until you touch your knee. For example, if you have your right hand besides your head, then you want to elevate your body upwards until your right elbow touches your left knee. The same variation can be applied doing the inverse and using your left elbow to touch your right knee.",
+    "After your knee touches your elbow, lower your body until you have reached the starting position.",
+    "Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (upward) part of the exercise.",
+    "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,15 @@
     "Une fois que votre genou touche votre coude, abaissez votre corps jusqu'à ce que vous soyez revenu à la position de départ.",
     "N'oubliez pas de respirer pendant la phase excentrique (abaissement) de l'exercice et d'expirer pendant la phase concentrique (montée) de l'exercice.",
     "Continuez à alterner de cette manière jusqu'à ce que toutes les répétitions recommandées pour chaque côté aient été effectuées."
+  ],
+  "name_it": "Crunch obliqui",
+  "instructions_it": [
+    "Sdraiati a terra con la parte bassa della schiena premuta contro il pavimento. Per questo esercizio, dovrai posizionare una mano accanto alla testa e l'altra di lato contro il pavimento.",
+    "Assicurati che i piedi siano sollevati e appoggiati su una superficie piana.",
+    "Ora solleva la spalla dalla parte in cui la tua mano tocca la testa.",
+    "Semplicemente solleva la spalla e il corpo verso l'alto fino a toccare il ginocchio. Ad esempio, se hai la mano destra accanto alla testa, dovrai sollevare il corpo verso l'alto fino a far toccare il gomito destro al ginocchio sinistro. La stessa variazione può essere applicata facendo l'inverso e usando il gomito sinistro per toccare il ginocchio destro.",
+    "Dopo che il tuo ginocchio tocca il gomito, abbassa il corpo fino a tornare alla posizione di partenza.",
+    "Ricorda di inspirare durante la fase eccentrica (abbassamento) dell'esercizio e di espirare durante la fase concentrica (sollevamento) dell'esercizio.",
+    "Continua ad alternare in questo modo fino a completare tutte le ripetizioni consigliate per ciascun lato."
   ]
 }

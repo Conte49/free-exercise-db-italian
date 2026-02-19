@@ -1,5 +1,5 @@
 {
-  "name": "Abbraccia una Palla",
+  "name": "Hug A Ball",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,9 +12,9 @@
     "glutes"
   ],
   "instructions": [
-    "Siediti sul pavimento.",
-    "Posiziona una palla da esercizio tra le gambe e abbassa i fianchi verso il pavimento.",
-    "Abbraccia la palla con le braccia per sostenere il tuo corpo. Regola le gambe in modo che i piedi siano piatti sul pavimento e le ginocchia siano allineate sopra le caviglie. Tieni una buona presa sulla palla in modo che non rotoli via e non ti faccia cadere sui glutei."
+    "Seat yourself on the floor.",
+    "Straddle an exercise ball between both legs and lower your hips down toward the floor.",
+    "Hug your arms around the ball to support your body. Adjust your legs so that your feet are flat on the floor and your knees line up over your ankles. Keep a good grip on the ball so it doesn't roll away from you and send you back onto your buttocks."
   ],
   "category": "stretching",
   "images": [
@@ -26,5 +26,11 @@
     "Asseyez-vous par terre.",
     "Écartez une balle d'exercice entre vos jambes et baissez les hanches vers le sol.",
     "Enveloppez vos bras autour de la balle pour soutenir votre corps. Ajustez vos jambes de sorte que vos pieds soient à plat sur le sol et que vos genoux se trouvent au-dessus de vos chevilles. Maintenez une bonne prise sur la balle pour qu'elle ne roule pas et ne vous renvoie pas sur les fesses."
+  ],
+  "name_it": "Abbraccia una Palla",
+  "instructions_it": [
+    "Siediti sul pavimento.",
+    "Posiziona una palla da esercizio tra le gambe e abbassa i fianchi verso il pavimento.",
+    "Abbraccia la palla con le braccia per sostenere il tuo corpo. Regola le gambe in modo che i piedi siano piatti sul pavimento e le ginocchia siano allineate sopra le caviglie. Tieni una buona presa sulla palla in modo che non rotoli via e non ti faccia cadere sui glutei."
   ]
 }

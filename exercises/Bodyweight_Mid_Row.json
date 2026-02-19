@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con il peso del corpo",
+  "name": "Bodyweight Mid Row",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "lats"
   ],
   "instructions": [
-    "Inizia afferrando con una presa media o larga un attrezzo per trazioni con i palmi rivolti verso di te. Da una posizione appesa, porta le ginocchia al petto, inclinati all'indietro e fai passare le gambe oltre il lato dell'attrezzo per trazioni. Questa sarà la tua posizione di partenza.",
-    "Iniziando con le braccia dritte, piega i gomiti e ritira le scapole per sollevare il corpo fino a quando le gambe non toccano l'attrezzo per trazioni.",
-    "Dopo una breve pausa, torna alla posizione di partenza."
+    "Begin by taking a medium to wide grip on a pull-up apparatus with your palms facing away from you. From a hanging position, tuck your knees to your chest, leaning back and getting your legs over your side of the pull-up apparatus. This will be your starting position.",
+    "Beginning with your arms straight, flex the elbows and retract the shoulder blades to raise your body up until your legs contact the pull-up apparatus.",
+    "After a brief pause, return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -26,5 +26,11 @@
     "Commencez en prenant une poignée moyenne à large sur un appareil de traction avec vos paumes face à vous. À partir d'une position suspendue, rentrez les genoux jusqu'à la poitrine, penchez-vous vers l'arrière et placez vos jambes de votre côté de l'appareil de traction. Cette position sera votre position de départ.",
     "Commencez avec les bras tendus, pliez les coudes et rentrez les omoplates pour soulever votre corps jusqu'à ce que vos jambes entrent en contact avec l'appareil de traction.",
     "Après une courte pause, revenez à la position de départ."
+  ],
+  "name_it": "Rematore con il peso del corpo",
+  "instructions_it": [
+    "Inizia afferrando con una presa media o larga un attrezzo per trazioni con i palmi rivolti verso di te. Da una posizione appesa, porta le ginocchia al petto, inclinati all'indietro e fai passare le gambe oltre il lato dell'attrezzo per trazioni. Questa sarà la tua posizione di partenza.",
+    "Iniziando con le braccia dritte, piega i gomiti e ritira le scapole per sollevare il corpo fino a quando le gambe non toccano l'attrezzo per trazioni.",
+    "Dopo una breve pausa, torna alla posizione di partenza."
   ]
 }

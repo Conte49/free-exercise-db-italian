@@ -1,5 +1,5 @@
 {
-  "name": "Rollout con Bilanciere",
+  "name": "Barbell Ab Rollout",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Per questo esercizio dovrai metterti in posizione di flessione, ma invece di avere le mani a terra, afferrerai un bilanciere olimpionico (caricato con 2-5 kg su ciascun lato). Questa sarà la tua posizione di partenza.",
-    "Mantenendo una leggera curvatura della schiena, solleva i fianchi e fai rotolare il bilanciere verso i piedi mentre espiri. Suggerimento: mentre esegui il movimento, i glutei dovrebbero sollevarsi, dovresti mantenere gli addominali contratti e mantenere la postura della schiena in ogni momento. Inoltre, le tue braccia dovrebbero rimanere perpendicolari al pavimento durante tutto il movimento. Se non lo fai, lavorerai di più sulle spalle e sulla schiena piuttosto che sugli addominali.",
-    "Dopo una contrazione di un secondo in cima, inizia a far rotolare il bilanciere indietro verso la posizione di partenza lentamente mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "For this exercise you will need to get into a pushup position, but instead of having your hands of the floor, you will be grabbing on to an Olympic barbell (loaded with 5-10 lbs on each side) instead. This will be your starting position.",
+    "While keeping a slight arch on your back, lift your hips and roll the barbell towards your feet as you exhale. Tip: As you perform the movement, your glutes should be coming up, you should be keeping the abs tight and should maintain your back posture at all times. Also your arms should be staying perpendicular to the floor throughout the movement. If you don't, you will work out your shoulders and back more than the abs.",
+    "After a second contraction at the top, start to roll the barbell back forward to the starting position slowly as you inhale.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "En gardant une légère arch dans votre dos, soulevez vos hanches et roulez le barbell vers vos pieds pendant que vous expirez. Astuce : Alors que vous exécutez le mouvement, vos fessiers devraient se contracter, vous devriez maintenir les abdominaux contractés et garder une posture dorsale à tout moment. De plus, vos bras devraient rester perpendiculaires au sol tout au long du mouvement. Si ce n'est pas le cas, vous travaillerez davantage les épaules et le dos que les abdominaux.",
     "Après une seconde contraction en haut, commencez à faire rouler la barre vers l'avant jusqu'à la position de départ en inspirant lentement.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Rollout con Bilanciere",
+  "instructions_it": [
+    "Per questo esercizio dovrai metterti in posizione di flessione, ma invece di avere le mani a terra, afferrerai un bilanciere olimpionico (caricato con 2-5 kg su ciascun lato). Questa sarà la tua posizione di partenza.",
+    "Mantenendo una leggera curvatura della schiena, solleva i fianchi e fai rotolare il bilanciere verso i piedi mentre espiri. Suggerimento: mentre esegui il movimento, i glutei dovrebbero sollevarsi, dovresti mantenere gli addominali contratti e mantenere la postura della schiena in ogni momento. Inoltre, le tue braccia dovrebbero rimanere perpendicolari al pavimento durante tutto il movimento. Se non lo fai, lavorerai di più sulle spalle e sulla schiena piuttosto che sugli addominali.",
+    "Dopo una contrazione di un secondo in cima, inizia a far rotolare il bilanciere indietro verso la posizione di partenza lentamente mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

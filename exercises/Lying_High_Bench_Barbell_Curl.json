@@ -1,5 +1,5 @@
 {
-  "name": "Curl con bilanciere su panca alta sdraiata",
+  "name": "Lying High Bench Barbell Curl",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati a faccia in giù su una panca piatta alta tenendo un bilanciere con una presa supinata (palmi rivolti verso l'alto). Suggerimento: Se stai usando un bilanciere, afferralo con una presa larga quanto le spalle, e se stai usando una E-Z Bar, afferrala sui manici interni. La parte superiore del corpo dovrebbe essere posizionata in modo che il petto superiore sia sopra l'estremità della panca e il bilanciere penda davanti a te con le braccia estese e perpendicolari al pavimento. Questa sarà la tua posizione di partenza.",
-    "Mantenendo i gomiti fermi e le braccia superiori stazionarie, solleva il peso in un movimento semi-circolare mentre contrai i bicipiti ed espiri. Tieni la posizione alta per un secondo.",
-    "Mentre inspiri, torna lentamente alla posizione di partenza. Suggerimento: Mantieni il pieno controllo del peso in ogni momento ed evita qualsiasi oscillazione. Ricorda, solo gli avambracci dovrebbero muoversi durante il movimento.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Lie face forward on a tall flat bench while holding a barbell with a supinated grip (palms facing up). Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles. Your upper body should be positioned in a way that the upper chest is over the end of the bench and the barbell is hanging in front of you with the arms extended and perpendicular to the floor. This will be your starting position.",
+    "While keeping the elbows in and the upper arms stationary, curl the weight up in a semi-circular motion as you contract the biceps and exhale. Hold at the top of the movement for a second.",
+    "As you inhale, slowly go back to the starting position. Tip: Maintain full control of the weight at all times and avoid any swinging. Remember, only the forearms should move throughout the movement.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "En gardant les coudes vers l'intérieur et la partie supérieure des bras fixe, faites un mouvement de levage semi-circulaire avec le poids tout en contractant les biceps et en expirant. Maintenez la position pendant une seconde au sommet du mouvement.",
     "En inspirant, revenez lentement à la position de départ. Astuce : Maintenez le poids en contrôle total en tout temps et évitez les balancements. N'oubliez pas, seuls les avant-bras doivent bouger pendant le mouvement.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con bilanciere su panca alta sdraiata",
+  "instructions_it": [
+    "Sdraiati a faccia in giù su una panca piatta alta tenendo un bilanciere con una presa supinata (palmi rivolti verso l'alto). Suggerimento: Se stai usando un bilanciere, afferralo con una presa larga quanto le spalle, e se stai usando una E-Z Bar, afferrala sui manici interni. La parte superiore del corpo dovrebbe essere posizionata in modo che il petto superiore sia sopra l'estremità della panca e il bilanciere penda davanti a te con le braccia estese e perpendicolari al pavimento. Questa sarà la tua posizione di partenza.",
+    "Mantenendo i gomiti fermi e le braccia superiori stazionarie, solleva il peso in un movimento semi-circolare mentre contrai i bicipiti ed espiri. Tieni la posizione alta per un secondo.",
+    "Mentre inspiri, torna lentamente alla posizione di partenza. Suggerimento: Mantieni il pieno controllo del peso in ogni momento ed evita qualsiasi oscillazione. Ricorda, solo gli avambracci dovrebbero muoversi durante il movimento.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

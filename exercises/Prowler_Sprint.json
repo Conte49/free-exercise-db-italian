@@ -1,5 +1,5 @@
 {
-  "name": "Sprint con Prowler",
+  "name": "Prowler Sprint",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,9 +15,9 @@
     "shoulders"
   ],
   "instructions": [
-    "Posiziona il tuo sled su una superficie adeguata, caricato con un peso appropriato. Lo sled dovrebbe fornire una resistenza sufficiente per richiedere impegno, ma non così pesante da rallentarti significativamente.",
-    "Puoi utilizzare le maniglie alte o basse per questo esercizio. Posiziona le mani sulle maniglie con le braccia estese, inclinandoti verso l'attrezzo.",
-    "Con una buona postura, spingi attraverso il terreno con passi brevi e alternati. Muoviti il più velocemente possibile per una breve distanza."
+    "Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down.",
+    "You may use the upright or the low handles for this exercise. Place your hands on the handles with your arms extended, leaning into the implement.",
+    "With good posture, drive through the ground with alternating, short steps. Move as fast as you can for a short distance."
   ],
   "category": "cardio",
   "images": [
@@ -29,5 +29,11 @@
     "Placez votre traîneau sur une surface appropriée, chargé à un poids approprié. Le traîneau doit offrir une résistance suffisante pour nécessiter un effort, mais pas trop lourd pour ralentir considérablement.",
     "Vous pouvez utiliser les poignées verticales ou basses pour cet exercice. Placez vos mains sur les poignées avec vos bras tendus, en vous appuyant sur l'outil.",
     "En maintenant une bonne posture, propulsez-vous au sol à l'aide de pas alternés et courts. Déplacez-vous aussi rapidement que possible sur une courte distance."
+  ],
+  "name_it": "Sprint con Prowler",
+  "instructions_it": [
+    "Posiziona il tuo sled su una superficie adeguata, caricato con un peso appropriato. Lo sled dovrebbe fornire una resistenza sufficiente per richiedere impegno, ma non così pesante da rallentarti significativamente.",
+    "Puoi utilizzare le maniglie alte o basse per questo esercizio. Posiziona le mani sulle maniglie con le braccia estese, inclinandoti verso l'attrezzo.",
+    "Con una buona postura, spingi attraverso il terreno con passi brevi e alternati. Muoviti il più velocemente possibile per una breve distanza."
   ]
 }

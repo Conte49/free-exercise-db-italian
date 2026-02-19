@@ -1,5 +1,5 @@
 {
-  "name": "Press a terra alternato",
+  "name": "Alternating Floor Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati sul pavimento con due kettlebell accanto alle spalle.",
-    "Posiziona uno in posizione sul petto e poi l'altro, afferrando i kettlebell per il manico con i palmi rivolti in avanti.",
-    "Estendi entrambe le braccia, in modo che i kettlebell siano tenuti sopra il petto. Abbassa un kettlebell, portandolo al petto e ruota il polso nella direzione del kettlebell bloccato.",
-    "Alza il kettlebell e ripeti dall'altro lato."
+    "Lie on the floor with two kettlebells next to your shoulders.",
+    "Position one in place on your chest and then the other, gripping the kettlebells on the handle with the palms facing forward.",
+    "Extend both arms, so that the kettlebells are being held above your chest. Lower one kettlebell, bringing it to your chest and turn the wrist in the direction of the locked out kettlebell.",
+    "Raise the kettlebell and repeat on the opposite side."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Placez une kettlebell sur votre poitrine, puis l'autre, en saisissant les poignées de manière à ce que les paumes soient tournées vers l'avant.",
     "Étendez les deux bras, de sorte que les kettlebells soient tenus au-dessus de votre poitrine. Abaissez un kettlebell, en l'apportant à votre poitrine et en tournant le poignet dans la direction du kettlebell verrouillé.",
     "Soulevez la Kettlebell et répétez sur le côté opposé."
+  ],
+  "name_it": "Press a terra alternato",
+  "instructions_it": [
+    "Sdraiati sul pavimento con due kettlebell accanto alle spalle.",
+    "Posiziona uno in posizione sul petto e poi l'altro, afferrando i kettlebell per il manico con i palmi rivolti in avanti.",
+    "Estendi entrambe le braccia, in modo che i kettlebell siano tenuti sopra il petto. Abbassa un kettlebell, portandolo al petto e ruota il polso nella direzione del kettlebell bloccato.",
+    "Alza il kettlebell e ripeti dall'altro lato."
   ]
 }

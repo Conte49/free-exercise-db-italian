@@ -1,5 +1,5 @@
 {
-  "name": "Stretching del Petto e della Parte Anteriore della Spalla",
+  "name": "Chest And Front Of Shoulder Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,9 +11,9 @@
     "shoulders"
   ],
   "instructions": [
-    "Inizia stando in piedi con le gambe unite, tenendo un bodybar o un manico di scopa.",
-    "Prendi una presa leggermente più ampia della larghezza delle spalle sul palo e tienilo davanti a te con i palmi rivolti verso il basso.",
-    "Sollevare con cautela il palo sopra e dietro la testa."
+    "Start off by standing with your legs together, holding a bodybar or a broomstick.",
+    "Take a slightly wider than shoulder width grip on the pole and hold it in front of you with your palms facing down.",
+    "Carefully lift the pole up and behind your head."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Commencez par vous tenir debout, les jambes jointes, en tenant une barre de corps ou un manche de balai.",
     "Prenez une poignée légèrement plus large que la largeur des épaules sur le poteau et tenez-le devant vous avec vos paumes face vers le bas.",
     "Soulevez soigneusement la barre vers le haut et derrière votre tête."
+  ],
+  "name_it": "Stretching del Petto e della Parte Anteriore della Spalla",
+  "instructions_it": [
+    "Inizia stando in piedi con le gambe unite, tenendo un bodybar o un manico di scopa.",
+    "Prendi una presa leggermente più ampia della larghezza delle spalle sul palo e tienilo davanti a te con i palmi rivolti verso il basso.",
+    "Sollevare con cautela il palo sopra e dietro la testa."
   ]
 }

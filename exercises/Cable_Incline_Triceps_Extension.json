@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dei Tricipiti su Panca Inclinata con Cavo",
+  "name": "Cable Incline Triceps Extension",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati su una panca inclinata con la schiena rivolta verso una macchina a puleggia alta che ha un attacco a barra dritta.",
-    "Afferra l'attacco a barra dritta sopra la testa con una presa prona (palmi verso il basso) e stretta (meno della larghezza delle spalle) e tieni i gomiti vicino ai fianchi. I tuoi avambracci dovrebbero formare un angolo di circa 25 gradi rispetto al pavimento.",
-    "Mantenendo gli avambracci fissi, estendi le braccia mentre contrai i tricipiti. Espira durante questa fase del movimento e trattieni la contrazione per un secondo.",
-    "Torna lentamente alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
+    "Grasp the straight bar attachment overhead with a pronated (overhand; palms down) narrow grip (less than shoulder width) and keep your elbows tucked in to your sides. Your upper arms should create around a 25 degree angle when measured from the floor.",
+    "Keeping the upper arms stationary, extend the arms as you flex the triceps. Breathe out during this portion of the movement and hold the contraction for a second.",
+    "Slowly go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "En gardant les bras supérieurs immobiles, étendez les bras tout en contractant les triceps. Respirez pendant cette partie du mouvement et maintenez la contraction pendant une seconde.",
     "Revenez lentement à la position de départ.",
     "Répétez le mouvement pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Estensione dei Tricipiti su Panca Inclinata con Cavo",
+  "instructions_it": [
+    "Sdraiati su una panca inclinata con la schiena rivolta verso una macchina a puleggia alta che ha un attacco a barra dritta.",
+    "Afferra l'attacco a barra dritta sopra la testa con una presa prona (palmi verso il basso) e stretta (meno della larghezza delle spalle) e tieni i gomiti vicino ai fianchi. I tuoi avambracci dovrebbero formare un angolo di circa 25 gradi rispetto al pavimento.",
+    "Mantenendo gli avambracci fissi, estendi le braccia mentre contrai i tricipiti. Espira durante questa fase del movimento e trattieni la contrazione per un secondo.",
+    "Torna lentamente alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

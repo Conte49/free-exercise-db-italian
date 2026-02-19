@@ -13,10 +13,10 @@
     "triceps"
   ],
   "instructions": [
-    "Per iniziare, sdraiati su una panca con un bilanciere appoggiato sul petto. Posiziona le gambe in modo che siano sicure sull'estensione della panca addominale. Questa è la posizione di partenza.",
-    "Inspirando, contrai gli addominali e i glutei. Contemporaneamente, arriccia il torso come faresti durante un sit-up e spingi il bilanciere in una posizione sopra la testa espirando. Suggerimento: usa le braccia per spingere il bilanciere mentre esegui questo esercizio, mantenendo comunque l'attenzione sui muscoli addominali.",
-    "Abbassa il corpo superiore di nuovo nella posizione di partenza mentre riabbassi il bilanciere verso il torso. Ricorda di inspirare mentre abbassi il corpo.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "To begin, lie down on a bench with a barbell resting on your chest. Position your legs so they are secure on the extension of the abdominal bench. This is the starting position.",
+    "While inhaling, tighten your abdominals and glutes. Simultaneously curl your torso as you do when performing a sit-up and press the barbell to an overhead position while exhaling. Tip: Use your arms to push the barbell out as you perform this exercise while still focusing on the abdominal muscles.",
+    "Lower your upper body back down to the starting position while bringing the barbell back down to your torso. Remember to breathe in while lowering the body.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "En inspirant, contractez vos abdominaux et vos fessiers. En même temps, pliez votre torse comme lorsque vous faites des sit-ups et soulevez la barre en position haute en expirant. Astuce : Utilisez vos bras pour pousser la barre vers l'extérieur pendant que vous exécutez cet exercice tout en continuant de vous concentrer sur les muscles abdominaux.",
     "Abaissez votre corps supérieur en revenant à la position de départ tout en ramenant le barre vers votre torse. N'oubliez pas de respirer pendant que vous abaissez le corps.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Press Sit-Up",
+  "instructions_it": [
+    "Per iniziare, sdraiati su una panca con un bilanciere appoggiato sul petto. Posiziona le gambe in modo che siano sicure sull'estensione della panca addominale. Questa è la posizione di partenza.",
+    "Inspirando, contrai gli addominali e i glutei. Contemporaneamente, arriccia il torso come faresti durante un sit-up e spingi il bilanciere in una posizione sopra la testa espirando. Suggerimento: usa le braccia per spingere il bilanciere mentre esegui questo esercizio, mantenendo comunque l'attenzione sui muscoli addominali.",
+    "Abbassa il corpo superiore di nuovo nella posizione di partenza mentre riabbassi il bilanciere verso il torso. Ricorda di inspirare mentre abbassi il corpo.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

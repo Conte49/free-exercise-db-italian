@@ -1,5 +1,5 @@
 {
-  "name": "Squat Jump con Pesi",
+  "name": "Weighted Jump Squat",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,10 +14,10 @@
     "lower back"
   ],
   "instructions": [
-    "Posiziona un bilanciere leggermente carico sulla parte posteriore delle spalle. Puoi anche utilizzare un gilet zavorrato, un sacco di sabbia o un altro tipo di resistenza per questo esercizio.",
-    "Il peso dovrebbe essere leggero abbastanza da non rallentarti significativamente. I tuoi piedi dovrebbero essere appena oltre la larghezza delle spalle con la testa e il petto alzati. Questa sarà la tua posizione di partenza.",
-    "Utilizzando un movimento di controspinta, accovacciati parzialmente e immediatamente inverti la direzione per esplodere dal suolo, estendendo anche i fianchi, le ginocchia e le caviglie. Mantieni una buona postura durante il salto.",
-    "Quando torni a terra, assorbi l'impatto attraverso le gambe."
+    "Position a lightly loaded barbell across the back of your shoulders. You could also use a weighted vest, sandbag, or other type of resistance for this exercise.",
+    "The weight should be light enough that it doesn't slow you down significantly. Your feet should be just outside of shoulder width with your head and chest up. This will be your starting position.",
+    "Using a countermovement, squat partially down and immediately reverse your direction to explode off of the ground, extending through your hips, knees, and ankles. Maintain good posture throughout the jump.",
+    "As you return to the ground, absorb the impact through your legs."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,12 @@
     "Le poids doit être suffisamment léger pour ne pas vous ralentir considérablement. Vos pieds doivent se trouver légèrement en dehors de la largeur des épaules, la tête et la poitrine relevées. Telle sera votre position de départ.",
     "En utilisant un mouvement inverse, accroupissez-vous partiellement et inversez immédiatement votre direction pour sauter au sol, en étendant vos hanches, vos genoux et vos chevilles. Maintenez une bonne posture tout au long du saut.",
     "En revenant au sol, absorbez l'impact à travers vos jambes."
+  ],
+  "name_it": "Squat Jump con Pesi",
+  "instructions_it": [
+    "Posiziona un bilanciere leggermente carico sulla parte posteriore delle spalle. Puoi anche utilizzare un gilet zavorrato, un sacco di sabbia o un altro tipo di resistenza per questo esercizio.",
+    "Il peso dovrebbe essere leggero abbastanza da non rallentarti significativamente. I tuoi piedi dovrebbero essere appena oltre la larghezza delle spalle con la testa e il petto alzati. Questa sarà la tua posizione di partenza.",
+    "Utilizzando un movimento di controspinta, accovacciati parzialmente e immediatamente inverti la direzione per esplodere dal suolo, estendendo anche i fianchi, le ginocchia e le caviglie. Mantieni una buona postura durante il salto.",
+    "Quando torni a terra, assorbi l'impatto attraverso le gambe."
   ]
 }

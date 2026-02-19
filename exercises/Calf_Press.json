@@ -1,5 +1,5 @@
 {
-  "name": "Pressa per Polpacci",
+  "name": "Calf Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Regola il sedile in modo che le tue gambe siano leggermente piegate nella posizione di partenza. Le punte dei piedi devono essere saldamente sulla piattaforma.",
-    "Seleziona un peso appropriato e afferra le maniglie. Questa sarà la tua posizione di partenza.",
-    "Distendi le gambe estendendo le ginocchia, sollevando appena il peso dal supporto. La tua caviglia deve essere completamente flessa, con le dita dei piedi rivolte verso l'alto. Esegui il movimento premendo verso il basso attraverso le punte dei piedi il più possibile.",
-    "Dopo una breve pausa, inverti il movimento e ripeti."
+    "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",
+    "Select an appropriate weight, and grasp the handles. This will be your starting position.",
+    "Straighten the legs by extending the knees, just barely lifting the weight from the stack. Your ankle should be fully flexed, toes pointing up. Execute the movement by pressing downward through the balls of your feet as far as possible.",
+    "After a brief pause, reverse the motion and repeat."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "Choisissez un poids approprié et saisissez les poignées. Ce sera votre position de départ.",
     "Dégagez les jambes en étendant les genoux, en soulevant à peine le poids de la pile. Votre cheville doit être complètement fléchie, les orteils pointant vers le haut. Exécutez le mouvement en appuyant vers le bas à travers les boules de vos pieds autant que possible.",
     "Après une brève pause, inversez le mouvement et répétez."
+  ],
+  "name_it": "Pressa per Polpacci",
+  "instructions_it": [
+    "Regola il sedile in modo che le tue gambe siano leggermente piegate nella posizione di partenza. Le punte dei piedi devono essere saldamente sulla piattaforma.",
+    "Seleziona un peso appropriato e afferra le maniglie. Questa sarà la tua posizione di partenza.",
+    "Distendi le gambe estendendo le ginocchia, sollevando appena il peso dal supporto. La tua caviglia deve essere completamente flessa, con le dita dei piedi rivolte verso l'alto. Esegui il movimento premendo verso il basso attraverso le punte dei piedi il più possibile.",
+    "Dopo una breve pausa, inverti il movimento e ripeti."
   ]
 }

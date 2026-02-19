@@ -1,5 +1,5 @@
 {
-  "name": "Stretching della parte superiore della schiena",
+  "name": "Upper Back Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,7 +11,7 @@
     "middle back"
   ],
   "instructions": [
-    "Unisci le dita con i pollici rivolti verso il basso, arrotonda le spalle mentre porti le mani in avanti."
+    "Clasp fingers together with your thumbs pointing down, round your shoulders as you reach your hands forward."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,9 @@
   "id": "Upper_Back_Stretch",
   "instructions_fr": [
     "Rejoignez les doigts en pointant les pouces vers le bas, faites un mouvement circulaire avec les épaules en tendant les mains vers l'avant."
+  ],
+  "name_it": "Stretching della parte superiore della schiena",
+  "instructions_it": [
+    "Unisci le dita con i pollici rivolti verso il basso, arrotonda le spalle mentre porti le mani in avanti."
   ]
 }

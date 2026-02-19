@@ -1,5 +1,5 @@
 {
-  "name": "Stacco da terra con presa a strappo",
+  "name": "Snatch Deadlift",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,9 +16,9 @@
     "traps"
   ],
   "instructions": [
-    "Lo stacco da terra con presa a strappo rinforza la prima fase dello strappo. Inizia con una presa larga sulla barra, posizionata sulla piattaforma. I piedi devono essere direttamente sotto i fianchi, con le punte rivolte verso l'esterno.",
-    "Inizia il movimento spingendo attraverso i talloni, sollevando i fianchi. L'angolo della schiena deve rimanere lo stesso fino a quando la barra non supera le ginocchia.",
-    "A quel punto, spingi i fianchi attraverso la barra mentre ti reclini all'indietro. Riporta la barra sulla piattaforma invertendo il movimento."
+    "The snatch deadlift strengthens the first pull of the snatch. Begin with a wide snatch grip with the barbell placed on the platform. The feet should be directly under the hips, with the feet turned out. Squat down to the bar, keeping the back in absolute extension with the head facing forward.",
+    "Initiate the movement by driving through the heels, raising the hips. The back angle should remain the same until the bar passes the knees.",
+    "At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -30,5 +30,11 @@
     "Le deadlift d'arraché renforce le premier tir de l'arraché. Commencez avec une large prise à l'arraché avec la barre placée sur la plateforme. Les pieds doivent être directement sous les hanches, avec les pieds tournés vers l'extérieur. Faites un squat sur la barre, en gardant le dos en extension absolue avec la tête tournée vers l'avant.",
     "Commencez le mouvement en poussant sur les talons, en levant les hanches. L'angle du dos doit rester le même jusqu'à ce que la barre passe au-dessus des genoux.",
     "À ce stade, poussez les hanches à travers la barre lorsque vous vous allongez. Ramenez la barre sur la plateforme en inversant le mouvement."
+  ],
+  "name_it": "Stacco da terra con presa a strappo",
+  "instructions_it": [
+    "Lo stacco da terra con presa a strappo rinforza la prima fase dello strappo. Inizia con una presa larga sulla barra, posizionata sulla piattaforma. I piedi devono essere direttamente sotto i fianchi, con le punte rivolte verso l'esterno.",
+    "Inizia il movimento spingendo attraverso i talloni, sollevando i fianchi. L'angolo della schiena deve rimanere lo stesso fino a quando la barra non supera le ginocchia.",
+    "A quel punto, spingi i fianchi attraverso la barra mentre ti reclini all'indietro. Riporta la barra sulla piattaforma invertendo il movimento."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Squeeze con Piastra Olimpica in Piedi",
+  "name": "Standing Olympic Plate Hand Squeeze",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "biceps"
   ],
   "instructions": [
-    "Per iniziare, stai dritto mentre tieni una piastra di peso per il bordo a braccia distese in ogni mano usando una presa neutra (palmi rivolti verso l'interno). I tuoi piedi dovrebbero essere alla larghezza delle spalle l'uno dall'altro. Questa sarà la tua posizione di partenza.",
-    "Abbassa le piastre fino a quando le dita sono quasi estese ma possono ancora tenere i pesi. Inspira mentre abbassi le piastre.",
-    "Ora solleva le piastre di nuovo nella posizione di partenza mentre espiri chiudendo le mani.",
-    "Ripeti per il numero di ripetizioni consigliato nel tuo programma."
+    "To begin, stand straight while holding a weight plate by the ridge at arm's length in each hand using a neutral grip (palms facing in). You feet should be shoulder width apart from each other. This will be your starting position.",
+    "Lower the plates until the fingers are nearly extended but can still hold weights. Inhale as you lower the plates.",
+    "Now raise the plates back to the starting position as you exhale by closing your hands.",
+    "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "Baissez les poids jusqu'à ce que les doigts soient presque tendus mais puissent encore tenir les poids. Inspirez en baissant les poids.",
     "Maintenant, ramenez les plaques en position de départ en expirant et en fermant vos mains.",
     "Répétez pour le nombre de répétitions recommandé prescrit dans votre programme."
+  ],
+  "name_it": "Squeeze con Piastra Olimpica in Piedi",
+  "instructions_it": [
+    "Per iniziare, stai dritto mentre tieni una piastra di peso per il bordo a braccia distese in ogni mano usando una presa neutra (palmi rivolti verso l'interno). I tuoi piedi dovrebbero essere alla larghezza delle spalle l'uno dall'altro. Questa sarà la tua posizione di partenza.",
+    "Abbassa le piastre fino a quando le dita sono quasi estese ma possono ancora tenere i pesi. Inspira mentre abbassi le piastre.",
+    "Ora solleva le piastre di nuovo nella posizione di partenza mentre espiri chiudendo le mani.",
+    "Ripeti per il numero di ripetizioni consigliato nel tuo programma."
   ]
 }

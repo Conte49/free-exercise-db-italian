@@ -1,5 +1,5 @@
 {
-  "name": "Panca Piana - Con Bande",
+  "name": "Bench Press - With Bands",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,13 +12,13 @@
     "triceps"
   ],
   "instructions": [
-    "Utilizzando una panca piana, fissa una banda sotto il piede della panca più vicino alla tua testa.",
-    "Una volta che la banda è fissata, afferrala con entrambe le maniglie e sdraiati sulla panca.",
-    "Estendi le braccia in modo da tenere le maniglie della banda di fronte a te all'altezza delle spalle.",
-    "Una volta all'altezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani siano rivolti lontano da te. Questa sarà la tua posizione di partenza.",
-    "Abbassa lentamente le maniglie fino a formare un angolo di 90 gradi con il gomito. Mantieni il controllo totale in ogni momento.",
-    "Mentre espiri, porta le maniglie verso l'alto utilizzando i muscoli pettorali. Blocca le braccia nella posizione contratta, stringi il petto, trattieni per un secondo e poi inizia a scendere lentamente. Suggerimento: dovrebbe richiedere almeno il doppio del tempo per scendere rispetto a quello per salire.",
-    "Ripeti il movimento per il numero di ripetizioni prescritto dal tuo programma di allenamento."
+    "Using a flat bench secure a band under the leg of the bench that is nearest to your head.",
+    "Once the band is secure, grab it by both handles and lie down on the bench.",
+    "Extend your arms so that you are holding the band handles in front of you at shoulder width.",
+    "Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.",
+    "Bring down the handles slowly until your elbow forms a 90 degree angle. Keep full control at all times.",
+    "As you breathe out, bring the handles up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
+    "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
   "images": [
@@ -34,5 +34,15 @@
     "Abaissez lentement les poignées jusqu'à ce que votre coude forme un angle de 90 degrés. Gardez le contrôle en tout temps.",
     "En respirant, montez les poignées à l'aide de vos muscles pectoraux. Verrouillez vos bras en position contractée, contractez votre poitrine, maintenez pendant une seconde, puis redescendez lentement. Conseils : Il faut au moins deux fois plus de temps pour descendre que pour monter.",
     "Répétez le mouvement pour le nombre de répétitions prescrit par votre programme d'entraînement."
+  ],
+  "name_it": "Panca Piana - Con Bande",
+  "instructions_it": [
+    "Utilizzando una panca piana, fissa una banda sotto il piede della panca più vicino alla tua testa.",
+    "Una volta che la banda è fissata, afferrala con entrambe le maniglie e sdraiati sulla panca.",
+    "Estendi le braccia in modo da tenere le maniglie della banda di fronte a te all'altezza delle spalle.",
+    "Una volta all'altezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani siano rivolti lontano da te. Questa sarà la tua posizione di partenza.",
+    "Abbassa lentamente le maniglie fino a formare un angolo di 90 gradi con il gomito. Mantieni il controllo totale in ogni momento.",
+    "Mentre espiri, porta le maniglie verso l'alto utilizzando i muscoli pettorali. Blocca le braccia nella posizione contratta, stringi il petto, trattieni per un secondo e poi inizia a scendere lentamente. Suggerimento: dovrebbe richiedere almeno il doppio del tempo per scendere rispetto a quello per salire.",
+    "Ripeti il movimento per il numero di ripetizioni prescritto dal tuo programma di allenamento."
   ]
 }

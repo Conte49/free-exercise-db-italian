@@ -1,5 +1,5 @@
 {
-  "name": "Press con manubrio a braccio singolo in piedi con palmo rivolto verso l'interno",
+  "name": "Standing Palm-In One-Arm Dumbbell Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,13 +11,13 @@
     "triceps"
   ],
   "instructions": [
-    "Inizia tenendo un manubrio in una mano con il braccio completamente esteso di lato usando una presa neutra. Usa l'altro braccio per appoggiarti a una panca inclinata per mantenere l'equilibrio.",
-    "I tuoi piedi dovrebbero essere alla larghezza delle spalle. Ora solleva lentamente il manubrio fino a creare un angolo di 90 gradi con il braccio. Nota: l'avambraccio dovrebbe essere perpendicolare al pavimento. Continua a mantenere una presa neutra durante tutto l'esercizio.",
-    "Sollevare lentamente il manubrio fino a quando il braccio è completamente esteso. Questa è la posizione di partenza.",
-    "Inspirando, abbassa il peso fino a quando il braccio è di nuovo a un angolo di 90 gradi.",
-    "Senti la contrazione per un secondo e poi solleva il peso di nuovo verso la posizione di partenza espirando. Ricorda di tenerti alla panca inclinata e mantenere i piedi posizionati per mantenere l'equilibrio durante l'esercizio.",
-    "Ripeti per il numero raccomandato di ripetizioni.",
-    "Cambia braccio e ripeti l'esercizio."
+    "Start by having a dumbbell in one hand with your arm fully extended to the side using a neutral grip. Use your other arm to hold on to an incline bench to keep your balance.",
+    "Your feet should be shoulder width apart from each other. Now slowly lift the dumbbell up until you create a 90 degree angle with your arm. Note: Your forearm should be perpendicular to the floor. Continue to maintain a neutral grip throughout the entire exercise.",
+    "Slowly lift the dumbbell up until your arm is fully extended. This the starting position.",
+    "While inhaling lower the weight down until your arm is at a 90 degree angle again.",
+    "Feel the contraction for a second and then lift the weight back up towards the starting position while exhaling. Remember to hold on to the incline bench and keep your feet positioned to keep balance during the exercise.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms and repeat the exercise."
   ],
   "category": "strength",
   "images": [
@@ -33,5 +33,15 @@
     "Resentez la contraction pendant une seconde, puis soulevez à nouveau le poids vers la position de départ tout en expirant. N'oubliez pas de vous tenir à la presse inclinée et de garder vos pieds positionnés pour maintenir l'équilibre pendant l'exercice.",
     "Répétez pour le nombre de répétitions recommandé.",
     "Changez de bras et répétez l'exercice."
+  ],
+  "name_it": "Press con manubrio a braccio singolo in piedi con palmo rivolto verso l'interno",
+  "instructions_it": [
+    "Inizia tenendo un manubrio in una mano con il braccio completamente esteso di lato usando una presa neutra. Usa l'altro braccio per appoggiarti a una panca inclinata per mantenere l'equilibrio.",
+    "I tuoi piedi dovrebbero essere alla larghezza delle spalle. Ora solleva lentamente il manubrio fino a creare un angolo di 90 gradi con il braccio. Nota: l'avambraccio dovrebbe essere perpendicolare al pavimento. Continua a mantenere una presa neutra durante tutto l'esercizio.",
+    "Sollevare lentamente il manubrio fino a quando il braccio è completamente esteso. Questa è la posizione di partenza.",
+    "Inspirando, abbassa il peso fino a quando il braccio è di nuovo a un angolo di 90 gradi.",
+    "Senti la contrazione per un secondo e poi solleva il peso di nuovo verso la posizione di partenza espirando. Ricorda di tenerti alla panca inclinata e mantenere i piedi posizionati per mantenere l'equilibrio durante l'esercizio.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Cambia braccio e ripeti l'esercizio."
   ]
 }

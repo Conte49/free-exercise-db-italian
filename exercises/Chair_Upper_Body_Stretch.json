@@ -1,5 +1,5 @@
 {
-  "name": "Allungamento della parte superiore del corpo in sedia",
+  "name": "Chair Upper Body Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,8 +12,8 @@
     "chest"
   ],
   "instructions": [
-    "Siediti sul bordo di una sedia, afferrando lo schienale.",
-    "Stendi le braccia, mantenendo la schiena dritta, e inclina il busto in avanti finché non senti un allungamento. Mantieni la posizione per 20-30 secondi."
+    "Sit on the edge of a chair, gripping the back of it.",
+    "Straighten your arms, keeping your back straight, and pull your upper body forward so you feel a stretch. Hold for 20-30 seconds."
   ],
   "category": "stretching",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Asseyez-vous sur le bord d'une chaise, en agrippant son dossier.",
     "Droits vos bras, en gardant le dos droit, et tirez votre corps vers l'avant afin de ressentir une étirement. Maintenez la position pendant 20 à 30 secondes."
+  ],
+  "name_it": "Allungamento della parte superiore del corpo in sedia",
+  "instructions_it": [
+    "Siediti sul bordo di una sedia, afferrando lo schienale.",
+    "Stendi le braccia, mantenendo la schiena dritta, e inclina il busto in avanti finché non senti un allungamento. Mantieni la posizione per 20-30 secondi."
   ]
 }

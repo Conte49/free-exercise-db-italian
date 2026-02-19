@@ -1,5 +1,5 @@
 {
-  "name": "Flesso laterale con cavo alto a un braccio",
+  "name": "One-Arm High-Pulley Cable Side Bends",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,14 +9,14 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Collega una maniglia standard a una torre. Sposta il cavo nella posizione più alta della puleggia.",
-    "Stai in piedi con il lato rivolto verso il cavo. Con una mano, alza e afferra la maniglia con una presa inversa.",
-    "Tira giù il cavo finché il gomito non tocca il fianco e la maniglia è all'altezza della spalla.",
-    "Posiziona i piedi alla larghezza delle anche. Metti la mano libera sull'anca per aiutarti a valutare il punto di pivot.",
-    "Tieni il braccio in posizione statica. Contrai gli obliqui per portare il peso verso il basso in una flessione laterale.",
-    "Una volta raggiunta la massima contrazione, rilascia lentamente il peso nella posizione di partenza. Il carico non dovrebbe mai essere scaricato in posizione di riposo. L'obiettivo è mantenere una tensione costante durante l'allenamento.",
-    "Ripeti fino al cedimento.",
-    "Poi, riposizionati e ripeti la stessa serie di movimenti sul lato opposto."
+    "Connect a standard handle to a tower. Move cable to highest pulley position.",
+    "Stand with side to cable. With one hand, reach up and grab handle with underhand grip.",
+    "Pull down cable until elbow touches your side and the handle is by your shoulder.",
+    "Position feet hip-width apart. Place free hand on hip to help gauge pivot point.",
+    "Keep arm in static position. Contract oblique to bring the weight down in a side crunch.",
+    "Once you reach maximum contraction, slowly release the weight to the starting position. The weight stack should never be unloaded in a resting position. The aim is constant tension during the set.",
+    "Repeat to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
   "images": [
@@ -33,5 +33,16 @@
     "Une fois que vous atteignez la contraction maximale, relâchez lentement le poids jusqu'à la position de départ. La pile de poids ne doit jamais être déchargée dans une position de repos. L'objectif est d'avoir une tension constante pendant la série.",
     "Répéter jusqu'à l'échec.",
     "Ensuite, repositionnez-vous et répétez la même série de mouvements sur le côté opposé."
+  ],
+  "name_it": "Flesso laterale con cavo alto a un braccio",
+  "instructions_it": [
+    "Collega una maniglia standard a una torre. Sposta il cavo nella posizione più alta della puleggia.",
+    "Stai in piedi con il lato rivolto verso il cavo. Con una mano, alza e afferra la maniglia con una presa inversa.",
+    "Tira giù il cavo finché il gomito non tocca il fianco e la maniglia è all'altezza della spalla.",
+    "Posiziona i piedi alla larghezza delle anche. Metti la mano libera sull'anca per aiutarti a valutare il punto di pivot.",
+    "Tieni il braccio in posizione statica. Contrai gli obliqui per portare il peso verso il basso in una flessione laterale.",
+    "Una volta raggiunta la massima contrazione, rilascia lentamente il peso nella posizione di partenza. Il carico non dovrebbe mai essere scaricato in posizione di riposo. L'obiettivo è mantenere una tensione costante durante l'allenamento.",
+    "Ripeti fino al cedimento.",
+    "Poi, riposizionati e ripeti la stessa serie di movimenti sul lato opposto."
   ]
 }

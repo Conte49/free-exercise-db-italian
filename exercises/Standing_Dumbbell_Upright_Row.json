@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con manubri in piedi",
+  "name": "Standing Dumbbell Upright Row",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Afferrate un manubrio in ciascuna mano con una presa prona (palmi in avanti) che sia leggermente più stretta della larghezza delle spalle. I manubri dovrebbero poggiare sopra le cosce. Le braccia dovrebbero essere estese con un leggero piegamento ai gomiti e la schiena dovrebbe essere dritta. Questa sarà la vostra posizione di partenza.",
-    "Utilizzate le spalle laterali per sollevare i manubri mentre espirate. I manubri dovrebbero essere vicini al corpo mentre li sollevate e i gomiti dovrebbero guidare il movimento. Continuate a sollevarli fino a quando non toccano quasi il mento. Suggerimento: i gomiti dovrebbero guidare il movimento. Mentre sollevate i manubri, i gomiti dovrebbero sempre essere più alti degli avambracci. Inoltre, mantenete il torso fermo e fermatevi per un secondo nella parte superiore del movimento.",
-    "Abbassate lentamente i manubri fino alla posizione di partenza. Inspirate mentre eseguite questa parte del movimento.",
-    "Ripetete per il numero raccomandato di ripetizioni."
+    "Grasp a dumbbell in each hand with a pronated (palms forward) grip that is slightly less than shoulder width. The dumbbells should be resting on top of your thighs. Your arms should be extended with a slight bend at the elbows and your back should be straight. This will be your starting position.",
+    "Use your side shoulders to lift the dumbbells as you exhale. The dumbbells should be close to the body as you move it up and the elbows should drive the motion. Continue to lift them until they nearly touch your chin. Tip: Your elbows should drive the motion. As you lift the dumbbells, your elbows should always be higher than your forearms. Also, keep your torso stationary and pause for a second at the top of the movement.",
+    "Lower the dumbbells back down slowly to the starting position. Inhale as you perform this portion of the movement.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Utilisez vos épaules latérales pour soulever les haltères pendant que vous expirez. Les haltères doivent être proches du corps lors de leur levage et le mouvement doit être dirigé par les coudes. Continuez à les soulever jusqu'à ce qu'ils frôlent votre menton. Astuce : Ce sont vos coudes qui doivent diriger le mouvement. Lorsque vous soulevez les haltères, vos coudes doivent toujours être plus hauts que vos avant-bras. De plus, maintenez votre torse immobile et faites une pause d'une seconde au sommet du mouvement.",
     "Abaissez lentement les haltères en revenant à la position de départ. Inhalez pendant que vous exécutez cette partie du mouvement.",
     "Répétez le nombre de répétitions recommandé."
+  ],
+  "name_it": "Rematore con manubri in piedi",
+  "instructions_it": [
+    "Afferrate un manubrio in ciascuna mano con una presa prona (palmi in avanti) che sia leggermente più stretta della larghezza delle spalle. I manubri dovrebbero poggiare sopra le cosce. Le braccia dovrebbero essere estese con un leggero piegamento ai gomiti e la schiena dovrebbe essere dritta. Questa sarà la vostra posizione di partenza.",
+    "Utilizzate le spalle laterali per sollevare i manubri mentre espirate. I manubri dovrebbero essere vicini al corpo mentre li sollevate e i gomiti dovrebbero guidare il movimento. Continuate a sollevarli fino a quando non toccano quasi il mento. Suggerimento: i gomiti dovrebbero guidare il movimento. Mentre sollevate i manubri, i gomiti dovrebbero sempre essere più alti degli avambracci. Inoltre, mantenete il torso fermo e fermatevi per un secondo nella parte superiore del movimento.",
+    "Abbassate lentamente i manubri fino alla posizione di partenza. Inspirate mentre eseguite questa parte del movimento.",
+    "Ripetete per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Alzate delle Gambe Frontali",
+  "name": "Front Leg Raises",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai in piedi accanto a una sedia o a un altro supporto, tenendoti con una mano.",
-    "Fai oscillare la gamba in avanti, mantenendo la gamba dritta. Continua con un'oscillazione verso il basso, portando la gamba il più indietro possibile in base alla tua flessibilità. Ripeti 5-10 volte, poi cambia gamba."
+    "Stand next to a chair or other support, holding on with one hand.",
+    "Swing your leg forward, keeping the leg straight. Continue with a downward swing, bringing the leg as far back as your flexibility allows. Repeat 5-10 times, and then switch legs."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Debout à côté d'une chaise ou d'un autre support, tenez-vous avec une seule main.",
     "Faites balancer votre jambe vers l'avant en la gardant droite. Continuez avec un balancement vers le bas, en amenant la jambe aussi loin que possible vers l'arrière, dans les limites de votre flexibilité. Répétez l'exercice 5 à 10 fois, puis changez de jambe."
+  ],
+  "name_it": "Alzate delle Gambe Frontali",
+  "instructions_it": [
+    "Stai in piedi accanto a una sedia o a un altro supporto, tenendoti con una mano.",
+    "Fai oscillare la gamba in avanti, mantenendo la gamba dritta. Continua con un'oscillazione verso il basso, portando la gamba il più indietro possibile in base alla tua flessibilità. Ripeti 5-10 volte, poi cambia gamba."
   ]
 }

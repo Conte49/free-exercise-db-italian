@@ -1,5 +1,5 @@
 {
-  "name": "Press Militare con Kettlebell a Due Mani",
+  "name": "Two-Arm Kettlebell Military Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,8 +11,8 @@
     "triceps"
   ],
   "instructions": [
-    "Porta due kettlebell alle spalle. Solleva i kettlebell alle spalle estendendo le gambe e i fianchi mentre li fai oscillare verso le spalle. Ruota i polsi mentre lo fai, in modo che i palmi siano rivolti in avanti.",
-    "Spingi i kettlebell verso l'alto e all'esterno. Quando i kettlebell superano la tua testa, inclina il corpo verso i pesi in modo che i kettlebell siano posizionati dietro la tua testa. Assicurati di contrarre i muscoli dorsali, i glutei e lo stomaco per una maggiore stabilità."
+    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward.",
+    "Press the kettlebells up and out. As the kettlebells pass your head, lean into the weights so that the kettlebells are racked behind your head. Make sure to contract your lats, butt, and stomach for added stability."
   ],
   "category": "strength",
   "images": [
@@ -23,5 +23,10 @@
   "instructions_fr": [
     "Épaulez deux kettlebells jusqu'à vos épaules. Épaulez les kettlebells jusqu'à vos épaules en vous étendant par les jambes et les hanches tout en balançant les kettlebells vers vos épaules. Faites pivoter vos poignets au fur et à mesure, afin que les paumes soient tournées vers l'avant.",
     "Presse les kettlebells vers le haut et vers l'extérieur. Lorsque les kettlebells passent au-dessus de votre tête, penchez-vous en avant sur les poids afin que les kettlebells soient rangées derrière votre tête. Assurez-vous de contracter vos latissimus, fessiers et abdominaux pour une stabilité accrue."
+  ],
+  "name_it": "Press Militare con Kettlebell a Due Mani",
+  "instructions_it": [
+    "Porta due kettlebell alle spalle. Solleva i kettlebell alle spalle estendendo le gambe e i fianchi mentre li fai oscillare verso le spalle. Ruota i polsi mentre lo fai, in modo che i palmi siano rivolti in avanti.",
+    "Spingi i kettlebell verso l'alto e all'esterno. Quando i kettlebell superano la tua testa, inclina il corpo verso i pesi in modo che i kettlebell siano posizionati dietro la tua testa. Assicurati di contrarre i muscoli dorsali, i glutei e lo stomaco per una maggiore stabilità."
   ]
 }

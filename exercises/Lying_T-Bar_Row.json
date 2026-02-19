@@ -1,5 +1,5 @@
 {
-  "name": "Rematore T-Bar da Sdraiato",
+  "name": "Lying T-Bar Row",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,12 +12,12 @@
     "lats"
   ],
   "instructions": [
-    "Carica la macchina per il Rematore T-Bar con il peso desiderato e regola l'altezza delle gambe in modo che il tuo petto superiore sia all'altezza superiore del cuscino. Suggerimento: In alcune macchine, l'unica cosa che puoi fare è stare sul gradino appropriato che ti consente di essere a un'altezza in cui il petto superiore è all'altezza del cuscino.",
-    "Sdraiati a faccia in giù sul cuscino e afferra le maniglie. Puoi utilizzare una posizione con i palmi rivolti verso il basso, verso l'alto o all'interno a seconda della parte della schiena che desideri enfatizzare.",
-    "Solleva la barra dal supporto ed estendi le braccia di fronte a te. Questa sarà la tua posizione di partenza.",
-    "Mentre espiri, tira lentamente il peso verso l'alto e stringi la schiena nella parte superiore del movimento. Suggerimento: Mantieni le braccia superiori il più vicino possibile al torso durante il movimento per attivare meglio i muscoli della schiena. Inoltre, non sollevare mai il corpo dal cuscino e astieniti dall'usare i bicipiti per sollevare il peso.",
-    "Dopo una contrazione di un secondo nella parte superiore del movimento, mentre inspiri, torna lentamente alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Load up the T-bar Row Machine with the desired weight and adjust the leg height so that your upper chest is at the top of the pad. Tip: In some machines all you can do is stand on the appropriate step that allows you to be at a height that has the upper chest at the top of the pad.",
+    "Lay face down on the pad and grab the handles. You can either use a palms down, palms up, or palms in position depending on what part of your back you want to emphasize.",
+    "Lift the bar off the rack and extend your arms in front of you. This will be your starting position.",
+    "As you exhale slowly pull the weight up and squeeze your back at the top of the movement. Tip: Keep the upper arms as close to the torso as possible throughout the movement in order to better engage the back muscles. Also, do not lift your body off of the pad at any time and refrain from using the biceps to lift the weight.",
+    "After a second contraction at the top of the movement, as you inhale, slowly go back down to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -32,5 +32,14 @@
     "En expirant lentement, tirez le poids vers le haut et contractez votre dos en haut du mouvement. Astuce : Gardez les bras supérieurs aussi près du torse que possible tout au long du mouvement pour mieux solliciter les muscles du dos. De plus, ne soulevez pas votre corps sur le coussin à quelque moment que ce soit et évitez d'utiliser vos biceps pour soulever le poids.",
     "Après une seconde contraction au sommet du mouvement, alors que vous inspirez, retournez lentement à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Rematore T-Bar da Sdraiato",
+  "instructions_it": [
+    "Carica la macchina per il Rematore T-Bar con il peso desiderato e regola l'altezza delle gambe in modo che il tuo petto superiore sia all'altezza superiore del cuscino. Suggerimento: In alcune macchine, l'unica cosa che puoi fare è stare sul gradino appropriato che ti consente di essere a un'altezza in cui il petto superiore è all'altezza del cuscino.",
+    "Sdraiati a faccia in giù sul cuscino e afferra le maniglie. Puoi utilizzare una posizione con i palmi rivolti verso il basso, verso l'alto o all'interno a seconda della parte della schiena che desideri enfatizzare.",
+    "Solleva la barra dal supporto ed estendi le braccia di fronte a te. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, tira lentamente il peso verso l'alto e stringi la schiena nella parte superiore del movimento. Suggerimento: Mantieni le braccia superiori il più vicino possibile al torso durante il movimento per attivare meglio i muscoli della schiena. Inoltre, non sollevare mai il corpo dal cuscino e astieniti dall'usare i bicipiti per sollevare il peso.",
+    "Dopo una contrazione di un secondo nella parte superiore del movimento, mentre inspiri, torna lentamente alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Esercizio Isometrico per il Collo - Avanti e Indietro",
+  "name": "Isometric Neck Exercise - Front And Back",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Con la testa e il collo in posizione neutra (posizione normale con la testa dritta rivolta in avanti), posiziona entrambe le mani sul lato anteriore della testa.",
-    "Ora spingi delicatamente in avanti mentre contrai i muscoli del collo, ma resisti a qualsiasi movimento della testa. Inizia con una tensione lenta e aumenta gradualmente. Continua a respirare normalmente mentre esegui questa contrazione.",
-    "Mantieni la posizione per il numero raccomandato di secondi.",
-    "Ora rilascia lentamente la tensione.",
-    "Riposa per il tempo raccomandato e ripeti con le mani posizionate sul lato posteriore della testa."
+    "With your head and neck in a neutral position (normal position with head erect facing forward), place both of your hands on the front side of your head.",
+    "Now gently push forward as you contract the neck muscles but resisting any movement of your head. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",
+    "Hold for the recommended number of seconds.",
+    "Now release the tension slowly.",
+    "Rest for the recommended amount of time and repeat with your hands placed on the back side of your head."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "Maintenez la position pendant le nombre de secondes recommandé.",
     "Maintenant, relâchez lentement la tension.",
     "Reposez-vous pendant le temps recommandé et répétez avec vos mains placées sur le côté arrière de votre tête."
+  ],
+  "name_it": "Esercizio Isometrico per il Collo - Avanti e Indietro",
+  "instructions_it": [
+    "Con la testa e il collo in posizione neutra (posizione normale con la testa dritta rivolta in avanti), posiziona entrambe le mani sul lato anteriore della testa.",
+    "Ora spingi delicatamente in avanti mentre contrai i muscoli del collo, ma resisti a qualsiasi movimento della testa. Inizia con una tensione lenta e aumenta gradualmente. Continua a respirare normalmente mentre esegui questa contrazione.",
+    "Mantieni la posizione per il numero raccomandato di secondi.",
+    "Ora rilascia lentamente la tensione.",
+    "Riposa per il tempo raccomandato e ripeti con le mani posizionate sul lato posteriore della testa."
   ]
 }

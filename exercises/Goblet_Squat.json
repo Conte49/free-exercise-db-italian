@@ -1,5 +1,5 @@
 {
-  "name": "Squat Goblet",
+  "name": "Goblet Squat",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,9 +14,9 @@
     "shoulders"
   ],
   "instructions": [
-    "Stai in piedi tenendo un kettlebell leggero per i manici vicino al petto. Questa sarà la tua posizione di partenza.",
-    "Accovacciati tra le gambe fino a quando i tuoi muscoli posteriori della coscia non toccano i polpacci. Tieni il petto e la testa alti e la schiena dritta.",
-    "Nella posizione più bassa, fermati e usa i gomiti per spingere le ginocchia verso l'esterno. Torna alla posizione di partenza e ripeti per 10-20 ripetizioni."
+    "Stand holding a light kettlebell by the horns close to your chest. This will be your starting position.",
+    "Squat down between your legs until your hamstrings are on your calves. Keep your chest and head up and your back straight.",
+    "At the bottom position, pause and use your elbows to push your knees out. Return to the starting position, and repeat for 10-20 repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,11 @@
     "Debout, tenez une kettlebell légère par les cornes près de votre poitrine. Cette position sera votre position de départ.",
     "Pliez-vous entre vos jambes jusqu'à ce que vos ischio-jambiers soient sur vos mollets. Gardez la poitrine et la tête relevées, ainsi que le dos droit.",
     "En position basse, faites une pause et utilisez vos coudes pour pousser vos genoux vers l'extérieur. Revenez à la position de départ et répétez l'exercice pendant 10 à 20 répétitions."
+  ],
+  "name_it": "Squat Goblet",
+  "instructions_it": [
+    "Stai in piedi tenendo un kettlebell leggero per i manici vicino al petto. Questa sarà la tua posizione di partenza.",
+    "Accovacciati tra le gambe fino a quando i tuoi muscoli posteriori della coscia non toccano i polpacci. Tieni il petto e la testa alti e la schiena dritta.",
+    "Nella posizione più bassa, fermati e usa i gomiti per spingere le ginocchia verso l'esterno. Torna alla posizione di partenza e ripeti per 10-20 ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Flessione con Plank Laterale",
+  "name": "Push Up to Side Plank",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,11 +13,11 @@
     "triceps"
   ],
   "instructions": [
-    "Mettiti in posizione di flessione sulle punte dei piedi con le mani appena oltre la larghezza delle spalle.",
-    "Esegui una flessione permettendo ai gomiti di piegarsi. Mentre scendi, mantieni il corpo dritto.",
-    "Fai una flessione e mentre risali, sposta il peso sul lato sinistro del corpo, ruota di lato portando il braccio destro verso il soffitto in un plank laterale.",
-    "Riporta il braccio a terra per un'altra flessione e poi ruota dall'altra parte.",
-    "Ripeti la serie, alternando ogni lato, per 10 o più ripetizioni."
+    "Get into pushup position on the toes with your hands just outside of shoulder width.",
+    "Perform a pushup by allowing the elbows to flex. As you descend, keep your body straight.",
+    "Do one pushup and as you come up, shift your weight on the left side of the body, twist to the side while bringing the right arm up towards the ceiling in a side plank.",
+    "Lower the arm back to the floor for another pushup and then twist to the other side.",
+    "Repeat the series, alternating each side, for 10 or more reps."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,13 @@
     "Faites une pompage et en vous levant, déplacez votre poids sur le côté gauche du corps, tournez-vous sur le côté tout en ramenant le bras droit vers le plafond dans une planche latérale.",
     "Abaissez le bras vers le sol pour faire un autre pompage, puis tournez-vous vers l'autre côté.",
     "Répétez la série, en alternant chaque côté, pour 10 répétitions ou plus."
+  ],
+  "name_it": "Flessione con Plank Laterale",
+  "instructions_it": [
+    "Mettiti in posizione di flessione sulle punte dei piedi con le mani appena oltre la larghezza delle spalle.",
+    "Esegui una flessione permettendo ai gomiti di piegarsi. Mentre scendi, mantieni il corpo dritto.",
+    "Fai una flessione e mentre risali, sposta il peso sul lato sinistro del corpo, ruota di lato portando il braccio destro verso il soffitto in un plank laterale.",
+    "Riporta il braccio a terra per un'altra flessione e poi ruota dall'altra parte.",
+    "Ripeti la serie, alternando ogni lato, per 10 o più ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Sollevamento Glutei (Bridge)",
+  "name": "Butt Lift (Bridge)",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,9 +11,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Sdraiati a terra sulla schiena con le mani ai lati e le ginocchia piegate. I piedi devono essere posizionati circa alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Spingendo principalmente con i talloni, solleva i fianchi da terra mantenendo la schiena dritta. Espira mentre esegui questa parte del movimento e trattieni in alto per un secondo.",
-    "Torna lentamente alla posizione di partenza mentre inspiri."
+    "Lie flat on the floor on your back with the hands by your side and your knees bent. Your feet should be placed around shoulder width. This will be your starting position.",
+    "Pushing mainly with your heels, lift your hips off the floor while keeping your back straight. Breathe out as you perform this part of the motion and hold at the top for a second.",
+    "Slowly go back to the starting position as you breathe in."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,11 @@
     "Allongez-vous sur le dos, les mains le long du corps et les genoux pliés. Vos pieds doivent être espacés d'environ la largeur des épaules. C'est votre position de départ.",
     "En poussant principalement avec vos talons, soulevez vos hanches du sol tout en gardant le dos droit. Respirez en effectuant cette partie du mouvement et maintenez la position pendant une seconde en haut.",
     "Revenez lentement à la position de départ en inspirant."
+  ],
+  "name_it": "Sollevamento Glutei (Bridge)",
+  "instructions_it": [
+    "Sdraiati a terra sulla schiena con le mani ai lati e le ginocchia piegate. I piedi devono essere posizionati circa alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Spingendo principalmente con i talloni, solleva i fianchi da terra mantenendo la schiena dritta. Espira mentre esegui questa parte del movimento e trattieni in alto per un secondo.",
+    "Torna lentamente alla posizione di partenza mentre inspiri."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Panca Piana con Kettlebell a Un Braccio con Gamma Estesa",
+  "name": "Extended Range One-Arm Kettlebell Floor Press",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,8 +12,8 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati sul pavimento e posiziona un kettlebell per pressare con un braccio. Il kettlebell deve essere tenuto per il manico. La gamba dello stesso lato che stai pressando deve essere piegata, con il ginocchio che attraversa la linea mediana del corpo.",
-    "Pressa il kettlebell estendendo il gomito e adducento il braccio, spingendolo sopra il tuo corpo. Torna alla posizione di partenza."
+    "Lie on the floor and position a kettlebell for one arm to press. The kettlebell should be held by the handle. The leg on the same side that you are pressing should be bent, with the knee crossing over the midline of the body.",
+    "Press the kettlebell by extending the elbow and adducting the arm, pressing it above your body. Return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Allongez-vous sur le sol et placez une kettlebell pour que vous puissiez l'appuyer avec un bras. La kettlebell doit être tenue par la poignée. Le jambe du même côté que vous appuyez doit être fléchie, le genou franchissant la ligne médiane du corps.",
     "Presse la kettlebell en étendant le coude et en adduisant le bras, en l'appuyant au-dessus de votre corps. Revenez à la position de départ."
+  ],
+  "name_it": "Panca Piana con Kettlebell a Un Braccio con Gamma Estesa",
+  "instructions_it": [
+    "Sdraiati sul pavimento e posiziona un kettlebell per pressare con un braccio. Il kettlebell deve essere tenuto per il manico. La gamba dello stesso lato che stai pressando deve essere piegata, con il ginocchio che attraversa la linea mediana del corpo.",
+    "Pressa il kettlebell estendendo il gomito e adducento il braccio, spingendolo sopra il tuo corpo. Torna alla posizione di partenza."
   ]
 }

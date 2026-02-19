@@ -1,5 +1,5 @@
 {
-  "name": "Pull-Up con presa larga",
+  "name": "Wide-Grip Rear Pull-Up",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,11 +13,11 @@
     "shoulders"
   ],
   "instructions": [
-    "Afferrate la barra per le trazioni con i palmi rivolti in avanti usando una presa larga.",
-    "Con entrambe le braccia estese di fronte a voi che tengono la barra, portate il torso e la testa in avanti in modo che ci sia una linea immaginaria dalla barra per le trazioni alla parte posteriore del collo. Questa è la vostra posizione di partenza.",
-    "Sollevate il torso fino a quando la barra è vicina alla parte posteriore del collo. Per fare questo, tirate le spalle e le braccia superiori verso il basso e indietro mentre inclinate leggermente la testa in avanti. Espirate mentre eseguite questa parte del movimento. Suggerimento: concentratevi sul contrarre i muscoli della schiena una volta raggiunta la posizione completamente contratta. Il torso superiore dovrebbe rimanere fermo mentre si muove nello spazio e solo le braccia dovrebbero muoversi. Gli avambracci non dovrebbero svolgere alcun altro lavoro se non tenere la barra.",
-    "Dopo un secondo nella posizione contratta, iniziate a inspirare e abbassate lentamente il torso tornando alla posizione di partenza quando le braccia sono completamente estese e i dorsali sono completamente allungati.",
-    "Ripetete questo movimento per il numero di ripetizioni prescritto."
+    "Grab the pull-up bar with the palms facing forward using a wide grip.",
+    "As you have both arms extended in front of you holding the bar, bring your torso forward and head so that there is an imaginary line from the pull-up bar to the back of your neck. This is your starting position.",
+    "Pull your torso up until the bar is near the back of your neck. To do this, draw the shoulders and upper arms down and back while slightly leaning your head forward. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
+    "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,13 @@
     "Ramenez votre buste jusqu'à ce que la barre soit près de l'arrière de votre cou. Pour cela, tirez les épaules et les bras supérieurs vers l'arrière tout en inclinant légèrement la tête vers l'avant. Expirez pendant cette partie du mouvement. Conseil : Concentrez-vous sur la contraction des muscles du dos une fois que vous avez atteint la position contractée complète. La partie supérieure du torse doit rester fixe lorsqu'elle se déplace dans l'espace et seuls les bras doivent bouger. Les avant-bras ne devraient faire aucun autre travail que de tenir la barre.",
     "Après une seconde en position contractée, commencez à inspirer et abaissez lentement votre torse jusqu'à la position de départ lorsque vos bras sont complètement tendus et que vos grands dorsaux sont complètement étirés.",
     "Répétez ce mouvement pour le nombre prescrit de répétitions."
+  ],
+  "name_it": "Pull-Up con presa larga",
+  "instructions_it": [
+    "Afferrate la barra per le trazioni con i palmi rivolti in avanti usando una presa larga.",
+    "Con entrambe le braccia estese di fronte a voi che tengono la barra, portate il torso e la testa in avanti in modo che ci sia una linea immaginaria dalla barra per le trazioni alla parte posteriore del collo. Questa è la vostra posizione di partenza.",
+    "Sollevate il torso fino a quando la barra è vicina alla parte posteriore del collo. Per fare questo, tirate le spalle e le braccia superiori verso il basso e indietro mentre inclinate leggermente la testa in avanti. Espirate mentre eseguite questa parte del movimento. Suggerimento: concentratevi sul contrarre i muscoli della schiena una volta raggiunta la posizione completamente contratta. Il torso superiore dovrebbe rimanere fermo mentre si muove nello spazio e solo le braccia dovrebbero muoversi. Gli avambracci non dovrebbero svolgere alcun altro lavoro se non tenere la barra.",
+    "Dopo un secondo nella posizione contratta, iniziate a inspirare e abbassate lentamente il torso tornando alla posizione di partenza quando le braccia sono completamente estese e i dorsali sono completamente allungati.",
+    "Ripetete questo movimento per il numero di ripetizioni prescritto."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Stretching dei Avambracci in Ginocchio",
+  "name": "Kneeling Forearm Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia inginocchiandoti su un tappetino con i palmi delle mani appoggiati a terra e le dita rivolte verso le ginocchia.",
-    "Inclina lentamente il corpo all'indietro mantenendo i palmi piatti sul pavimento fino a sentire un allungamento nei polsi e negli avambracci. Tieni la posizione per 20-30 secondi."
+    "Start by kneeling on a mat with your palms flat and your fingers pointing back toward your knees.",
+    "Slowly lean back keeping your palms flat on the floor until you feel a stretch in your wrists and forearms. Hold for 20-30 seconds."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Commencez à genoux sur une serviette avec la paume de vos mains aplatie et vos doigts pointant vers vos genoux.",
     "Inclinez-vous lentement en gardant les paumes à plat sur le sol jusqu'à ce que vous ressentiez une étirement au niveau des poignets et des avant-bras. Maintenez cette position pendant 20 à 30 secondes."
+  ],
+  "name_it": "Stretching dei Avambracci in Ginocchio",
+  "instructions_it": [
+    "Inizia inginocchiandoti su un tappetino con i palmi delle mani appoggiati a terra e le dita rivolte verso le ginocchia.",
+    "Inclina lentamente il corpo all'indietro mantenendo i palmi piatti sul pavimento fino a sentire un allungamento nei polsi e negli avambracci. Tieni la posizione per 20-30 secondi."
   ]
 }

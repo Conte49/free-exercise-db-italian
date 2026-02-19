@@ -1,5 +1,5 @@
 {
-  "name": "Camminata con Yoke",
+  "name": "Yoke Walk",
   "force": null,
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,9 +17,9 @@
     "lower back"
   ],
   "instructions": [
-    "La camminata con yoke viene solitamente eseguita con un attrezzo specifico, ma a volte si utilizza anche un frigorifero o altri oggetti pesanti.",
-    "Inizia posizionando l'attrezzo sulla parte posteriore delle spalle. Con la testa rivolta in avanti e la schiena arcuata, solleva il yoke spingendo attraverso i talloni.",
-    "Inizia a camminare il più velocemente possibile utilizzando passi brevi e rapidi. Puoi afferrare i supporti laterali del yoke per aiutarti a stabilizzarlo e mantenerlo in posizione. Continua per la distanza indicata il più rapidamente possibile, solitamente 75-100 piedi."
+    "The yoke is usually done with a yoke apparatus, but is sometimes seen with refrigerators or other heavy objects.",
+    "Begin by racking the apparatus across the back of the shoulders. With your head looking forward and back arched, lift the yoke by driving through the heels.",
+    "Begin walking as quickly as possible using short, quick steps. You may hold the side posts of the yoke to help steady it and hold it in position. Continue for the given distance as fast as possible, usually 75-100 feet."
   ],
   "category": "strongman",
   "images": [
@@ -31,5 +31,11 @@
     "Le \"yoke\" se fait généralement avec un appareil de yoke, mais on le voit parfois avec des réfrigérateurs ou d'autres objets lourds.",
     "Commencez par ranger l'appareil sur la nuque. La tête en avant et le dos arqué, soulevez le yok en appuyant sur les talons.",
     "Commencez à marcher le plus rapidement possible en utilisant des pas courts et rapides. Vous pouvez tenir les montants latéraux de la barre pour l'aider à la stabiliser et la maintenir en place. Continuez sur la distance donnée aussi rapidement que possible, généralement de 75 à 100 pieds."
+  ],
+  "name_it": "Camminata con Yoke",
+  "instructions_it": [
+    "La camminata con yoke viene solitamente eseguita con un attrezzo specifico, ma a volte si utilizza anche un frigorifero o altri oggetti pesanti.",
+    "Inizia posizionando l'attrezzo sulla parte posteriore delle spalle. Con la testa rivolta in avanti e la schiena arcuata, solleva il yoke spingendo attraverso i talloni.",
+    "Inizia a camminare il più velocemente possibile utilizzando passi brevi e rapidi. Puoi afferrare i supporti laterali del yoke per aiutarti a stabilizzarlo e mantenerlo in posizione. Continua per la distanza indicata il più rapidamente possibile, solitamente 75-100 piedi."
   ]
 }

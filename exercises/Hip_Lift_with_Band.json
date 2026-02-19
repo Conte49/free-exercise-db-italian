@@ -1,5 +1,5 @@
 {
-  "name": "Sollevamento dell'anca con banda",
+  "name": "Hip Lift with Band",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Dopo aver scelto una banda adatta, sdraiati al centro del rack, dopo aver fissato la banda su entrambi i lati. Se il tuo rack non ha perni, la banda può essere fissata utilizzando manubri pesanti o oggetti simili, assicurati solo che non si muovano.",
-    "Regola la tua posizione in modo che la banda sia direttamente sopra le tue anche. Piega le ginocchia e posiziona i piedi piatti sul pavimento. Le tue mani possono essere sul pavimento o tenere la banda in posizione.",
-    "Mantenendo le spalle a terra, spingi attraverso i talloni per sollevare le anche, spingendo nella banda il più in alto possibile.",
-    "Fermati nella parte superiore del movimento e torna alla posizione di partenza."
+    "After choosing a suitable band, lay down in the middle of the rack, after securing the band on either side of you. If your rack doesn't have pegs, the band can be secured using heavy dumbbells or similar objects, just ensure they won't move.",
+    "Adjust your position so that the band is directly over your hips. Bend your knees and place your feet flat on the floor. Your hands can be on the floor or holding the band in position.",
+    "Keeping your shoulders on the ground, drive through your heels to raise your hips, pushing into the band as high as you can.",
+    "Pause at the top of the motion, and return to the starting position."
   ],
   "category": "powerlifting",
   "images": [
@@ -28,5 +28,12 @@
     "Ajustez votre position de sorte que la bande soit directement au-dessus de vos hanches. Fléchissez les genoux et posez vos pieds à plat sur le sol. Vos mains peuvent être posées sur le sol ou maintenir la bande en place.",
     "En gardant les épaules au sol, poussez sur vos talons pour soulever les hanches, en poussant dans la bande aussi haut que possible.",
     "Pausez au sommet du mouvement et revenez à la position de départ."
+  ],
+  "name_it": "Sollevamento dell'anca con banda",
+  "instructions_it": [
+    "Dopo aver scelto una banda adatta, sdraiati al centro del rack, dopo aver fissato la banda su entrambi i lati. Se il tuo rack non ha perni, la banda può essere fissata utilizzando manubri pesanti o oggetti simili, assicurati solo che non si muovano.",
+    "Regola la tua posizione in modo che la banda sia direttamente sopra le tue anche. Piega le ginocchia e posiziona i piedi piatti sul pavimento. Le tue mani possono essere sul pavimento o tenere la banda in posizione.",
+    "Mantenendo le spalle a terra, spingi attraverso i talloni per sollevare le anche, spingendo nella banda il più in alto possibile.",
+    "Fermati nella parte superiore del movimento e torna alla posizione di partenza."
   ]
 }

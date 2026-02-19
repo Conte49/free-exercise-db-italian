@@ -1,5 +1,5 @@
 {
-  "name": "Figure 8 con Kettlebell",
+  "name": "Kettlebell Figure 8",
   "force": "pull",
   "level": "intermediate",
   "mechanic": null,
@@ -12,9 +12,8 @@
     "shoulders"
   ],
   "instructions": [
-    "Posiziona un kettlebell tra le gambe e assumi una posizione più ampia delle spalle.",
-    "Piegati in avanti spingendo il sedere all'indietro e mantenendo la schiena dritta.",
-    "Prendi un kettlebell e passalo all'altra mano tra le gambe. La mano che riceve dovrebbe allungarsi da dietro le gambe. Ripeti il movimento per diverse ripetizioni."
+    "Place one kettlebell between your legs and take a wider than shoulder width stance. Bend over by pushing your butt out and keeping your back flat.",
+    "Pick up a kettlebell and pass it to your other hand between your legs. The receiving hand should reach from behind the legs. Go back and forth for several repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +24,11 @@
   "instructions_fr": [
     "Placez une kettlebell entre vos jambes et adoptez une position plus large que la largeur des épaules. Penchez-vous en poussant vos fesses vers l'avant tout en gardant le dos plat.",
     "Prenez une kettlebell et transférez-la dans votre autre main entre vos jambes. La main receveuse devrait atteindre l'arrière des jambes. Allez de l'avant vers l'arrière pendant plusieurs répétitions."
+  ],
+  "name_it": "Figure 8 con Kettlebell",
+  "instructions_it": [
+    "Posiziona un kettlebell tra le gambe e assumi una posizione più ampia delle spalle.",
+    "Piegati in avanti spingendo il sedere all'indietro e mantenendo la schiena dritta.",
+    "Prendi un kettlebell e passalo all'altra mano tra le gambe. La mano che riceve dovrebbe allungarsi da dietro le gambe. Ripeti il movimento per diverse ripetizioni."
   ]
 }

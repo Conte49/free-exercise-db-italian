@@ -1,5 +1,5 @@
 {
-  "name": "Caviglia sul Ginocchio",
+  "name": "Ankle On The Knee",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "In posizione supina, piega le ginocchia e mantieni i piedi a terra.",
-    "Posiziona la caviglia di un piede sul ginocchio opposto.",
-    "Afferrati la coscia o il ginocchio della gamba inferiore e tira entrambe le gambe verso il petto. Rilassa il collo e le spalle. Mantieni la posizione per 10-20 secondi e poi cambia lato."
+    "From a lying position, bend your knees and keep your feet on the floor.",
+    "Place your ankle of one foot on your opposite knee.",
+    "Grasp the thigh or knee of the bottom leg and pull both of your legs into the chest. Relax your neck and shoulders. Hold for 10-20 seconds and then switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,11 @@
     "À partir d'une position couchée, pliez les genoux et gardez les pieds à plat sur le sol.",
     "Placez votre cheville d'un pied sur le genou opposé.",
     "Saisissez la cuisse ou le genou de la jambe inférieure et ramenez les deux jambes vers la poitrine. Détendez votre cou et vos épaules. Maintenez cette position pendant 10 à 20 secondes, puis changez de côté."
+  ],
+  "name_it": "Caviglia sul Ginocchio",
+  "instructions_it": [
+    "In posizione supina, piega le ginocchia e mantieni i piedi a terra.",
+    "Posiziona la caviglia di un piede sul ginocchio opposto.",
+    "Afferrati la coscia o il ginocchio della gamba inferiore e tira entrambe le gambe verso il petto. Rilassa il collo e le spalle. Mantieni la posizione per 10-20 secondi e poi cambia lato."
   ]
 }

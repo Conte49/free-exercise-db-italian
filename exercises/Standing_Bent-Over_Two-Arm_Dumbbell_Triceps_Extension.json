@@ -1,5 +1,5 @@
 {
-  "name": "Estensione dei tricipiti con manubri a due braccia in posizione eretta",
+  "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Con un manubrio in ciascuna mano e i palmi rivolti verso il torso, piega leggermente le ginocchia e porta il torso in avanti, piegando alla vita, mantenendo la schiena dritta fino a che non è quasi parallela al pavimento. Assicurati di tenere la testa alta. I bracci superiori dovrebbero essere vicini al torso e paralleli al pavimento mentre gli avambracci puntano verso il pavimento mentre le mani tengono i pesi. Suggerimento: ci dovrebbe essere un angolo di 90 gradi tra gli avambracci e il braccio superiore. Questa è la tua posizione di partenza.",
-    "Mantenendo i bracci superiori fissi, usa i tricipiti per sollevare i pesi mentre espiri fino a quando gli avambracci sono paralleli al pavimento e le braccia sono completamente estese. Come molti altri esercizi per le braccia, si muove solo l'avambraccio.",
-    "Dopo una seconda contrazione in cima, abbassa lentamente i manubri tornando alla posizione di partenza mentre inspiri.",
-    "Ripeti il movimento per il numero di ripetizioni prescritto."
+    "With a dumbbell in each hand and the palms facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up. The upper arms should be close to the torso and parallel to the floor while the forearms are pointing towards the floor as the hands hold the weights. Tip: There should be a 90-degree angle between the forearms and the upper arm. This is your starting position.",
+    "Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arms are extended. Like many other arm exercises, only the forearm moves.",
+    "After a second contraction at the top, slowly lower the dumbbells back to their starting position as you inhale.",
+    "Repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "En gardant les bras supérieurs immobiles, utilisez les triceps pour soulever les poids en expirant jusqu'à ce que les avant-bras soient parallèles au sol et que les bras entiers soient étendus. Comme de nombreux autres exercices de bras, seul l'avant-bras bouge.",
     "Après une seconde contraction en haut, abaissez lentement les haltères jusqu'à leur position initiale tout en inspirant.",
     "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ],
+  "name_it": "Estensione dei tricipiti con manubri a due braccia in posizione eretta",
+  "instructions_it": [
+    "Con un manubrio in ciascuna mano e i palmi rivolti verso il torso, piega leggermente le ginocchia e porta il torso in avanti, piegando alla vita, mantenendo la schiena dritta fino a che non è quasi parallela al pavimento. Assicurati di tenere la testa alta. I bracci superiori dovrebbero essere vicini al torso e paralleli al pavimento mentre gli avambracci puntano verso il pavimento mentre le mani tengono i pesi. Suggerimento: ci dovrebbe essere un angolo di 90 gradi tra gli avambracci e il braccio superiore. Questa è la tua posizione di partenza.",
+    "Mantenendo i bracci superiori fissi, usa i tricipiti per sollevare i pesi mentre espiri fino a quando gli avambracci sono paralleli al pavimento e le braccia sono completamente estese. Come molti altri esercizi per le braccia, si muove solo l'avambraccio.",
+    "Dopo una seconda contrazione in cima, abbassa lentamente i manubri tornando alla posizione di partenza mentre inspiri.",
+    "Ripeti il movimento per il numero di ripetizioni prescritto."
   ]
 }

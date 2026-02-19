@@ -1,5 +1,5 @@
 {
-  "name": "Lo Stretching Più Grande del Mondo",
+  "name": "World's Greatest Stretch",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -13,9 +13,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Questo è uno stretching in tre parti. Inizia facendo un affondo in avanti, con il piede anteriore piatto a terra e le punte del piede posteriore sollevate. Con le ginocchia piegate, accovacciati fino a che il ginocchio non è quasi a contatto con il terreno. Tieni il busto eretto e mantieni questa posizione per 10-20 secondi.",
-    "Ora, posiziona il braccio dello stesso lato della gamba anteriore a terra, con il gomito vicino al piede. L'altra mano dovrebbe essere posizionata a terra, parallela alla gamba anteriore, per aiutarti a sostenerti durante questa parte dello stretching.",
-    "Dopo 10-20 secondi, posiziona le mani su entrambi i lati del piede anteriore. Solleva le punte del piede anteriore da terra e raddrizza la gamba. Potrebbe essere necessario riposizionare la gamba posteriore per farlo. Mantieni per 10-20 secondi, e poi ripeti l'intera sequenza dall'altro lato."
+    "This is a three-part stretch. Begin by lunging forward, with your front foot flat on the ground and on the toes of your back foot. With your knees bent, squat down until your knee is almost touching the ground. Keep your torso erect, and hold this position for 10-20 seconds.",
+    "Now, place the arm on the same side as your front leg on the ground, with the elbow next to the foot. Your other hand should be placed on the ground, parallel to your lead leg, to help support you during this portion of the stretch.",
+    "After 10-20 seconds, place your hands on either side of your front foot. Raise the toes of the front foot off of the ground, and straighten your leg. You may need to reposition your rear leg to do so. Hold for 10-20 seconds, and then repeat the entire sequence for the other side."
   ],
   "category": "stretching",
   "images": [
@@ -27,5 +27,11 @@
     "Il s'agit d'un étirement en trois parties. Commencez par faire un pas en avant, avec le pied avant à plat sur le sol et sur les orteils du pied arrière. Avec les genoux pliés, accroupissez-vous jusqu'à ce que votre genou soit presque au sol. Gardez votre torse droit et maintenez cette position pendant 10 à 20 secondes.",
     "Maintenant, placez le bras sur le même côté que votre jambe de devant à plat sur le sol, le coude à côté du pied. Votre autre main doit être placée à plat sur le sol, parallèle à votre jambe d'appui, pour vous aider à vous soutenir pendant cette partie de l'étirement.",
     "Après 10 à 20 secondes, placez vos mains de chaque côté de votre pied avant. Soulevez les orteils du pied avant hors du sol et redressez la jambe. Vous devrez peut-être repositionner votre jambe arrière pour y parvenir. Maintenez la position pendant 10 à 20 secondes, puis répétez l'enchaînement pour l'autre côté."
+  ],
+  "name_it": "Lo Stretching Più Grande del Mondo",
+  "instructions_it": [
+    "Questo è uno stretching in tre parti. Inizia facendo un affondo in avanti, con il piede anteriore piatto a terra e le punte del piede posteriore sollevate. Con le ginocchia piegate, accovacciati fino a che il ginocchio non è quasi a contatto con il terreno. Tieni il busto eretto e mantieni questa posizione per 10-20 secondi.",
+    "Ora, posiziona il braccio dello stesso lato della gamba anteriore a terra, con il gomito vicino al piede. L'altra mano dovrebbe essere posizionata a terra, parallela alla gamba anteriore, per aiutarti a sostenerti durante questa parte dello stretching.",
+    "Dopo 10-20 secondi, posiziona le mani su entrambi i lati del piede anteriore. Solleva le punte del piede anteriore da terra e raddrizza la gamba. Potrebbe essere necessario riposizionare la gamba posteriore per farlo. Mantieni per 10-20 secondi, e poi ripeti l'intera sequenza dall'altro lato."
   ]
 }

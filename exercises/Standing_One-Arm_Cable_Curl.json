@@ -1,5 +1,5 @@
 {
-  "name": "Curl con cavo a braccio singolo in piedi",
+  "name": "Standing One-Arm Cable Curl",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia afferrando il manico singolo accanto alla macchina con il cavo basso. Assicurati di essere abbastanza lontano dalla macchina in modo che il tuo braccio sostenga il peso.",
-    "Assicurati che il tuo braccio superiore sia fermo, perpendicolare al pavimento con i gomiti vicini al corpo e i palmi rivolti in avanti. L'altro braccio dovrebbe afferrare la vita. Questo ti aiuterà a mantenere l'equilibrio.",
-    "Inizia lentamente a sollevare il manico singolo verso l'alto mantenendo il braccio superiore fermo fino a quando l'avambraccio tocca il bicipite mentre espiri. Suggerimento: solo l'avambraccio dovrebbe muoversi.",
-    "Mantieni la posizione di contrazione mentre stringi il bicipite e poi abbassa il manico singolo di nuovo alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni.",
-    "Cambia braccio mentre esegui questo esercizio."
+    "Start out by grabbing single handle next to the low pulley machine. Make sure you are far enough from the machine so that your arm is supporting the weight.",
+    "Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. Your non lifting arm should be grabbing your waist. This will allow you to keep your balance.",
+    "Slowly begin to curl the single handle upwards while keeping the upper arm stationary until your forearm touches your bicep while exhaling. Tip: Only the forearm should move.",
+    "Hold the contraction position as you squeeze the bicep and then lower the single handle back down to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms while performing this exercise."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "Maintenez la position de contraction en contractant le biceps, puis remettez la poignée unique dans la position de départ pendant que vous inspirez.",
     "Répétez pour le nombre de répétitions recommandé.",
     "Changez de bras pendant l'exécution de cet exercice."
+  ],
+  "name_it": "Curl con cavo a braccio singolo in piedi",
+  "instructions_it": [
+    "Inizia afferrando il manico singolo accanto alla macchina con il cavo basso. Assicurati di essere abbastanza lontano dalla macchina in modo che il tuo braccio sostenga il peso.",
+    "Assicurati che il tuo braccio superiore sia fermo, perpendicolare al pavimento con i gomiti vicini al corpo e i palmi rivolti in avanti. L'altro braccio dovrebbe afferrare la vita. Questo ti aiuterà a mantenere l'equilibrio.",
+    "Inizia lentamente a sollevare il manico singolo verso l'alto mantenendo il braccio superiore fermo fino a quando l'avambraccio tocca il bicipite mentre espiri. Suggerimento: solo l'avambraccio dovrebbe muoversi.",
+    "Mantieni la posizione di contrazione mentre stringi il bicipite e poi abbassa il manico singolo di nuovo alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Cambia braccio mentre esegui questo esercizio."
   ]
 }

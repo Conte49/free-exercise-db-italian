@@ -1,5 +1,5 @@
 {
-  "name": "Vacuum Addominale",
+  "name": "Stomach Vacuum",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Per iniziare, stai dritto con i piedi alla larghezza delle spalle. Metti le mani sui fianchi. Questa è la posizione di partenza.",
-    "Ora inspira lentamente il maggior numero di aria possibile e poi inizia a espirare il più possibile mentre porti il tuo stomaco dentro il più possibile e mantieni questa posizione. Cerca di visualizzare il tuo ombelico che tocca la tua colonna vertebrale.",
-    "Una contrazione isometrica dura circa 20 secondi. Durante i 20 secondi di mantenimento, cerca di respirare normalmente. Poi inspira e riporta il tuo stomaco nella posizione di partenza.",
-    "Una volta che hai praticato questo esercizio, prova a eseguirlo per più di 20 secondi. Suggerimento: puoi arrivare fino a 40-60 secondi.",
-    "Ripeti per il numero raccomandato di serie."
+    "To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.",
+    "Now slowly inhale as much air as possible and then start to exhale as much as possible while bringing your stomach in as much as possible and hold this position. Try to visualize your navel touching your backbone.",
+    "One isometric contraction is around 20 seconds. During the 20 second hold, try to breathe normally. Then inhale and bring your stomach back to the starting position.",
+    "Once you have practiced this exercise, try to perform this exercise for longer than 20 seconds. Tip: You can work your way up to 40-60 seconds.",
+    "Repeat for the recommended amount of sets."
   ],
   "category": "stretching",
   "images": [
@@ -27,5 +27,13 @@
     "Une contraction isométrique dure environ 20 secondes. Pendant la contraction de 20 secondes, essayez de respirer normalement. Puis inspirez et ramenez votre ventre à la position de départ.",
     "Une fois que vous avez pratiqué cet exercice, essayez de l'exécuter pendant plus de 20 secondes. Conseil : vous pouvez travailler jusqu'à 40 à 60 secondes.",
     "Répétez pour le nombre de séries recommandé."
+  ],
+  "name_it": "Vacuum Addominale",
+  "instructions_it": [
+    "Per iniziare, stai dritto con i piedi alla larghezza delle spalle. Metti le mani sui fianchi. Questa è la posizione di partenza.",
+    "Ora inspira lentamente il maggior numero di aria possibile e poi inizia a espirare il più possibile mentre porti il tuo stomaco dentro il più possibile e mantieni questa posizione. Cerca di visualizzare il tuo ombelico che tocca la tua colonna vertebrale.",
+    "Una contrazione isometrica dura circa 20 secondi. Durante i 20 secondi di mantenimento, cerca di respirare normalmente. Poi inspira e riporta il tuo stomaco nella posizione di partenza.",
+    "Una volta che hai praticato questo esercizio, prova a eseguirlo per più di 20 secondi. Suggerimento: puoi arrivare fino a 40-60 secondi.",
+    "Ripeti per il numero raccomandato di serie."
   ]
 }

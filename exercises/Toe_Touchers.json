@@ -1,5 +1,5 @@
 {
-  "name": "Tocca le Dita dei Piedi",
+  "name": "Toe Touchers",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Per iniziare, sdraiati sul pavimento o su un tappetino da esercizio con la schiena appoggiata al pavimento. Le braccia devono essere distese lungo i fianchi con i palmi rivolti verso il basso.",
-    "Le gambe devono toccarsi. Solleva lentamente le gambe verso l'alto fino a che non sono quasi perpendicolari al pavimento con un leggero piegamento delle ginocchia. I piedi devono essere paralleli al pavimento.",
-    "Muovi le braccia in modo che siano completamente estese a un angolo di 45 gradi rispetto al pavimento. Questa è la posizione di partenza.",
-    "Mantenendo la parte bassa della schiena premuta contro il pavimento, solleva lentamente il torso e usa le mani per cercare di toccare le dita dei piedi. Ricorda di espirare mentre esegui questa parte dell'esercizio.",
-    "Inizia a abbassare lentamente il torso e le braccia tornando alla posizione di partenza mentre inspiri. Ricorda di mantenere le braccia dritte puntate verso le dita dei piedi.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
+    "Your legs should be touching each other. Slowly elevate your legs up in the air until they are almost perpendicular to the floor with a slight bend at the knees. Your feet should be parallel to the floor.",
+    "Move your arms so that they are fully extended at a 45 degree angle from the floor. This is the starting position.",
+    "While keeping your lower back pressed against the floor, slowly lift your torso and use your hands to try and touch your toes. Remember to exhale while perform this part of the exercise.",
+    "Slowly begin to lower your torso and arms back down to the starting position while inhaling. Remember to keep your arms straight out pointing towards your toes.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "stretching",
   "images": [
@@ -29,5 +29,14 @@
     "En gardant votre dos inférieur appuyer contre le sol, soulevez lentement votre torse et utilisez vos mains pour essayer de toucher vos orteils. N'oubliez pas d'expirer en exécutant cette partie de l'exercice.",
     "Commencez lentement à baisser votre torse et vos bras jusqu'à la position de départ tout en inspirant. N'oubliez pas de garder vos bras tendus vers vos orteils.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Tocca le Dita dei Piedi",
+  "instructions_it": [
+    "Per iniziare, sdraiati sul pavimento o su un tappetino da esercizio con la schiena appoggiata al pavimento. Le braccia devono essere distese lungo i fianchi con i palmi rivolti verso il basso.",
+    "Le gambe devono toccarsi. Solleva lentamente le gambe verso l'alto fino a che non sono quasi perpendicolari al pavimento con un leggero piegamento delle ginocchia. I piedi devono essere paralleli al pavimento.",
+    "Muovi le braccia in modo che siano completamente estese a un angolo di 45 gradi rispetto al pavimento. Questa è la posizione di partenza.",
+    "Mantenendo la parte bassa della schiena premuta contro il pavimento, solleva lentamente il torso e usa le mani per cercare di toccare le dita dei piedi. Ricorda di espirare mentre esegui questa parte dell'esercizio.",
+    "Inizia a abbassare lentamente il torso e le braccia tornando alla posizione di partenza mentre inspiri. Ricorda di mantenere le braccia dritte puntate verso le dita dei piedi.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

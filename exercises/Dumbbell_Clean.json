@@ -1,5 +1,5 @@
 {
-  "name": "Clean con manubri",
+  "name": "Dumbbell Clean",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,11 +17,11 @@
     "traps"
   ],
   "instructions": [
-    "Inizia in piedi con un manubrio in ciascuna mano e i piedi alla larghezza delle spalle.",
-    "Abbassa i pesi a terra flettendo i fianchi e le ginocchia, spingendo i fianchi indietro fino a quando i manubri non raggiungono il pavimento. Questa sarà la tua posizione di partenza.",
-    "Per iniziare il movimento, salta violentemente verso l'alto estendendo i fianchi, le ginocchia e le caviglie per accelerare i pesi verso l'alto. Mantenendo una presa neutra sui manubri, tieni le braccia dritte fino a raggiungere l'estensione completa.",
-    "Dopo l'estensione completa, ri-fletti i fianchi e le ginocchia per ricevere il peso in posizione accovacciata. Permetti alle braccia di piegarsi, guidando i manubri verso le spalle.",
-    "Una volta ricevuto il peso in posizione accovacciata, estendi i fianchi e le ginocchia per terminare in posizione eretta con i pesi sulle spalle."
+    "Begin standing with a dumbbell in each hand with your feet shoulder width apart.",
+    "Lower the weights to the floor by flexing at the hips and knees, pushing your hips back until the dumbbells reach the floor. This will be your starting position.",
+    "To initiate the movement, violently jump upward by extending the hips, knees, and ankles to acclerate the weights upward. Maintaining a neutral grip on the dumbbells, keep the arms straight until full extension is reached.",
+    "After full extension, rebend the hips and knees to receive the weight in a squat position. Allow the arms to bend, guiding the dumbbells to your shoulders.",
+    "Upon receiving the weight in the squat position, extend the hips and knees to finish in a standing position with the weights on your shoulders."
   ],
   "category": "strength",
   "images": [
@@ -35,5 +35,13 @@
     "Pour initier le mouvement, sautez violemment vers le haut en étendant les hanches, les genoux et les chevilles pour accélérer les poids vers le haut. Gardez une poignée neutre sur les haltères et gardez les bras droits jusqu'à ce que l'extension complète soit atteinte.",
     "Après l'extension complète, pliez à nouveau les hanches et les genoux pour recevoir le poids en position accroupie. Laissez les bras se plier, guidant les haltères vers vos épaules.",
     "À la réception du poids dans la position accroupie, étendez les hanches et les genoux pour terminer en position debout avec les poids sur vos épaules."
+  ],
+  "name_it": "Clean con manubri",
+  "instructions_it": [
+    "Inizia in piedi con un manubrio in ciascuna mano e i piedi alla larghezza delle spalle.",
+    "Abbassa i pesi a terra flettendo i fianchi e le ginocchia, spingendo i fianchi indietro fino a quando i manubri non raggiungono il pavimento. Questa sarà la tua posizione di partenza.",
+    "Per iniziare il movimento, salta violentemente verso l'alto estendendo i fianchi, le ginocchia e le caviglie per accelerare i pesi verso l'alto. Mantenendo una presa neutra sui manubri, tieni le braccia dritte fino a raggiungere l'estensione completa.",
+    "Dopo l'estensione completa, ri-fletti i fianchi e le ginocchia per ricevere il peso in posizione accovacciata. Permetti alle braccia di piegarsi, guidando i manubri verso le spalle.",
+    "Una volta ricevuto il peso in posizione accovacciata, estendi i fianchi e le ginocchia per terminare in posizione eretta con i pesi sulle spalle."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Curl dei polsi con bilanciere dietro la schiena in piedi",
+  "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia stando dritto e tenendo un bilanciere dietro i glutei a braccia distese con una presa prona (i palmi saranno rivolti all'indietro, lontano dai glutei) e le mani alla larghezza delle spalle.",
-    "Dovresti guardare dritto davanti a te mentre i piedi sono alla larghezza delle spalle. Questa è la posizione di partenza.",
-    "Mentre espiri, solleva lentamente il bilanciere curvando il polso in un movimento semi-circolare verso il soffitto. Nota: il tuo polso dovrebbe essere l'unica parte del corpo a muoversi per questo esercizio.",
-    "Mantieni la contrazione per un secondo e abbassa il bilanciere di nuovo alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni.",
-    "Quando hai finito, abbassa il bilanciere nel rack per squat o sul pavimento piegando le ginocchia. Suggerimento: è più facile sollevarlo da un rack per squat o farlo passare a un partner."
+    "Start by standing straight and holding a barbell behind your glutes at arm's length while using a pronated grip (palms will be facing back away from the glutes) and having your hands shoulder width apart from each other.",
+    "You should be looking straight forward while your feet are shoulder width apart from each other. This is the starting position.",
+    "While exhaling, slowly elevate the barbell up by curling your wrist in a semi-circular motion towards the ceiling. Note: Your wrist should be the only body part moving for this exercise.",
+    "Hold the contraction for a second and lower the barbell back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions.",
+    "When finished, lower the barbell down to the squat rack or the floor by bending the knees. Tip: It is easiest to either pick it up from a squat rack or have a partner hand it to you."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "Maintenez la contraction pendant une seconde, puis baissez lentement la barre jusqu'à la position de départ tout en inspirant.",
     "Répétez pour le nombre de répétitions recommandé.",
     "Une fois terminé, descendre la barre d'haltères jusqu'au rack de squat ou par terre en fléchissant les genoux. Astuce : il est plus facile de l'enlever du rack de squat ou de le faire tenir par un partenaire."
+  ],
+  "name_it": "Curl dei polsi con bilanciere dietro la schiena in piedi",
+  "instructions_it": [
+    "Inizia stando dritto e tenendo un bilanciere dietro i glutei a braccia distese con una presa prona (i palmi saranno rivolti all'indietro, lontano dai glutei) e le mani alla larghezza delle spalle.",
+    "Dovresti guardare dritto davanti a te mentre i piedi sono alla larghezza delle spalle. Questa è la posizione di partenza.",
+    "Mentre espiri, solleva lentamente il bilanciere curvando il polso in un movimento semi-circolare verso il soffitto. Nota: il tuo polso dovrebbe essere l'unica parte del corpo a muoversi per questo esercizio.",
+    "Mantieni la contrazione per un secondo e abbassa il bilanciere di nuovo alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Quando hai finito, abbassa il bilanciere nel rack per squat o sul pavimento piegando le ginocchia. Suggerimento: è più facile sollevarlo da un rack per squat o farlo passare a un partner."
   ]
 }

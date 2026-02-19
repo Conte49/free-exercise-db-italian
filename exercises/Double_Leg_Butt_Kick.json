@@ -1,5 +1,5 @@
 {
-  "name": "Calcio ai Glutei con Entrambe le Gambe",
+  "name": "Double Leg Butt Kick",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Inizia in piedi con le ginocchia leggermente piegate.",
-    "Accovacciati rapidamente a breve distanza, flettendo i fianchi e le ginocchia, e subito estendi per saltare al massimo dell'altezza verticale.",
-    "Mentre sali, porta i talloni verso il basso flettendo le ginocchia, cercando di toccare i glutei.",
-    "Termina il movimento atterrando con le ginocchia solo parzialmente piegate, usando le gambe per assorbire l'impatto."
+    "Begin standing with your knees slightly bent.",
+    "Quickly squat a short distance, flexing the hips and knees, and immediately extend to jump for maximum vertical height.",
+    "As you go up, tuck your heels by flexing the knees, attempting to touch the buttocks.",
+    "Finish the motion by landing with the knees only partially bent, using your legs to absorb the impact."
   ],
   "category": "plyometrics",
   "images": [
@@ -31,5 +31,12 @@
     "Faites rapidement une squat sur une courte distance, en fléchissant les hanches et les genoux, puis étendez-vous immédiatement pour sauter à la verticale.",
     "En remontant, rentrez vos talons en fléchissant les genoux, en essayant d'attraper les fesses.",
     "Terminez le mouvement en atterrissant avec des genoux seulement légèrement pliés, en utilisant vos jambes pour absorber l'impact."
+  ],
+  "name_it": "Calcio ai Glutei con Entrambe le Gambe",
+  "instructions_it": [
+    "Inizia in piedi con le ginocchia leggermente piegate.",
+    "Accovacciati rapidamente a breve distanza, flettendo i fianchi e le ginocchia, e subito estendi per saltare al massimo dell'altezza verticale.",
+    "Mentre sali, porta i talloni verso il basso flettendo le ginocchia, cercando di toccare i glutei.",
+    "Termina il movimento atterrando con le ginocchia solo parzialmente piegate, usando le gambe per assorbire l'impatto."
   ]
 }

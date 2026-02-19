@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con Bilanciere Inclinato",
+  "name": "Bent Over Barbell Row",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Tenendo un bilanciere con una presa prona (palmi rivolti verso il basso), piega leggermente le ginocchia e porta il busto in avanti, piegando alla vita, mantenendo la schiena dritta fino a che non è quasi parallela al pavimento. Suggerimento: Assicurati di tenere la testa alta. Il bilanciere dovrebbe pendere direttamente di fronte a te mentre le braccia pendono perpendicolari al pavimento e al tuo busto. Questa è la tua posizione di partenza.",
-    "Ora, mantenendo il busto fermo, espira e solleva il bilanciere verso di te. Tieni i gomiti vicini al corpo e utilizza solo gli avambracci per sostenere il peso. Nella posizione contratta in alto, stringi i muscoli della schiena e mantieni per una breve pausa.",
-    "Poi inspira e abbassa lentamente il bilanciere tornando alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Holding a barbell with a pronated grip (palms facing down), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
+    "Now, while keeping the torso stationary, breathe out and lift the barbell to you. Keep the elbows close to the body and only use the forearms to hold the weight. At the top contracted position, squeeze the back muscles and hold for a brief pause.",
+    "Then inhale and slowly lower the barbell back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Maintenant, tout en gardant le torse immobile, respirez et soulevez la barre vers vous. Gardez les coudes près du corps et utilisez uniquement les avant-bras pour soutenir le poids. En position de contraction supérieure, contractez les muscles du dos et maintenez pendant un bref instant.",
     "Ensuite, inspirez et abaissez lentement l'haltère jusqu'à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Rematore con Bilanciere Inclinato",
+  "instructions_it": [
+    "Tenendo un bilanciere con una presa prona (palmi rivolti verso il basso), piega leggermente le ginocchia e porta il busto in avanti, piegando alla vita, mantenendo la schiena dritta fino a che non è quasi parallela al pavimento. Suggerimento: Assicurati di tenere la testa alta. Il bilanciere dovrebbe pendere direttamente di fronte a te mentre le braccia pendono perpendicolari al pavimento e al tuo busto. Questa è la tua posizione di partenza.",
+    "Ora, mantenendo il busto fermo, espira e solleva il bilanciere verso di te. Tieni i gomiti vicini al corpo e utilizza solo gli avambracci per sostenere il peso. Nella posizione contratta in alto, stringi i muscoli della schiena e mantieni per una breve pausa.",
+    "Poi inspira e abbassa lentamente il bilanciere tornando alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

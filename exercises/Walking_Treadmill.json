@@ -1,5 +1,5 @@
 {
-  "name": "Camminata, Tapis Roulant",
+  "name": "Walking, Treadmill",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -13,8 +13,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per iniziare, sali sul tapis roulant e seleziona l'opzione desiderata dal menu. La maggior parte dei tapis roulant ha un'impostazione manuale, oppure puoi selezionare un programma da seguire. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. L'inclinazione può essere regolata per cambiare l'intensità dell'allenamento.",
-    "I tapis roulant offrono comodità, benefici cardiovascolari e di solito hanno un impatto minore rispetto alla camminata all'aperto. Quando cammini, dovresti muoverti a un ritmo moderato o veloce, non in modo rilassato. Essendo un'attività di intensità inferiore, camminare non brucia tante calorie quanto alcune altre attività, ma fornisce comunque grandi benefici. Una persona di 68 kg brucerà circa 175 calorie camminando a 6,4 km/h per 30 minuti, rispetto a 450 calorie correndo a una velocità doppia. Mantieni una postura corretta mentre cammini e afferra le maniglie solo quando necessario, ad esempio quando scendi o controlli la tua frequenza cardiaca."
+    "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
+    "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than walking outside. When walking, you should move at a moderate to fast pace, not a leisurely one. Being an activity of lower intensity, walking doesn't burn as many calories as some other activities, but still provides great benefit. A 150 lb person will burn about 175 calories walking 4 miles per hour for 30 minutes, compared to 450 calories running twice as fast. Maintain proper posture as you walk, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
   ],
   "category": "cardio",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Pour commencer, montez sur le tapis de course et sélectionnez l'option souhaitée dans le menu. La plupart des tapis de course ont une option manuelle, ou vous pouvez sélectionner un programme à suivre. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. L'élévation peut être ajustée pour modifier l'intensité de l'entraînement.",
     "Les tapis roulants offrent la commodité, des avantages cardiovasculaires et ont généralement un impact moins important que la marche en extérieur. Lors de la marche, vous devez maintenir un rythme modéré à rapide, et non pas lent. Étant une activité d'intensité plus faible, la marche ne brûle pas autant de calories que certaines autres activités, mais elle offre néanmoins de grands avantages. Une personne de 150 livres brûlera environ 175 calories en marchant à 4 miles par heure pendant 30 minutes, comparativement à 450 calories en courant deux fois plus vite. Maintenez une posture correcte lors de la marche et ne tenez les poignées que lorsque c'est nécessaire, comme lors du débarquement ou pour vérifier votre fréquence cardiaque."
+  ],
+  "name_it": "Camminata, Tapis Roulant",
+  "instructions_it": [
+    "Per iniziare, sali sul tapis roulant e seleziona l'opzione desiderata dal menu. La maggior parte dei tapis roulant ha un'impostazione manuale, oppure puoi selezionare un programma da seguire. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. L'inclinazione può essere regolata per cambiare l'intensità dell'allenamento.",
+    "I tapis roulant offrono comodità, benefici cardiovascolari e di solito hanno un impatto minore rispetto alla camminata all'aperto. Quando cammini, dovresti muoverti a un ritmo moderato o veloce, non in modo rilassato. Essendo un'attività di intensità inferiore, camminare non brucia tante calorie quanto alcune altre attività, ma fornisce comunque grandi benefici. Una persona di 68 kg brucerà circa 175 calorie camminando a 6,4 km/h per 30 minuti, rispetto a 450 calorie correndo a una velocità doppia. Mantieni una postura corretta mentre cammini e afferra le maniglie solo quando necessario, ad esempio quando scendi o controlli la tua frequenza cardiaca."
   ]
 }

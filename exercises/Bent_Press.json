@@ -1,5 +1,5 @@
 {
-  "name": "Pressa Inclinata",
+  "name": "Bent Press",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -16,9 +16,9 @@
     "triceps"
   ],
   "instructions": [
-    "Pulisci un kettlebell fino alla spalla. Pulisci il kettlebell fino alle spalle estendendo le gambe e i fianchi mentre sollevi il kettlebell verso la spalla. Il polso dovrebbe ruotare mentre lo fai. Questa sarà la tua posizione di partenza.",
-    "Inizia inclinando verso il lato opposto al kettlebell, continuando fino a toccare il terreno con la mano libera, mantenendo gli occhi sul kettlebell. Mentre lo fai, premi il peso verticalmente estendendo il gomito, mantenendo il braccio perpendicolare al suolo.",
-    "Torna in posizione eretta, con il kettlebell sopra la testa. Riporta il kettlebell alla spalla e ripeti per il numero desiderato di ripetizioni."
+    "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so. This will be your starting position.",
+    "Begin my leaning to the side opposite the kettlebell, continuing until you are able to touch the ground with your free hand, keeping your eyes on the kettlebell. As you do so, press the weight vertically be extending through the elbow, keeping your arm perpendicular to the ground.",
+    "Return to an upright position, with the kettlebell above your head. Return the kettlebell to the shoulder and repeat for the desired number of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,11 @@
     "Épaulez une kettlebell jusqu'à votre épaule. Épaulez la kettlebell jusqu'à vos épaules en étendant les jambes et les hanches tout en soulevant la kettlebell vers votre épaule. Le poignet doit tourner pendant que vous faites cela. Ce sera votre position de départ.",
     "Commencez en vous penchant sur le côté opposé à la kettlebell, jusqu'à ce que vous puissiez toucher le sol avec votre main libre, en gardant les yeux fixés sur la kettlebell. Pendant que vous faites cela, pressez le poids verticalement en étendant par le coude, en gardant votre bras perpendiculaire au sol.",
     "Revenez à une position debout, la kettlebell au-dessus de votre tête. Remettez la kettlebell sur les épaules et répétez le mouvement pour le nombre de répétitions souhaité."
+  ],
+  "name_it": "Pressa Inclinata",
+  "instructions_it": [
+    "Pulisci un kettlebell fino alla spalla. Pulisci il kettlebell fino alle spalle estendendo le gambe e i fianchi mentre sollevi il kettlebell verso la spalla. Il polso dovrebbe ruotare mentre lo fai. Questa sarà la tua posizione di partenza.",
+    "Inizia inclinando verso il lato opposto al kettlebell, continuando fino a toccare il terreno con la mano libera, mantenendo gli occhi sul kettlebell. Mentre lo fai, premi il peso verticalmente estendendo il gomito, mantenendo il braccio perpendicolare al suolo.",
+    "Torna in posizione eretta, con il kettlebell sopra la testa. Riporta il kettlebell alla spalla e ripeti per il numero desiderato di ripetizioni."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Squat con manubri",
+  "name": "Dumbbell Squat",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,11 +14,11 @@
     "lower back"
   ],
   "instructions": [
-    "Stai in piedi dritto tenendo un manubrio in ciascuna mano (palmi rivolti verso il lato delle gambe).",
-    "Posiziona le gambe con una postura media larga quanto le spalle, con le punte dei piedi leggermente rivolte verso l'esterno. Tieni sempre la testa alta, poiché guardare in basso ti farà perdere l'equilibrio e mantieni la schiena dritta. Questa sarà la tua posizione di partenza. Nota: Ai fini di questa discussione utilizzeremo la postura media descritta sopra, che mira allo sviluppo complessivo; tuttavia puoi scegliere una delle tre posture discusse nella sezione sulle posizioni dei piedi.",
-    "Inizia a piegare lentamente il torso abbassando le ginocchia mentre mantieni una postura dritta con la testa alta. Continua a scendere fino a quando le cosce sono parallele al pavimento. Suggerimento: Se hai eseguito correttamente l'esercizio, la parte anteriore delle ginocchia dovrebbe formare una linea immaginaria dritta con le punte dei piedi, perpendicolare alla parte anteriore. Se le tue ginocchia superano quella linea immaginaria (se sono oltre le punte dei piedi), stai esercitando uno stress eccessivo sul ginocchio e l'esercizio è stato eseguito in modo errato.",
-    "Inizia a sollevare il torso mentre espiri, spingendo il pavimento con il tallone del piede principalmente mentre raddrizzi di nuovo le gambe e torni alla posizione di partenza.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
+    "Position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position. Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances discussed in the foot stances section.",
+    "Begin to slowly lower your torso by bending the knees as you maintain a straight posture with the head up. Continue down until your thighs are parallel to the floor. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+    "Begin to raise your torso as you exhale by pushing the floor with the heel of your foot mainly as you straighten the legs again and go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -32,5 +32,13 @@
     "Commencez à baisser lentement votre corps en fléchissant les genoux tout en maintenant une posture droite avec la tête levée. Continuez jusqu'à ce que vos cuisses soient parallèles au sol. Astuce : Si vous avez effectué l'exercice correctement, le devant des genoux devrait former une ligne imaginaire droite avec les orteils qui est perpendiculaire à l'avant. Si vos genoux sont derrière cette ligne imaginaire (s'ils sont derrière vos orteils), vous exercez une pression excessive sur les genoux et l'exercice n'a pas été correctement exécuté.",
     "Commencez à soulever votre torse en expirant en poussant le sol avec le talon de votre pied principalement en redressant les jambes à nouveau et en revenant à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Squat con manubri",
+  "instructions_it": [
+    "Stai in piedi dritto tenendo un manubrio in ciascuna mano (palmi rivolti verso il lato delle gambe).",
+    "Posiziona le gambe con una postura media larga quanto le spalle, con le punte dei piedi leggermente rivolte verso l'esterno. Tieni sempre la testa alta, poiché guardare in basso ti farà perdere l'equilibrio e mantieni la schiena dritta. Questa sarà la tua posizione di partenza. Nota: Ai fini di questa discussione utilizzeremo la postura media descritta sopra, che mira allo sviluppo complessivo; tuttavia puoi scegliere una delle tre posture discusse nella sezione sulle posizioni dei piedi.",
+    "Inizia a piegare lentamente il torso abbassando le ginocchia mentre mantieni una postura dritta con la testa alta. Continua a scendere fino a quando le cosce sono parallele al pavimento. Suggerimento: Se hai eseguito correttamente l'esercizio, la parte anteriore delle ginocchia dovrebbe formare una linea immaginaria dritta con le punte dei piedi, perpendicolare alla parte anteriore. Se le tue ginocchia superano quella linea immaginaria (se sono oltre le punte dei piedi), stai esercitando uno stress eccessivo sul ginocchio e l'esercizio è stato eseguito in modo errato.",
+    "Inizia a sollevare il torso mentre espiri, spingendo il pavimento con il tallone del piede principalmente mentre raddrizzi di nuovo le gambe e torni alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

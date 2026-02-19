@@ -1,5 +1,5 @@
 {
-  "name": "Curl con manubrio a braccio singolo in piedi su panca inclinata",
+  "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stai sul retro di una panca inclinata come se dovessi assistere qualcuno. Tieni un manubrio in una mano e appoggialo sulla panca inclinata con una presa supinata (palmi in su).",
-    "Posiziona la mano non attiva all'angolo o al lato della panca inclinata. Il petto dovrebbe essere premuto contro la parte superiore della panca inclinata e i piedi dovrebbero essere ben piantati a terra in una posizione ampia. Questa è la posizione di partenza.",
-    "Mantenendo il braccio superiore fermo, solleva il manubrio verso l'alto contraendo i bicipiti mentre espiri. Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i bicipiti sono completamente contratti e il manubrio è all'altezza della spalla. Tieni la posizione contratta per un secondo.",
-    "Inizia lentamente a riportare il manubrio alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni.",
-    "Cambia braccio durante l'esecuzione di questo esercizio."
+    "Stand on the back side of an incline bench as if you were going to be a spotter for someone. Have a dumbbell in one hand and rest it across the incline bench with a supinated (palms up) grip.",
+    "Position your non lifting hand at the corner or side of the incline bench. The chest should be pressed against the top part of the incline and your feet should be pressed against the floor at a wide stance. This is the starting position.",
+    "While holding the upper arm stationary, curl the dumbbell upward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a second.",
+    "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms while performing this exercise."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,14 @@
     "Ramenez lentement les haltères vers leur position initiale pendant que vous inspirez.",
     "Répétez pour le nombre de répétitions recommandé.",
     "Changez de bras pendant l'exécution de cet exercice."
+  ],
+  "name_it": "Curl con manubrio a braccio singolo in piedi su panca inclinata",
+  "instructions_it": [
+    "Stai sul retro di una panca inclinata come se dovessi assistere qualcuno. Tieni un manubrio in una mano e appoggialo sulla panca inclinata con una presa supinata (palmi in su).",
+    "Posiziona la mano non attiva all'angolo o al lato della panca inclinata. Il petto dovrebbe essere premuto contro la parte superiore della panca inclinata e i piedi dovrebbero essere ben piantati a terra in una posizione ampia. Questa è la posizione di partenza.",
+    "Mantenendo il braccio superiore fermo, solleva il manubrio verso l'alto contraendo i bicipiti mentre espiri. Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i bicipiti sono completamente contratti e il manubrio è all'altezza della spalla. Tieni la posizione contratta per un secondo.",
+    "Inizia lentamente a riportare il manubrio alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Cambia braccio durante l'esecuzione di questo esercizio."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Crunch inverso declinato",
+  "name": "Decline Reverse Crunch",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati sulla schiena su una panca declinata e afferra la parte superiore della panca con entrambe le mani. Non lasciare che il tuo corpo scivoli da questa posizione.",
-    "Tieni le gambe parallele al pavimento usando gli addominali per mantenerle in posizione, tenendo le ginocchia e i piedi uniti. Suggerimento: le gambe devono essere completamente estese con una leggera flessione del ginocchio. Questa sarà la tua posizione di partenza.",
-    "Espirando, muovi le gambe verso il torso mentre ruoti il bacino all'indietro e sollevi i fianchi dalla panca. Alla fine di questo movimento, le ginocchia toccheranno il petto.",
-    "Mantieni la contrazione per un secondo e riporta le gambe nella posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Lie on your back on a decline bench and hold on to the top of the bench with both hands. Don't let your body slip down from this position.",
+    "Hold your legs parallel to the floor using your abs to hold them there while keeping your knees and feet together. Tip: Your legs should be fully extended with a slight bend on the knee. This will be your starting position.",
+    "While exhaling, move your legs towards the torso as you roll your pelvis backwards and you raise your hips off the bench. At the end of this movement your knees will be touching your chest.",
+    "Hold the contraction for a second and move your legs back to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "En expirant, rapprochez vos jambes vers votre torse en faisant rouler votre bassin vers l'arrière et en levant vos hanches du banc. À la fin de ce mouvement, vos genoux doivent toucher votre poitrine.",
     "Maintenez la contraction pendant une seconde, puis ramenez vos jambes à la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Crunch inverso declinato",
+  "instructions_it": [
+    "Sdraiati sulla schiena su una panca declinata e afferra la parte superiore della panca con entrambe le mani. Non lasciare che il tuo corpo scivoli da questa posizione.",
+    "Tieni le gambe parallele al pavimento usando gli addominali per mantenerle in posizione, tenendo le ginocchia e i piedi uniti. Suggerimento: le gambe devono essere completamente estese con una leggera flessione del ginocchio. Questa sarà la tua posizione di partenza.",
+    "Espirando, muovi le gambe verso il torso mentre ruoti il bacino all'indietro e sollevi i fianchi dalla panca. Alla fine di questo movimento, le ginocchia toccheranno il petto.",
+    "Mantieni la contrazione per un secondo e riporta le gambe nella posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

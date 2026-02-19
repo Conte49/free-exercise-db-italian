@@ -1,5 +1,5 @@
 {
-  "name": "Strappo da Blocchi",
+  "name": "Snatch from Blocks",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -18,11 +18,11 @@
     "triceps"
   ],
   "instructions": [
-    "Inizia con un bilanciere carico su scatole o supporti dell'altezza desiderata. Afferra il bilanciere con una presa larga. I piedi devono essere direttamente sotto i fianchi, con i piedi ruotati verso l'esterno se necessario. Abbassa i fianchi, mantenendo il petto in alto e la testa rivolta in avanti. Le spalle devono essere appena davanti al bilanciere, con i gomiti puntati verso l'esterno. Questa sarà la posizione di partenza.",
-    "Inizia il primo strappo spingendo con la parte anteriore dei talloni, sollevando il bilanciere dalle scatole.",
-    "Passa al secondo strappo estendendo i fianchi, le ginocchia e le caviglie, spingendo il bilanciere verso l'alto il più rapidamente possibile. Il bilanciere deve essere vicino al corpo. Al picco dell'estensione, solleva le spalle e consenti ai gomiti di piegarsi verso il lato.",
-    "Mentre muovi i piedi nella posizione di ricezione, tira energicamente te stesso sotto il bilanciere mentre lo sollevi sopra la testa. I piedi devono spostarsi appena all'esterno dei fianchi, ruotati verso l'esterno se necessario. Ricevi il bilanciere con il corpo il più in basso possibile e le braccia completamente estese sopra la testa.",
-    "Mantenendo il bilanciere allineato sopra la parte anteriore dei talloni, con la testa e il petto in alto, spingi attraverso i talloni dei piedi per passare a una posizione eretta. Restituisci con attenzione il peso alle scatole."
+    "Begin with a loaded barbell on boxes or stands of the desired height. A wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar, with the elbows pointed out. This will be the starting position.",
+    "Begin the first pull by driving through the front of the heels, raising the bar from the boxes.",
+    "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+    "As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move to just outside the hips, turned out as necessary. Receive the bar with your body as low as possible and the arms fully extended overhead.",
+    "Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position. Carefully return the weight to the boxes."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -36,5 +36,13 @@
     "Passer à la deuxième traction en s'étendant au niveau des hanches, des genoux et des chevilles, en soulevant la barre le plus rapidement possible. La barre doit être proche du corps. En cas d'extension maximale, contracter les épaules et laisser les couds se fléchir sur les côtés.",
     "Alors que vous déplacez vos pieds dans la position de réception, tirez-vous vigoureusement sous la barre lorsque vous élevez la barre au-dessus de votre tête. Les pieds doivent se déplacer juste à l'extérieur des hanches, en s'écartant si nécessaire. Recevez la barre avec votre corps aussi bas que possible et les bras complètement tendus au-dessus.",
     "En gardant la barre alignée sur l'avant des talons, la tête et la poitrine levées, poussez avec les talons pour passer à une position debout. Remettez soigneusement le poids sur les boîtes."
+  ],
+  "name_it": "Strappo da Blocchi",
+  "instructions_it": [
+    "Inizia con un bilanciere carico su scatole o supporti dell'altezza desiderata. Afferra il bilanciere con una presa larga. I piedi devono essere direttamente sotto i fianchi, con i piedi ruotati verso l'esterno se necessario. Abbassa i fianchi, mantenendo il petto in alto e la testa rivolta in avanti. Le spalle devono essere appena davanti al bilanciere, con i gomiti puntati verso l'esterno. Questa sarà la posizione di partenza.",
+    "Inizia il primo strappo spingendo con la parte anteriore dei talloni, sollevando il bilanciere dalle scatole.",
+    "Passa al secondo strappo estendendo i fianchi, le ginocchia e le caviglie, spingendo il bilanciere verso l'alto il più rapidamente possibile. Il bilanciere deve essere vicino al corpo. Al picco dell'estensione, solleva le spalle e consenti ai gomiti di piegarsi verso il lato.",
+    "Mentre muovi i piedi nella posizione di ricezione, tira energicamente te stesso sotto il bilanciere mentre lo sollevi sopra la testa. I piedi devono spostarsi appena all'esterno dei fianchi, ruotati verso l'esterno se necessario. Ricevi il bilanciere con il corpo il più in basso possibile e le braccia completamente estese sopra la testa.",
+    "Mantenendo il bilanciere allineato sopra la parte anteriore dei talloni, con la testa e il petto in alto, spingi attraverso i talloni dei piedi per passare a una posizione eretta. Restituisci con attenzione il peso alle scatole."
   ]
 }

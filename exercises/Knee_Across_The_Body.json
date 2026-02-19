@@ -1,5 +1,5 @@
 {
-  "name": "Ginocchio Attraverso Il Corpo",
+  "name": "Knee Across The Body",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -12,8 +12,8 @@
     "lower back"
   ],
   "instructions": [
-    "Sdraiati sul pavimento con la gamba destra dritta. Piega la gamba sinistra e abbassala attraverso il tuo corpo, tenendo il ginocchio verso il pavimento con la mano destra. (Il ginocchio non deve toccare il pavimento se sei rigido.)",
-    "Posiziona il braccio sinistro comodamente accanto a te e gira la testa a sinistra. Immagina di avere un peso legato al tuo coccige. Lascia che il tuo coccige cada verso il pavimento mentre il tuo petto si allunga nella direzione opposta per allungare la parte bassa della schiena. Cambia lato."
+    "Lie down on the floor with your right leg straight. Bend your left leg and lower it across your body, holding the knee down toward the floor with your right hand. (The knee doesn't need to touch the floor if you're tight.)",
+    "Place your left arm comfortably beside you and turn your head to the left. Imagine you have a weight tied to your tailbone. let your tailbone fall back toward the floor as your chest reaches in the opposite direction to stretch your lower back. Switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -24,5 +24,10 @@
   "instructions_fr": [
     "Allongez-vous sur le sol avec votre jambe droite tendue. Pliez votre jambe gauche et abaissez-la à travers votre corps, en maintenant le genou vers le sol avec votre main droite. (Le genou n'a pas besoin de toucher le sol si vous êtes tendu.)",
     "Placez votre bras gauche confortablement à vos côtés et tournez la tête vers la gauche. Imaginez que vous avez un poids attaché à votre queue. Laissez votre queue se replier vers le sol alors que votre poitrine s'étend dans la direction opposée pour étirer votre bas du dos. Alternez les côtés."
+  ],
+  "name_it": "Ginocchio Attraverso Il Corpo",
+  "instructions_it": [
+    "Sdraiati sul pavimento con la gamba destra dritta. Piega la gamba sinistra e abbassala attraverso il tuo corpo, tenendo il ginocchio verso il pavimento con la mano destra. (Il ginocchio non deve toccare il pavimento se sei rigido.)",
+    "Posiziona il braccio sinistro comodamente accanto a te e gira la testa a sinistra. Immagina di avere un peso legato al tuo coccige. Lascia che il tuo coccige cada verso il pavimento mentre il tuo petto si allunga nella direzione opposta per allungare la parte bassa della schiena. Cambia lato."
   ]
 }

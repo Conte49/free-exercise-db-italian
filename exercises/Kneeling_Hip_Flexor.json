@@ -1,5 +1,5 @@
 {
-  "name": "Flessore dell'anca in ginocchio",
+  "name": "Kneeling Hip Flexor",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,8 +11,8 @@
     "quadriceps"
   ],
   "instructions": [
-    "Inginocchiati su un tappetino e porta il ginocchio destro in alto in modo che la pianta del piede sia a terra, estendi la gamba sinistra dietro di te in modo che la parte superiore del piede sia a terra.",
-    "Sposta il peso in avanti finché non senti un allungamento nell'anca. Tieni la posizione per 15 secondi, poi ripeti dall'altro lato."
+    "Kneel on a mat and bring your right knee up so the bottom of your foot is on the floor and extend your left leg out behind you so the top of your foot is on the floor.",
+    "Shift your weight forward until you feel a stretch in your hip. Hold for 15 seconds, then repeat for your other side."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,10 @@
   "instructions_fr": [
     "À genoux sur un tapis, amenez votre genou droit vers le haut de sorte que la plante de votre pied soit au sol, et étendez votre jambe gauche vers l'arrière de sorte que le dessus de votre pied soit au sol.",
     "Déplacez votre poids vers l'avant jusqu'à ce que vous ressentiez une étirement dans votre hanche. Maintenez la position pendant 15 secondes, puis répétez de l'autre côté."
+  ],
+  "name_it": "Flessore dell'anca in ginocchio",
+  "instructions_it": [
+    "Inginocchiati su un tappetino e porta il ginocchio destro in alto in modo che la pianta del piede sia a terra, estendi la gamba sinistra dietro di te in modo che la parte superiore del piede sia a terra.",
+    "Sposta il peso in avanti finché non senti un allungamento nell'anca. Tieni la posizione per 15 secondi, poi ripeti dall'altro lato."
   ]
 }

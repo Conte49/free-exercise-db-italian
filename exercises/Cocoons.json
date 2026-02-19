@@ -1,5 +1,5 @@
 {
-  "name": "Cocoon",
+  "name": "Cocoons",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia sdraiandoti sulla schiena a terra. Le tue gambe dovrebbero essere dritte e le braccia estese dietro la testa. Questa sarà la tua posizione di partenza.",
-    "Per eseguire il movimento, porta le ginocchia verso il petto, ruotando il bacino per sollevare i glutei da terra. Mentre lo fai, flette la colonna vertebrale, riportando le braccia sopra la testa per eseguire un movimento di crunch simultaneo.",
-    "Dopo una breve pausa, torna alla posizione di partenza."
+    "Begin by lying on your back on the ground. Your legs should be straight and your arms extended behind your head. This will be your starting position.",
+    "To perform the movement, tuck the knees toward your chest, rotating your pelvis to lift your glutes from the floor. As you do so, flex the spine, bringing your arms back over your head to perform a simultaneous crunch motion.",
+    "After a brief pause, return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -23,5 +23,11 @@
     "Commencez en vous couchant sur le dos au sol. Les jambes doivent être tendues et les bras étendus derrière la tête. Cette position sera votre position de départ.",
     "Pour exécuter le mouvement, rentrez les genoux vers la poitrine tout en faisant pivoter le bassin pour soulever les fessiers du sol. Pendant que vous faites cela, fléchissez la colonne vertébrale, en ramenant les bras vers l'arrière au-dessus de votre tête pour effectuer un mouvement de crunch simultané.",
     "Après une brève pause, revenez à la position de départ."
+  ],
+  "name_it": "Cocoon",
+  "instructions_it": [
+    "Inizia sdraiandoti sulla schiena a terra. Le tue gambe dovrebbero essere dritte e le braccia estese dietro la testa. Questa sarà la tua posizione di partenza.",
+    "Per eseguire il movimento, porta le ginocchia verso il petto, ruotando il bacino per sollevare i glutei da terra. Mentre lo fai, flette la colonna vertebrale, riportando le braccia sopra la testa per eseguire un movimento di crunch simultaneo.",
+    "Dopo una breve pausa, torna alla posizione di partenza."
   ]
 }

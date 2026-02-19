@@ -1,5 +1,5 @@
 {
-  "name": "Press con manubri per le spalle",
+  "name": "Dumbbell Shoulder Press",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,12 +11,12 @@
     "triceps"
   ],
   "instructions": [
-    "Tenendo un manubrio in ciascuna mano, siediti su una panca per press militare o su una panca multifunzione che abbia supporto per la schiena. Posiziona i manubri in verticale sopra le cosce.",
-    "Ora solleva i manubri all'altezza delle spalle uno alla volta usando le cosce per aiutarli a salire in posizione.",
-    "Assicurati di ruotare i polsi in modo che i palmi delle mani siano rivolti in avanti. Questa è la tua posizione di partenza.",
-    "Ora, espira e spingi i manubri verso l'alto fino a farli toccare in cima.",
-    "Poi, dopo una breve pausa nella posizione contratta in cima, abbassa lentamente i pesi fino alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "While holding a dumbbell in each hand, sit on a military press bench or utility bench that has back support. Place the dumbbells upright on top of your thighs.",
+    "Now raise the dumbbells to shoulder height one at a time using your thighs to help propel them up into position.",
+    "Make sure to rotate your wrists so that the palms of your hands are facing forward. This is your starting position.",
+    "Now, exhale and push the dumbbells upward until they touch at the top.",
+    "Then, after a brief pause at the top contracted position, slowly lower the weights back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,14 @@
     "Maintenant, expirez et poussez les haltères vers le haut jusqu'à ce qu'ils se touchent au sommet.",
     "Ensuite, après une brève pause à la position contractée supérieure, abaissez lentement les poids en inspirant pour revenir à la position de départ.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Press con manubri per le spalle",
+  "instructions_it": [
+    "Tenendo un manubrio in ciascuna mano, siediti su una panca per press militare o su una panca multifunzione che abbia supporto per la schiena. Posiziona i manubri in verticale sopra le cosce.",
+    "Ora solleva i manubri all'altezza delle spalle uno alla volta usando le cosce per aiutarli a salire in posizione.",
+    "Assicurati di ruotare i polsi in modo che i palmi delle mani siano rivolti in avanti. Questa è la tua posizione di partenza.",
+    "Ora, espira e spingi i manubri verso l'alto fino a farli toccare in cima.",
+    "Poi, dopo una breve pausa nella posizione contratta in cima, abbassa lentamente i pesi fino alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

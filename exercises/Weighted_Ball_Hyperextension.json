@@ -1,5 +1,5 @@
 {
-  "name": "Iperestensione con Palla Pesa",
+  "name": "Weighted Ball Hyperextension",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "middle back"
   ],
   "instructions": [
-    "Per iniziare, sdraiati su una palla da esercizio con il torso che preme contro la palla e parallelo al pavimento. La punta dei piedi dovrebbe essere premuta contro il pavimento per aiutarti a mantenere l'equilibrio. Posiziona un peso sotto il mento o dietro il collo. Questa è la posizione di partenza.",
-    "Sollevare lentamente il torso piegando la vita e la parte bassa della schiena. Ricorda di espirare durante questo movimento.",
-    "Mantieni la contrazione nella parte bassa della schiena per un secondo e abbassa il torso tornando alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni prescritte nel tuo programma."
+    "To begin, lie down on an exercise ball with your torso pressing against the ball and parallel to the floor. The ball of your feet should be pressed against the floor to help keep you balanced. Place a weighted plate under your chin or behind your neck. This is the starting position.",
+    "Slowly raise your torso up by bending at the waist and lower back. Remember to exhale during this movement.",
+    "Hold the contraction on your lower back for a second and lower your torso back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "strength",
   "images": [
@@ -29,5 +29,12 @@
     "Soulevez lentement votre corps en vous courbant au niveau de la taille et du bas du dos. N'oubliez pas d'exhaler pendant ce mouvement.",
     "Maintenez la contraction dans votre dos inférieur pendant une seconde, puis ramenez votre torse dans la position de départ en inspirant.",
     "Répétez pour le nombre de répétitions recommandé prescrit dans votre programme."
+  ],
+  "name_it": "Iperestensione con Palla Pesa",
+  "instructions_it": [
+    "Per iniziare, sdraiati su una palla da esercizio con il torso che preme contro la palla e parallelo al pavimento. La punta dei piedi dovrebbe essere premuta contro il pavimento per aiutarti a mantenere l'equilibrio. Posiziona un peso sotto il mento o dietro il collo. Questa è la posizione di partenza.",
+    "Sollevare lentamente il torso piegando la vita e la parte bassa della schiena. Ricorda di espirare durante questo movimento.",
+    "Mantieni la contrazione nella parte bassa della schiena per un secondo e abbassa il torso tornando alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni prescritte nel tuo programma."
   ]
 }

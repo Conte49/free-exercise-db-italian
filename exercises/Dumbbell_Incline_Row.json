@@ -1,5 +1,5 @@
 {
-  "name": "Rematore con manubri su panca inclinata",
+  "name": "Dumbbell Incline Row",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,10 +14,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Utilizzando una presa neutra, inclina il busto su una panca inclinata.",
-    "Prendi un manubrio in ciascuna mano con una presa neutra, iniziando con le braccia dritte. Questa sarà la tua posizione di partenza.",
-    "Retrarre le scapole e flettere i gomiti per portare i manubri verso il fianco.",
-    "Fermati nella parte alta del movimento, quindi torna alla posizione di partenza."
+    "Using a neutral grip, lean into an incline bench.",
+    "Take a dumbbell in each hand with a neutral grip, beginning with the arms straight. This will be your starting position.",
+    "Retract the shoulder blades and flex the elbows to row the dumbbells to your side.",
+    "Pause at the top of the motion, and then return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,12 @@
     "Prenez un haltère dans chaque main avec une prise neutre, en commençant avec les bras tendus. C'est votre position de départ.",
     "Retirez les omoplates et fléchissez les coudes pour tirer les haltères sur votre côté.",
     "Arrêtez-vous au sommet du mouvement, puis revenez à la position de départ."
+  ],
+  "name_it": "Rematore con manubri su panca inclinata",
+  "instructions_it": [
+    "Utilizzando una presa neutra, inclina il busto su una panca inclinata.",
+    "Prendi un manubrio in ciascuna mano con una presa neutra, iniziando con le braccia dritte. Questa sarà la tua posizione di partenza.",
+    "Retrarre le scapole e flettere i gomiti per portare i manubri verso il fianco.",
+    "Fermati nella parte alta del movimento, quindi torna alla posizione di partenza."
   ]
 }

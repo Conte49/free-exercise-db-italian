@@ -1,5 +1,5 @@
 {
-  "name": "Stretching dei Peronei",
+  "name": "Peroneals Stretch",
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "In posizione seduta, fai passare una cintura, una corda o una banda attorno a un piede. Questa sarà la tua posizione di partenza.",
-    "Con la gamba estesa e il tallone sollevato da terra, tira sulla cintura in modo che il piede sia invertito, con l'interno del piede che viene tirato verso di te. Mantieni la posizione per 10-20 secondi, poi cambia lato."
+    "In a seated position, loop a belt, rope, or band around one foot. This will be your starting position.",
+    "With the leg extended and the heel off of the ground, pull on the belt so that the foot is inverted, with the inside of the foot being pulled towards you. Hold for 10-20 seconds, and then switch sides."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Asseyez-vous et enroulez une ceinture, une corde ou une bande autour d'un pied. C'est votre position de départ.",
     "En gardant la jambe tendue et le talon décollé du sol, tirez sur la sangle de sorte que le pied soit en position inversée, avec l'intérieur du pied tiré vers vous. Maintenez cette position pendant 10 à 20 secondes, puis changez de côté."
+  ],
+  "name_it": "Stretching dei Peronei",
+  "instructions_it": [
+    "In posizione seduta, fai passare una cintura, una corda o una banda attorno a un piede. Questa sarà la tua posizione di partenza.",
+    "Con la gamba estesa e il tallone sollevato da terra, tira sulla cintura in modo che il piede sia invertito, con l'interno del piede che viene tirato verso di te. Mantieni la posizione per 10-20 secondi, poi cambia lato."
   ]
 }

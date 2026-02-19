@@ -1,5 +1,5 @@
 {
-  "name": "Curl con manubri seduto con i palmi rivolti verso il basso",
+  "name": "Seated Dumbbell Palms-Down Wrist Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,13 +9,13 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia posizionando due manubri sul pavimento di fronte a una panca piana.",
-    "Siediti sul bordo della panca piana con le gambe circa alla larghezza delle spalle. Assicurati di tenere i piedi a terra.",
-    "Usa le braccia per afferrare entrambi i manubri e sollevarli in modo che gli avambracci siano appoggiati sulle cosce con i palmi delle mani rivolti verso il basso. I polsi dovrebbero sporgere oltre il bordo delle cosce.",
-    "Inizia a curvare il polso verso l'alto ed espira.",
-    "Abbassa lentamente i polsi di nuovo nella posizione di partenza mentre inspiri. Assicurati di inspirare durante questa parte dell'esercizio. Suggerimento: gli avambracci dovrebbero rimanere fermi mentre l'unico movimento necessario per eseguire questo esercizio è il polso.",
-    "Ripeti per il numero raccomandato di ripetizioni.",
-    "Quando hai finito, abbassa semplicemente i manubri a terra."
+    "Start out by placing two dumbbells on the floor in front of a flat bench.",
+    "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",
+    "Use your arms to grab both of the dumbbells and bring them up so that your forearms are resting against your thighs with the palms of the hands facing down. Your wrists should be hanging over the edge of your thighs.",
+    "Start out by curling your wrist upwards and exhaling.",
+    "Slowly lower your wrists back down to the starting position while inhaling. Make sure to inhale during this part of the exercise. Tip: Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.",
+    "Repeat for the recommended amount of repetitions.",
+    "When finished, simply lower the dumbbells to the floor."
   ],
   "category": "strength",
   "images": [
@@ -31,5 +31,15 @@
     "Abaissez lentement vos poignets jusqu'à la position de départ en inspirant. Assurez-vous d'inspirer pendant cette partie de l'exercice. Conseils : Vos avant-bras doivent rester immobiles alors que votre poignet est le seul mouvement nécessaire pour exécuter cet exercice.",
     "Répétez pour le nombre de répétitions recommandé.",
     "Une fois terminé, baissez simplement les haltères par terre."
+  ],
+  "name_it": "Curl con manubri seduto con i palmi rivolti verso il basso",
+  "instructions_it": [
+    "Inizia posizionando due manubri sul pavimento di fronte a una panca piana.",
+    "Siediti sul bordo della panca piana con le gambe circa alla larghezza delle spalle. Assicurati di tenere i piedi a terra.",
+    "Usa le braccia per afferrare entrambi i manubri e sollevarli in modo che gli avambracci siano appoggiati sulle cosce con i palmi delle mani rivolti verso il basso. I polsi dovrebbero sporgere oltre il bordo delle cosce.",
+    "Inizia a curvare il polso verso l'alto ed espira.",
+    "Abbassa lentamente i polsi di nuovo nella posizione di partenza mentre inspiri. Assicurati di inspirare durante questa parte dell'esercizio. Suggerimento: gli avambracci dovrebbero rimanere fermi mentre l'unico movimento necessario per eseguire questo esercizio è il polso.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Quando hai finito, abbassa semplicemente i manubri a terra."
   ]
 }

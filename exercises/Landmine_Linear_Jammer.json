@@ -16,11 +16,11 @@
     "triceps"
   ],
   "instructions": [
-    "Posiziona un bilanciere in un landmine o, in mancanza di uno, fissalo saldamente in un angolo. Carica il bilanciere con un peso appropriato e posiziona l'attacco per le maniglie sul bilanciere.",
-    "Solleva il bilanciere da terra, portando le maniglie alle spalle. Questa sarà la tua posizione di partenza.",
-    "In una posizione atletica, accovacciati flettendo i fianchi e portando indietro i fianchi, mantenendo le braccia flesse.",
-    "Inverti il movimento estendendo energicamente i fianchi, le ginocchia e le caviglie, estendendo anche i gomiti per raddrizzare le braccia. Questo movimento deve essere eseguito in modo esplosivo, uscendo dallo squat fino all'estensione completa il più energicamente possibile.",
-    "Torna alla posizione di partenza."
+    "Position a bar into landmine or, lacking one, securely anchor it in a corner. Load the bar to an appropriate weight and position the handle attachment on the bar.",
+    "Raise the bar from the floor, taking the handles to your shoulders. This will be your starting position.",
+    "In an athletic stance, squat by flexing your hips and setting your hips back, keeping your arms flexed.",
+    "Reverse the motion by powerfully extending through the hips, knees, and ankles, while also extending the elbows to straighten the arms. This movement should be done explosively, coming out of the squat to full extension as powerfully as possible.",
+    "Return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -34,5 +34,13 @@
     "Dans une position athlétique, effectuez un squat en fléchissant vos hanches et en reculant vos fesses, tout en gardant les bras fléchis.",
     "Inversez le mouvement en étendant puissamment les hanches, les genoux et les chevilles, tout en étendant également les coudes pour redresser les bras. Ce mouvement doit être effectué de manière explosive, en sortant de la position accroupie jusqu'à l'extension complète aussi vigoureusement que possible.",
     "Retournez à la position de départ."
+  ],
+  "name_it": "Landmine Linear Jammer",
+  "instructions_it": [
+    "Posiziona un bilanciere in un landmine o, in mancanza di uno, fissalo saldamente in un angolo. Carica il bilanciere con un peso appropriato e posiziona l'attacco per le maniglie sul bilanciere.",
+    "Solleva il bilanciere da terra, portando le maniglie alle spalle. Questa sarà la tua posizione di partenza.",
+    "In una posizione atletica, accovacciati flettendo i fianchi e portando indietro i fianchi, mantenendo le braccia flesse.",
+    "Inverti il movimento estendendo energicamente i fianchi, le ginocchia e le caviglie, estendendo anche i gomiti per raddrizzare le braccia. Questo movimento deve essere eseguito in modo esplosivo, uscendo dallo squat fino all'estensione completa il più energicamente possibile.",
+    "Torna alla posizione di partenza."
   ]
 }

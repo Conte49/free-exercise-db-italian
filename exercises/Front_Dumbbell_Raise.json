@@ -1,5 +1,5 @@
 {
-  "name": "Alzata Frontale con Manubri",
+  "name": "Front Dumbbell Raise",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Prendi un paio di manubri e stai in piedi con il torso dritto e i manubri davanti alle cosce all'altezza delle braccia, con i palmi delle mani rivolti verso le cosce. Questa sarà la tua posizione di partenza.",
-    "Mantenendo il torso fermo (senza oscillare), solleva il manubrio sinistro davanti a te con un leggero piegamento del gomito e i palmi delle mani sempre rivolti verso il basso. Continua a sollevare fino a quando il tuo braccio è leggermente sopra la parallela rispetto al pavimento. Espira mentre esegui questa parte del movimento e fai una pausa di un secondo in cima. Inspira dopo la seconda pausa.",
-    "Ora abbassa lentamente il manubrio di nuovo alla posizione di partenza mentre sollevi simultaneamente il manubrio destro.",
-    "Continua ad alternare in questo modo fino a quando non hai eseguito tutte le ripetizioni raccomandate per ciascun braccio."
+    "Pick a couple of dumbbells and stand with a straight torso and the dumbbells on front of your thighs at arms length with the palms of the hand facing your thighs. This will be your starting position.",
+    "While maintaining the torso stationary (no swinging), lift the left dumbbell to the front with a slight bend on the elbow and the palms of the hands always facing down. Continue to go up until you arm is slightly above parallel to the floor. Exhale as you execute this portion of the movement and pause for a second at the top. Inhale after the second pause.",
+    "Now lower the dumbbell back down slowly to the starting position as you simultaneously lift the right dumbbell.",
+    "Continue alternating in this fashion until all of the recommended amount of repetitions have been performed for each arm."
   ],
   "category": "strength",
   "images": [
@@ -25,5 +25,12 @@
     "En maintenant le torse immobile (sans oscillation), soulevez l'haltère gauche vers l'avant avec un léger pli au coude et la paume de la main toujours orientée vers le bas. Continuez à monter jusqu'à ce que votre bras soit légèrement au-dessus de parallèle au sol. Exhalez pendant cette partie du mouvement et faites une pause pendant une seconde en haut. Inhalez après la deuxième pause.",
     "Abaissez maintenant l'haltère vers la position de départ pendant que vous soulevez simultanément l'haltère droite.",
     "Continuez à alterner de cette façon jusqu'à ce que toutes les répétitions recommandées aient été effectuées pour chaque bras."
+  ],
+  "name_it": "Alzata Frontale con Manubri",
+  "instructions_it": [
+    "Prendi un paio di manubri e stai in piedi con il torso dritto e i manubri davanti alle cosce all'altezza delle braccia, con i palmi delle mani rivolti verso le cosce. Questa sarà la tua posizione di partenza.",
+    "Mantenendo il torso fermo (senza oscillare), solleva il manubrio sinistro davanti a te con un leggero piegamento del gomito e i palmi delle mani sempre rivolti verso il basso. Continua a sollevare fino a quando il tuo braccio è leggermente sopra la parallela rispetto al pavimento. Espira mentre esegui questa parte del movimento e fai una pausa di un secondo in cima. Inspira dopo la seconda pausa.",
+    "Ora abbassa lentamente il manubrio di nuovo alla posizione di partenza mentre sollevi simultaneamente il manubrio destro.",
+    "Continua ad alternare in questo modo fino a quando non hai eseguito tutte le ripetizioni raccomandate per ciascun braccio."
   ]
 }

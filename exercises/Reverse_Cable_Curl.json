@@ -1,5 +1,5 @@
 {
-  "name": "Curl con Cavo Inverso",
+  "name": "Reverse Cable Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "forearms"
   ],
   "instructions": [
-    "Stai in piedi con il torso eretto mentre tieni un attacco a barra collegato a un puleggia bassa con una presa pronata (palmi verso il basso) e alla larghezza delle spalle. Assicurati di mantenere i gomiti vicini al torso. Questa sarà la tua posizione di partenza.",
-    "Mantenendo fissi i bracci superiori, arriccia i pesi contraendo i bicipiti mentre espiri. Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i tuoi bicipiti sono completamente contratti e la barra è all'altezza delle spalle. Tieni la posizione contratta per un secondo mentre stringi il muscolo.",
-    "Inizia lentamente a riportare la barra alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Stand up with your torso upright while holding a bar attachment that is attached to a low pulley using a pronated (palms down) and shoulder width grip. Make sure also that you keep the elbows close to the torso. This will be your starting position.",
+    "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
+    "Slowly begin to bring the bar back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "En maintenant les bras supérieurs immobiles, effectuez des curls en soulevant les poids tout en contractant les biceps pendant que vous expirez. Seules les avant-bras devraient bouger. Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que l'haltère soit à la hauteur de vos épaules. Maintenez cette position contractée pendant une seconde en contractant le muscle.",
     "Ramenez lentement la barre vers sa position initiale pendant que vous inspirez.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con Cavo Inverso",
+  "instructions_it": [
+    "Stai in piedi con il torso eretto mentre tieni un attacco a barra collegato a un puleggia bassa con una presa pronata (palmi verso il basso) e alla larghezza delle spalle. Assicurati di mantenere i gomiti vicini al torso. Questa sarà la tua posizione di partenza.",
+    "Mantenendo fissi i bracci superiori, arriccia i pesi contraendo i bicipiti mentre espiri. Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i tuoi bicipiti sono completamente contratti e la barra è all'altezza delle spalle. Tieni la posizione contratta per un secondo mentre stringi il muscolo.",
+    "Inizia lentamente a riportare la barra alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

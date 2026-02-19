@@ -1,5 +1,5 @@
 {
-  "name": "Scrollate con Bilanciere Dietro la Schiena",
+  "name": "Barbell Shrug Behind The Back",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,10 +12,10 @@
     "middle back"
   ],
   "instructions": [
-    "Stai in piedi dritto con i piedi alla larghezza delle spalle mentre tieni un bilanciere con entrambe le mani dietro la schiena usando una presa prona (palmi rivolti all'indietro). Suggerimento: Le tue mani dovrebbero essere leggermente più larghe della larghezza delle spalle. Puoi usare delle fasce per i polsi per questo esercizio per una migliore presa. Questa sarà la tua posizione di partenza.",
-    "Alza le spalle il più in alto possibile mentre espiri e mantieni la contrazione per un secondo. Suggerimento: Evita di cercare di sollevare il bilanciere usando i bicipiti. Le braccia devono rimanere distese in ogni momento.",
-    "Ritorna lentamente alla posizione di partenza mentre inspiri.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Stand up straight with your feet at shoulder width as you hold a barbell with both hands behind your back using a pronated grip (palms facing back). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for better grip. This will be your starting position.",
+    "Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps. The arms should remain stretched out at all times.",
+    "Slowly return to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Montez vos épaules aussi haut que vous le pouvez en expirant et maintenez la contraction pendant une seconde. Conseils : Évitez d'essayer de soulever la barrebell en utilisant vos biceps. Les bras doivent rester tendus tout le temps.",
     "Revenez lentement à la position de départ en respirant.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Scrollate con Bilanciere Dietro la Schiena",
+  "instructions_it": [
+    "Stai in piedi dritto con i piedi alla larghezza delle spalle mentre tieni un bilanciere con entrambe le mani dietro la schiena usando una presa prona (palmi rivolti all'indietro). Suggerimento: Le tue mani dovrebbero essere leggermente più larghe della larghezza delle spalle. Puoi usare delle fasce per i polsi per questo esercizio per una migliore presa. Questa sarà la tua posizione di partenza.",
+    "Alza le spalle il più in alto possibile mentre espiri e mantieni la contrazione per un secondo. Suggerimento: Evita di cercare di sollevare il bilanciere usando i bicipiti. Le braccia devono rimanere distese in ogni momento.",
+    "Ritorna lentamente alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

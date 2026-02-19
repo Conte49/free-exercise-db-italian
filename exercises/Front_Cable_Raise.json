@@ -1,5 +1,5 @@
 {
-  "name": "Alzata Frontale con Cavo",
+  "name": "Front Cable Raise",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Seleziona il peso su una macchina con puleggia bassa e afferra l'attacco per la mano singola che è collegato alla puleggia bassa con la mano sinistra.",
-    "Volta le spalle alla puleggia e porta il braccio dritto verso il basso con l'attacco per la mano davanti alle cosce a lunghezza del braccio, con i palmi delle mani rivolti verso le cosce. Questa sarà la tua posizione di partenza.",
-    "Mantenendo il torso fermo (senza oscillare), solleva il braccio sinistro in avanti con un leggero piegamento del gomito e i palmi delle mani sempre rivolti verso il basso. Continua a sollevare fino a quando il braccio è leggermente sopra la parallela rispetto al pavimento. Espira mentre esegui questa parte del movimento e fai una pausa di un secondo in cima.",
-    "Ora, mentre inspiri, abbassa lentamente il braccio di nuovo alla posizione di partenza.",
-    "Una volta completato il numero raccomandato di ripetizioni per questo braccio, cambia braccio e esegui l'esercizio con il destro."
+    "Select the weight on a low pulley machine and grasp the single hand cable attachment that is attached to the low pulley with your left hand.",
+    "Face away from the pulley and put your arm straight down with the hand cable attachment in front of your thighs at arms' length with the palms of the hand facing your thighs. This will be your starting position.",
+    "While maintaining the torso stationary (no swinging), lift the left arm to the front with a slight bend on the elbow and the palms of the hand always faces down. Continue to go up until you arm is slightly above parallel to the floor. Exhale as you execute this portion of the movement and pause for a second at the top.",
+    "Now as you inhale lower the arm back down slowly to the starting position.",
+    "Once all of the recommended amount of repetitions have been performed for this arm, switch arms and perform the exercise with the right one."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,13 @@
     "En gardant le tronc immobile (pas de balancement), soulevez le bras gauche vers l'avant avec un léger pli au niveau du coude et la paume de la main toujours tournée vers le bas. Continuez à monter jusqu'à ce que votre bras soit légèrement au-dessus de parallèle au sol. Inhalez pendant que vous exécutez cette partie du mouvement et faites une pause d'une seconde en haut.",
     "Maintenant, comme vous inspirez, baissez lentement le bras jusqu'à la position de départ.",
     "Une fois que vous avez effectué toutes les répétitions recommandées pour ce bras, passez au bras opposé et exécutez l'exercice avec le bras droit."
+  ],
+  "name_it": "Alzata Frontale con Cavo",
+  "instructions_it": [
+    "Seleziona il peso su una macchina con puleggia bassa e afferra l'attacco per la mano singola che è collegato alla puleggia bassa con la mano sinistra.",
+    "Volta le spalle alla puleggia e porta il braccio dritto verso il basso con l'attacco per la mano davanti alle cosce a lunghezza del braccio, con i palmi delle mani rivolti verso le cosce. Questa sarà la tua posizione di partenza.",
+    "Mantenendo il torso fermo (senza oscillare), solleva il braccio sinistro in avanti con un leggero piegamento del gomito e i palmi delle mani sempre rivolti verso il basso. Continua a sollevare fino a quando il braccio è leggermente sopra la parallela rispetto al pavimento. Espira mentre esegui questa parte del movimento e fai una pausa di un secondo in cima.",
+    "Ora, mentre inspiri, abbassa lentamente il braccio di nuovo alla posizione di partenza.",
+    "Una volta completato il numero raccomandato di ripetizioni per questo braccio, cambia braccio e esegui l'esercizio con il destro."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Salto in avanti su una gamba",
+  "name": "Single-Leg Stride Jump",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,9 +14,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Posizionati di lato a una scatola con il piede interno sopra di essa, vicino al bordo.",
-    "Inizia oscillando le braccia verso l'alto mentre spingi con la gamba superiore, saltando verso l'alto il più in alto possibile. Cerca di sollevare il ginocchio opposto.",
-    "Atterra nella stessa posizione in cui hai iniziato, utilizzando la gamba interna per decelerare l'impatto."
+    "Stand to the side of a box with your inside foot on top of it, close to the edge.",
+    "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
+    "Land in the same position that you started, using your inside leg to decelerate the impact."
   ],
   "category": "plyometrics",
   "images": [
@@ -28,5 +28,11 @@
     "Debout sur le côté d'une boîte, posez votre pied intérieur sur celle-ci, près du bord.",
     "Commencez par balancer les bras vers le haut en poussant sur la jambe supérieure, en sautant aussi haut que possible. Essayez de remonter le genou opposé.",
     "Retourne dans la même position que tu as commencé, en utilisant ta jambe intérieure pour décélérer l'impact."
+  ],
+  "name_it": "Salto in avanti su una gamba",
+  "instructions_it": [
+    "Posizionati di lato a una scatola con il piede interno sopra di essa, vicino al bordo.",
+    "Inizia oscillando le braccia verso l'alto mentre spingi con la gamba superiore, saltando verso l'alto il più in alto possibile. Cerca di sollevare il ginocchio opposto.",
+    "Atterra nella stessa posizione in cui hai iniziato, utilizzando la gamba interna per decelerare l'impatto."
   ]
 }

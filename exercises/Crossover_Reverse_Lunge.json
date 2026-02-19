@@ -1,5 +1,5 @@
 {
-  "name": "Affondo Incrociato all'indietro",
+  "name": "Crossover Reverse Lunge",
   "force": "pull",
   "level": "intermediate",
   "mechanic": null,
@@ -15,9 +15,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Stai in piedi con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Esegui un affondo all'indietro portando un piede indietro e flettendo i fianchi e il ginocchio anteriore. Mentre lo fai, ruota il torso verso la gamba anteriore.",
-    "Dopo una breve pausa, torna alla posizione di partenza e ripeti dall'altro lato, continuando in modo alternato."
+    "Stand with your feet shoulder width apart. This will be your starting position.",
+    "Perform a rear lunge by stepping back with one foot and flexing the hips and front knee. As you do so, rotate your torso across the front leg.",
+    "After a brief pause, return to the starting position and repeat on the other side, continuing in an alternating fashion."
   ],
   "category": "stretching",
   "images": [
@@ -29,5 +29,11 @@
     "Debout, les pieds à la largeur des épaules. Cette position sera votre position de départ.",
     "Effectuez une fente arrière en faisant un grand pas arrière avec un pied et en fléchissant les hanches et le genou avant. Pendant que vous faites cela, tournez votre torse à l'横 de la jambe avant.",
     "Après une brève pause, revenez à la position de départ et répétez de l'autre côté, en alternant de manière continue."
+  ],
+  "name_it": "Affondo Incrociato all'indietro",
+  "instructions_it": [
+    "Stai in piedi con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Esegui un affondo all'indietro portando un piede indietro e flettendo i fianchi e il ginocchio anteriore. Mentre lo fai, ruota il torso verso la gamba anteriore.",
+    "Dopo una breve pausa, torna alla posizione di partenza e ripeti dall'altro lato, continuando in modo alternato."
   ]
 }

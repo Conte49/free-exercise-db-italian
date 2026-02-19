@@ -1,5 +1,5 @@
 {
-  "name": "Stretching Intermedio dell'Inguine",
+  "name": "Intermediate Groin Stretch",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sdraiati sulla schiena con le gambe distese. Fai passare una cintura, una corda o una banda attorno a uno dei tuoi piedi e sposta quella gamba il più possibile di lato. Questa sarà la tua posizione di partenza.",
-    "Tira delicatamente sulla cintura per creare tensione nei muscoli dell'inguine e nei muscoli posteriori della coscia. Mantieni la posizione per 10-20 secondi e ripeti dall'altro lato."
+    "Lie on your back with your legs extended. Loop a belt, rope, or band around one of your feet, and swing that leg as far to the side as you can. This will be your starting position.",
+    "Pull gently on the belt to create tension in your groin and hamstring muscles. Hold for 10-20 seconds, and repeat on the other side."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Allongez-vous sur le dos avec les jambes étendues. Enroulez une ceinture, une corde ou une bande autour de l'un de vos pieds et balancez cette jambe aussi loin que possible sur le côté. Cette position sera votre point de départ.",
     "Tirez délicatement sur la ceinture pour créer une tension dans vos muscles des cuisses et des ischio-jambiers. Maintenez la position pendant 10 à 20 secondes, puis répétez de l'autre côté."
+  ],
+  "name_it": "Stretching Intermedio dell'Inguine",
+  "instructions_it": [
+    "Sdraiati sulla schiena con le gambe distese. Fai passare una cintura, una corda o una banda attorno a uno dei tuoi piedi e sposta quella gamba il più possibile di lato. Questa sarà la tua posizione di partenza.",
+    "Tira delicatamente sulla cintura per creare tensione nei muscoli dell'inguine e nei muscoli posteriori della coscia. Mantieni la posizione per 10-20 secondi e ripeti dall'altro lato."
   ]
 }

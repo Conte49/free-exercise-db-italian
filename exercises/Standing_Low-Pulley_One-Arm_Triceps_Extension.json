@@ -1,5 +1,5 @@
 {
-  "name": "Estensione Tricipiti con Maniglia Bassa a Un Braccio in Piedi",
+  "name": "Standing Low-Pulley One-Arm Triceps Extension",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -12,11 +12,11 @@
     "shoulders"
   ],
   "instructions": [
-    "Afferrate una maniglia con il braccio sinistro accanto alla macchina con maniglia bassa. Ruotate lontano dalla macchina mantenendo la maniglia al lato del corpo con il braccio completamente esteso. Ora usate entrambe le mani per sollevare la maniglia direttamente sopra la testa con il palmo rivolto in avanti. Mantenete il braccio superiore completamente verticale (perpendicolare al pavimento) e mettete la mano destra sul gomito sinistro per aiutarvi a mantenerlo stabile. Questa è la posizione di partenza.",
-    "Mantenendo i gomiti vicini alla testa (gomiti dentro) e perpendicolari al pavimento, abbassate la resistenza in un movimento semicircolare dietro la testa fino a quando gli avambracci toccano i bicipiti. Suggerimento: i bracci superiori devono rimanere fissi e solo gli avambracci devono muoversi. Inspirate mentre eseguite questo passaggio.",
-    "Tornate alla posizione di partenza utilizzando i tricipiti per sollevare la maniglia. Espirate mentre eseguite questo passaggio.",
-    "Ripetete per il numero raccomandato di ripetizioni.",
-    "Cambiati braccio e ripeti l'esercizio."
+    "Grab a single handle with your left arm next to the low pulley machine. Turn away from the machine keeping the handle to the side of your body with your arm fully extended. Now use both hands to elevate the single handle directly above the head with the palm facing forward. Keep your upper arm completely vertical (perpendicular to the floor) and put your right hand on your left elbow to help keep it steady. This is the starting position.",
+    "Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
+    "Go back to the starting position by using the triceps to raise the single handle. Breathe out as you perform this step.",
+    "Repeat for the recommended amount of repetitions.",
+    "Switch arms and repeat the exercise."
   ],
   "category": "strength",
   "images": [
@@ -30,5 +30,13 @@
     "Revenez à la position de départ en utilisant les triceps pour soulever la poignée unique. Respirez pendant que vous exécutez cette étape.",
     "Répétez pour le nombre de répétitions recommandé.",
     "Changez de bras et répétez l'exercice."
+  ],
+  "name_it": "Estensione Tricipiti con Maniglia Bassa a Un Braccio in Piedi",
+  "instructions_it": [
+    "Afferrate una maniglia con il braccio sinistro accanto alla macchina con maniglia bassa. Ruotate lontano dalla macchina mantenendo la maniglia al lato del corpo con il braccio completamente esteso. Ora usate entrambe le mani per sollevare la maniglia direttamente sopra la testa con il palmo rivolto in avanti. Mantenete il braccio superiore completamente verticale (perpendicolare al pavimento) e mettete la mano destra sul gomito sinistro per aiutarvi a mantenerlo stabile. Questa è la posizione di partenza.",
+    "Mantenendo i gomiti vicini alla testa (gomiti dentro) e perpendicolari al pavimento, abbassate la resistenza in un movimento semicircolare dietro la testa fino a quando gli avambracci toccano i bicipiti. Suggerimento: i bracci superiori devono rimanere fissi e solo gli avambracci devono muoversi. Inspirate mentre eseguite questo passaggio.",
+    "Tornate alla posizione di partenza utilizzando i tricipiti per sollevare la maniglia. Espirate mentre eseguite questo passaggio.",
+    "Ripetete per il numero raccomandato di ripetizioni.",
+    "Cambiati braccio e ripeti l'esercizio."
   ]
 }

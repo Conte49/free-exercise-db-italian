@@ -1,5 +1,5 @@
 {
-  "name": "Rematori con Bilanciere Piatto",
+  "name": "Straight Bar Bench Mid Rows",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,9 @@
     "lats"
   ],
   "instructions": [
-    "Posiziona un bilanciere carico all'estremità di una panca. In piedi sulla panca dietro al bilanciere, afferra con una presa media e prona.",
-    "Stai con i fianchi indietro e il petto in alto, mantenendo la schiena neutra. Questa sarà la tua posizione di partenza.",
-    "Tira il bilanciere verso il torso retrando le scapole e flettendo i gomiti. Usa un movimento controllato senza scatti.",
-    "Dopo una breve pausa, riporta lentamente il bilanciere alla posizione di partenza, assicurandoti di scendere completamente."
+    "Place a loaded barbell on the end of a bench. Standing on the bench behind the bar, take a medium, pronated grip. Stand with your hips back and chest up, maintaining a neutral spine. This will be your starting position.",
+    "Row the bar to your torso by retracting the shoulder blades and flexing the elbows. Use a controlled movement with no jerking.",
+    "After a brief pause, slowly return the bar to the starting position, ensuring to go all the way down."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +26,12 @@
     "Placez une barre chargés sur l'extrémité d'un banc. Debout sur le banc derrière la barre, prenez une poignée moyenne, prononnée. Tenez-vous les hanches en arrière et la poitrine vers le haut, en maintenant une colonne vertébrale neutre. Cette position sera votre position de départ.",
     "Ramenez la barre vers votre torse en rentrant les omoplates et en fléchissant les coudes. Utilisez un mouvement contrôlé sans mouvement brusque.",
     "Après une courte pause, ramenez lentement la barre à sa position initiale, en veillant à bien descendre jusqu'en bas."
+  ],
+  "name_it": "Rematori con Bilanciere Piatto",
+  "instructions_it": [
+    "Posiziona un bilanciere carico all'estremità di una panca. In piedi sulla panca dietro al bilanciere, afferra con una presa media e prona.",
+    "Stai con i fianchi indietro e il petto in alto, mantenendo la schiena neutra. Questa sarà la tua posizione di partenza.",
+    "Tira il bilanciere verso il torso retrando le scapole e flettendo i gomiti. Usa un movimento controllato senza scatti.",
+    "Dopo una breve pausa, riporta lentamente il bilanciere alla posizione di partenza, assicurandoti di scendere completamente."
   ]
 }

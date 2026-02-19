@@ -1,5 +1,5 @@
 {
-  "name": "Salti con ostacoli",
+  "name": "Hurdle Hops",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Posiziona una fila di ostacoli o altre piccole barriere, distanziandole di qualche piede l'una dall'altra.",
-    "Stai in piedi di fronte al primo ostacolo con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Inizia saltando con entrambi i piedi sopra il primo ostacolo, muovendo entrambe le braccia mentre salti.",
-    "Assorbi l'impatto dell'atterraggio piegando le ginocchia, rimbalzando dal primo salto per saltare sopra il prossimo ostacolo. Continua fino a saltare sopra tutti gli ostacoli."
+    "Set up a row of hurdles or other small barriers, placing them a few feet apart.",
+    "Stand in front of the first hurdle with your feet shoulder width apart. This will be your starting position.",
+    "Begin by jumping with both feet over the first hurdle, swinging both arms as you jump.",
+    "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next hurdle. Continue until you have jumped over all of the hurdles."
   ],
   "category": "plyometrics",
   "images": [
@@ -31,5 +31,12 @@
     "Debout devant le premier obstacle, placez vos pieds à la largeur des épaules. C'est votre position de départ.",
     "Commencez par sauter avec les deux pieds au-dessus du premier obstacle, en balançant les deux bras pendant que vous sautez.",
     "Absorbez l'impact de l'atterrissage en fléchissant les genoux et rebondissez après le premier saut en franchissant l'obstacle suivant. Continuez jusqu'à ce que vous ayez franchi tous les obstacles."
+  ],
+  "name_it": "Salti con ostacoli",
+  "instructions_it": [
+    "Posiziona una fila di ostacoli o altre piccole barriere, distanziandole di qualche piede l'una dall'altra.",
+    "Stai in piedi di fronte al primo ostacolo con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Inizia saltando con entrambi i piedi sopra il primo ostacolo, muovendo entrambe le braccia mentre salti.",
+    "Assorbi l'impatto dell'atterraggio piegando le ginocchia, rimbalzando dal primo salto per saltare sopra il prossimo ostacolo. Continua fino a saltare sopra tutti gli ostacoli."
   ]
 }

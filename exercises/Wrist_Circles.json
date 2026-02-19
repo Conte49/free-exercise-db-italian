@@ -1,5 +1,5 @@
 {
-  "name": "Cerchi con i Polsi",
+  "name": "Wrist Circles",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia stando dritto con i piedi alla larghezza delle spalle. Solleva le braccia ai lati fino a che non sono completamente estese e parallele al pavimento, all'altezza delle spalle. Suggerimento: Il tuo torso e le braccia dovrebbero formare la lettera 'T'. I palmi delle mani devono essere rivolti verso il basso. Questa è la posizione di partenza.",
-    "Mantenendo il corpo immobile tranne che per i polsi, inizia a ruotare entrambi i polsi in avanti in un movimento circolare. Suggerimento: Fingi di voler disegnare dei cerchi usando le mani come un pennello. Respira normalmente mentre esegui questo esercizio.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "Start by standing straight with your feet being shoulder width apart from each other. Elevate your arms to the side of you until they are fully extended and parallel to the floor at a height that is evenly aligned with your shoulders. Tip: Your torso and arms should form the letter \"T: Your palms should be facing down. This is the starting position.",
+    "Keeping your entire body stationary except for the wrists, begin to rotate both wrists forward in a circular motion. Tip: Pretend that you are trying to draw circles by using your hands as the brush. Breathe normally as you perform this exercise.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "stretching",
   "images": [
@@ -23,5 +23,11 @@
     "Commencez par vous tenir droit, les pieds écartés à la largeur des épaules. Élevez vos bras sur les côtés jusqu'à ce qu'ils soient complètement tendus et parallèles au sol, à une hauteur qui est alignée de manière uniforme avec vos épaules. Astuce : votre torse et vos bras doivent former la lettre \"T\". Vos paumes devraient être tournées vers le bas. C'est la position de départ.",
     "En gardant tout votre corps immobile à l'exception des poignets, commencez à faire tourner les deux poignets vers l'avant en mouvement circulaire. Astuce : Imaginez que vous essayez de tracer des cercles en utilisant vos mains comme pinceau. Respirez normalement pendant que vous exécutez cet exercice.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Cerchi con i Polsi",
+  "instructions_it": [
+    "Inizia stando dritto con i piedi alla larghezza delle spalle. Solleva le braccia ai lati fino a che non sono completamente estese e parallele al pavimento, all'altezza delle spalle. Suggerimento: Il tuo torso e le braccia dovrebbero formare la lettera 'T'. I palmi delle mani devono essere rivolti verso il basso. Questa è la posizione di partenza.",
+    "Mantenendo il corpo immobile tranne che per i polsi, inizia a ruotare entrambi i polsi in avanti in un movimento circolare. Suggerimento: Fingi di voler disegnare dei cerchi usando le mani come un pennello. Respira normalmente mentre esegui questo esercizio.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

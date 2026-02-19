@@ -1,5 +1,5 @@
 {
-  "name": "Adduttore della coscia",
+  "name": "Thigh Adductor",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -12,10 +12,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per iniziare, siediti sulla macchina per adduttori e seleziona un peso con cui ti senti a tuo agio. Quando le tue gambe sono posizionate correttamente sui cuscini della macchina, afferra le maniglie su ciascun lato. L'intero tuo corpo superiore (dalla vita in su) deve rimanere fermo. Questa è la posizione di partenza.",
-    "Premi lentamente contro la macchina con le gambe per avvicinarle l'una all'altra mentre espiri.",
-    "Senti la contrazione per un secondo e inizia a riportare le gambe nella posizione di partenza mentre inspiri. Nota: Ricorda di mantenere il corpo superiore fermo e di evitare movimenti bruschi per prevenire eventuali infortuni.",
-    "Ripeti per il numero raccomandato di ripetizioni."
+    "To begin, sit down on the adductor machine and select a weight you are comfortable with. When your legs are positioned properly on the leg pads of the machine, grip the handles on each side. Your entire upper body (from the waist up) should be stationary. This is the starting position.",
+    "Slowly press against the machine with your legs to move them towards each other while exhaling.",
+    "Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary and avoid fast jerking motions in order to prevent any injuries from occurring.",
+    "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Appuyez lentement sur la machine avec vos jambes pour les rapprocher en expirant.",
     "Respirant, ramenez vos jambes à la position de départ en sentant la contraction pendant une seconde. \n\nConseils : gardez le haut du corps immobile et évitez les mouvements brusques pour prévenir tout risque de blessure.",
     "Répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Adduttore della coscia",
+  "instructions_it": [
+    "Per iniziare, siediti sulla macchina per adduttori e seleziona un peso con cui ti senti a tuo agio. Quando le tue gambe sono posizionate correttamente sui cuscini della macchina, afferra le maniglie su ciascun lato. L'intero tuo corpo superiore (dalla vita in su) deve rimanere fermo. Questa è la posizione di partenza.",
+    "Premi lentamente contro la macchina con le gambe per avvicinarle l'una all'altra mentre espiri.",
+    "Senti la contrazione per un secondo e inizia a riportare le gambe nella posizione di partenza mentre inspiri. Nota: Ricorda di mantenere il corpo superiore fermo e di evitare movimenti bruschi per prevenire eventuali infortuni.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ]
 }

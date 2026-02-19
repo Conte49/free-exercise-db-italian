@@ -1,5 +1,5 @@
 {
-  "name": "Flessioni (Posizioni delle mani ravvicinate e larghe)",
+  "name": "Pushups (Close and Wide Hand Positions)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "triceps"
   ],
   "instructions": [
-    "Sdraiati sul pavimento a faccia in giù con il corpo dritto, i piedi appoggiati a terra e le mani più larghe della larghezza delle spalle per una posizione delle mani larga e più vicine della larghezza delle spalle per una posizione delle mani ravvicinate. Assicurati di tenere il torso sollevato con le braccia distese.",
-    "Abbassati fino a quando il tuo petto quasi tocca il pavimento mentre inspiri.",
-    "Utilizzando i muscoli pettorali, spingi il tuo corpo superiore indietro nella posizione di partenza e stringi il petto. Espira mentre esegui questo passaggio.",
-    "Dopo una pausa di un secondo nella posizione contratta, ripeti il movimento per il numero prescritto di ripetizioni."
+    "Lie on the floor face down and body straight with your toes on the floor and the hands wider than shoulder width for a wide hand position and closer than shoulder width for a close hand position. Make sure you are holding your torso up at arms length.",
+    "Lower yourself until your chest almost touches the floor as you inhale.",
+    "Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+    "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "Abaissez-vous jusqu'à ce que votre poitrine touche presque le sol en inspirant.",
     "En utilisant vos muscles péctoraux, poussez votre torse vers l'avant pour revenir à la position de départ et contractez votre poitrine. Respirez pendant que vous exécutez cette étape.",
     "Après une deuxième pause à la position contractée, répétez le mouvement pour le nombre de répétitions prescrit."
+  ],
+  "name_it": "Flessioni (Posizioni delle mani ravvicinate e larghe)",
+  "instructions_it": [
+    "Sdraiati sul pavimento a faccia in giù con il corpo dritto, i piedi appoggiati a terra e le mani più larghe della larghezza delle spalle per una posizione delle mani larga e più vicine della larghezza delle spalle per una posizione delle mani ravvicinate. Assicurati di tenere il torso sollevato con le braccia distese.",
+    "Abbassati fino a quando il tuo petto quasi tocca il pavimento mentre inspiri.",
+    "Utilizzando i muscoli pettorali, spingi il tuo corpo superiore indietro nella posizione di partenza e stringi il petto. Espira mentre esegui questo passaggio.",
+    "Dopo una pausa di un secondo nella posizione contratta, ripeti il movimento per il numero prescritto di ripetizioni."
   ]
 }

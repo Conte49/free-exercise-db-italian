@@ -1,5 +1,5 @@
 {
-  "name": "Push Press - Dietro il Collo",
+  "name": "Push Press - Behind the Neck",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "triceps"
   ],
   "instructions": [
-    "In piedi con il peso appoggiato sulla parte posteriore delle spalle, inizia con un leggero affondo. Con i piedi direttamente sotto i fianchi, piega le ginocchia senza muovere i fianchi all'indietro. Scendi solo leggermente e inverti la direzione il più energicamente possibile. Spingi attraverso i talloni per creare la massima velocità e forza possibile, muovendo la barra in un percorso verticale.",
-    "Utilizzando il slancio generato, termina di spingere il peso sopra la testa estendendo le braccia.",
-    "Torna alla posizione di partenza, usando le gambe per assorbire l'impatto."
+    "Standing with the weight racked on the back of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, moving the bar in a vertical path.",
+    "Using the momentum generated, finish pressing the weight overhead be extending through the arms.",
+    "Return to the starting position, using your legs to absorb the impact."
   ],
   "category": "olympic weightlifting",
   "images": [
@@ -27,5 +27,11 @@
     "Debout avec le poids posé sur les épaules, commencez par la flexion des jambes. Placez vos pieds directement sous vos hanches, fléchissez les genoux sans déplacer les fesses vers l'arrière. Pliez-vous légèrement et inversez la direction aussi puissamment que possible. Appuyez sur les talons pour créer de la vitesse et de la force, en faisant bouger la barre dans un chemin vertical.",
     "En utilisant la dynamique générée, terminez en pressant le poids au-dessus de votre tête en étendant les bras.",
     "Revenez à la position de départ, en utilisant vos jambes pour absorber l'impact."
+  ],
+  "name_it": "Push Press - Dietro il Collo",
+  "instructions_it": [
+    "In piedi con il peso appoggiato sulla parte posteriore delle spalle, inizia con un leggero affondo. Con i piedi direttamente sotto i fianchi, piega le ginocchia senza muovere i fianchi all'indietro. Scendi solo leggermente e inverti la direzione il più energicamente possibile. Spingi attraverso i talloni per creare la massima velocità e forza possibile, muovendo la barra in un percorso verticale.",
+    "Utilizzando il slancio generato, termina di spingere il peso sopra la testa estendendo le braccia.",
+    "Torna alla posizione di partenza, usando le gambe per assorbire l'impatto."
   ]
 }

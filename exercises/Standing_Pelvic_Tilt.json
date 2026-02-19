@@ -1,5 +1,5 @@
 {
-  "name": "Inclinazione Pelvica in Piedi",
+  "name": "Standing Pelvic Tilt",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,9 +11,9 @@
     "glutes"
   ],
   "instructions": [
-    "Inizia con i piedi alla distanza delle anche.",
-    "Piegati leggermente sulle ginocchia per mantenerle morbide e reattive.",
-    "Potresti voler muovere il bacino avanti e indietro alcune volte prima di mantenere il coccige in avanti in questo allungamento."
+    "Start off with your feet hip-distance apart.",
+    "Bend your knees slightly to keep them soft and springy.",
+    "You may want to move your pelvis forward and backward and back few times before holding the tailbone forward in this stretch."
   ],
   "category": "stretching",
   "images": [
@@ -25,5 +25,11 @@
     "Commencez en plaçant vos pieds à la largeur des hanches.",
     "Pliez légèrement les genoux pour garder les jambes souples et toniques.",
     "Vous voudrez peut-être déplacer votre bassin vers l'avant et l'arrière et retour quelques fois avant de maintenir le bord du bec vers l'avant dans cette étirement."
+  ],
+  "name_it": "Inclinazione Pelvica in Piedi",
+  "instructions_it": [
+    "Inizia con i piedi alla distanza delle anche.",
+    "Piegati leggermente sulle ginocchia per mantenerle morbide e reattive.",
+    "Potresti voler muovere il bacino avanti e indietro alcune volte prima di mantenere il coccige in avanti in questo allungamento."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Rotazioni dei Polsi con Bilanciere Dritto",
+  "name": "Wrist Rotations with Straight Bar",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,9 +9,9 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Tieni un bilanciere con entrambe le mani e i palmi rivolti verso il basso; le mani devono essere distanziate circa alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
-    "Alternando tra le tue mani, esegui il movimento estendendo il polso come se stessi arrotolando un giornale. Continua ad alternare avanti e indietro fino all'esaurimento.",
-    "Inverti il movimento flettendo il polso, arrotolando nella direzione opposta. Continua il movimento alternato fino all'esaurimento."
+    "Hold a barbell with both hands and your palms facing down; hands spaced about shoulder width. This will be your starting position.",
+    "Alternating between each of your hands, perform the movement by extending the wrist as though you were rolling up a newspaper. Continue alternating back and forth until failure.",
+    "Reverse the motion by flexing the wrist, rolling the opposite direction. Continue the alternating motion until failure."
   ],
   "category": "strength",
   "images": [
@@ -23,5 +23,11 @@
     "Tenez une barre avec les deux mains, les paumes vers le bas ; espacez vos mains d'environ la largeur des épaules. Cette position sera votre position de départ.",
     "En alternant d'une main à l'autre, effectuez le mouvement en étendant le poignet comme si vous rouliez un journal. Continuez à alterner jusqu'à l'échec.",
     "Inverser le mouvement en fléchissant le poignet et en faisant rouler dans le sens opposé. Continuer le mouvement alterné jusqu'à l'échec."
+  ],
+  "name_it": "Rotazioni dei Polsi con Bilanciere Dritto",
+  "instructions_it": [
+    "Tieni un bilanciere con entrambe le mani e i palmi rivolti verso il basso; le mani devono essere distanziate circa alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Alternando tra le tue mani, esegui il movimento estendendo il polso come se stessi arrotolando un giornale. Continua ad alternare avanti e indietro fino all'esaurimento.",
+    "Inverti il movimento flettendo il polso, arrotolando nella direzione opposta. Continua il movimento alternato fino all'esaurimento."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Distensioni su panca con manubri in presa neutra",
+  "name": "Dumbbell Bench Press with Neutral Grip",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "triceps"
   ],
   "instructions": [
-    "Prendi un manubrio in ciascuna mano e sdraiati su una panca piana. I tuoi piedi dovrebbero essere appoggiati a terra e le scapole retratte.",
-    "Mantenendo una presa neutra, con i palmi rivolti l'uno verso l'altro, inizia con le braccia estese direttamente sopra di te, perpendicolari al pavimento. Questa sarà la tua posizione di partenza.",
-    "Inizia il movimento flettendo il gomito, abbassando le braccia superiori ai lati. Scendi fino a quando i manubri non sono all'altezza del tuo torso.",
-    "Fermati, poi estendi il gomito e torna alla posizione di partenza."
+    "Take a dumbbell in each hand and lay back onto a flat bench. Your feet should be flat on the floor and your shoulder blades retracted.",
+    "Maintaining a neutral grip, palms facing each other, begin with your arms extended directly above you, perpendicular to the floor. This will be your starting position.",
+    "Begin the movement by flexing the elbow, lowering the upper arms to the side. Descend until the dumbbells are to your torso.",
+    "Pause, then extend the elbow and return to the starting position."
   ],
   "category": "strength",
   "images": [
@@ -28,5 +28,12 @@
     "En maintenant une prise neutre, les paumes face à face, commencez avec vos bras tendus directement au-dessus de vous, perpendiculairement au sol. Cette position sera votre point de départ.",
     "Commencez le mouvement en fléchissant le coude et en abaissant les bras supérieurs sur le côté. Descendez jusqu'à ce que les haltères soient à votre torse.",
     "Pausez, puis étendez le coude et revenez à la position de départ."
+  ],
+  "name_it": "Distensioni su panca con manubri in presa neutra",
+  "instructions_it": [
+    "Prendi un manubrio in ciascuna mano e sdraiati su una panca piana. I tuoi piedi dovrebbero essere appoggiati a terra e le scapole retratte.",
+    "Mantenendo una presa neutra, con i palmi rivolti l'uno verso l'altro, inizia con le braccia estese direttamente sopra di te, perpendicolari al pavimento. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento flettendo il gomito, abbassando le braccia superiori ai lati. Scendi fino a quando i manubri non sono all'altezza del tuo torso.",
+    "Fermati, poi estendi il gomito e torna alla posizione di partenza."
   ]
 }

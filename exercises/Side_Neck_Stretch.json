@@ -1,5 +1,5 @@
 {
-  "name": "Allungamento del Collo Laterale",
+  "name": "Side Neck Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Inizia con le spalle rilassate, inclina delicatamente la testa verso la spalla.",
-    "Assisti l'allungamento con una leggera trazione sul lato della testa."
+    "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
+    "Assist stretch with a gentle pull on the side of the head."
   ],
   "category": "stretching",
   "images": [
@@ -21,5 +21,10 @@
   "instructions_fr": [
     "Commencez avec vos épaules détendues, inclinez doucement la tête vers votre épaule.",
     "Assistez à l'étirement avec une traction douce sur le côté de la tête."
+  ],
+  "name_it": "Allungamento del Collo Laterale",
+  "instructions_it": [
+    "Inizia con le spalle rilassate, inclina delicatamente la testa verso la spalla.",
+    "Assisti l'allungamento con una leggera trazione sul lato della testa."
   ]
 }

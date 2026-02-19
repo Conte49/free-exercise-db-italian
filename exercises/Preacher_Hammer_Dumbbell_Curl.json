@@ -1,5 +1,5 @@
 {
-  "name": "Curl con manubri su panca preacher",
+  "name": "Preacher Hammer Dumbbell Curl",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "forearms"
   ],
   "instructions": [
-    "Posiziona la parte superiore di entrambe le braccia sulla panca preacher mentre tieni un manubrio in ciascuna mano con i palmi rivolti l'uno verso l'altro (presa neutra).",
-    "Inspira mentre abbassi lentamente i manubri fino a quando il tuo braccio superiore è esteso e il bicipite è completamente allungato.",
-    "Espira e utilizza il bicipite per sollevare il peso fino a quando il tuo bicipite è completamente contratto e i manubri sono all'altezza delle spalle.",
-    "Stringi il bicipite con forza per un secondo nella posizione contratta e ripeti per il numero raccomandato di ripetizioni."
+    "Place the upper part of both arms on top of the preacher bench as you hold a dumbbell in each hand with the palms facing each other (neutral grip).",
+    "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
+    "As you exhale, use the biceps to curl the weight up until your biceps is fully contracted and the dumbbells are at shoulder height.",
+    "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
   "images": [
@@ -27,5 +27,12 @@
     "En inspirant, baissez lentement les haltères jusqu'à ce que votre bras supérieur soit étendu et que votre biceps soit complètement tendu.",
     "En expirant, utilisez vos biceps pour soulever les poids jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient à la hauteur de vos épaules.",
     "Contractez durement les biceps pendant une seconde à la position contractée et répétez pour le nombre de répétitions recommandé."
+  ],
+  "name_it": "Curl con manubri su panca preacher",
+  "instructions_it": [
+    "Posiziona la parte superiore di entrambe le braccia sulla panca preacher mentre tieni un manubrio in ciascuna mano con i palmi rivolti l'uno verso l'altro (presa neutra).",
+    "Inspira mentre abbassi lentamente i manubri fino a quando il tuo braccio superiore è esteso e il bicipite è completamente allungato.",
+    "Espira e utilizza il bicipite per sollevare il peso fino a quando il tuo bicipite è completamente contratto e i manubri sono all'altezza delle spalle.",
+    "Stringi il bicipite con forza per un secondo nella posizione contratta e ripeti per il numero raccomandato di ripetizioni."
   ]
 }

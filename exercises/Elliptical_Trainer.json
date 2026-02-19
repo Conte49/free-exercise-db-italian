@@ -1,5 +1,5 @@
 {
-  "name": "Cyclette Ellittica",
+  "name": "Elliptical Trainer",
   "force": null,
   "level": "intermediate",
   "mechanic": null,
@@ -13,8 +13,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Per iniziare, sali sulla cyclette ellittica e seleziona l'opzione desiderata dal menu. La maggior parte delle cyclette ellittiche ha un'impostazione manuale, oppure puoi selezionare un programma da seguire. Di solito, puoi inserire la tua età e il tuo peso per stimare il numero di calorie bruciate durante l'esercizio. L'inclinazione può essere regolata per cambiare l'intensità dell'allenamento.",
-    "Le maniglie possono essere utilizzate per monitorare la tua frequenza cardiaca per aiutarti a mantenere un'intensità appropriata."
+    "To begin, step onto the elliptical and select the desired option from the menu. Most ellipticals have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
+    "The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."
   ],
   "category": "cardio",
   "images": [
@@ -25,5 +25,10 @@
   "instructions_fr": [
     "Pour commencer, montez sur l'elliptique et sélectionnez l'option désirée dans le menu. La plupart des elliptiques ont une réglage manuelle, ou vous pouvez sélectionner un programme à exécuter. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. L'élévation peut être ajustée pour modifier l'intensité de l'entraînement.",
     "Les poignées peuvent être utilisées pour surveiller votre fréquence cardiaque pour vous aider à rester à une intensité appropriée."
+  ],
+  "name_it": "Cyclette Ellittica",
+  "instructions_it": [
+    "Per iniziare, sali sulla cyclette ellittica e seleziona l'opzione desiderata dal menu. La maggior parte delle cyclette ellittiche ha un'impostazione manuale, oppure puoi selezionare un programma da seguire. Di solito, puoi inserire la tua età e il tuo peso per stimare il numero di calorie bruciate durante l'esercizio. L'inclinazione può essere regolata per cambiare l'intensità dell'allenamento.",
+    "Le maniglie possono essere utilizzate per monitorare la tua frequenza cardiaca per aiutarti a mantenere un'intensità appropriata."
   ]
 }

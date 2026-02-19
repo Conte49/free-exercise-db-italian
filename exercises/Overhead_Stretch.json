@@ -1,5 +1,5 @@
 {
-  "name": "Stretching sopra la testa",
+  "name": "Overhead Stretch",
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,8 +14,8 @@
     "triceps"
   ],
   "instructions": [
-    "In piedi, unisci le dita delle mani e apri i palmi verso il soffitto. Tieni le spalle abbassate mentre estendi le braccia verso l'alto.",
-    "Per creare un allungamento completo del torso, tira verso il basso il tuo coccige e stabilizza il torso mentre fai questo. Allunga i muscoli sia nella parte anteriore che posteriore del torso."
+    "Standing straight up, lace your fingers together and open your palms to the ceiling. Keep your shoulders down as you extend your arms up.",
+    "To create a full torso stretch, pull your tailbone down and stabilize your torso as you do this. Stretch the muscles on both the front and the back of the torso."
   ],
   "category": "stretching",
   "images": [
@@ -26,5 +26,10 @@
   "instructions_fr": [
     "Debout, les doigts entrelacés et les paumes ouvertes vers le ciel. Maintenez vos épaules abaissées tout en levant les bras.",
     "Pour étirer tout le torse, ramenez votre coccyx vers la colonne vertébrale et stabilisez le haut du corps pendant que vous faites cet étirement. Étirez les muscles à l'avant et à l'arrière du torse."
+  ],
+  "name_it": "Stretching sopra la testa",
+  "instructions_it": [
+    "In piedi, unisci le dita delle mani e apri i palmi verso il soffitto. Tieni le spalle abbassate mentre estendi le braccia verso l'alto.",
+    "Per creare un allungamento completo del torso, tira verso il basso il tuo coccige e stabilizza il torso mentre fai questo. Allunga i muscoli sia nella parte anteriore che posteriore del torso."
   ]
 }
