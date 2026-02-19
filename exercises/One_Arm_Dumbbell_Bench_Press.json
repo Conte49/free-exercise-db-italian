@@ -1,5 +1,5 @@
 {
-  "name": "One Arm Dumbbell Bench Press",
+  "name": "Distensione su panca con manubrio a un braccio",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,13 +12,13 @@
     "triceps"
   ],
   "instructions": [
-    "Lie down on a flat bench with a dumbbell in one hand on top of your thigh.",
-    "By using your thigh to help you get the dumbbell up, clean the dumbbell up so that you can hold it in front of you at shoulder width. Use the hand you are not lifting with to help position the dumbbell over you properly.",
-    "Once at shoulder width, rotate your wrist forward so that the palm of your hand is facing away from you. This will be your starting position.",
-    "Bring down the weights slowly to your side as you breathe in. Keep full control of the dumbbell at all times. Tip: Use the hand that you are not lifting with to help keep the dumbbell balance as you may struggle a bit at first. Only use your non-lifting hand if it is needed. Otherwise, keep it resting to the side.",
-    "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.",
-    "Repeat the movement for the prescribed amount of repetitions of your training program.",
-    "Switch arms and repeat the movement."
+    "Sdraiati su una panca piana con un manubrio in una mano appoggiato sulla coscia.",
+    "Usando la coscia per aiutarti a sollevare il manubrio, portalo in posizione in modo da poterlo tenere di fronte a te all'altezza delle spalle. Usa la mano che non stai sollevando per posizionare correttamente il manubrio sopra di te.",
+    "Una volta all'altezza delle spalle, ruota il polso in avanti in modo che il palmo della mano sia rivolto lontano da te. Questa sarà la tua posizione di partenza.",
+    "Abbassa lentamente il peso verso il tuo lato mentre inspiri. Mantieni il pieno controllo del manubrio in ogni momento. Suggerimento: usa la mano che non stai sollevando per aiutarti a mantenere l'equilibrio del manubrio, poiché potresti avere qualche difficoltà all'inizio. Usa la mano non sollevante solo se necessario. Altrimenti, tienila appoggiata di lato.",
+    "Mentre espiri, spingi il manubrio verso l'alto usando i muscoli pettorali. Blocca le braccia in posizione contratta, stringi il petto, trattieni per un secondo e poi inizia a scendere lentamente. Suggerimento: ci dovrebbe volere almeno il doppio del tempo per scendere rispetto a quello che ci vuole per salire.",
+    "Ripeti il movimento per il numero di ripetizioni prescritto dal tuo programma di allenamento.",
+    "Cambia braccio e ripeti il movimento."
   ],
   "category": "strength",
   "images": [

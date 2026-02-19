@@ -1,5 +1,5 @@
 {
-  "name": "Cable Hammer Curls - Rope Attachment",
+  "name": "Curl con Cavo - Attacco a Corda",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Attach a rope attachment to a low pulley and stand facing the machine about 12 inches away from it.",
-    "Grasp the rope with a neutral (palms-in) grip and stand straight up keeping the natural arch of the back and your torso stationary.",
-    "Put your elbows in by your side and keep them there stationary during the entire movement. Tip: Only the forearms should move; not your upper arms. This will be your starting position.",
-    "Using your biceps, pull your arms up as you exhale until your biceps touch your forearms. Tip: Remember to keep the elbows in and your upper arms stationary.",
-    "After a 1 second contraction where you squeeze your biceps, slowly start to bring the weight back to the original position.",
-    "Repeat for the recommended amount of repetitions."
+    "Attacca un attacco a corda a un puleggia bassa e stai di fronte alla macchina a circa 30 centimetri da essa.",
+    "Afferrati la corda con una presa neutra (palmi rivolti verso l'interno) e mantieni la schiena dritta, mantenendo l'arco naturale della schiena e il torso fermo.",
+    "Posiziona i gomiti vicino ai fianchi e mantienili fermi durante l'intero movimento. Suggerimento: Solo gli avambracci dovrebbero muoversi; non le braccia superiori. Questa sarà la tua posizione di partenza.",
+    "Utilizzando i bicipiti, solleva le braccia mentre espiri fino a quando i bicipiti toccano gli avambracci. Suggerimento: Ricorda di mantenere i gomiti vicini e le braccia superiori ferme.",
+    "Dopo una contrazione di 1 secondo in cui contrai i bicipiti, inizia lentamente a riportare il peso alla posizione originale.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

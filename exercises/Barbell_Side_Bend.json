@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Side Bend",
+  "name": "Flesso laterale con bilanciere",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "lower back"
   ],
   "instructions": [
-    "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck). Your feet should be shoulder width apart. This will be your starting position.",
-    "While keeping your back straight and your head up, bend only at the waist to the right as far as possible. Breathe in as you bend to the side. Then hold for a second and come back up to the starting position as you exhale. Tip: Keep the rest of the body stationary.",
-    "Now repeat the movement but bending to the left instead. Hold for a second and come back to the starting position.",
-    "Repeat for the recommended amount of repetitions."
+    "Stai in piedi dritto tenendo un bilanciere posizionato sulla parte posteriore delle spalle (leggermente sotto il collo). I tuoi piedi dovrebbero essere alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Mantenendo la schiena dritta e la testa alta, piegati solo in vita verso destra il più possibile. Inspira mentre ti pieghi di lato. Poi trattieni per un secondo e torna alla posizione di partenza mentre espiri. Suggerimento: mantieni il resto del corpo fermo.",
+    "Ora ripeti il movimento piegandoti a sinistra invece. Trattieni per un secondo e torna alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

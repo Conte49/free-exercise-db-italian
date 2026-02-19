@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Curls Lying Against An Incline",
+  "name": "Curl con Bilanciere Sdraiati su una Panca Inclinata",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Lie against an incline bench, with your arms holding a barbell and hanging down in a horizontal line. This will be your starting position.",
-    "While keeping the upper arms stationary, curl the weight up as high as you can while squeezing the biceps. Breathe out as you perform this portion of the movement. Tip: Only the forearms should move. Do not swing the arms.",
-    "After a second contraction, slowly go back to the starting position as you inhale. Tip: Make sure that you go all of the way down.",
-    "Repeat for the recommended amount of repetitions."
+    "Sdraiati su una panca inclinata, con le braccia che tengono un bilanciere e pendono in una linea orizzontale. Questa sarà la tua posizione di partenza.",
+    "Mantenendo le braccia superiori fisse, arriccia il peso verso l'alto il più in alto possibile mentre contrai i bicipiti. Espira mentre esegui questa parte del movimento. Suggerimento: Solo gli avambracci dovrebbero muoversi. Non dondolare le braccia.",
+    "Dopo una seconda contrazione, torna lentamente alla posizione di partenza mentre inspiri. Suggerimento: Assicurati di scendere completamente.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

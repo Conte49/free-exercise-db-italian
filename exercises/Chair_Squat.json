@@ -1,5 +1,5 @@
 {
-  "name": "Chair Squat",
+  "name": "Squat alla Sedia",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,12 +13,12 @@
     "hamstrings"
   ],
   "instructions": [
-    "To begin, first set the bar to a position that best matches your height. Once the bar is loaded, step under it and position it across the back of your shoulders.",
-    "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs.",
-    "Move your feet forward about 18 inches in front of the bar. Position your legs using a shoulder width stance with the toes slightly pointed out. Look forward at all times and maintain a neutral or slightly arched spine. This will be your starting position.",
-    "Slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper and lower leg breaks 90 degrees.",
-    "Begin to raise the bar as you exhale by pushing the floor with the heels of your feet, extending the knees and returning to the starting position.",
-    "Repeat for the recommended amount of repetitions."
+    "Per iniziare, posiziona prima la barra in una posizione che meglio si adatta alla tua altezza. Una volta caricata la barra, posizionati sotto di essa e sistemala sulla parte posteriore delle spalle.",
+    "Afferrati la barra con le mani rivolte in avanti, sbloccalo e sollevalo dal supporto estendendo le gambe.",
+    "Sposta i piedi in avanti di circa 45 centimetri rispetto alla barra. Posiziona le gambe con una postura alla larghezza delle spalle, con le punte dei piedi leggermente rivolte verso l'esterno. Guarda sempre in avanti e mantieni una colonna vertebrale neutra o leggermente arcuata. Questa sarà la tua posizione di partenza.",
+    "Abbassa lentamente la barra piegando le ginocchia mentre mantieni una postura dritta con la testa alta. Continua a scendere fino a quando l'angolo tra la gamba superiore e quella inferiore non supera i 90 gradi.",
+    "Inizia a sollevare la barra mentre espiri, spingendo il pavimento con i talloni dei piedi, estendendo le ginocchia e tornando alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

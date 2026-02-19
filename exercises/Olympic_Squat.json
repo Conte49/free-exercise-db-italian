@@ -1,5 +1,5 @@
 {
-  "name": "Olympic Squat",
+  "name": "Squat Olimpico",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Begin with a barbell supported on top of the traps. The chest should be up, and the head facing forward. Adopt a hip width stance with the feet turned out as needed.",
-    "Descend by flexing the knees, refraining from moving the hips back as much as possible. This requires that the knees travel forward; ensure that they stay aligned with the feet. The goal is to keep the torso as upright as possible. Continue all the way down, keeping the weight on the front of the heel.",
-    "At the moment the upper legs contact the lower, reverse the motion, driving the weight upward."
+    "Inizia con un bilanciere sostenuto sopra le spalle. Il petto dovrebbe essere sollevato e la testa rivolta in avanti. Adotta una posizione con i piedi alla larghezza delle anche, ruotando le punte verso l'esterno se necessario.",
+    "Scendi piegando le ginocchia, evitando di spostare i fianchi all'indietro il più possibile. Questo richiede che le ginocchia si muovano in avanti; assicurati che rimangano allineate con i piedi. L'obiettivo è mantenere il torso il più eretto possibile. Continua fino in fondo, mantenendo il peso sulla parte anteriore del tallone.",
+    "Nel momento in cui le cosce superiori toccano quelle inferiori, inverte il movimento, spingendo il peso verso l'alto."
   ],
   "category": "olympic weightlifting",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell One-Arm Upright Row",
+  "name": "Rematore con manubrio a un braccio",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "traps"
   ],
   "instructions": [
-    "Grab a dumbbell and stand up straight with your arm extended in front of you with a slight bend at the elbows and your back straight. This will be your starting position. Tip: The dumbbell should be resting on top of your thigh with the palm of your hands facing your thighs.",
-    "Keep the other hand can be kept fully extended to the side, by the waist or grabbing a fixed surface. This will be your starting position.",
-    "Use your side shoulders to lift the dumbbell as you exhale. The dumbbell should be close to the body as you move it up. Continue to lift it until the dumbbell is nearly in line with your chin. Tip: Your elbows should drive the motion. As you lift the dumbbell, your elbow should always be higher than your forearm. Also, keep your torso stationary and pause for a second at the top of the movement.",
-    "Lower the dumbbell back down slowly to the starting position. Inhale as you perform this portion of the movement.",
-    "Repeat for the recommended amount of repetitions and switch arms."
+    "Afferrate un manubrio e state in piedi con il braccio esteso davanti a voi, con un leggero piegamento dei gomiti e la schiena dritta. Questa sarà la vostra posizione di partenza. Suggerimento: il manubrio dovrebbe poggiare sulla coscia con il palmo delle mani rivolto verso le cosce.",
+    "L'altro braccio può essere mantenuto completamente esteso di lato, all'altezza della vita o afferrando una superficie fissa. Questa sarà la vostra posizione di partenza.",
+    "Utilizzate le spalle laterali per sollevare il manubrio mentre espirate. Il manubrio dovrebbe essere vicino al corpo mentre lo sollevate. Continuate a sollevarlo fino a quando il manubrio non è quasi allineato con il vostro mento. Suggerimento: i gomiti devono guidare il movimento. Mentre sollevate il manubrio, il gomito deve sempre essere più alto dell'avambraccio. Inoltre, mantenete il torso fermo e fermatevi per un secondo nella parte superiore del movimento.",
+    "Abbassate lentamente il manubrio fino alla posizione di partenza. Inspirate mentre eseguite questa parte del movimento.",
+    "Ripetete per il numero raccomandato di ripetizioni e cambiate braccio."
   ],
   "category": "strength",
   "images": [

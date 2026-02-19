@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Hip Raise",
+  "name": "Sollevamento fianchi alla Smith Machine",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Position a bench in the rack and load the bar to an appropriate weight. Lie down on the bench, placing the bottom of your feet against the bar. Unlock the bar and extend your legs. You may need to use your hands to assist you. For added stability grasp the sides of the Smith Machine. This will be your starting position.",
-    "Initiate the movement by rotating your pelvis, flexing your spine to raise your hips off of the bench. Maintain a slight bend in the knees throughout the motion.",
-    "After a brief pause, return the hips to the bench.",
-    "Repeat for the desired number of repetitions."
+    "Posiziona una panca nel rack e carica il bilanciere con un peso appropriato. Sdraiati sulla panca, posizionando la parte inferiore dei piedi contro il bilanciere. Sblocca il bilanciere ed estendi le gambe. Potrebbe essere necessario utilizzare le mani per assisterti. Per maggiore stabilità afferra i lati della Smith Machine. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento ruotando il bacino, flettendo la colonna vertebrale per sollevare i fianchi dalla panca. Mantieni una leggera flessione delle ginocchia durante l'intero movimento.",
+    "Dopo una breve pausa, riporta i fianchi sulla panca.",
+    "Ripeti per il numero desiderato di ripetizioni."
   ],
   "category": "strength",
   "images": [

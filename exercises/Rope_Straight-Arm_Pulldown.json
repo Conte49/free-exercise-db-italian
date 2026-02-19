@@ -1,5 +1,5 @@
 {
-  "name": "Rope Straight-Arm Pulldown",
+  "name": "Estensione delle braccia con corda al pulley alto",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Attach a rope to a high pulley and make your weight selection. Stand a couple feet back from the pulley with your feet staggered and take the rope with both hands. Lean forward from the hip, keeping your back straight, with your arms extended up in front of you. This will be your starting position.",
-    "Keeping your arms straight, extend the shoulder to pull the rope down to your thighs.",
-    "Pause at the bottom of the motion, squeezing your lats.",
-    "Return to the starting position without allowing the weight to fully rest on the stack."
+    "Fissa una corda a un pulley alto e seleziona il peso. Posizionati a un paio di piedi dal pulley con i piedi in posizione sfalsata e afferra la corda con entrambe le mani. Inclina il busto in avanti dall'anca, mantenendo la schiena dritta, con le braccia estese davanti a te. Questa sarà la tua posizione di partenza.",
+    "Mantenendo le braccia dritte, estendi la spalla per tirare la corda verso le cosce.",
+    "Fermati nella parte bassa del movimento, stringendo i muscoli dorsali.",
+    "Torna alla posizione di partenza senza permettere che il peso riposi completamente sullo stack."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Lunge",
+  "name": "Affondo con bilanciere",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,11 +13,11 @@
     "hamstrings"
   ],
   "instructions": [
-    "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
-    "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
-    "Step away from the rack and step forward with your right leg and squat down through your hips, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: Do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. li>",
-    "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
-    "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
+    "Questo esercizio è meglio eseguito all'interno di un rack per squat per motivi di sicurezza. Per iniziare, posiziona prima il bilanciere su un supporto appena sotto il livello delle spalle. Una volta scelta l'altezza corretta e caricato il bilanciere, posizionati sotto di esso e appoggia la parte posteriore delle spalle (leggermente sotto il collo) su di esso.",
+    "Afferralo con entrambe le braccia ai lati e sollevalo dal supporto spingendo prima con le gambe e contemporaneamente raddrizzando il torso.",
+    "Allontanati dal rack e fai un passo in avanti con la gamba destra, accovacciandoti attraverso i fianchi, mantenendo il torso eretto e mantenendo l'equilibrio. Inspira mentre scendi. Nota: non permettere al tuo ginocchio di andare oltre le dita dei piedi mentre scendi, poiché questo metterebbe eccessivo stress sull'articolazione del ginocchio.",
+    "Usando principalmente il tallone del piede, spingi verso l'alto e torna alla posizione di partenza mentre espiri.",
+    "Ripeti il movimento per il numero raccomandato di ripetizioni e poi esegui con la gamba sinistra."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Close-Grip Standing Barbell Curl",
+  "name": "Curl con bilanciere a presa stretta in piedi",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,11 +11,11 @@
     "forearms"
   ],
   "instructions": [
-    "Hold a barbell with both hands, palms up and a few inches apart.",
-    "Stand with your torso straight and your head up. Your feet should be about shoulder width and your elbows close to your torso. This will be your starting position. Tip: You will keep your upper arms and elbows stationary throughout the movement.",
-    "Curl the bar up in a semicircular motion until the forearms touch your biceps. Exhale as you perform this portion of the movement and contract your biceps hard for a second at the top. Tip: Avoid bending the back or using swinging motions as you lift the weight. Only the forearms should move.",
-    "Slowly go back down to the starting position as you inhale.",
-    "Repeat for the recommended amount of repetitions."
+    "Tieni un bilanciere con entrambe le mani, palmi rivolti verso l'alto e a pochi centimetri di distanza l'uno dall'altro.",
+    "Stai in piedi con il torso dritto e la testa alta. I tuoi piedi dovrebbero essere alla larghezza delle spalle e i gomiti vicini al torso. Questa sarà la tua posizione di partenza. Suggerimento: manterrai le braccia superiori e i gomiti fissi durante tutto il movimento.",
+    "Curl il bilanciere verso l'alto in un movimento semicircolare fino a quando gli avambracci toccano i bicipiti. Espira mentre esegui questa parte del movimento e contrai i bicipiti con forza per un secondo nella parte superiore. Suggerimento: evita di piegare la schiena o di usare movimenti oscillatori mentre sollevi il peso. Solo gli avambracci dovrebbero muoversi.",
+    "Scendi lentamente fino alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

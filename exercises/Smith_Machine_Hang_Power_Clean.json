@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Hang Power Clean",
+  "name": "Pulizia Potente con Smith Machine",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,12 +15,12 @@
     "traps"
   ],
   "instructions": [
-    "Position the bar at knee height and load it to an appropriate weight.",
-    "Take a pronated grip on the bar outside of shoulder width and unhook the bar from the machine. Your arms should be fully extended with your head and chest up. Your elbows should be pointed out with your shoulders back and down. Your hips should be back, loading the tension into the hamstrings. This will be your starting position.",
-    "Initate the movement by forcefully extending the hips and knees, accelerating into the bar. Ensure that you keep your arms straight during this part of the motion.",
-    "Upon full extension, rebend the hips and knees to lower your receiving position.",
-    "Allow the arms to flex at this point, rotating the elbows around the bar to receive it on your shoulders.",
-    "Extend through the hips and knees to come to a standing position with the bar racked on your shoulders to complete the movement."
+    "Posiziona il bilanciere all'altezza delle ginocchia e caricalo con un peso appropriato.",
+    "Afferralo con una presa prona al di fuori della larghezza delle spalle e sgancia il bilanciere dalla macchina. Le tue braccia dovrebbero essere completamente estese con la testa e il petto alzati. I gomiti dovrebbero essere puntati verso l'esterno con le spalle indietro e verso il basso. I fianchi dovrebbero essere indietro, caricando la tensione nei muscoli posteriori della coscia. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento estendendo con forza i fianchi e le ginocchia, accelerando verso il bilanciere. Assicurati di mantenere le braccia dritte durante questa parte del movimento.",
+    "Una volta che sei completamente esteso, ri piega i fianchi e le ginocchia per abbassare la tua posizione di ricezione.",
+    "Permetti alle braccia di piegarsi a questo punto, ruotando i gomiti attorno al bilanciere per riceverlo sulle spalle.",
+    "Estendi i fianchi e le ginocchia per tornare in posizione eretta con il bilanciere appoggiato sulle spalle per completare il movimento."
   ],
   "category": "strength",
   "images": [

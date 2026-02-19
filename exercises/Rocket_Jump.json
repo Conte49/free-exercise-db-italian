@@ -1,5 +1,5 @@
 {
-  "name": "Rocket Jump",
+  "name": "Salto Razzo",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
-    "To initiate the move, squat down halfway and explode back up as high as possible.",
-    "Fully extend your entire body, reaching overhead as far as possible. As you land, absorb your impact through the legs."
+    "Inizia in una posizione rilassata con i piedi alla larghezza delle spalle e le braccia vicine al corpo.",
+    "Per iniziare il movimento, accovacciati a metà e esplodi verso l'alto il più in alto possibile.",
+    "Estendi completamente il corpo, raggiungendo verso l'alto il più lontano possibile. Quando atterri, assorbi l'impatto attraverso le gambe."
   ],
   "category": "plyometrics",
   "images": [

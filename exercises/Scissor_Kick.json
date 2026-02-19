@@ -1,5 +1,5 @@
 {
-  "name": "Scissor Kick",
+  "name": "Calcio a forbice",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.",
-    "With a slight bend at the knees, lift your legs up so that your heels are about 6 inches off the ground. This is the starting position.",
-    "Now lift your left leg up to about a 45 degree angle while your right leg is lowered until the heel is about 2-3 inches from the ground.",
-    "Switch movements by raising your right leg up and lowering your left leg. Remember to breathe while performing this exercise.",
-    "Repeat for the recommended amount of repetitions."
+    "Per iniziare, sdraiati con la schiena appoggiata a terra o su un tappetino da esercizio (opzionale). Le tue braccia dovrebbero essere completamente distese ai lati con i palmi rivolti verso il basso. Nota: Le braccia devono rimanere immobili per tutto il tempo.",
+    "Con un leggero piegamento delle ginocchia, solleva le gambe in modo che i talloni siano a circa 15 cm da terra. Questa è la posizione di partenza.",
+    "Ora solleva la gamba sinistra fino a un angolo di circa 45 gradi mentre la gamba destra è abbassata fino a quando il tallone è a circa 5-8 cm da terra.",
+    "Cambia movimento sollevando la gamba destra e abbassando la gamba sinistra. Ricorda di respirare mentre esegui questo esercizio.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "stretching",
   "images": [

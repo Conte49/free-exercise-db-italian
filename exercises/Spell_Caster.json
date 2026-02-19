@@ -1,5 +1,5 @@
 {
-  "name": "Spell Caster",
+  "name": "Incantatore",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "shoulders"
   ],
   "instructions": [
-    "Hold a dumbbell in each hand with a pronated grip. Your feet should be wide with your hips and knees extended. This will be your starting position.",
-    "Begin the movement by pulling both of the dumbbells to one side next to your hip, rotating your torso.",
-    "Keeping your arms straight and the dumbbells parallel to the ground, rotate your torso to swing the weights to your opposite side.",
-    "Continue alternating, rotating from one side to the other until the set is complete."
+    "Tieni un manubrio in ciascuna mano con una presa prona. I tuoi piedi dovrebbero essere larghi con i fianchi e le ginocchia estese. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento tirando entrambi i manubri da un lato accanto all'anca, ruotando il torso.",
+    "Mantenendo le braccia dritte e i manubri paralleli al suolo, ruota il torso per far oscillare i pesi dall'altro lato.",
+    "Continua ad alternare, ruotando da un lato all'altro fino al completamento della serie."
   ],
   "category": "strength",
   "images": [

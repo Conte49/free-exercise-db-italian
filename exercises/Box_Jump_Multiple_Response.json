@@ -1,5 +1,5 @@
 {
-  "name": "Box Jump (Multiple Response)",
+  "name": "Salto sul Box (Risposta Multipla)",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,9 +15,10 @@
     "quadriceps"
   ],
   "instructions": [
-    "Assume a relaxed stance facing the box or platform approximately an arm's length away. Arms should be down at the sides and legs slightly bent.",
-    "Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.",
-    "Immediately drop or jump back down to the original starting place; then repeat the sequence."
+    "Assumi una posizione rilassata di fronte al box o alla piattaforma, a una distanza di circa un braccio.",
+    "Le braccia devono essere lungo i fianchi e le gambe leggermente piegate.",
+    "Utilizzando le braccia per aiutare nella spinta iniziale, salta verso l'alto e in avanti, atterrando con i piedi simultaneamente sulla parte superiore del box o della piattaforma.",
+    "Subito dopo, scendi o salta indietro nel punto di partenza originale; quindi ripeti la sequenza."
   ],
   "category": "plyometrics",
   "images": [

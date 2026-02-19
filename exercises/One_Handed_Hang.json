@@ -1,5 +1,5 @@
 {
-  "name": "One Handed Hang",
+  "name": "Appeso a una mano",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -11,7 +11,10 @@
     "biceps"
   ],
   "instructions": [
-    "Grab onto a chinup bar with one hand, using a pronated grip. Keep your feet on the floor or a step. Allow the majority of your weight to hang from that hand, while keeping your feet on the ground. Hold for 10-20 seconds and switch sides."
+    "Afferrati a una barra per trazioni con una mano, usando una presa prona.",
+    "Tieni i piedi sul pavimento o su un gradino.",
+    "Lascia che la maggior parte del tuo peso penda da quella mano, mantenendo i piedi a terra.",
+    "Mantieni la posizione per 10-20 secondi e cambia lato."
   ],
   "category": "stretching",
   "images": [

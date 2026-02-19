@@ -1,5 +1,5 @@
 {
-  "name": "Handstand Push-Ups",
+  "name": "Flessioni in verticale",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -11,11 +11,11 @@
     "triceps"
   ],
   "instructions": [
-    "With your back to the wall bend at the waist and place both hands on the floor at shoulder width.",
-    "Kick yourself up against the wall with your arms straight. Your body should be upside down with the arms and legs fully extended. Keep your whole body as straight as possible. Tip: If doing this for the first time, have a spotter help you. Also, make sure that you keep facing the wall with your head, rather than looking down.",
-    "Slowly lower yourself to the ground as you inhale until your head almost touches the floor. Tip: It is of utmost importance that you come down slow in order to avoid head injury.",
-    "Push yourself back up slowly as you exhale until your elbows are nearly locked.",
-    "Repeat for the recommended amount of repetitions."
+    "Con la schiena rivolta al muro, piegati in vita e posiziona entrambe le mani sul pavimento all'altezza delle spalle.",
+    "Calciati verso l'alto contro il muro con le braccia dritte. Il tuo corpo dovrebbe essere a testa in giù con le braccia e le gambe completamente estese. Mantieni il corpo il più dritto possibile. Suggerimento: se lo fai per la prima volta, fai in modo che qualcuno ti assista. Inoltre, assicurati di mantenere la testa rivolta verso il muro, piuttosto che guardare in basso.",
+    "Abbassati lentamente verso il pavimento mentre inspiri, fino a quando la tua testa non tocca quasi il pavimento. Suggerimento: è di fondamentale importanza scendere lentamente per evitare infortuni alla testa.",
+    "Spingiti lentamente verso l'alto mentre espiri, fino a quando i gomiti non sono quasi bloccati.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

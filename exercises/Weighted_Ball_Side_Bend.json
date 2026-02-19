@@ -1,5 +1,5 @@
 {
-  "name": "Weighted Ball Side Bend",
+  "name": "Piegamento laterale con palla pesata",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,13 +9,13 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.",
-    "Your feet should be on the floor while your legs are crossed and hanging from the ball. Hold a weighted plate with your right hand directly to the right side of your head. Tip: Make sure the smooth side of the plate is resting against your head.",
-    "Place your left arm across your torso so that your palm is on your obliques. There should be a right angle between your left forearm and upper arm. This is the starting position.",
-    "Raise the side of your torso up by laterally flexing at the waist while exhaling.",
-    "Hold the contraction for a second and slowly lower yourself back down to the starting position while inhaling.",
-    "Repeat for the recommended amount of repetitions.",
-    "Switch sides and repeat the exercise."
+    "Per iniziare, sdraiati su una palla da esercizio con il lato sinistro del torso (vita, fianchi e spalla) premuto contro la palla.",
+    "I tuoi piedi dovrebbero essere a terra mentre le gambe sono incrociate e penzoloni dalla palla. Tieni un disco pesato con la mano destra direttamente sul lato destro della testa. Suggerimento: assicurati che il lato liscio del disco sia appoggiato contro la tua testa.",
+    "Posiziona il braccio sinistro attraverso il torso in modo che il palmo sia sui tuoi obliqui. Dovrebbe esserci un angolo retto tra l'avambraccio sinistro e il braccio superiore. Questa è la posizione di partenza.",
+    "Alza il lato del tuo torso flettendo lateralmente alla vita mentre espiri.",
+    "Mantieni la contrazione per un secondo e abbassati lentamente di nuovo nella posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Cambia lato e ripeti l'esercizio."
   ],
   "category": "strength",
   "images": [

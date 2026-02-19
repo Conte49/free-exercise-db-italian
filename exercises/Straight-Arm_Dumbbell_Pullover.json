@@ -1,5 +1,5 @@
 {
-  "name": "Straight-Arm Dumbbell Pullover",
+  "name": "Pullover con manubrio a braccia tese",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,12 +13,12 @@
     "triceps"
   ],
   "instructions": [
-    "Place a dumbbell standing up on a flat bench.",
-    "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench (torso across it as in forming a cross) with only your shoulders lying on the surface. Hips should be below the bench and legs bent with feet firmly on the floor. The head will be off the bench as well.",
-    "Grasp the dumbbell with both hands and hold it straight over your chest at arms length. Both palms should be pressing against the underside one of the sides of the dumbbell. This will be your starting position.\nCaution: Always ensure that the dumbbell used for this exercise is secure. Using a dumbbell with loose plates can result in the dumbbell falling apart and falling on your face.",
-    "While keeping your arms straight, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
-    "At that point, bring the dumbbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
-    "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
+    "Posiziona un manubrio in verticale su una panca piatta.",
+    "Assicurandoti che il manubrio rimanga ben posizionato sulla parte superiore della panca, sdraiati perpendicolare alla panca (torso sopra di essa come a formare una croce) con solo le spalle appoggiate sulla superficie. I fianchi devono essere sotto la panca e le gambe piegate con i piedi ben saldi a terra. Anche la testa sarà fuori dalla panca.",
+    "Afferrati il manubrio con entrambe le mani e tienilo dritto sopra il petto a braccia distese. Entrambe le palme devono premere contro il lato inferiore di uno dei lati del manubrio. Questa sarà la tua posizione di partenza.\nAttenzione: Assicurati sempre che il manubrio utilizzato per questo esercizio sia sicuro. Utilizzare un manubrio con piastre allentate può comportare la caduta del manubrio e il rischio di colpirti in faccia.",
+    "Mantenendo le braccia dritte, abbassa lentamente il peso in un arco dietro la testa mentre inspiri fino a sentire un allungamento sul petto.",
+    "A quel punto, riporta il manubrio alla posizione di partenza seguendo l'arco attraverso il quale il peso è stato abbassato ed espira mentre esegui questo movimento.",
+    "Tieni il peso nella posizione iniziale per un secondo e ripeti il movimento per il numero prescritto di ripetizioni."
   ],
   "category": "strength",
   "images": [

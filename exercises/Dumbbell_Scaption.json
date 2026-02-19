@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Scaption",
+  "name": "Scaption con manubri",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,9 +11,9 @@
     "traps"
   ],
   "instructions": [
-    "This corrective exercise strengthens the muscles that stabilize your shoulder blade. Hold a light weight in each hand, hanging at your sides. Your thumbs should pointing up.",
-    "Begin the movement raising your arms out in front of you, about 30 degrees off center. Your arms should be fully extended as you perform the movement.",
-    "Continue until your arms are parallel to the ground, and then return to the starting position."
+    "Questo esercizio correttivo rinforza i muscoli che stabilizzano la scapola. Tieni un peso leggero in ciascuna mano, pendente ai lati. I tuoi pollici dovrebbero essere rivolti verso l'alto.",
+    "Inizia il movimento sollevando le braccia di fronte a te, circa 30 gradi rispetto al centro. Le tue braccia dovrebbero essere completamente estese mentre esegui il movimento.",
+    "Continua fino a quando le tue braccia sono parallele al suolo, e poi torna alla posizione di partenza."
   ],
   "category": "strength",
   "images": [

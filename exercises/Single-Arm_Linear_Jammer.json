@@ -1,5 +1,5 @@
 {
-  "name": "Single-Arm Linear Jammer",
+  "name": "Jammer Lineare a Braccio Singolo",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "triceps"
   ],
   "instructions": [
-    "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
-    "Raise the bar from the floor, taking it to your shoulders with one or both hands. Adopt a wide stance. This will be your starting position.",
-    "Perform the movement by extending the elbow, pressing the weight up. Move explosively, extending the hips and knees fully to produce maximal force.",
-    "Return to the starting position."
+    "Posiziona un bilanciere in un landmine o fissalo saldamente in un angolo. Carica il bilanciere con un peso appropriato.",
+    "Solleva il bilanciere da terra, portandolo sulle spalle con una o entrambe le mani. Adotta una posizione ampia. Questa sarà la tua posizione di partenza.",
+    "Esegui il movimento estendendo il gomito, spingendo il peso verso l'alto. Muoviti in modo esplosivo, estendendo completamente anche i fianchi e le ginocchia per produrre la massima forza.",
+    "Torna alla posizione di partenza."
   ],
   "category": "strength",
   "images": [

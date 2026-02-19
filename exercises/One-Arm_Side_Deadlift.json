@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Side Deadlift",
+  "name": "Stacco Laterale con Un Braccio",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -16,12 +16,12 @@
     "traps"
   ],
   "instructions": [
-    "Stand to the side of a barbell next to its center. Bend your knees and lower your body until you are able to reach the barbell.",
-    "Grasp the bar as if you were grabbing a briefcase (palms facing you since the bar is sideways). You may need a wrist wrap if you are using a significant amount of weight. This is your starting position.",
-    "Use your legs to help lift the barbell up while exhaling. Your arms should extend fully as bring the barbell up until you are in a standing position.",
-    "Slowly bring the barbell back down while inhaling. Tip: Make sure to bend your knees while lowering the weight to avoid any injury from occurring.",
-    "Repeat for the recommended amount of repetitions.",
-    "Switch arms and repeat the movement."
+    "Posizionati di lato rispetto a un bilanciere, accanto al suo centro. Piega le ginocchia e abbassa il corpo fino a raggiungere il bilanciere.",
+    "Afferralo come se stessi prendendo una valigetta (palmi rivolti verso di te poiché il bilanciere è di lato). Potresti aver bisogno di un supporto per i polsi se stai utilizzando un peso significativo. Questa è la tua posizione di partenza.",
+    "Usa le gambe per aiutarti a sollevare il bilanciere espirando. Le braccia dovrebbero estendersi completamente mentre porti il bilanciere verso l'alto fino a raggiungere una posizione eretta.",
+    "Riporta lentamente il bilanciere verso il basso mentre inspiri. Suggerimento: assicurati di piegare le ginocchia mentre abbassi il peso per evitare infortuni.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Cambia braccio e ripeti il movimento."
   ],
   "category": "strength",
   "images": [

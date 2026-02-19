@@ -1,5 +1,5 @@
 {
-  "name": "V-Bar Pulldown",
+  "name": "Pulldown con V-Bar",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,12 +13,12 @@
     "shoulders"
   ],
   "instructions": [
-    "Sit down on a pull-down machine with a V-Bar attached to the top pulley.",
-    "Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
-    "Grab the V-bar with the palms facing each other (a neutral grip). Stick your chest out and lean yourself back slightly (around 30-degrees) in order to better engage the lats. This will be your starting position.",
-    "Using your lats, pull the bar down as you squeeze your shoulder blades. Continue until your chest nearly touches the V-bar. Exhale as you execute this motion. Tip: Keep the torso stationary throughout the movement.",
-    "After a second hold on the contracted position, slowly bring the bar back to the starting position as you breathe in.",
-    "Repeat for the prescribed number of repetitions."
+    "Siediti su una macchina per pulldown con un V-Bar attaccato al puleggiatore superiore.",
+    "Regola il cuscino per le ginocchia della macchina in base alla tua altezza. Questi cuscini impediranno al tuo corpo di essere sollevato dalla resistenza attaccata alla barra.",
+    "Afferrati al V-bar con i palmi rivolti l'uno verso l'altro (una presa neutra). Spingi il petto in fuori e inclina leggermente il corpo all'indietro (circa 30 gradi) per coinvolgere meglio i dorsali. Questa sarà la tua posizione di partenza.",
+    "Utilizzando i dorsali, tira la barra verso il basso mentre contrai le scapole. Continua fino a quando il tuo petto non tocca quasi il V-bar. Espira mentre esegui questo movimento. Suggerimento: mantieni il torso fermo durante tutto il movimento.",
+    "Dopo un secondo di mantenimento nella posizione contratta, riporta lentamente la barra alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero prescritto di ripetizioni."
   ],
   "category": "strength",
   "images": [

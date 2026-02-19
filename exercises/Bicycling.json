@@ -1,5 +1,5 @@
 {
-  "name": "Bicycling",
+  "name": "Ciclismo",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -13,7 +13,7 @@
     "hamstrings"
   ],
   "instructions": [
-    "To begin, seat yourself on the bike and adjust the seat to your height."
+    "Per iniziare, siediti sulla bicicletta e regola il sedile alla tua altezza."
   ],
   "category": "cardio",
   "images": [

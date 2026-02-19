@@ -1,5 +1,5 @@
 {
-  "name": "Two-Arm Kettlebell Jerk",
+  "name": "Jerk con due kettlebell",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,7 +13,12 @@
     "triceps"
   ],
   "instructions": [
-    "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward. Squat down a few inches and reverse the motion rapidly driving both kettlebells overhead. Immediately after the initial push, squat down again and get under the kettlebells. Once the kettlebells are locked out, stand upright to complete the exercise."
+    "Pulisci due kettlebell fino alle spalle.",
+    "Pulisci le kettlebell fino alle spalle estendendo le gambe e i fianchi mentre fai oscillare le kettlebell verso le spalle.",
+    "Ruota i polsi mentre lo fai, in modo che i palmi siano rivolti in avanti.",
+    "Accovacciati di qualche centimetro e inverti rapidamente il movimento spingendo entrambe le kettlebell sopra la testa.",
+    "Immediatamente dopo la spinta iniziale, accovacciati di nuovo e posizionati sotto le kettlebell.",
+    "Una volta che le kettlebell sono bloccate, alzati in posizione eretta per completare l'esercizio."
   ],
   "category": "strength",
   "images": [

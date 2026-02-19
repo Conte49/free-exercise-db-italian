@@ -1,5 +1,5 @@
 {
-  "name": "Lying Glute",
+  "name": "Gluteo Sdraiato",
   "force": "static",
   "level": "expert",
   "mechanic": null,
@@ -11,10 +11,10 @@
     "abductors"
   ],
   "instructions": [
-    "Lie on your back with your partner kneeling beside you.",
-    "Flex the hip of one leg, raising it off of the floor. Rotate the leg so the foot is over the opposite hip, the lower leg perpendicular to your body. Your partner should hold the knee and ankle in place. This will be your starting position.",
-    "Attempt to push your leg towards your partner, who should be preventing any actual movement of the leg.",
-    "After 10-20 seconds, completely relax as your partner gently pushes the ankle and knee towards your chest. Be sure to inform your helper when the stretch is adequate to prevent injury or overstretching."
+    "Sdraiati sulla schiena con il tuo partner inginocchiato accanto a te.",
+    "Fletti l'anca di una gamba, sollevandola da terra. Ruota la gamba in modo che il piede sia sopra l'anca opposta, con la gamba inferiore perpendicolare al tuo corpo. Il tuo partner dovrebbe tenere il ginocchio e la caviglia in posizione. Questa sarà la tua posizione di partenza.",
+    "Cerca di spingere la tua gamba verso il tuo partner, che dovrebbe impedire qualsiasi movimento reale della gamba.",
+    "Dopo 10-20 secondi, rilassati completamente mentre il tuo partner spinge delicatamente la caviglia e il ginocchio verso il tuo petto. Assicurati di informare il tuo aiutante quando lo stiramento è adeguato per prevenire infortuni o eccessivo allungamento."
   ],
   "category": "stretching",
   "images": [

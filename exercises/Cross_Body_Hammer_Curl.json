@@ -1,5 +1,5 @@
 {
-  "name": "Cross Body Hammer Curl",
+  "name": "Curl a martello incrociato",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "forearms"
   ],
   "instructions": [
-    "Stand up straight with a dumbbell in each hand. Your hands should be down at your side with your palms facing in.",
-    "While keeping your palms facing in and without twisting your arm, curl the dumbbell of the right arm up towards your left shoulder as you exhale. Touch the top of the dumbbell to your shoulder and hold the contraction for a second.",
-    "Slowly lower the dumbbell along the same path as you inhale and then repeat the same movement for the left arm.",
-    "Continue alternating in this fashion until the recommended amount of repetitions is performed for each arm."
+    "Stai in piedi dritto con un manubrio in ciascuna mano. Le mani dovrebbero essere lungo i fianchi con i palmi rivolti verso l'interno.",
+    "Mantenendo i palmi rivolti verso l'interno e senza ruotare il braccio, solleva il manubrio del braccio destro verso la spalla sinistra mentre espiri. Tocca la parte superiore del manubrio alla spalla e mantieni la contrazione per un secondo.",
+    "Abbassa lentamente il manubrio lungo lo stesso percorso mentre inspiri e poi ripeti lo stesso movimento per il braccio sinistro.",
+    "Continua ad alternare in questo modo fino a completare il numero raccomandato di ripetizioni per ciascun braccio."
   ],
   "category": "strength",
   "images": [

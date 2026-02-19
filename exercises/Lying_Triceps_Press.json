@@ -1,5 +1,5 @@
 {
-  "name": "Lying Triceps Press",
+  "name": "Distensioni Tricipiti Sdraiati",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Lie on a flat bench with either an e-z bar (my preference) or a straight bar placed on the floor behind your head and your feet on the floor.",
-    "Grab the bar behind you, using a medium overhand (pronated) grip, and raise the bar in front of you at arms length. Tip: The arms should be perpendicular to the torso and the floor. The elbows should be tucked in. This is the starting position.",
-    "As you breathe in, slowly lower the weight until the bar lightly touches your forehead while keeping the upper arms and elbows stationary.",
-    "At that point, use the triceps to bring the weight back up to the starting position as you breathe out.",
-    "Repeat for the recommended amount of repetitions."
+    "Sdraiati su una panca piana con una barra e-z (la mia preferita) o una barra dritta posizionata sul pavimento dietro la testa e i piedi sul pavimento.",
+    "Afferrati la barra dietro di te, usando una presa media in pronazione, e solleva la barra di fronte a te a braccia distese. Suggerimento: le braccia devono essere perpendicolari al torso e al pavimento. I gomiti devono essere tenuti vicini al corpo. Questa è la posizione di partenza.",
+    "Mentre inspiri, abbassa lentamente il peso fino a quando la barra tocca leggermente la fronte mantenendo fissi i bicipiti e i gomiti.",
+    "A quel punto, usa i tricipiti per riportare il peso alla posizione di partenza mentre espiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

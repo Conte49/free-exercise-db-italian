@@ -1,5 +1,5 @@
 {
-  "name": "Snatch Deadlift",
+  "name": "Stacco da terra con presa a strappo",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,9 +16,9 @@
     "traps"
   ],
   "instructions": [
-    "The snatch deadlift strengthens the first pull of the snatch. Begin with a wide snatch grip with the barbell placed on the platform. The feet should be directly under the hips, with the feet turned out. Squat down to the bar, keeping the back in absolute extension with the head facing forward.",
-    "Initiate the movement by driving through the heels, raising the hips. The back angle should remain the same until the bar passes the knees.",
-    "At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
+    "Lo stacco da terra con presa a strappo rinforza la prima fase dello strappo. Inizia con una presa larga sulla barra, posizionata sulla piattaforma. I piedi devono essere direttamente sotto i fianchi, con le punte rivolte verso l'esterno.",
+    "Inizia il movimento spingendo attraverso i talloni, sollevando i fianchi. L'angolo della schiena deve rimanere lo stesso fino a quando la barra non supera le ginocchia.",
+    "A quel punto, spingi i fianchi attraverso la barra mentre ti reclini all'indietro. Riporta la barra sulla piattaforma invertendo il movimento."
   ],
   "category": "olympic weightlifting",
   "images": [

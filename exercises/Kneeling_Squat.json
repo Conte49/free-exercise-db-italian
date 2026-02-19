@@ -1,5 +1,5 @@
 {
-  "name": "Kneeling Squat",
+  "name": "Squat in ginocchio",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "lower back"
   ],
   "instructions": [
-    "Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.",
-    "With your head looking forward, sit back with your butt until you touch your calves.",
-    "Reverse the motion, returning the torso to an upright position."
+    "Imposta l'asta all'altezza corretta in un power rack. Inginocchiati dietro l'asta; potrebbe essere utile mettere un tappetino per proteggere le ginocchia. Scivola sotto l'asta, posizionandola sulla parte posteriore delle spalle. Le scapole devono essere retratte e l'asta ben aderente alla schiena. Solleva il peso.",
+    "Con lo sguardo rivolto in avanti, siediti indietro con il sedere fino a toccare i polpacci.",
+    "Inverti il movimento, riportando il torso in posizione eretta."
   ],
   "category": "powerlifting",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Full Squat",
+  "name": "Squat Completo con Bilanciere",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,12 +14,12 @@
     "lower back"
   ],
   "instructions": [
-    "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just above shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
-    "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
-    "Step away from the rack and position your legs using a shoulder-width medium stance with the toes slightly pointed out. Keep your head up at all times and maintain a straight back. This will be your starting position.",
-    "Begin to slowly lower the bar by bending the knees and sitting back with your hips as you maintain a straight posture with the head up. Continue down until your hamstrings are on your calves. Inhale as you perform this portion of the movement.",
-    "Begin to raise the bar as you exhale by pushing the floor with the heel or middle of your foot as you straighten the legs and extend the hips to go back to the starting position.",
-    "Repeat for the recommended amount of repetitions."
+    "Questo esercizio è meglio eseguito all'interno di un rack per squat per motivi di sicurezza. Per iniziare, posiziona il bilanciere su un supporto appena sopra il livello delle spalle. Una volta scelta l'altezza corretta e caricato il bilanciere, posizionati sotto di esso e appoggia la parte posteriore delle spalle (leggermente sotto il collo) su di esso.",
+    "Afferralo con entrambe le braccia ai lati e sollevalo dal supporto spingendo prima con le gambe e contemporaneamente raddrizzando il torso.",
+    "Allontanati dal rack e posiziona le gambe in una posizione media alla larghezza delle spalle con le punte dei piedi leggermente rivolte verso l'esterno. Tieni sempre la testa alta e mantieni la schiena dritta. Questa sarà la tua posizione di partenza.",
+    "Inizia a abbassare lentamente il bilanciere piegando le ginocchia e sedendoti indietro con i fianchi mentre mantieni una postura dritta con la testa alta. Continua fino a quando i tuoi muscoli posteriori della coscia non toccano i polpacci. Inspira mentre esegui questa parte del movimento.",
+    "Inizia a sollevare il bilanciere espirando, spingendo il pavimento con il tallone o la parte centrale del piede mentre raddrizzi le gambe ed estendi i fianchi per tornare alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

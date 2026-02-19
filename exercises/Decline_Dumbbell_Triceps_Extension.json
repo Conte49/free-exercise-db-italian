@@ -1,5 +1,5 @@
 {
-  "name": "Decline Dumbbell Triceps Extension",
+  "name": "Estensione dei tricipiti con manubri in declinazione",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
-    "Once you are laying down, move the dumbbells in front of you at shoulder width. The palms of the hands should be facing each other and the arms should be perpendicular to the floor and fully extended. This will be your starting position.",
-    "As you breathe in and you keep the upper arms stationary (and elbows in), bring the dumbbells down slowly by moving your forearms in a semicircular motion towards you until your thumbs are next to your ears. Breathe in as you perform this portion of the movement.",
-    "Lift the dumbbells back to the starting position by contracting the triceps and exhaling.",
-    "Repeat for the recommended amount of repetitions."
+    "Fissa le gambe all'estremità della panca in declinazione e sdraiati con un manubrio in ciascuna mano sopra le cosce. I palmi delle mani devono essere rivolti l'uno verso l'altro.",
+    "Una volta sdraiato, sposta i manubri davanti a te all'altezza delle spalle. I palmi delle mani devono essere rivolti l'uno verso l'altro e le braccia devono essere perpendicolari al pavimento e completamente estese. Questa sarà la tua posizione di partenza.",
+    "Inspira e mantenendo fisse le braccia superiori (e i gomiti vicini al corpo), abbassa lentamente i manubri muovendo gli avambracci in un movimento semicircolare verso di te fino a quando i pollici non sono accanto alle orecchie. Inspira mentre esegui questa parte del movimento.",
+    "Sollevare i manubri di nuovo nella posizione di partenza contraendo i tricipiti ed espirando.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

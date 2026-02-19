@@ -1,5 +1,5 @@
 {
-  "name": "Rickshaw Carry",
+  "name": "Trasporto Rickshaw",
   "force": null,
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,8 +17,8 @@
     "traps"
   ],
   "instructions": [
-    "Position the frame at the starting point, and load with the appropriate weight. Standing in the center of the frame, begin by gripping the handles and driving through your heels to lift the frame. Ensure your chest and head are up and your back is straight.",
-    "Immediately begin walking briskly with quick, controlled steps. Keep your chest up and head forward, and make sure you continue breathing. Bring the frame to the ground after you have reached the end point."
+    "Posiziona il telaio al punto di partenza e caricalo con il peso appropriato. Stando al centro del telaio, inizia afferrando le maniglie e spingendo attraverso i talloni per sollevare il telaio. Assicurati che il tuo petto e la tua testa siano alti e che la schiena sia dritta.",
+    "Inizia immediatamente a camminare rapidamente con passi veloci e controllati. Tieni il petto in alto e la testa in avanti, e assicurati di continuare a respirare. Porta il telaio a terra dopo aver raggiunto il punto finale."
   ],
   "category": "strongman",
   "images": [

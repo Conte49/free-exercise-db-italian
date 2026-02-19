@@ -1,5 +1,5 @@
 {
-  "name": "Standing Alternating Dumbbell Press",
+  "name": "Press con manubri alternato in piedi",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,10 +11,10 @@
     "triceps"
   ],
   "instructions": [
-    "Stand with a dumbbell in each hand. Raise the dumbbells to your shoulders with your palms facing forward and your elbows pointed out. This will be your starting position.",
-    "Extend one arm to press the dumbbell straight up, keeping your off hand in place. Do not lean or jerk the weight during the movement.",
-    "After a brief pause, return the weight to the starting position.",
-    "Repeat for the opposite side, continuing to alternate between arms."
+    "Stai in piedi con un manubrio in ciascuna mano. Solleva i manubri fino alle spalle con i palmi rivolti in avanti e i gomiti puntati verso l'esterno. Questa sarà la tua posizione di partenza.",
+    "Estendi un braccio per spingere il manubrio verso l'alto, mantenendo l'altro braccio in posizione. Non inclinarti né scuotere il peso durante il movimento.",
+    "Dopo una breve pausa, riporta il peso alla posizione di partenza.",
+    "Ripeti per il lato opposto, continuando ad alternare tra i bracci."
   ],
   "category": "strength",
   "images": [

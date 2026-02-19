@@ -1,5 +1,5 @@
 {
-  "name": "Overhead Squat",
+  "name": "Squat con bilanciere sopra la testa",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -17,12 +17,12 @@
     "triceps"
   ],
   "instructions": [
-    "Start out by having a barbell in front of you on the floor. Your feet should be wider than shoulder width apart from each other.",
-    "Bend the knees and use a pronated grip (palms facing you) to grab the barbell. Your hands should be at a wider than shoulder width apart from each other before lifting. Once you are positioned, lift the barbell up until you can rest it on your chest.",
-    "Move the barbell over and slightly behind your head and make sure your arms are fully extended. Keep your head up at all times and also maintain a straight back. Retract your shoulder blades. This is your starting position.",
-    "Slowly lower the weight by bending your knees until your thighs are parallel to the ground while inhaling. Tip: Keep your back straight while performing this exercise to avoid any injuries and your arms should remain extended and over your head at all times.",
-    "Now use your feet and legs to help bring the weight back up to the starting position while exhaling.",
-    "Repeat for the recommended amount of repetitions."
+    "Inizia posizionando un bilanciere di fronte a te sul pavimento. I tuoi piedi dovrebbero essere più larghi della larghezza delle spalle.",
+    "Fletti le ginocchia e usa una presa prona (palmi rivolti verso di te) per afferrare il bilanciere. Le tue mani dovrebbero essere più larghe della larghezza delle spalle prima di sollevare. Una volta posizionato, solleva il bilanciere fino a poterlo appoggiare sul petto.",
+    "Sposta il bilanciere sopra e leggermente dietro la testa e assicurati che le braccia siano completamente estese. Tieni sempre la testa alta e mantieni la schiena dritta. Ritira le scapole. Questa è la tua posizione di partenza.",
+    "Abbassa lentamente il peso flettendo le ginocchia fino a quando le cosce sono parallele al suolo mentre inspiri. Suggerimento: mantieni la schiena dritta durante l'esecuzione di questo esercizio per evitare infortuni e le braccia dovrebbero rimanere estese e sopra la testa in ogni momento.",
+    "Ora usa i piedi e le gambe per aiutarti a riportare il peso nella posizione di partenza mentre espiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "olympic weightlifting",
   "images": [

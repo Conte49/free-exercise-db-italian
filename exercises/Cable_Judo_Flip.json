@@ -1,5 +1,5 @@
 {
-  "name": "Cable Judo Flip",
+  "name": "Flip Judo con Cavo",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Connect a rope attachment to a tower, and move the cable to the lowest pulley position. Stand with your side to the cable with a wide stance, and grab the rope with both hands.",
-    "Twist your body away from the pulley as you bring the rope over your shoulder like you're performing a judo flip.",
-    "Shift your weight between your feet as you twist and crunch forward, pulling the cable downward.",
-    "Return to the starting position and repeat until failure.",
-    "Then, reposition and repeat the same series of movements on the opposite side."
+    "Collega un attacco a corda a una torre e sposta il cavo nella posizione più bassa del puleggiatore. Posizionati di lato rispetto al cavo con una posizione ampia, e afferra la corda con entrambe le mani.",
+    "Ruota il corpo lontano dal puleggiatore mentre porti la corda sopra la spalla come se stessi eseguendo un flip judo.",
+    "Sposta il peso tra i piedi mentre ruoti e ti pieghi in avanti, tirando il cavo verso il basso.",
+    "Torna alla posizione di partenza e ripeti fino all'esaurimento.",
+    "Poi, riposizionati e ripeti la stessa serie di movimenti sul lato opposto."
   ],
   "category": "strength",
   "images": [

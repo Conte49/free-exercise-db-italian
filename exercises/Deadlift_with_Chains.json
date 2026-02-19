@@ -1,5 +1,5 @@
 {
-  "name": "Deadlift with Chains",
+  "name": "Stacco con Catene",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -16,10 +16,10 @@
     "traps"
   ],
   "instructions": [
-    "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.",
-    "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets. With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar.",
-    "Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
-    "Lower the bar by bending at the hips and guiding it to the floor."
+    "Puoi attaccare le catene alle maniche della barra, oppure semplicemente appoggiarle a metà sulla barra in modo che ci sia un aumento di peso maggiore mentre sollevi.",
+    "Avvicinati alla barra in modo che sia centrata sopra i tuoi piedi. I tuoi piedi dovrebbero essere circa alla larghezza delle anche. Flettiti all'anca per afferrare la barra a larghezza delle spalle, permettendo alle scapole di proiettarsi in avanti. Di solito, utilizzeresti una presa sopra o una presa alternata per serie più pesanti. Con i piedi e la presa impostati, fai un grande respiro e poi abbassa i fianchi e piega le ginocchia finché le tue tibie non toccano la barra.",
+    "Guarda in avanti con la testa, tieni il petto in alto e la schiena arcuata, e inizia a spingere attraverso i talloni per sollevare il peso. Dopo che la barra supera le ginocchia, tira aggressivamente la barra indietro, avvicinando le scapole mentre spingi i fianchi in avanti verso la barra.",
+    "Abbassa la barra piegando i fianchi e guidandola verso il pavimento."
   ],
   "category": "powerlifting",
   "images": [

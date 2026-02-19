@@ -1,5 +1,5 @@
 {
-  "name": "Triceps Stretch",
+  "name": "Stretching dei Tricipiti",
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,7 +11,8 @@
     "lats"
   ],
   "instructions": [
-    "Reach your hand behind your head, grasp your elbow and gently pull. Hold for 10 to 20 seconds, then switch sides."
+    "Porta la mano dietro la testa, afferra il gomito e tira delicatamente.",
+    "Mantieni la posizione per 10-20 secondi, poi cambia lato."
   ],
   "category": "stretching",
   "images": [

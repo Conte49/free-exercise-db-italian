@@ -1,5 +1,5 @@
 {
-  "name": "Body Tricep Press",
+  "name": "Pressa Tricipiti con Bilanciere",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Position a bar in a rack at chest height.",
-    "Standing, take a shoulder width grip on the bar and step a yard or two back, feet together and arms extended so that you are leaning on the bar. This will be your starting position.",
-    "Begin by flexing the elbow, lowering yourself towards the bar.",
-    "Pause, and then reverse the motion by extending the elbows.",
-    "Progress from bodyweight by adding chains over your shoulders."
+    "Posiziona un bilanciere in un supporto all'altezza del petto.",
+    "In piedi, afferra il bilanciere con una presa alla larghezza delle spalle e fai un passo indietro di un metro o due, piedi uniti e braccia estese in modo da appoggiarti al bilanciere. Questa sarà la tua posizione di partenza.",
+    "Inizia piegando il gomito, abbassandoti verso il bilanciere.",
+    "Fermati, e poi inverti il movimento estendendo i gomiti.",
+    "Progredisci dal peso corporeo aggiungendo catene sulle spalle."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Stiff-Legged Dumbbell Deadlift",
+  "name": "Stacco con manubri a gambe tese",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "lower back"
   ],
   "instructions": [
-    "Grasp a couple of dumbbells holding them by your side at arm's length.",
-    "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
-    "Keeping the knees stationary, lower the dumbbells to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
-    "Start bringing your torso up straight again by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
-    "Repeat for the recommended amount of repetitions."
+    "Afferrate un paio di manubri tenendoli ai lati all'altezza delle braccia.",
+    "Mantenete il torso dritto e le gambe divaricate con una posizione pari o più stretta della larghezza delle spalle. Le ginocchia devono essere leggermente piegate. Questa è la vostra posizione di partenza.",
+    "Tenendo le ginocchia fisse, abbassate i manubri sopra le punte dei piedi piegando il busto in avanti mantenendo la schiena dritta. Continuate a muovervi in avanti come se doveste raccogliere qualcosa da terra fino a sentire un allungamento nei muscoli posteriori della coscia. Espirate mentre eseguite questo movimento.",
+    "Iniziate a riportare il torso dritto estendendo i fianchi e il busto fino a tornare alla posizione di partenza. Inspirate mentre eseguite questo movimento.",
+    "Ripetete per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

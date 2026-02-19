@@ -1,5 +1,5 @@
 {
-  "name": "Barbell Shoulder Press",
+  "name": "Press con bilanciere per le spalle",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "triceps"
   ],
   "instructions": [
-    "Sit on a bench with back support in a squat rack. Position a barbell at a height that is just above your head. Grab the barbell with a pronated grip (palms facing forward).",
-    "Once you pick up the barbell with the correct grip width, lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.",
-    "Lower the bar down to the shoulders slowly as you inhale.",
-    "Lift the bar back up to the starting position as you exhale.",
-    "Repeat for the recommended amount of repetitions."
+    "Siediti su una panca con supporto per la schiena in un rack per squat. Posiziona un bilanciere a un'altezza appena sopra la testa.",
+    "Una volta afferrato il bilanciere con la larghezza di presa corretta, solleva il bilanciere sopra la testa bloccando le braccia. Tieni il bilanciere all'incirca all'altezza delle spalle e leggermente davanti alla testa. Questa è la tua posizione di partenza.",
+    "Abbassa lentamente il bilanciere fino alle spalle mentre inspiri.",
+    "Solleva di nuovo il bilanciere fino alla posizione di partenza mentre espiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

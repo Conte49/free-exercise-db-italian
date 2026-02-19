@@ -1,5 +1,5 @@
 {
-  "name": "Lateral Bound",
+  "name": "Salto Laterale",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,11 +15,11 @@
     "quadriceps"
   ],
   "instructions": [
-    "Assume a half squat position facing 90 degrees from your direction of travel. This will be your starting position.",
-    "Allow your lead leg to do a countermovement inward as you shift your weight to the outside leg.",
-    "Immediately push off and extend, attempting to bound to the side as far as possible.",
-    "Upon landing, immediately push off in the opposite direction, returning to your original start position.",
-    "Continue back and forth for several repetitions."
+    "Assumi una posizione di mezzo squat con il corpo rivolto a 90 gradi rispetto alla direzione di movimento. Questa sarà la tua posizione di partenza.",
+    "Permetti alla gamba di guida di eseguire un movimento di controbilanciamento verso l'interno mentre sposti il peso sulla gamba esterna.",
+    "Spingi immediatamente e allunga, cercando di saltare lateralmente il più lontano possibile.",
+    "All'atterraggio, spingi immediatamente nella direzione opposta, tornando alla tua posizione di partenza originale.",
+    "Continua a muoverti avanti e indietro per diverse ripetizioni."
   ],
   "category": "plyometrics",
   "images": [

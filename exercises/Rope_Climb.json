@@ -1,5 +1,5 @@
 {
-  "name": "Rope Climb",
+  "name": "Salita con la corda",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,11 +14,11 @@
     "shoulders"
   ],
   "instructions": [
-    "Grab the rope with both hands above your head. Pull down on the rope as you take a small jump.",
-    "Wrap the rope around one leg, using your feet to pinch the rope. Reach up as high as possible with your arms, gripping the rope tightly.",
-    "Release the rope from your feet as you pull yourself up with your arms, bringing your knees towards your chest.",
-    "Resecure your feet on the rope, and then stand up to take another high hold on the rope. Continue until you reach the top of the rope.",
-    "To lower yourself, loosen the grip of your feet on the rope as you slide down using a hand over hand motion."
+    "Afferra la corda con entrambe le mani sopra la testa. Tira verso il basso la corda mentre fai un piccolo salto.",
+    "Avvolgi la corda attorno a una gamba, usando i piedi per pizzicare la corda. Raggiungi il più in alto possibile con le braccia, afferrando saldamente la corda.",
+    "Rilascia la corda dai piedi mentre ti sollevi con le braccia, portando le ginocchia verso il petto.",
+    "Ripristina i piedi sulla corda e poi alzati per prendere un'altra presa alta sulla corda. Continua fino a raggiungere la cima della corda.",
+    "Per abbassarti, allenta la presa dei piedi sulla corda mentre scivoli verso il basso usando un movimento alternato delle mani."
   ],
   "category": "strength",
   "images": [

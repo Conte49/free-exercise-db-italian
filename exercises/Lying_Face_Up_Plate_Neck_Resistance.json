@@ -1,5 +1,5 @@
 {
-  "name": "Lying Face Up Plate Neck Resistance",
+  "name": "Resistenza al collo con piastra supina",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Lie face up with your whole body straight on a flat bench while holding a weight plate on top of your forehead. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the traps, neck and head to be off the bench. This will be your starting position.",
-    "While keeping the plate secure on your forehead slowly lower your head back in a semi-circular motion as you breathe in.",
-    "Raise your head back up to the starting position in a semi-circular motion as you breathe out. Hold the contraction for a second.",
-    "Repeat for the recommended amount of repetitions."
+    "Sdraiati supino con il corpo dritto su una panca piatta mentre tieni una piastra di peso sopra la fronte. Suggerimento: dovrai posizionarti in modo che le spalle siano leggermente sopra l'estremità di una panca piatta affinché i trapezi, il collo e la testa siano fuori dalla panca. Questa sarà la tua posizione di partenza.",
+    "Mantenendo la piastra ferma sulla fronte, abbassa lentamente la testa all'indietro in un movimento semi-circolare mentre inspiri.",
+    "Solleva la testa di nuovo nella posizione di partenza in un movimento semi-circolare mentre espiri. Tieni la contrazione per un secondo.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Scissors Jump",
+  "name": "Salto a forbice",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
-    "Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
-    "As you jump as high as you can, switch the position of your legs, moving your front leg to the back and the rear leg to the front.",
-    "As you land, absorb the impact through the legs by adopting the lunge position, and repeat."
+    "Assumi una posizione di affondo con un piede in avanti e il ginocchio piegato, mentre il ginocchio posteriore è quasi a contatto con il terreno.",
+    "Assicurati che il ginocchio anteriore sia sopra la linea mediana del piede. Estendendo entrambe le gambe, salta il più in alto possibile, muovendo le braccia per guadagnare slancio.",
+    "Mentre salti il più in alto possibile, cambia la posizione delle gambe, portando la gamba anteriore dietro e la gamba posteriore davanti.",
+    "All'atterraggio, assorbi l'impatto attraverso le gambe adottando la posizione di affondo e ripeti."
   ],
   "category": "plyometrics",
   "images": [

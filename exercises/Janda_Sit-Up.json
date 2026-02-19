@@ -1,5 +1,5 @@
 {
-  "name": "Janda Sit-Up",
+  "name": "Sit-Up Janda",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Position your body on the floor in the basic sit-up position; knees to a ninety degree angle with feet flat on the floor and arms either crossed over your chest or to the sides. This will be your starting position.",
-    "As you strongly tighten your glutes and hamstrings, fill your lungs with air and in a slow (three to six second count) ascent, slowly exhale. Tip: It is important to tighten the glutes and hamstrings as this will cause the hip flexors to be inactivated in a process called reciprocal inhibition, which basically means that opposite muscles to the contracted ones will relax.",
-    "As you inhale, slowly go back in a controlled manner to the starting position.",
-    "Repeat for the recommended amount of repetitions."
+    "Posiziona il tuo corpo sul pavimento nella posizione base del sit-up; ginocchia a novanta gradi con i piedi appoggiati sul pavimento e braccia incrociate sul petto o ai lati. Questa sarà la tua posizione di partenza.",
+    "Mentre contrai fortemente i glutei e i muscoli posteriori della coscia, riempi i polmoni d'aria e in un'ascesa lenta (contando da tre a sei secondi), espira lentamente. Suggerimento: è importante contrarre i glutei e i muscoli posteriori della coscia poiché questo inibirà i flessori dell'anca in un processo chiamato inibizione reciproca, il che significa che i muscoli opposti a quelli contratti si rilasseranno.",
+    "Mentre inspiri, torna lentamente in modo controllato alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

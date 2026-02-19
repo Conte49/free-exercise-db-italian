@@ -1,5 +1,5 @@
 {
-  "name": "Front Barbell Squat",
+  "name": "Squat con Bilanciere Frontale",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -13,12 +13,12 @@
     "hamstrings"
   ],
   "instructions": [
-    "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, bring your arms up under the bar while keeping the elbows high and the upper arm slightly above parallel to the floor. Rest the bar on top of the deltoids and cross your arms while grasping the bar for total control.",
-    "Lift the bar off the rack by first pushing with your legs and at the same time straightening your torso.",
-    "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances described in the foot positioning section).",
-    "Begin to slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
-    "Begin to raise the bar as you exhale by pushing the floor mainly with the middle of your foot as you straighten the legs again and go back to the starting position.",
-    "Repeat for the recommended amount of repetitions."
+    "Questo esercizio è meglio eseguito all'interno di un rack per squat per motivi di sicurezza. Per iniziare, posiziona prima il bilanciere su un supporto che corrisponda meglio alla tua altezza. Una volta scelta l'altezza corretta e caricato il bilanciere, porta le braccia sotto il bilanciere mantenendo i gomiti alti e il braccio superiore leggermente sopra la parallela rispetto al pavimento. Appoggia il bilanciere sopra i deltoidi e incrocia le braccia mentre afferri il bilanciere per un totale controllo.",
+    "Solleva il bilanciere dal rack spingendo prima con le gambe e contemporaneamente raddrizzando il torso.",
+    "Allontanati dal rack e posiziona le gambe in una posizione media alla larghezza delle spalle con le punte dei piedi leggermente rivolte verso l'esterno. Tieni sempre la testa alta poiché guardare in basso ti farà perdere l'equilibrio e mantieni la schiena dritta. Questa sarà la tua posizione di partenza. (Nota: Ai fini di questa discussione utilizzeremo la posizione media descritta sopra che mira a uno sviluppo complessivo; tuttavia puoi scegliere una delle tre posizioni descritte nella sezione sulla posizione dei piedi).",
+    "Inizia a abbassare lentamente il bilanciere piegando le ginocchia mentre mantieni una postura dritta con la testa alta. Continua a scendere fino a quando l'angolo tra la coscia e i polpacci diventa leggermente inferiore a 90 gradi (che è il punto in cui le cosce sono sotto la parallela rispetto al pavimento). Inspira mentre esegui questa parte del movimento. Suggerimento: Se hai eseguito correttamente l'esercizio, la parte anteriore delle ginocchia dovrebbe formare una linea retta immaginaria con le punte dei piedi che è perpendicolare alla parte anteriore. Se le tue ginocchia superano quella linea immaginaria (se sono oltre le punte dei piedi) stai esercitando uno stress eccessivo sul ginocchio e l'esercizio è stato eseguito in modo errato.",
+    "Inizia a sollevare il bilanciere mentre espiri spingendo il pavimento principalmente con la parte centrale del piede mentre raddrizzi di nuovo le gambe e torni alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

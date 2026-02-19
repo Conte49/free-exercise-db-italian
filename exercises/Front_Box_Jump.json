@@ -1,5 +1,5 @@
 {
-  "name": "Front Box Jump",
+  "name": "Salto sul Box Frontale",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "quadriceps"
   ],
   "instructions": [
-    "Begin with a box of an appropriate height 1-2 feet in front of you. Stand with your feet should width apart. This will be your starting position.",
-    "Perform a short squat in preparation for jumping, swinging your arms behind you.",
-    "Rebound out of this position, extending through the hips, knees, and ankles to jump as high as possible. Swing your arms forward and up.",
-    "Land on the box with the knees bent, absorbing the impact through the legs. You can jump from the box back to the ground, or preferably step down one leg at a time."
+    "Inizia con un box di un'altezza appropriata 30-60 cm davanti a te. Stai in piedi con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Esegui un breve squat in preparazione al salto, portando le braccia dietro di te.",
+    "Rimbalza da questa posizione, estendendo i fianchi, le ginocchia e le caviglie per saltare il più in alto possibile. Porta le braccia in avanti e verso l'alto.",
+    "Atterra sul box con le ginocchia piegate, assorbendo l'impatto attraverso le gambe. Puoi saltare dal box a terra, oppure preferibilmente scendere un piede alla volta."
   ],
   "category": "plyometrics",
   "images": [

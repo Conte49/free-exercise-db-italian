@@ -1,5 +1,5 @@
 {
-  "name": "Standing Cable Lift",
+  "name": "Sollevamento con Cavo in Piedi",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,14 +11,14 @@
     "shoulders"
   ],
   "instructions": [
-    "Connect a standard handle on a tower, and move the cable to the lowest pulley position.",
-    "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
-    "With your feet positioned shoulder width apart, squat down and grab the handle with both hands. Your arms should still be fully extended.",
-    "In one motion, pull the handle up and across your body until your arms are in a fully-extended position above your head.",
-    "Keep your back straight and your arms close to your body as you pivot your back foot and straighten your legs to get a full range of motion.",
-    "Retract your arms and then your body. Return to the neutral position in a slow and controlled manner.",
-    "Repeat to failure.",
-    "Then, reposition and repeat the same series of movements on the opposite side."
+    "Collega una maniglia standard a una torre e sposta il cavo nella posizione del puleggia più bassa.",
+    "Con il lato rivolto verso il cavo, afferra la maniglia con una mano e allontanati dalla torre. Dovresti essere a una distanza approssimativa della lunghezza del braccio dalla puleggia, con la tensione del peso sul cavo. Il tuo braccio disteso dovrebbe essere allineato con il cavo.",
+    "Con i piedi posizionati alla larghezza delle spalle, accovacciati e afferra la maniglia con entrambe le mani. Le tue braccia dovrebbero essere ancora completamente estese.",
+    "In un solo movimento, tira la maniglia verso l'alto e attraverso il tuo corpo fino a quando le tue braccia non sono in una posizione completamente estesa sopra la testa.",
+    "Mantieni la schiena dritta e le braccia vicine al corpo mentre ruoti il piede posteriore e raddrizzi le gambe per ottenere un'ampia gamma di movimento.",
+    "Riporta indietro le braccia e poi il corpo. Torna alla posizione neutra in modo lento e controllato.",
+    "Ripeti fino all'esaurimento.",
+    "Poi, riposizionati e ripeti la stessa serie di movimenti sul lato opposto."
   ],
   "category": "strength",
   "images": [

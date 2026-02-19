@@ -1,5 +1,5 @@
 {
-  "name": "Two-Arm Dumbbell Preacher Curl",
+  "name": "Curl con manubri su panca preacher",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Grab a dumbbell with each arm and place the upper arms on top of the preacher bench or the incline bench. The dumbbell should be held at shoulder length. This will be your starting position.",
-    "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
-    "As you exhale, use the biceps to curl the weights up until your biceps is fully contracted and the dumbbells are at shoulder height.",
-    "Squeeze the biceps hard for a second at the contracted position and repeat for the recommended amount of repetitions."
+    "Afferrate un manubrio con ciascuna mano e posizionate le braccia superiori sulla panca preacher o sulla panca inclinata. I manubri devono essere tenuti all'altezza delle spalle. Questa sarà la vostra posizione di partenza.",
+    "Mentre inspirate, abbassate lentamente i manubri fino a quando il vostro braccio superiore è esteso e i bicipiti sono completamente allungati.",
+    "Mentre espirate, utilizzate i bicipiti per sollevare i pesi fino a quando i vostri bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle.",
+    "Stringete i bicipiti con forza per un secondo nella posizione contratta e ripetete per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

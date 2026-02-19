@@ -1,5 +1,5 @@
 {
-  "name": "Bent-Arm Barbell Pullover",
+  "name": "Pullover con bilanciere a braccia piegate",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -14,11 +14,11 @@
     "triceps"
   ],
   "instructions": [
-    "Lie on a flat bench with a barbell using a shoulder grip width.",
-    "Hold the bar straight over your chest with a bend in your arms. This will be your starting position.",
-    "While keeping your arms in the bent arm position, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
-    "At that point, bring the barbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
-    "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions."
+    "Sdraiati su una panca piana con un bilanciere con una presa larga quanto le spalle.",
+    "Tieni il bilanciere dritto sopra il petto con le braccia piegate. Questa sarà la tua posizione di partenza.",
+    "Mantenendo le braccia nella posizione piegata, abbassa lentamente il peso in un arco dietro la testa mentre inspiri, finché non senti un allungamento sul petto.",
+    "A quel punto, riporta il bilanciere alla posizione di partenza seguendo l'arco attraverso il quale il peso è stato abbassato ed espira mentre esegui questo movimento.",
+    "Tieni il peso nella posizione iniziale per un secondo e ripeti il movimento per il numero di ripetizioni prescritto."
   ],
   "category": "strength",
   "images": [

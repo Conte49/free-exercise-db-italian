@@ -1,5 +1,5 @@
 {
-  "name": "Seated Dumbbell Inner Biceps Curl",
+  "name": "Curl con manubri seduto per i bicipiti interni",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Sit on the end of a flat bench with a dumbbell in each hand being held at arms length. The elbows should be close to the torso.",
-    "Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.",
-    "While holding the upper arms stationary, curl the dumbbells out and up, turning the palms out as you lift and keeping your forearms in line with your outer deltoids. Tips:",
-    "Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps.",
-    "Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate your arms as you lower the dumbbells so that you can switch back to a neutral grip.",
-    "Repeat for the recommended amount of repetitions."
+    "Siediti sull'estremità di una panca piatta con un manubrio in ciascuna mano tenuto a braccia distese. I gomiti devono essere vicini al torso.",
+    "Ruota i palmi delle mani in modo che siano rivolti verso l'interno in una posizione neutra. Questa sarà la tua posizione di partenza.",
+    "Mantenendo fissi i bicipiti superiori, arriccia i manubri verso l'esterno e verso l'alto, ruotando i palmi verso l'esterno mentre sollevi e mantenendo gli avambracci allineati con i deltoidi esterni. Suggerimenti:",
+    "Solo gli avambracci devono muoversi. Continua il movimento fino a quando i tuoi bicipiti sono completamente contratti e i manubri sono all'altezza delle spalle. Tieni la posizione contratta per un secondo mentre contrai i bicipiti.",
+    "Inizia lentamente a riportare i manubri alla posizione di partenza mentre inspiri. Ricorda di ruotare le braccia mentre abbassi i manubri in modo da poter tornare a una presa neutra.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

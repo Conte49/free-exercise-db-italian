@@ -1,5 +1,5 @@
 {
-  "name": "Flat Bench Leg Pull-In",
+  "name": "Trazione delle gambe su panca piatta",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Lie on an exercise mat or a flat bench with your legs off the end.",
-    "Place your hands either under your glutes with your palms down or by the sides holding on to the bench (or with palms down by the side on an exercise mat). Also extend your legs straight out. This will be your starting position.",
-    "Bend your knees and pull your upper thighs into your midsection as you breathe out. Continue this movement until your knees are near your chest. Hold the contracted position for a second.",
-    "As you breathe in, slowly return to the starting position.",
-    "Repeat for the recommended amount of repetitions."
+    "Sdraiati su un tappetino da esercizio o su una panca piatta con le gambe penzoloni.",
+    "Posiziona le mani sotto i glutei con i palmi rivolti verso il basso oppure ai lati tenendo la panca (o con i palmi rivolti verso il basso ai lati su un tappetino da esercizio). Estendi anche le gambe in avanti. Questa sarà la tua posizione di partenza.",
+    "Piega le ginocchia e tira le cosce superiori verso il tuo addome mentre espiri. Continua questo movimento fino a quando le ginocchia sono vicine al petto. Mantieni la posizione contratta per un secondo.",
+    "Mentre inspiri, torna lentamente alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

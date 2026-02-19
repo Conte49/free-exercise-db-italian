@@ -1,5 +1,5 @@
 {
-  "name": "Overhead Triceps",
+  "name": "Estensione Tricipiti Sopra la Testa",
   "force": "static",
   "level": "expert",
   "mechanic": null,
@@ -11,9 +11,9 @@
     "lats"
   ],
   "instructions": [
-    "Sit upright on the floor with your partner behind you. Raise one arm straight up, and flex the elbow, attempting to touch your hand to your back. Your parner should hold your elbow and wrist. This will be your starting position.",
-    "Attempt to extend the arm straight into the air as your partner prevents you from doing actually doing so.",
-    "After 10-20 seconds, relax the arm and allow your partner to further stretch the tricep by applying gentle pressure to the wrist. Hold for 10-20 seconds, and then switch sides."
+    "Siediti dritto sul pavimento con il tuo partner dietro di te. Alza un braccio dritto verso l'alto e piega il gomito, cercando di toccare la mano con la schiena. Il tuo partner dovrebbe tenere il tuo gomito e il polso. Questa sarà la tua posizione di partenza.",
+    "Cerca di estendere il braccio dritto verso l'alto mentre il tuo partner ti impedisce di farlo realmente.",
+    "Dopo 10-20 secondi, rilassa il braccio e consenti al tuo partner di allungare ulteriormente il tricipite applicando una leggera pressione sul polso. Mantieni per 10-20 secondi, quindi cambia lato."
   ],
   "category": "stretching",
   "images": [

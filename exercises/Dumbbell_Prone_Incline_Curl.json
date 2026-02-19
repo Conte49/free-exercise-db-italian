@@ -1,5 +1,5 @@
 {
-  "name": "Dumbbell Prone Incline Curl",
+  "name": "Curl inclinato con manubri in posizione prona",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Grab a dumbbell on each hand and lie face down on an incline bench with your shoulders near top of the incline. Your knees can rest on the seat or your legs can be straddled to the sides (my preferred way).",
-    "Let your arms extend and hang naturally in front of you so that they are perpendicular to the floor.",
-    "Now keep your elbows in by your side and face the palms forward. This will be your starting position.",
-    "Raise the dumbbells by contracting the biceps until your arms are fully flexed. Exhale as you perform this portion of the movement and ensure that only the forearms move. The upper arms should remain stationary at all times.",
-    "Lower the dumbbells until your arms are fully extended.",
-    "Repeat for the recommended amount of times."
+    "Afferrate un manubrio in ciascuna mano e sdraiatevi a faccia in giù su una panca inclinata con le spalle vicino alla parte superiore dell'inclinazione. Le ginocchia possono poggiare sul sedile oppure le gambe possono essere divaricate ai lati (il mio modo preferito).",
+    "Lasciate che le braccia si estendano e pendano naturalmente di fronte a voi in modo che siano perpendicolari al pavimento.",
+    "Ora tenete i gomiti vicino ai fianchi e rivolgete i palmi in avanti. Questa sarà la vostra posizione di partenza.",
+    "Sollevate i manubri contraendo i bicipiti fino a quando le braccia sono completamente flesse. Espirate mentre eseguite questa parte del movimento e assicuratevi che solo gli avambracci si muovano. I bicipiti devono rimanere fermi in ogni momento.",
+    "Abbassate i manubri fino a quando le braccia sono completamente estese.",
+    "Ripetete per il numero raccomandato di volte."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Atlas Stone Trainer",
+  "name": "Allenatore Atlas Stone",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "quadriceps"
   ],
   "instructions": [
-    "This trainer is effective for developing Atlas Stone strength for those who don't have access to stones, and are typically made from bar ends or heavy pipe.",
-    "Begin by loading the desired weight onto the bar. Straddle the weight, wrapping your arms around the implement, bending at the hips.",
-    "Begin by pulling the weight up past the knees, extending through the hips. As the weight clears the knees, it can be lapped by resting it on your thighs and sitting back, hugging it tightly to your chest.",
-    "Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions."
+    "Questo allenatore è efficace per sviluppare la forza dell'Atlas Stone per coloro che non hanno accesso alle pietre, ed è tipicamente realizzato con estremità di barre o tubi pesanti.",
+    "Inizia caricando il peso desiderato sulla barra. Posizionati sopra il peso, avvolgendo le braccia attorno all'attrezzo, piegandoti all'anca.",
+    "Inizia sollevando il peso oltre le ginocchia, estendendo i fianchi. Quando il peso supera le ginocchia, può essere appoggiato sulle cosce e sedendosi indietro, abbracciandolo saldamente al petto.",
+    "Completa il movimento estendendo i fianchi e le ginocchia per sollevare il peso il più in alto possibile. Il peso può essere riportato sulle cosce o a terra per ripetizioni successive."
   ],
   "category": "strongman",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Overhead Cable Curl",
+  "name": "Curl con Cavo Sopra la Testa",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "To begin, set a weight that is comfortable on each side of the pulley machine. Note: Make sure that the amount of weight selected is the same on each side.",
-    "Now adjust the height of the pulleys on each side and make sure that they are positioned at a height higher than that of your shoulders.",
-    "Stand in the middle of both sides and use an underhand grip (palms facing towards the ceiling) to grab each handle. Your arms should be fully extended and parallel to the floor with your feet positioned shoulder width apart from each other. Your body should be evenly aligned the handles. This is the starting position.",
-    "While exhaling, slowly squeeze the biceps on each side until your forearms and biceps touch.",
-    "While inhaling, move your forearms back to the starting position. Note: Your entire body is stationary during this exercise except for the forearms.",
-    "Repeat for the recommended amount of repetitions prescribed in your program."
+    "Per iniziare, imposta un peso che sia confortevole su ciascun lato della macchina per cavi. Nota: Assicurati che la quantità di peso selezionata sia la stessa su entrambi i lati.",
+    "Ora regola l'altezza dei cavi su ciascun lato e assicurati che siano posizionati ad un'altezza superiore a quella delle tue spalle.",
+    "Stai in mezzo a entrambi i lati e usa una presa inversa (palmi rivolti verso il soffitto) per afferrare ciascun manico. Le tue braccia dovrebbero essere completamente estese e parallele al pavimento con i piedi posizionati alla larghezza delle spalle. Il tuo corpo dovrebbe essere allineato uniformemente con i manici. Questa è la posizione di partenza.",
+    "Mentre espiri, stringi lentamente i bicipiti su ciascun lato fino a quando gli avambracci e i bicipiti si toccano.",
+    "Mentre inspiri, riporta gli avambracci alla posizione di partenza. Nota: Il tuo corpo è fermo durante questo esercizio, eccetto per gli avambracci.",
+    "Ripeti per il numero raccomandato di ripetizioni prescritte nel tuo programma."
   ],
   "category": "strength",
   "images": [

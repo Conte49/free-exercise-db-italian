@@ -1,5 +1,5 @@
 {
-  "name": "Kettlebell One-Legged Deadlift",
+  "name": "Stacco da terra su una gamba con kettlebell",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "lower back"
   ],
   "instructions": [
-    "Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.",
-    "Keeping that knee slightly bent, perform a stiff legged deadlift by bending at the hip, extending your free leg behind you for balance.",
-    "Continue lowering the kettlebell until you are parallel to the ground, and then return to the upright position."
+    "Tieni un kettlebell per il manico in una mano. Stai in equilibrio su una gamba, dalla stessa parte in cui tieni il kettlebell.",
+    "Mantenendo il ginocchio leggermente piegato, esegui uno stacco da terra rigido piegando l'anca, estendendo la gamba libera dietro di te per mantenere l'equilibrio.",
+    "Continua a abbassare il kettlebell fino a essere parallelo al suolo, quindi torna alla posizione eretta."
   ],
   "category": "strength",
   "images": [

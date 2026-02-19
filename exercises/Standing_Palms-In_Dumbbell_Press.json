@@ -1,5 +1,5 @@
 {
-  "name": "Standing Palms-In Dumbbell Press",
+  "name": "Press con manubri in piedi con palmi rivolti verso l'interno",
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -11,10 +11,11 @@
     "triceps"
   ],
   "instructions": [
-    "Start by having a dumbbell in each hand with your arm fully extended to the side using a neutral grip. Your feet should be shoulder width apart from each other. Now slowly lift the dumbbells up until you create a 90 degree angle with your arms. Note: Your forearms should be perpendicular to the floor. This the starting position.",
-    "Continue to maintain a neutral grip throughout the entire exercise. Slowly lift the dumbbells up until your arms are fully extended.",
-    "While inhaling lower the weights down until your arm is at a 90 degree angle again.",
-    "Repeat for the recommended amount of repetitions."
+    "Inizia tenendo un manubrio in ciascuna mano con il braccio completamente esteso di lato usando una presa neutra. I tuoi piedi dovrebbero essere alla larghezza delle spalle.",
+    "Ora solleva lentamente i manubri fino a creare un angolo di 90 gradi con le braccia. Nota: gli avambracci dovrebbero essere perpendicolari al pavimento. Questa è la posizione di partenza.",
+    "Continua a mantenere una presa neutra durante tutto l'esercizio. Solleva lentamente i manubri fino a quando le braccia sono completamente estese.",
+    "Mentre inspiri, abbassa i pesi fino a quando il braccio non è di nuovo a un angolo di 90 gradi.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Cable Chest Press",
+  "name": "Pressa per il petto con cavo",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,10 +12,10 @@
     "triceps"
   ],
   "instructions": [
-    "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position.",
-    "Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.",
-    "After pausing at full extension, return to th starting position, keeping tension on the cables.",
-    "You can also execute this movement with your back off the pad, at an incline or decline, or alternate hands."
+    "Regola il peso a un valore appropriato e siediti, afferrando le maniglie. I tuoi avambracci dovrebbero essere inclinati di circa 45 gradi rispetto al corpo, con la testa e il petto sollevati. I gomiti dovrebbero essere piegati a circa 90 gradi. Questa sarà la tua posizione di partenza.",
+    "Inizia estendendo il gomito, premendo le maniglie insieme dritto di fronte a te. Tieni le scapole retratte mentre esegui il movimento.",
+    "Dopo aver fatto una pausa in piena estensione, torna alla posizione di partenza, mantenendo tensione sui cavi.",
+    "Puoi anche eseguire questo movimento con la schiena staccata dal supporto, in inclinazione o declino, o alternando le mani."
   ],
   "category": "strength",
   "images": [

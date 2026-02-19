@@ -1,5 +1,5 @@
 {
-  "name": "Jogging, Treadmill",
+  "name": "Corsa, Tapis Roulant",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -12,8 +12,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
-    "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than jogging outside. A 150 lb person will burn almost 250 calories jogging for 30 minutes, compared to more than 450 calories running. Maintain proper posture as you jog, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
+    "Per iniziare, sali sul tapis roulant e seleziona l'opzione desiderata dal menu. La maggior parte dei tapis roulant ha un'impostazione manuale, oppure puoi selezionare un programma di corsa. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. L'inclinazione può essere regolata per cambiare l'intensità dell'allenamento.",
+    "I tapis roulant offrono comodità, benefici cardiovascolari e di solito hanno un impatto minore rispetto alla corsa all'aperto. Una persona di 68 kg brucerà quasi 250 calorie correndo per 30 minuti, rispetto a più di 450 calorie correndo all'aperto. Mantieni una postura corretta mentre corri e afferra le maniglie solo quando necessario, come durante la discesa o per controllare la tua frequenza cardiaca."
   ],
   "category": "cardio",
   "images": [

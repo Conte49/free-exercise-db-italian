@@ -1,5 +1,5 @@
 {
-  "name": "Double Kettlebell Snatch",
+  "name": "Strappo con Due Kettlebell",
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",
-    "Swing the kettlebells between your legs forcefully and reverse the direction.",
-    "Drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion."
+    "Posiziona due kettlebell dietro i tuoi piedi. Piegati sulle ginocchia e siediti indietro per afferrare i kettlebell.",
+    "Fai oscillare i kettlebell tra le tue gambe con forza e inverti la direzione.",
+    "Spingi con i fianchi e blocca i kettlebell sopra la testa in un movimento continuo."
   ],
   "category": "strength",
   "images": [

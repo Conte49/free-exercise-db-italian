@@ -1,5 +1,5 @@
 {
-  "name": "Sandbag Load",
+  "name": "Carico del Sacco di Sabbia",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,10 +20,10 @@
     "traps"
   ],
   "instructions": [
-    "To load sandbags or other objects, begin with the implements placed a distance from the loading platform, typically 50 feet.",
-    "Begin by lifting the sandbag. Sandbags are extremely awkward, and the manner of lifting them can vary depending on the particular sandbag used. Reach as far around it as possible, extending through the hips and knees to pull it up high. Shouldering is usually not allowed.",
-    "Move as quickly as possible to the platform, and load it, extending through your hips, knees, and ankles to get it as high as possible. Place it onto the platform, ensuring it doesn't fall off.",
-    "Return to the starting position to retrieve the next sandbag, and repeat until the event is completed."
+    "Per caricare sacchi di sabbia o altri oggetti, inizia con gli attrezzi posizionati a una certa distanza dalla piattaforma di carico, tipicamente 15 metri.",
+    "Inizia sollevando il sacco di sabbia. I sacchi di sabbia sono estremamente scomodi e il modo in cui vengono sollevati può variare a seconda del sacco specifico utilizzato. Raggiungi il più lontano possibile attorno ad esso, estendendo i fianchi e le ginocchia per sollevarlo in alto.",
+    "Muoviti il più rapidamente possibile verso la piattaforma e caricalo, estendendo i fianchi, le ginocchia e le caviglie per portarlo il più in alto possibile. Posizionalo sulla piattaforma, assicurandoti che non cada.",
+    "Torna alla posizione di partenza per recuperare il prossimo sacco di sabbia e ripeti fino al completamento dell'evento."
   ],
   "category": "strongman",
   "images": [

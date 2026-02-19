@@ -1,5 +1,5 @@
 {
-  "name": "Power Stairs",
+  "name": "Scale di Potenza",
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,10 +17,10 @@
     "traps"
   ],
   "instructions": [
-    "In the power stairs, implements are moved up a staircase. For training purposes, these can be performed with a tire or box.",
-    "Begin by taking the implement with both hands. Set your feet wide, with your head and chest up. Drive through the ground with your heels, extending your knees and hips to raise the weight from the ground.",
-    "As you lean back, attempt to swing the weight onto the stairs, which are usually around 16-18\" high. You can use your legs to help push the weight onto the stair.",
-    "Repeat for 3-5 repetitions, and continue with a heavier weight, moving as fast as possible."
+    "Nelle scale di potenza, gli attrezzi vengono spostati su una scala. Per scopi di allenamento, questi possono essere eseguiti con un pneumatico o una scatola.",
+    "Inizia prendendo l'attrezzo con entrambe le mani. Posiziona i piedi larghi, con la testa e il petto alzati. Spingi attraverso il terreno con i talloni, estendendo le ginocchia e i fianchi per sollevare il peso da terra.",
+    "Mentre ti inclini all'indietro, cerca di far oscillare il peso sulle scale, che di solito sono alte circa 16-18\". Puoi usare le gambe per aiutarti a spingere il peso sulla scala.",
+    "Ripeti per 3-5 ripetizioni e continua con un peso più pesante, muovendoti il più velocemente possibile."
   ],
   "category": "strongman",
   "images": [

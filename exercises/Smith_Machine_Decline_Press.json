@@ -1,5 +1,5 @@
 {
-  "name": "Smith Machine Decline Press",
+  "name": "Press Decline alla Smith Machine",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "triceps"
   ],
   "instructions": [
-    "Position a decline bench in the rack so that the bar will be above your chest. Load an appropriate weight and take your place on the bench.",
-    "Rotate the bar to unhook it from the rack and fully extend your arms. Your back should be slightly arched and your shoulder blades retracted. This will be your starting position.",
-    "Begin the movement by flexing your arms, lowering the bar to your chest.",
-    "Pause briefly, and then extend your arms to push the weight back to the starting position.",
-    "After completing the desired number of repetitions, rotate the bar to rack the weight."
+    "Posiziona una panca declinata nel supporto in modo che la barra sia sopra il tuo petto. Carica un peso appropriato e prendi posto sulla panca.",
+    "Ruota la barra per sganciarla dal supporto ed estendi completamente le braccia. La tua schiena dovrebbe essere leggermente arcuata e le scapole retratte. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento flettendo le braccia, abbassando la barra verso il petto.",
+    "Fermati brevemente, quindi estendi le braccia per spingere il peso di nuovo nella posizione di partenza.",
+    "Dopo aver completato il numero desiderato di ripetizioni, ruota la barra per riporre il peso."
   ],
   "category": "strength",
   "images": [

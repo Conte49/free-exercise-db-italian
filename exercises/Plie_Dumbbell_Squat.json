@@ -1,5 +1,5 @@
 {
-  "name": "Plie Dumbbell Squat",
+  "name": "Squat Plie con Manubri",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -14,11 +14,11 @@
     "hamstrings"
   ],
   "instructions": [
-    "Hold a dumbbell at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent.",
-    "Your toes should be facing out. Note: Your arms should be stationary while performing the exercise. This is the starting position.",
-    "Slowly bend the knees and lower your legs until your thighs are parallel to the floor. Make sure to inhale as this is the eccentric part of the exercise.",
-    "Press mainly with the heel of the foot to bring the body back to the starting position while exhaling.",
-    "Repeat for the recommended amount of repetitions."
+    "Tieni un manubrio alla base con entrambe le mani e stai dritto. Allarga le gambe in modo che siano più larghe della larghezza delle spalle, con le ginocchia leggermente piegate.",
+    "Le punte dei piedi devono essere rivolte verso l'esterno. Nota: le braccia devono rimanere ferme durante l'esecuzione dell'esercizio. Questa è la posizione di partenza.",
+    "Piegati lentamente sulle ginocchia e abbassa le gambe finché le cosce non sono parallele al pavimento. Assicurati di inspirare poiché questa è la parte eccentrica dell'esercizio.",
+    "Premi principalmente con il tallone del piede per riportare il corpo nella posizione di partenza mentre espiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

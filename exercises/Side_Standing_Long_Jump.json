@@ -1,5 +1,5 @@
 {
-  "name": "Side Standing Long Jump",
+  "name": "Salto Lungo Laterale in Piedi",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,9 +13,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "Begin standing with your feet hip width apart in an athletic stance. Your head and chest should be up, knees and hips slightly bent. This will be your starting position.",
-    "Leaning to your right, extend through your hips, knees, and ankles to jump into the air. Block with the arms to lead the movement, jumping as far to your right as you can.",
-    "Land facing the same direction with your feet hip width apart, absorbing the impact through your lower body."
+    "Inizia in piedi con i piedi alla larghezza delle anche in una posizione atletica. Tieni la testa e il petto alti, con le ginocchia e i fianchi leggermente piegati. Questa sarà la tua posizione di partenza.",
+    "Piegandoti verso destra, estendi i fianchi, le ginocchia e le caviglie per saltare in aria. Usa le braccia per guidare il movimento, saltando il più lontano possibile verso destra.",
+    "Atterra rivolto nella stessa direzione con i piedi alla larghezza delle anche, assorbendo l'impatto attraverso la parte inferiore del corpo."
   ],
   "category": "plyometrics",
   "images": [

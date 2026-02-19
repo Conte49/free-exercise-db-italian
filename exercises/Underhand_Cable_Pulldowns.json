@@ -1,5 +1,5 @@
 {
-  "name": "Underhand Cable Pulldowns",
+  "name": "Trazioni alla macchina con presa inversa",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,12 +13,12 @@
     "shoulders"
   ],
   "instructions": [
-    "Sit down on a pull-down machine with a wide bar attached to the top pulley. Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
-    "Grab the pull-down bar with the palms facing your torso (a supinated grip). Make sure that the hands are placed closer than the shoulder width.",
-    "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
-    "As you breathe out, pull the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the fully contracted position and keep the elbows close to your body. The upper torso should remain stationary as your bring the bar to you and only the arms should move. The forearms should do no other work other than hold the bar.",
-    "After a second on the contracted position, while breathing in, slowly bring the bar back to the starting position when your arms are fully extended and the lats are fully stretched.",
-    "Repeat this motion for the prescribed amount of repetitions."
+    "Siediti su una macchina per trazioni con una barra larga attaccata al puleggiatore superiore. Regola il cuscino per le ginocchia della macchina in base alla tua altezza. Questi cuscini impediranno al tuo corpo di essere sollevato dalla resistenza attaccata alla barra.",
+    "Afferrati alla barra con i palmi rivolti verso il tuo torso (una presa supinata). Assicurati che le mani siano posizionate più vicine della larghezza delle spalle.",
+    "Con entrambe le braccia estese davanti a te mentre tieni la barra alla larghezza di presa scelta, inclina il torso all'indietro di circa 30 gradi creando una curvatura nella parte bassa della schiena e spingendo il petto in fuori. Questa è la tua posizione di partenza.",
+    "Mentre espiri, tira la barra verso il basso fino a toccare la parte superiore del petto, portando le spalle e le braccia superiori verso il basso e indietro. Suggerimento: Concentrati sul contrarre i muscoli della schiena una volta raggiunta la posizione completamente contratta e mantieni i gomiti vicini al corpo. Il torso superiore dovrebbe rimanere fermo mentre porti la barra verso di te e solo le braccia dovrebbero muoversi. Gli avambracci non dovrebbero fare altro lavoro se non tenere la barra.",
+    "Dopo un secondo nella posizione contratta, mentre inspiri, riporta lentamente la barra alla posizione di partenza quando le tue braccia sono completamente estese e i dorsali sono completamente allungati.",
+    "Ripeti questo movimento per il numero di ripetizioni prescritto."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Plate Pinch",
+  "name": "Pinza con i Piatto",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
-    "Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.",
-    "Squeeze the plate with your fingers and thumb. Hold this position for as long as you can.",
-    "Repeat for the recommended amount of sets prescribed in your program.",
-    "Switch arms and repeat the movements."
+    "Prendi due piatti a bordo largo e mettili insieme con i lati lisci rivolti verso l'esterno",
+    "Usa le dita per afferrare la parte esterna del piatto e il pollice per l'altro lato, tenendo così entrambi i piatti insieme. Questa è la posizione di partenza.",
+    "Stringi il piatto con le dita e il pollice. Mantieni questa posizione il più a lungo possibile.",
+    "Ripeti per il numero di serie raccomandato nel tuo programma.",
+    "Cambia braccio e ripeti i movimenti."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Hurdle Hops",
+  "name": "Salti con ostacoli",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -15,10 +15,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Set up a row of hurdles or other small barriers, placing them a few feet apart.",
-    "Stand in front of the first hurdle with your feet shoulder width apart. This will be your starting position.",
-    "Begin by jumping with both feet over the first hurdle, swinging both arms as you jump.",
-    "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next hurdle. Continue until you have jumped over all of the hurdles."
+    "Posiziona una fila di ostacoli o altre piccole barriere, distanziandole di qualche piede l'una dall'altra.",
+    "Stai in piedi di fronte al primo ostacolo con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Inizia saltando con entrambi i piedi sopra il primo ostacolo, muovendo entrambe le braccia mentre salti.",
+    "Assorbi l'impatto dell'atterraggio piegando le ginocchia, rimbalzando dal primo salto per saltare sopra il prossimo ostacolo. Continua fino a saltare sopra tutti gli ostacoli."
   ],
   "category": "plyometrics",
   "images": [

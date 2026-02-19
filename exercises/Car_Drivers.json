@@ -1,5 +1,5 @@
 {
-  "name": "Car Drivers",
+  "name": "Guidatori di auto",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,10 +11,10 @@
     "forearms"
   ],
   "instructions": [
-    "While standing upright, hold a barbell plate in both hands at the 3 and 9 o'clock positions. Your palms should be facing each other and your arms should be extended straight out in front of you. This will be your starting position.",
-    "Initiate the movement by rotating the plate as far to one side as possible. Use the same type of movement you would use to turn a steering wheel to one side.",
-    "Reverse the motion, turning it all the way to the opposite side.",
-    "Repeat for the recommended amount of repetitions."
+    "In piedi, tieni un disco da bilanciere con entrambe le mani nelle posizioni delle 3 e delle 9. I palmi delle mani devono essere rivolti l'uno verso l'altro e le braccia devono essere estese davanti a te. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento ruotando il disco il più possibile da un lato. Usa lo stesso tipo di movimento che useresti per girare il volante verso un lato.",
+    "Inverti il movimento, ruotando completamente dall'altra parte.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

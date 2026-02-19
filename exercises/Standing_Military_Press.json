@@ -1,5 +1,5 @@
 {
-  "name": "Standing Military Press",
+  "name": "Press Militare in Piedi",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -11,12 +11,12 @@
     "triceps"
   ],
   "instructions": [
-    "Start by placing a barbell that is about chest high on a squat rack. Once you have selected the weights, grab the barbell using a pronated (palms facing forward) grip. Make sure to grip the bar wider than shoulder width apart from each other.",
-    "Slightly bend the knees and place the barbell on your collar bone. Lift the barbell up keeping it lying on your chest. Take a step back and position your feet shoulder width apart from each other.",
-    "Once you pick up the barbell with the correct grip length, lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.",
-    "Lower the bar down to the collarbone slowly as you inhale.",
-    "Lift the bar back up to the starting position as you exhale.",
-    "Repeat for the recommended amount of repetitions."
+    "Inizia posizionando un bilanciere all'altezza del petto su un supporto per squat. Una volta selezionati i pesi, afferra il bilanciere con una presa pronata (palmi rivolti in avanti). Assicurati di afferrare il bilanciere con una presa più ampia della larghezza delle spalle.",
+    "Fletti leggermente le ginocchia e posiziona il bilanciere sulla clavicola. Solleva il bilanciere mantenendolo appoggiato sul petto. Fai un passo indietro e posiziona i piedi alla larghezza delle spalle.",
+    "Una volta afferrato il bilanciere con la lunghezza di presa corretta, solleva il bilanciere sopra la testa bloccando le braccia. Tieni il bilanciere all'altezza delle spalle e leggermente davanti alla testa. Questa è la tua posizione di partenza.",
+    "Abbassa il bilanciere lentamente fino alla clavicola mentre inspiri.",
+    "Sollevare nuovamente il bilanciere nella posizione di partenza mentre espiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

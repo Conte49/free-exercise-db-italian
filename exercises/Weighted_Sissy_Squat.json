@@ -1,5 +1,5 @@
 {
-  "name": "Weighted Sissy Squat",
+  "name": "Squat Sissy con Pesi",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Standing upright, with feet at shoulder width and toes raised, use one hand to hold onto the beams of a squat rack and the opposite arm to hold a plate on top of your chest. This is your starting position.",
-    "As you use one arm to hold yourself, bend at the knees and slowly lower your torso toward the ground by bringing your pelvis and knees forward. Inhale as you go down and stop when your upper and lower legs almost create a 90-degree angle. Hold the stretch position for a second.",
-    "After your one second hold, use your thigh muscles to bring your torso back up to the starting position. Exhale as you move up.",
-    "Repeat for the recommended amount of times."
+    "In piedi, con i piedi alla larghezza delle spalle e le punte dei piedi sollevate, usa una mano per afferrare le travi di un rack per squat e l'altra mano per tenere un disco sopra il petto. Questa è la tua posizione di partenza.",
+    "Mentre usi un braccio per sostenerti, piega le ginocchia e abbassa lentamente il torso verso il suolo portando il bacino e le ginocchia in avanti. Inspira mentre scendi e fermati quando le tue gambe superiori e inferiori formano quasi un angolo di 90 gradi. Mantieni la posizione di allungamento per un secondo.",
+    "Dopo il secondo di attesa, usa i muscoli della coscia per riportare il torso alla posizione di partenza. Espira mentre ti sollevi.",
+    "Ripeti per il numero di volte consigliato."
   ],
   "category": "strength",
   "images": [

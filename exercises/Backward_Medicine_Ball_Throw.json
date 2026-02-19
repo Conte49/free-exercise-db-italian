@@ -1,5 +1,5 @@
 {
-  "name": "Backward Medicine Ball Throw",
+  "name": "Lancio all'indietro con la palla medica",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.",
-    "Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.",
-    "Squat down and then forcefully reverse direction, coming to full extension and you toss the ball over your head to your partner.",
-    "Your partner can then roll the ball back to you. Repeat for the desired number of repetitions."
+    "Questo esercizio è meglio eseguito con un partner. Se non hai un partner, la palla può essere lanciata e recuperata o lanciata contro un muro.",
+    "Inizia in piedi a pochi metri dal tuo partner, entrambi rivolti nella stessa direzione. Tieni la palla tra le gambe.",
+    "Accovacciati e poi cambia direzione con forza, arrivando a una completa estensione e lanciando la palla sopra la testa verso il tuo partner.",
+    "Il tuo partner può quindi rotolare la palla di nuovo verso di te. Ripeti per il numero desiderato di ripetizioni."
   ],
   "category": "plyometrics",
   "images": [

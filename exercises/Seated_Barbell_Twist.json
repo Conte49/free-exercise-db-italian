@@ -1,5 +1,5 @@
 {
-  "name": "Seated Barbell Twist",
+  "name": "Twist con bilanciere da seduti",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,12 +9,12 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Start out by sitting at the end of a flat bench with a barbell placed on top of your thighs. Your feet should be shoulder width apart from each other.",
-    "Grip the bar with your palms facing down and make sure your hands are wider than shoulder width apart from each other. Begin to lift the barbell up over your head until your arms are fully extended.",
-    "Now lower the barbell behind your head until it is resting along the base of your neck. This is the starting position.",
-    "While keeping your feet and head stationary, move your waist from side to side so that your oblique muscles feel the contraction. Only move from side to side as far as your waist will allow you to go. Stretching or moving too far can cause an injury to occur. Tip: Use a slow and controlled motion.",
-    "Remember to breathe out while twisting your body to the side and in when moving back to the starting position.",
-    "Repeat for the recommended amount of repetitions."
+    "Inizia sedendoti all'estremità di una panca piatta con un bilanciere posizionato sopra le cosce. I tuoi piedi dovrebbero essere alla larghezza delle spalle.",
+    "Afferrati il bilanciere con i palmi rivolti verso il basso e assicurati che le mani siano più larghe della larghezza delle spalle. Inizia a sollevare il bilanciere sopra la testa fino a quando le braccia sono completamente estese.",
+    "Ora abbassa il bilanciere dietro la testa fino a farlo poggiare alla base del collo. Questa è la posizione di partenza.",
+    "Mantenendo i piedi e la testa fissi, muovi la vita da un lato all'altro in modo che i muscoli obliqui sentano la contrazione. Muoviti da un lato all'altro solo fino a dove la tua vita ti consente di andare. Allungarsi o muoversi troppo può causare infortuni. Suggerimento: utilizza un movimento lento e controllato.",
+    "Ricorda di espirare mentre ruoti il corpo di lato e di inspirare quando torni alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

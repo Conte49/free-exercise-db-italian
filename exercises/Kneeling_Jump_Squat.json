@@ -1,5 +1,5 @@
 {
-  "name": "Kneeling Jump Squat",
+  "name": "Squat Jump in Ginocchio",
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "quadriceps"
   ],
   "instructions": [
-    "Begin kneeling on the floor with a barbell racked across the back of your shoulders, or you can use your body weight for this exercise. This can be done inside of a power rack to make unracking easier.",
-    "Sit back with your hips until your glutes touch your feet, keeping your head and chest up.",
-    "Explode up with your hips, generating enough power to land with your feet flat on the floor.",
-    "Continue with the squat by driving through your heels and extending the knees to come to a standing position."
+    "Inizia inginocchiato sul pavimento con un bilanciere posizionato sulla parte posteriore delle spalle, oppure puoi utilizzare il tuo peso corporeo per questo esercizio. Questo può essere fatto all'interno di un power rack per facilitare il sollevamento.",
+    "Siediti indietro con i fianchi fino a quando i glutei toccano i piedi, mantenendo la testa e il petto alti.",
+    "Esplodi verso l'alto con i fianchi, generando abbastanza potenza per atterrare con i piedi piatti sul pavimento.",
+    "Continua con lo squat spingendo attraverso i talloni ed estendendo le ginocchia per tornare in posizione eretta."
   ],
   "category": "olympic weightlifting",
   "images": [

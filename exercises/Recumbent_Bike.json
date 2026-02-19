@@ -1,5 +1,5 @@
 {
-  "name": "Recumbent Bike",
+  "name": "Bicicletta Orizzontale",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -13,9 +13,9 @@
     "hamstrings"
   ],
   "instructions": [
-    "To begin, seat yourself on the bike and adjust the seat to your height.",
-    "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
-    "Recumbent bikes offer convenience, cardiovascular benefits, and have less impact than other activities. A 150 lb person will burn about 230 calories cycling at a moderate rate for 30 minutes, compared to 450 calories or more running."
+    "Per iniziare, siediti sulla bicicletta e regola il sedile all'altezza desiderata.",
+    "Seleziona l'opzione desiderata dal menu. Potrebbe essere necessario iniziare a pedalare per accenderla. Puoi utilizzare l'impostazione manuale o selezionare un programma da utilizzare. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. Il livello di resistenza può essere cambiato durante l'allenamento. Le maniglie possono essere utilizzate per monitorare la tua frequenza cardiaca per aiutarti a mantenere un'intensità appropriata.",
+    "Le biciclette orizzontali offrono comodità, benefici cardiovascolari e hanno un impatto minore rispetto ad altre attività. Una persona di 68 kg brucerà circa 230 calorie pedalando a un ritmo moderato per 30 minuti, rispetto a 450 calorie o più correndo."
   ],
   "category": "cardio",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Incline Push-Up Medium",
+  "name": "Push-Up Inclinato Medio",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,11 +13,11 @@
     "triceps"
   ],
   "instructions": [
-    "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
-    "Place your hands on the bar, with your hands about shoulder width apart.",
-    "Position your feet back from the bar with arms and body straight. This will be your starting position.",
-    "Keeping your body straight, lower your chest to the bar by bending the arms.",
-    "Return to the starting position by extending the elbows, pressing yourself back up."
+    "Stai in piedi di fronte a una barra della Smith o a una piattaforma elevata robusta a un'altezza appropriata.",
+    "Posiziona le mani sulla barra, con le mani a una larghezza pari a quella delle spalle.",
+    "Posiziona i piedi indietro rispetto alla barra con le braccia e il corpo dritti. Questa sarà la tua posizione di partenza.",
+    "Mantenendo il corpo dritto, abbassa il petto verso la barra piegando le braccia.",
+    "Torna alla posizione di partenza estendendo i gomiti, spingendoti verso l'alto."
   ],
   "category": "strength",
   "images": [

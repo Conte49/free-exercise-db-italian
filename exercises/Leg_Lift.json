@@ -1,5 +1,5 @@
 {
-  "name": "Leg Lift",
+  "name": "Sollevamento della Gamba",
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -11,11 +11,11 @@
     "hamstrings"
   ],
   "instructions": [
-    "While standing up straight with both feet next to each other at around shoulder width, grab a sturdy surface such as the sides of a squat rack or the top of a chair to brace yourself and keep balance.",
-    "With or without an ankle weight, lift one leg behind you as if performing a leg curl but standing up while keeping the other leg straight. Breathe out as you perform this movement.",
-    "Slowly bring the raised leg back to the floor as you breathe in.",
-    "Repeat for the recommended amount of repetitions.",
-    "Repeat the movement with the opposite leg."
+    "In piedi dritto con i piedi uniti alla larghezza delle spalle, afferra una superficie solida come i lati di un rack per squat o la parte superiore di una sedia per sostenerti e mantenere l'equilibrio.",
+    "Con o senza un peso per caviglia, solleva una gamba dietro di te come se stessi eseguendo un curl della gamba ma in posizione eretta, mantenendo l'altra gamba dritta. Espira mentre esegui questo movimento.",
+    "Riporta lentamente la gamba sollevata a terra mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni.",
+    "Ripeti il movimento con l'altra gamba."
   ],
   "category": "strength",
   "images": [

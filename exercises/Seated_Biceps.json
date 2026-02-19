@@ -1,5 +1,5 @@
 {
-  "name": "Seated Biceps",
+  "name": "Bicipiti da Seduti",
   "force": "static",
   "level": "expert",
   "mechanic": "isolation",
@@ -12,9 +12,9 @@
     "shoulders"
   ],
   "instructions": [
-    "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
-    "Attempt to flex your elbows, while your partner prevents any actual movement.",
-    "After 10-20 seconds, relax your arms while your partner gently pulls your wrists up to stretch your biceps. Be sure to let your partner know when the stretch is appropriate to prevent injury or overstretching."
+    "Siediti sul pavimento con le ginocchia piegate e il tuo partner in piedi dietro di te. Estendi le braccia dritte dietro di te con i palmi rivolti l'uno verso l'altro. Il tuo partner terrà i tuoi polsi per te. Questa sarà la posizione di partenza.",
+    "Cerca di flettere i gomiti, mentre il tuo partner impedisce qualsiasi movimento reale.",
+    "Dopo 10-20 secondi, rilassa le braccia mentre il tuo partner tira delicatamente i tuoi polsi verso l'alto per allungare i bicipiti. Assicurati di far sapere al tuo partner quando lo stiramento è appropriato per prevenire infortuni o eccessivo allungamento."
   ],
   "category": "stretching",
   "images": [

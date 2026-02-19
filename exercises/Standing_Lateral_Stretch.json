@@ -1,5 +1,5 @@
 {
-  "name": "Standing Lateral Stretch",
+  "name": "Allungamento Laterale in Piedi",
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Take a slightly wider than hip distance stance with your knees slightly bent.",
-    "Place your right hand on your right hip to support the spine.",
-    "Raise your left arm in a vertical line and place your left hand behind your head. Keep it there as you incline your torso to the right.",
-    "Keep your weight evenly distributed between both legs (don't lean into your left hip). Switch sides."
+    "Assumi una posizione leggermente più ampia delle anche con le ginocchia leggermente piegate.",
+    "Posiziona la mano destra sull'anca destra per sostenere la colonna vertebrale.",
+    "Alza il braccio sinistro in una linea verticale e posiziona la mano sinistra dietro la testa. Tienila lì mentre inclini il torso verso destra.",
+    "Mantieni il peso distribuito uniformemente tra entrambe le gambe (non inclinarti verso l'anca sinistra). Cambia lato."
   ],
   "category": "stretching",
   "images": [

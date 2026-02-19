@@ -1,5 +1,5 @@
 {
-  "name": "Farmer's Walk",
+  "name": "Camminata del contadino",
   "force": null,
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,9 +16,10 @@
     "traps"
   ],
   "instructions": [
-    "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.",
-    "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",
-    "Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
+    "Esistono vari attrezzi che possono essere utilizzati per la camminata del contadino. Questi possono essere eseguiti anche con manubri pesanti o bilancieri corti se questi attrezzi non sono disponibili.",
+    "Inizia stando in piedi tra gli attrezzi.",
+    "Dopo aver afferrato i manici, sollevali spingendo attraverso i talloni, mantenendo la schiena dritta e la testa alta.",
+    "Cammina facendo passi brevi e veloci, e non dimenticare di respirare. Muoviti per una distanza prestabilita, tipicamente 15-30 metri, il più velocemente possibile."
   ],
   "category": "strongman",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Torso Rotation",
+  "name": "Rotazione del Torso",
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -9,8 +9,8 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Stand upright holding an exercise ball with both hands. Extend your arms so the ball is straight out in front of you. This will be your starting position.",
-    "Rotate your torso to one side, keeping your eyes on the ball as you move. Now, rotate back to the opposite direction. Repeat for 10-20 repetitions."
+    "Stai in piedi con un pallone da esercizio tra le mani. Estendi le braccia in modo che il pallone sia dritto di fronte a te. Questa sarà la tua posizione di partenza.",
+    "Ruota il tuo torso da un lato, mantenendo gli occhi sul pallone mentre ti muovi. Ora, ruota di nuovo nella direzione opposta. Ripeti per 10-20 ripetizioni."
   ],
   "category": "stretching",
   "images": [

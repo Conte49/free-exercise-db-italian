@@ -1,5 +1,5 @@
 {
-  "name": "Seated Palm-Up Barbell Wrist Curl",
+  "name": "Curl con bilanciere al polso con palmi verso l'alto da seduti",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,11 +9,11 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
-    "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
-    "Lean forward and place your forearms on top of your upper thighs with your palms up. Tip: Make sure that the front of the wrists lay on top of your knees. This will be your starting position.",
-    "Lower the bar as far as possible while inhaling and keeping a tight grip.",
-    "Now curl bar up as high as possible while flexing the forearms and exhaling. Hold the contraction at the top for a second and Tip: Only the wrist should move."
+    "Tieni un bilanciere con entrambe le mani e i palmi rivolti verso l'alto; le mani devono essere distanziate circa quanto le spalle.",
+    "Posiziona i piedi piatti sul pavimento, a una distanza leggermente superiore a quella delle spalle.",
+    "Inclina in avanti e posiziona gli avambracci sopra le cosce superiori con i palmi rivolti verso l'alto. Suggerimento: assicurati che la parte anteriore dei polsi sia appoggiata sulle ginocchia. Questa sarà la tua posizione di partenza.",
+    "Abbassa il bilanciere il più possibile mentre inspiri e mantieni una presa salda.",
+    "Ora solleva il bilanciere il più in alto possibile mentre fletti gli avambracci ed espiri. Mantieni la contrazione in cima per un secondo e suggerimento: solo il polso dovrebbe muoversi."
   ],
   "category": "strength",
   "images": [

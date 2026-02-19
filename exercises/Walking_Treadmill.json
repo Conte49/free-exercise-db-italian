@@ -1,5 +1,5 @@
 {
-  "name": "Walking, Treadmill",
+  "name": "Camminata, Tapis Roulant",
   "force": null,
   "level": "beginner",
   "mechanic": null,
@@ -13,8 +13,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
-    "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than walking outside. When walking, you should move at a moderate to fast pace, not a leisurely one. Being an activity of lower intensity, walking doesn't burn as many calories as some other activities, but still provides great benefit. A 150 lb person will burn about 175 calories walking 4 miles per hour for 30 minutes, compared to 450 calories running twice as fast. Maintain proper posture as you walk, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
+    "Per iniziare, sali sul tapis roulant e seleziona l'opzione desiderata dal menu. La maggior parte dei tapis roulant ha un'impostazione manuale, oppure puoi selezionare un programma da seguire. Di solito, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. L'inclinazione può essere regolata per cambiare l'intensità dell'allenamento.",
+    "I tapis roulant offrono comodità, benefici cardiovascolari e di solito hanno un impatto minore rispetto alla camminata all'aperto. Quando cammini, dovresti muoverti a un ritmo moderato o veloce, non in modo rilassato. Essendo un'attività di intensità inferiore, camminare non brucia tante calorie quanto alcune altre attività, ma fornisce comunque grandi benefici. Una persona di 68 kg brucerà circa 175 calorie camminando a 6,4 km/h per 30 minuti, rispetto a 450 calorie correndo a una velocità doppia. Mantieni una postura corretta mentre cammini e afferra le maniglie solo quando necessario, ad esempio quando scendi o controlli la tua frequenza cardiaca."
   ],
   "category": "cardio",
   "images": [

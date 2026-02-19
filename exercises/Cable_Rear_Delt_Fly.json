@@ -1,5 +1,5 @@
 {
-  "name": "Cable Rear Delt Fly",
+  "name": "Apertura per deltoidi posteriori con cavi",
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [],
   "instructions": [
-    "Adjust the pulleys to the appropriate height and adjust the weight. The pulleys should be above your head.",
-    "Grab the left pulley with your right hand and the right pulley with your left hand, crossing them in front of you. This will be your starting position.",
-    "Initiate the movement by moving your arms back and outward, keeping your arms straight as you execute the movement.",
-    "Pause at the end of the motion before returning the handles to the start position."
+    "Regola le pulegge all'altezza appropriata e imposta il peso. Le pulegge devono essere sopra la tua testa.",
+    "Afferrati la puleggia sinistra con la mano destra e la puleggia destra con la mano sinistra, incrociandole davanti a te. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento portando le braccia indietro e verso l'esterno, mantenendo le braccia dritte mentre esegui il movimento.",
+    "Fermati alla fine del movimento prima di riportare le maniglie alla posizione di partenza."
   ],
   "category": "strength",
   "images": [

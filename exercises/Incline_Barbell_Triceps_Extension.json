@@ -1,5 +1,5 @@
 {
-  "name": "Incline Barbell Triceps Extension",
+  "name": "Estensione dei Tricipiti con Bilanciere Inclinato",
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -11,12 +11,12 @@
     "forearms"
   ],
   "instructions": [
-    "Hold a barbell with an overhand grip (palms down) that is a little closer together than shoulder width.",
-    "Lie back on an incline bench set at any angle between 45-75-degrees.",
-    "Bring the bar overhead with your arms extended and elbows in. The arms should be in line with the torso above the head. This will be your starting position.",
-    "Now lower the bar in a semicircular motion behind your head until your forearms touch your biceps. Inhale as you perform this movement. Tip: Keep your upper arms stationary and close to your head at all times. Only the forearms should move.",
-    "Return to the starting position as you breathe out and you contract the triceps. Hold the contraction for a second.",
-    "Repeat for the recommended amount of repetitions."
+    "Tieni un bilanciere con una presa prona (palmi rivolti verso il basso) leggermente più stretta della larghezza delle spalle.",
+    "Sdraiati su una panca inclinata impostata a un angolo compreso tra 45 e 75 gradi.",
+    "Porta il bilanciere sopra la testa con le braccia estese e i gomiti vicini al corpo. Le braccia devono essere allineate con il torso sopra la testa. Questa sarà la tua posizione di partenza.",
+    "Ora abbassa il bilanciere in un movimento semicircolare dietro la testa fino a quando gli avambracci toccano i bicipiti. Inspira mentre esegui questo movimento. Suggerimento: mantieni i tuoi avambracci fermi e vicini alla testa in ogni momento. Solo gli avambracci devono muoversi.",
+    "Torna alla posizione di partenza mentre espiri e contrai i tricipiti. Mantieni la contrazione per un secondo.",
+    "Ripeti per il numero raccomandato di ripetizioni."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "One-Arm Long Bar Row",
+  "name": "Rematore con Bilanciere a Un Braccio",
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -12,11 +12,11 @@
     "lats"
   ],
   "instructions": [
-    "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
-    "Stand next to the bar, and take a grip with one hand close to the collar. Using your hips and legs, rise to a standing position.",
-    "Assume a bent-knee stance with your hips back and your chest up. Your arm should be extended. This will be your starting position.",
-    "Pull the weight to your side by retracting the shoulder and flexing the elbow. Do not jerk the weight or cheat during the movement.",
-    "After a brief pause, return to the starting position."
+    "Posiziona un bilanciere in un landmine o in un angolo per impedirne il movimento. Carica un peso adeguato sul tuo lato.",
+    "Stai in piedi accanto al bilanciere e afferra con una mano vicino al collare. Usando i fianchi e le gambe, sollevati in posizione eretta.",
+    "Assumi una posizione con le ginocchia piegate, con i fianchi indietro e il petto in alto. Il tuo braccio dovrebbe essere esteso. Questa sarà la tua posizione di partenza.",
+    "Tira il peso verso il tuo lato retrattando la spalla e flettendo il gomito. Non scuotere il peso o barare durante il movimento.",
+    "Dopo una breve pausa, torna alla posizione di partenza."
   ],
   "category": "strength",
   "images": [

@@ -1,5 +1,5 @@
 {
-  "name": "Downward Facing Balance",
+  "name": "Equilibrio in Posizione Inversa",
   "force": "static",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -12,8 +12,8 @@
     "hamstrings"
   ],
   "instructions": [
-    "Lie facedown on top of an exercise ball.",
-    "While resting on your stomach on the ball, walk your hands forward along the floor and lift your legs, extending your elbows and knees."
+    "Sdraiati a pancia in giù sopra una palla da esercizio.",
+    "Mentre sei sdraiato sullo stomaco sulla palla, cammina in avanti con le mani lungo il pavimento e solleva le gambe, estendendo i gomiti e le ginocchia."
   ],
   "category": "strength",
   "images": [

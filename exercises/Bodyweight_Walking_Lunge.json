@@ -1,5 +1,5 @@
 {
-  "name": "Bodyweight Walking Lunge",
+  "name": "Affondo in Camminata a Corpo Libero",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,10 +13,10 @@
     "hamstrings"
   ],
   "instructions": [
-    "Begin standing with your feet shoulder width apart and your hands on your hips.",
-    "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
-    "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
-    "Step forward with your rear foot, repeating the lunge on the opposite leg."
+    "Inizia in piedi con i piedi alla larghezza delle spalle e le mani sui fianchi.",
+    "Fai un passo in avanti con una gamba, flettendo le ginocchia per abbassare i fianchi. Scendi finché il ginocchio posteriore non tocca quasi il terreno. La tua postura deve rimanere eretta e il ginocchio anteriore deve rimanere sopra il piede anteriore.",
+    "Spingi attraverso il tallone del piede in avanti ed estendi entrambe le ginocchia per sollevarti di nuovo.",
+    "Fai un passo in avanti con il piede posteriore, ripetendo l'affondo con l'altra gamba."
   ],
   "category": "strength",
   "images": [

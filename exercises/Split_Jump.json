@@ -1,5 +1,5 @@
 {
-  "name": "Split Jump",
+  "name": "Salto con Split",
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -13,11 +13,11 @@
     "hamstrings"
   ],
   "instructions": [
-    "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
-    "Ensure that the front knee is over the midline of the foot.",
-    "Extending through both legs, jump as high as possible, swinging your arms to gain lift.",
-    "As you jump, bring your feet together, and move them back to their initial positions as you land.",
-    "Absorb the impact by reverting back to the starting position."
+    "Assumi una posizione di affondo con un piede in avanti e il ginocchio piegato, mentre il ginocchio posteriore è quasi a contatto con il terreno.",
+    "Assicurati che il ginocchio anteriore sia sopra la linea mediana del piede.",
+    "Estendendo entrambe le gambe, salta il più in alto possibile, muovendo le braccia per guadagnare slancio.",
+    "Mentre salti, porta i piedi insieme e riportali nelle posizioni iniziali mentre atterri.",
+    "Assorbi l'impatto tornando alla posizione di partenza."
   ],
   "category": "plyometrics",
   "images": [

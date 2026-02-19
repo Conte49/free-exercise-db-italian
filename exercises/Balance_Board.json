@@ -1,5 +1,5 @@
 {
-  "name": "Balance Board",
+  "name": "Piastra di Equilibrio",
   "force": null,
   "level": "beginner",
   "mechanic": "compound",
@@ -12,9 +12,9 @@
     "quadriceps"
   ],
   "instructions": [
-    "Place a balance board in front of you.",
-    "Stand up on it and try to balance yourself.",
-    "Hold the balance for as long as desired."
+    "Posiziona una piastra di equilibrio di fronte a te.",
+    "Stai in piedi su di essa e cerca di mantenere l'equilibrio.",
+    "Mantieni l'equilibrio per il tempo desiderato."
   ],
   "category": "strength",
   "images": [
